@@ -6,7 +6,7 @@
 
 ## 软件工程并发编程概念的面试准备
 
-*大家好*😊*，今天我将分享一些常见的并发编程相关的面试问题，作为我的软件工程师面试准备系列的一部分。这是该系列的第五部分。如果错过了前几期，可以在这里阅读第一部分*[](/geekculture/interview-preparation-kid-for-software-engineer-1380f6fcbae9)**[*OOP&Java*](/javarevisited/interview-questions-on-object-oriented-programming-and-java-41b027d93ddb)*[*数据库*](https://faun.pub/interview-questions-on-database-concepts-d480defce050)*[*数据结构*](/geekculture/interview-questions-on-data-structures-417761216620) *。不再拖延，让我们进入今天的主题并发编程。*****
+*大家好*😊*，今天我将分享一些常见的并发编程相关的面试问题，作为我的软件工程师面试准备系列的一部分。这是该系列的第五部分。如果错过了前几期，可以在这里阅读第一部分*</geekculture/interview-preparation-kid-for-software-engineer-1380f6fcbae9>**[*OOP&Java*](/javarevisited/interview-questions-on-object-oriented-programming-and-java-41b027d93ddb)*[*数据库*](https://faun.pub/interview-questions-on-database-concepts-d480defce050)*[*数据结构*](/geekculture/interview-questions-on-data-structures-417761216620) *。不再拖延，让我们进入今天的主题并发编程。*****
 
 **[![](img/4353c5fc4a3923252f43a78a44ecfed2.png)](https://www.java67.com/2022/03/top-8-free-and-paid-java-multithreading.html)
 

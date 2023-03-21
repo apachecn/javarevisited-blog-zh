@@ -79,11 +79,7 @@ Coursera 还为你提供认证，你可以在你的 LinkedIn 个人资料中展�
 
 **顺便说一句，如果你喜欢 CodeCademy 平台，那么你也可以加入 CodeCademy PRO ，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 CodeCademy 的内容、课程、测验和项目。你可以用这个来赚，练习&**
 
-**[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:Pro | Codecademy
-
-### 文件锁图标通过独家课程、测验和额外练习内容了解更多信息。体验图标构建真实…
-
-bit.ly](https://bit.ly/codecademypro)** 
+**<https://bit.ly/codecademypro> ** 
 
 ## **4.JavaScript 30**
 
@@ -97,11 +93,7 @@ bit.ly](https://bit.ly/codecademypro)**
 
 **没有框架×没有编译器×没有库×没有样板文件**
 
-**[](https://javascript30.com/) [## JavaScript 30
-
-### 用香草 JS 在 30 天内用 30 个教程构建 30 个东西
-
-javascript30.com](https://javascript30.com/)** 
+**<https://javascript30.com/> ** 
 
 ## **5.Pluralsight JavaScript 课程**
 
@@ -171,11 +163,7 @@ javascript30.com](https://javascript30.com/)**
 
 **它有一些为编码面试做准备的最好的课程，像[寻找编码面试:编码问题的模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)和[寻找系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)。**
 
-**[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 系统设计面试
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+**<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 它还有很多像这样的免费资源 [**免费 JavaScript 教程**](https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224) 学习必备技术。
 
@@ -187,11 +175,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 **以下是免费参加本课程(教程)的链接**:
 
-[](https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224) [## JavaScript 简介:第一步
-
-### 这是给完全初学者的 JavaScript 介绍。它将提供语言的基础。主题…
-
-www.educative.io](https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224>  
 
 ## 11.零到掌握学院(ZTM)
 
@@ -209,11 +193,7 @@ ZTM 有一些最全面和最新的 JavaScript 和 web 开发培训材料，但�
 
 你所需要的是一个 ZTM 会员资格来观看这个课程，每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。你也可以使用优惠券代码 *FRIENDS10 在这门课程或你选择的任何订阅上获得 10%的折扣*。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上就是 2023 年**免费学习 JavaScript 的最佳地点**。根据 StackOverFlow 的调查，JavaScript 是学习编码的最佳和最受欢迎的编程语言，如果你想成为一名程序员，你应该学习 JavaScript 来编码，这些平台和课程是很好的起点。
 
@@ -240,16 +220,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 ## 你可能喜欢的其他文章
 
-[](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [## 面向初学者和有经验的 Web 开发人员的 10 大有价值的书籍和课程——最好的
-
-### 大家好，如果你对学习 Angular 框架感兴趣，这是最流行的 JavaScript 框架之一…
-
-medium.com](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [## 我最喜欢的初学者和有经验的开发人员的角度课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-medium.com](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4) [## 2023 年要学习的 10 个 JavaScript 框架和库——最好的
-
-### 2023 年前端开发者能学到的最好的 JavaScript 框架，有相关课程的链接。
-
-medium.com](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)**
+</javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c>  </javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc>  </javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4> **

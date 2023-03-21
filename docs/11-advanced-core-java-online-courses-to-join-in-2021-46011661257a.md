@@ -18,11 +18,7 @@ image_credit — [Java 应用性能和内存管理](https://click.linksynergy.co
 
 如果你是 Java 新手，那么最好从 Udemy 上的 Tim Buchalaka 的 [**完整 Java 大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) 这样的综合 Java 课程开始，而不是加入这些高级课程。这将以更加结构化的方式为您提供 Java 开发人员需要了解的所有基础知识。**
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F>  
 
 # 深入学习核心 Java 的 10 门最佳课程
 
@@ -88,11 +84,7 @@ Java 8 带来了许多新的模式和特性来构建高效和干净的 Java 应�
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.面向 Java 开发者的 Docker
 
@@ -156,11 +148,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，如果你发现教育平台和他们的搜索课程，如搜索[系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，搜索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，提供每月 18 美元的 100 多门课程(现在打五折)。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 11.[完整的 Java MasterClass](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F)
 
@@ -194,8 +182,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你是 Java 世界的新手，并且正在寻找一些免费的在线课程来开始学习 Java 编程语言，那么你也可以看看这个为初学者准备的 [**最佳免费 Java 课程的列表**](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) 来开始你的旅程。
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

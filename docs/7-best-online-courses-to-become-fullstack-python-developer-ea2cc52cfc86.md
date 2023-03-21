@@ -26,11 +26,7 @@ image_credit —全栈 React、Python 和 GraphQL Udemy
 
 顺便说一句，如果你是 Python 的新手，那么我也建议你首先通过一个全面的 Python 课程来学习基础知识。如果你需要推荐，我建议你参加 ZTM 学院的 Andrei Negaoie 的 [**完全 Python 开发者 2023:零到精通课程**](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn) ，它不仅涵盖 Python 基础知识，还教你用 Python 进行 web 开发。
 
-[](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn) [## 学习 Python。获得聘用| 2023 年完成 Python 开发:零到精通
-
-### 成为一名专业的 Python 开发人员并被录用,“学习面向对象编程”“构建 12 个以上的真实世界……
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn>  
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
@@ -88,11 +84,7 @@ Python 有许多框架可用于全栈 web 开发，其中最容易使用的框�
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能进入这门课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。这是一项很好的投资，因为你将获得 7000 多门关于最新技术的在线课程，但如果你愿意，你也可以参加他们的 [10 天免费试用](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来免费学习这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[使用谷歌云平台的 Python 全栈 Web 开发](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevelop-a-social-web-party-application-with-python%2F)
 
@@ -182,8 +174,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 如果你热衷于学习使用 Python 进行全栈开发，但又在寻找免费的在线培训课程来学习 Django、Flask 和其他 Python web 开发框架，那么我建议你从 Udemy 上的— [**Django for 初学者(免费课程)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintrodjango%2F) 课程开始。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-web-development-bootcamp%2F) [## React 和 Python 的全栈 Web 开发训练营
-
-### 这是 React 和 Python Flask 全栈 Web 开发训练营。这是一门实践课程，你将从…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-web-development-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-web-development-bootcamp%2F> 

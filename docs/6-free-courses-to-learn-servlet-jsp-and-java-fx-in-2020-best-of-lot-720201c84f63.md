@@ -24,11 +24,7 @@ Servlet 主要用作使用 MVC 设计模式创建的 web 应用程序中的控�
 
 顺便说一句，如果你可以花几块钱学习一些有用的东西，如 Servlet 和 JSP，那么你也可以查看一下 [**JSP、Servlet 和初学者 JDBC:在 Udemy 上构建一个数据库应用**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) 。Java web 开发人员学习 Servlet 和 JSP 的一门很好的实践课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) [## 面向初学者的 JSP、Servlets 和 JDBC:构建数据库应用程序
-
-### 加入已经注册的 22，000 多名学生！超过 5000+评论！(对任何 JSP/Servlet 课程的最多评论…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F>  
 
 # 面向初学者的五大免费 Servlet、JSP、JDBC 和 Java FX 在线课程
 
@@ -135,8 +131,4 @@ Bushan Sirgur 创建了一个速成班，介绍如何使用 Spring MVC 和 Mybat
 
 > **p . s .**——如果你能花几块钱学习一些有用的东西，比如 Servlet 和 JSP，那么你也可以看看 [**JSP、Servlet 和面向初学者的 JDBC:在 Udemy 上构建一个数据库应用**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) 。Java web 开发人员学习 Servlet 和 JSP 的一门很好的实践课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) [## 面向初学者的 JSP、Servlets 和 JDBC:构建数据库应用程序
-
-### 加入已经注册的 22，000 多名学生！超过 5000+评论！(对任何 JSP/Servlet 课程的最多评论…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F> 

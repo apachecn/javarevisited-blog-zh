@@ -16,11 +16,7 @@
 
 顺便说一句，如果你赶时间，看不完整篇文章，就从 Udemy 上的 [**完全 Web Developer 2023:零到精通**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 作者 [Andrei Neagoie](https://medium.com/u/942670ffec21?source=post_page-----d608a6b63232--------------------------------) 。最好学的课程是网页开发。如果你有时间查看和复习一些最好的课程，让我们开始吧。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) [## 2023 年的完全网络开发者:零到精通
-
-### 刚刚更新为 2023 年！通过学习最受欢迎的技能，在 2023 年成为 Fullstack Web 开发人员！这是其中之一…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F>  
 
 # 2023 年初学者学习 Web 开发的 10 大课程
 
@@ -228,7 +224,7 @@ JavaScript 可能是任何 web 开发人员最重要的东西，这个在线课�
 [10 个框架全栈软件工程师要学的](https://javarevisited.blogspot.com/2019/01/10-web-development-frameworks-fullstack-developer-should-learn.html)
 [前 5 门课程要学 Angular 2023 年](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html)
 [前 5 门课程要学 React](https://javarevisited.blogspot.com/2018/08/top-5-react-js-and-redux-courses-to-learn-online.html)
-[](https://javarevisited.blogspot.com/2018/06/top-10-courses-to-learn-javascript-in.html)
+<https://javarevisited.blogspot.com/2018/06/top-10-courses-to-learn-javascript-in.html>
 [2023 年 DevOps 开发者路线图](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html)
 [2023 年学习 Python 的 5 大课程](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html)
 [50+面向程序员的数据结构与算法课程](http://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-programmers.html)
@@ -236,20 +232,12 @@ JavaScript 可能是任何 web 开发人员最重要的东西，这个在线课�
 
 感谢您阅读本文。如果你喜欢这些在线网络开发课程，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-如果你喜欢听和看而不是阅读，那么你也可以在 Youtube 频道上观看这篇文章的视频，作为 2023 年成为全栈开发人员的最佳课程[](https://www.youtube.com/watch?v=z7z8pqwYjvc)****。**如果你还没有**订阅**我们的频道，请务必订阅，以便获得下一个视频的通知。**
+如果你喜欢听和看而不是阅读，那么你也可以在 Youtube 频道上观看这篇文章的视频，作为 2023 年成为全栈开发人员的最佳课程<https://www.youtube.com/watch?v=z7z8pqwYjvc>****。**如果你还没有**订阅**我们的频道，请务必订阅，以便获得下一个视频的通知。**
 
 ****P. S.** —如果你热衷于学习网页开发，但正在寻找一些免费资源开始，你也可以查看 [**网页开发人员网页设计:创建漂亮的网站！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)Udemy 上的课程。它是由 Jonas Schmedtmann 创建的，已经有超过 49 万名学生加入了这个免费课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) [## 免费网页设计教程-网页开发人员的网页设计:建立美丽的网站！
-
-### 重要提示:这门课的内容也包含在我的另一门关于网页设计和开发的课程中
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F>  
 
 **P. P. S —** 快速更新，**[**plur sight 免费周末**](/javarevisited/pluralsight-free-weekend-2020-3e0ff26e7a31) 就在这里，你可以在这个周末免费访问所有 7000+plur sight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:**
 
-**[](/javarevisited/pluralsight-free-weekend-2020-3e0ff26e7a31) [## 2023 年免费周末观光
-
-### 所有 Pluralsight 7000+在线课程、40+互动课程和 20+项目仅在本周末免费(14 日至…
-
-medium.com](/javarevisited/pluralsight-free-weekend-2020-3e0ff26e7a31)****
+**</javarevisited/pluralsight-free-weekend-2020-3e0ff26e7a31> ****

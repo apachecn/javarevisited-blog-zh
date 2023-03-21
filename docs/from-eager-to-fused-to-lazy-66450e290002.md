@@ -52,11 +52,7 @@ Eclipse 集合中迭代方法的演变
 
 在 eager 和 fused API 之后，我们将 lazy API 添加到 Eclipse 集合中。Eclipse 集合中的 lazy API 可以通过调用`asLazy`获得。惰性 API 将延迟执行，直到调用一个终端操作(如`forEach`或`toList`)。Eclipse 集合中的惰性 API 返回一个名为`LazyIterable`的`Iterable`类型。与 Java 8 中增加的`Stream`不同，`LazyIterable`可以重用。下面的博客有更多关于`LazyIterable`的内容，以及它是如何永不枯竭的。
 
-[](/@donraab/lazy-and-inexhaustible-f41ffda857dc) [## 懒而不尽
-
-### 懒惰是一种美德。有时你希望它是可重复的。
-
-medium.com](/@donraab/lazy-and-inexhaustible-f41ffda857dc) 
+</@donraab/lazy-and-inexhaustible-f41ffda857dc>  
 
 惰性 API 的好处是不会创建中间集合。对`asLazy`、`select`和`collect`的调用都创建了`LazyIterable`实例，这些实例什么都不做。对`toList`的最后一次调用强制执行并创建目标列表。
 

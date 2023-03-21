@@ -52,16 +52,4 @@
 
 ## 您可能喜欢的其他 Hibernate 和 JPA 文章
 
-[](/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b) [## 2021 年面向 Java 开发者的 5 门最佳 Hibernate 和 JPA 在线课程
-
-### Hibernate 是 Java 开发人员的一项关键技能，这些是在线学习 Hibernate 的最佳课程。
-
-medium.com](/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b) [](/javarevisited/top-5-books-to-learn-hibernate-for-java-developers-b2cb4b16ccd6) [## 2021 年学习 Hibernate 和 JPA 的前 5 本书
-
-### Hibernate 是最流行的开源 ORM(对象关系映射)框架之一，它现在已经成为一个…
-
-medium.com](/javarevisited/top-5-books-to-learn-hibernate-for-java-developers-b2cb4b16ccd6) [](https://www.java67.com/2016/02/top-20-hibernate-interview-questions.html) [## 面向 Java 程序员的 20 大 Hibernate 面试问题及答案
-
-### Hibernate 是 Java 世界中最流行的持久性框架之一。Hibernate 提供了一个对象到关系…
-
-www.java67.com](https://www.java67.com/2016/02/top-20-hibernate-interview-questions.html)
+</javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b>  </javarevisited/top-5-books-to-learn-hibernate-for-java-developers-b2cb4b16ccd6>  <https://www.java67.com/2016/02/top-20-hibernate-interview-questions.html> 

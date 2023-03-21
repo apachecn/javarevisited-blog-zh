@@ -26,11 +26,7 @@
 
 您可能会发现它们很有用，但是如果您是更高级的人员，并且正在寻找成为解决方案架构师的技巧，您可能会喜欢看 Mark Farragher 的 [**如何成为杰出的解决方案架构师**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) [## 成为解决方案架构师:架构课程
-
-### 您是 IT 项目团队中的开发人员、首席开发人员还是解决方案架构师？你想学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F>  
 
 # 2023 年成为更好的程序员或软件开发员的 10 个技巧
 
@@ -48,15 +44,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 你也可以看看 Maximillian Schwarzmuller 为 JavaScript 开发人员开设的 [Clean Code](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F) 课程，以及为 Java 开发人员开设的[**Clean Code with Java:Learn Simple Design，Refactoring & TDD**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) 课程，了解如何编写经得起时间考验的高质量代码。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F) [## 干净的代码
-
-### 作为一名开发人员，您应该能够编写有效的代码——当然！不幸的是，很多开发人员写得不好…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F) [](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) [## 用 Java 清理代码:学习简单的设计、重构和 TDD
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F>  <https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F>  
 
 ## 2.阅读书籍
 
@@ -92,11 +80,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 如果你需要资源，我强烈推荐教育类的 [**探索系统设计面试**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 课程。这门互动课程及其关于高级设计问题的第二部分可以教你很多关于设计和优化系统的好东西。
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 ## 4.开源贡献
 
@@ -104,15 +88,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 由于大部分的讨论都发生在优秀的程序员之间，倾听他们，理解问题以及他们的方法、解决方案和观点，会自动养成良好的编程习惯。要充分利用它，不要只是被动地坐着，问问题，提出你的观点，也要尊重他人。如果您想知道如何从开源贡献开始，那么这里有一些来自 Medium 的关于开源贡献的好文章
 
-[](/bigcommerce-developer-blog/making-your-first-contribution-to-open-source-5d983dcb910e) [## 为开源做出你的第一份贡献
-
-### 我们将讨论开源意味着什么，你可能想参与的原因，以及如何使你的第一个…
-
-medium.com](/bigcommerce-developer-blog/making-your-first-contribution-to-open-source-5d983dcb910e) [](https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8) [## 如何开始为开源项目做贡献
-
-### 开始往往是成功的一半
-
-towardsdatascience.com](https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8) 
+</bigcommerce-developer-blog/making-your-first-contribution-to-open-source-5d983dcb910e>  <https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8>  
 
 ## 5.阅读好的博客
 
@@ -122,19 +98,7 @@ towardsdatascience.com](https://towardsdatascience.com/how-to-start-contributing
 
 很多时候，我从一篇小博文中描述的 Java 的一个真正为人熟知的部分，看到了一些细微或遗漏的东西。说到阅读好的开发文章，我更喜欢去像 [Dev.to](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio) 、 [FreeCodecamp](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/?gi=a41bf34d0c99) 和 [Medium](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 这样的网站，尤其是一些专注于开发的出版物。
 
-[](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 2023 年开发运维路线图
-
-### 2023 年成为 DevOps 工程师的图解指南及课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) [## Nikto Web 服务器扫描简介
-
-### 网站是世界上几乎每个企业或组织的重要组成部分。从你附近的花店到环球…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) [](https://javarevisited.blogspot.com/) [## Java 访问
-
-### 一个关于 Java，编程，算法，数据结构，SQL，Linux，数据库，面试问题，以及我个人…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/) 
+</hackernoon/the-2018-devops-roadmap-31588d8670cb>  <https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/>  <https://javarevisited.blogspot.com/>  
 
 ## 6.读取代码
 
@@ -210,8 +174,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/)
 
 **P.S.S.** —如果您是一名拥有 5 到 10 年经验的资深程序员，并且正在寻找成为解决方案架构师或在职业生涯中从技术方面向前迈进的技巧，那么您可能想看看 Udemy 上 Mark Farragher 的 [**如何成为一名杰出的解决方案架构师**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 课程。学习成为解决方案架构师所需的所有软硬技能的最佳课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) [## 成为解决方案架构师:架构课程
-
-### 您是 IT 项目团队中的开发人员、首席开发人员还是解决方案架构师？你想学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F> 

@@ -108,8 +108,4 @@
 
 **P. S.** —如果你认真学习区块链技术并寻找最好的区块链认证开始，那么 1011 区块链学院的 [**认证企业区块链专业人士**](https://www.shareasale.com/r.cfm?b=1713885&u=880419&m=105464&urllink=&afftrack=) **是**最好的开始资源。我的许多学生和读者都选了这门课，反馈非常好。
 
-[](https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html) [## 2023 年新手在线学习的 6 门最佳区块链认证课程| Coursera
-
-### 大家好，如果你不是生活在岩石下，那么你知道区块链正迅速成为领先的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html)
+<https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html> 

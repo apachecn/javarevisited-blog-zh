@@ -18,7 +18,7 @@ image_credit — udemy
 
 **如果您不熟悉云的工作方式以及基本的云概念和术语，如 IaaS、PaaS、SaaS、计算、存储、网络等，那么您就有落后的风险。**
 
-**现在，每个 It 专业人员都必须学习云计算，这对于全栈开发人员[](https://javarevisited.blogspot.com/2020/04/top-5-courses-to-become-full-stack-java-developer-with-Angular-and-Reactjs.html#axzz6Nq9yk7Sc)**[**系统管理员**](/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b)[**devo PS 工程师**](https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html#axzz6cRYpiwdu) 以及其他与基础设施和代码密切相关的人员来说更为重要，但对于项目经理、解决方案架构师、业务分析和销售人员来说同样重要，这就是这些免费云计算课程将帮助您的地方。****
+**现在，每个 It 专业人员都必须学习云计算，这对于全栈开发人员<https://javarevisited.blogspot.com/2020/04/top-5-courses-to-become-full-stack-java-developer-with-Angular-and-Reactjs.html#axzz6Nq9yk7Sc>**[**系统管理员**](/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b)[**devo PS 工程师**](https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html#axzz6cRYpiwdu) 以及其他与基础设施和代码密切相关的人员来说更为重要，但对于项目经理、解决方案架构师、业务分析和销售人员来说同样重要，这就是这些免费云计算课程将帮助您的地方。****
 
 ****如果你现在还不确定*什么是云计算*那么就把它想象成亚马逊或微软的电脑，在那里你运行你的应用程序。它是您租用来运行服务的提供商的数据中心。****
 
@@ -28,11 +28,7 @@ image_credit — udemy
 
 ****顺便说一句，如果你是一名 Java 开发人员，想从 Java 开发人员的角度了解更多关于分布式系统和云计算的知识，那么我也推荐你加入 Udemy 上 Michael Pogrebinsky 的 [**分布式系统&带 Java 的云计算**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdistributed-systems-cloud-computing-with-java%2F) 课程。这不是免费的，但你可以在优购上花 9.9 美元买到。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdistributed-systems-cloud-computing-with-java%2F) [## 使用 Java 的分布式系统和云计算
-
-### Michael Pogrebinsky 是一名经验丰富的软件工程师和软件架构师。在他的职业生涯中，他…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdistributed-systems-cloud-computing-with-java%2F) 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdistributed-systems-cloud-computing-with-java%2F>  
 
 # 2023 年学习云计算的 10 门免费在线课程(AWS、GCP 和 Azure)
 
@@ -66,11 +62,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****但是为什么当参加审计专业的免费课程时，你将不会得到任何证书。如果您参加本课程是为了获得 Coursera 证书，那么您需要注册专业化或参加订阅计划，如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 提供 5000 多个 Coursera 课程、项目和专业证书的无限制访问。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ****3. [GCP —谷歌云平台概念](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F)【Udemy 免费课程】****
 
@@ -119,11 +111,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****顺便说一下，你需要一个 [Pluralsight 会员](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 顺便说一句，这个月所有的 plur sight 课程都是免费的，因为他们正在进行免费的四月优惠，这意味着最好的时间来检查 plur sight 课程。**** 
 
@@ -257,8 +245,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言** —如果你真的想深入学习云计算，并且不介意花点钱，那么我也建议你参加由 Neal Davis 在 Udemy 上开设的[**AWS 云计算简介**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing-on-amazon-aws-for-beginners%2F) **课程**。这是一门综合性课程，有 8 个小时的内容来学习云计算基础知识。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing-on-amazon-aws-for-beginners%2F) [## 面向初学者的亚马逊 AWS 云计算介绍
-
-### 亚马逊 AWS 上的云计算介绍课程将带您从 AWS 基础知识到成为合格的 AWS 云…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing-on-amazon-aws-for-beginners%2F)****
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing-on-amazon-aws-for-beginners%2F> ****

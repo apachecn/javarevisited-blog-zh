@@ -66,7 +66,7 @@
 # 关于 jfx-central.com 的新内容
 
 *   真实世界 App: [JabRef](https://www.jfx-central.com/real_world/jabref) 是一款开源、跨平台的引用和参考管理工具，参见[jabref.org](https://www.jabref.org/)。
-*   工具:[](https://twitter.com/HydraulicCorp)**，是 jpackage 工具的替代/替换，但支持(后台)更新、签名、公证。**
+*   工具:<https://twitter.com/HydraulicCorp>**，是 jpackage 工具的替代/替换，但支持(后台)更新、签名、公证。**
 *   **另一库由 [**佩德罗·杜克**](https://twitter.com/P_Duke) : [FXParallax](https://www.jfx-central.com/libraries/fxparallax) 。这个框架增加了控件来给 JavaFX 应用程序添加视差效果，这种效果可以给使用它的地方增加深度感(像 3D 一样)。**
 *   **即将推出…[**Florian kir Maier**](https://twitter.com/FlorianKirmaier)正在为 jfx-central 网站做宣传，希望它能很快变得更快。由于 [jpro.one](https://www.jpro.one/) 的架构，在 ScrollPane 中滚动需要服务器调用(因为 JavaFX 应用程序驻留在服务器上)。一个自定义皮肤，应该带一个解决方案…**
 *   **人物: [**扬·加森**](https://twitter.com/jan_gassen) 的作品列在[这一页](https://www.jfx-central.com/people/j.gassen)。**

@@ -58,11 +58,7 @@
 
 以下是参加课程的链接:
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS 15 和 Swift 5 -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F>  
 
 # **2。iOS 15 & Swift 5:从初学者到付费专业**
 
@@ -151,26 +147,10 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 **再出这 5 个，如果要选一个，就加入第一个[**完整的 iOS App 开发 Bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 简直是 2023 年最好的 iOS 开发者课程。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fios-12-app-development-bootcamp%2F) [## iOS 和 Swift -完整的 iOS 应用程序开发训练营
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fios-12-app-development-bootcamp%2F>  
 
-### 请注意:这是 2018 版的课程。是给不能更新到 iOS 15 或 macOS Catalina 的学生用的…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fios-12-app-development-bootcamp%2F) 
-
-> **p . s .**——如果你正在寻找免费的在线课程来学习 iOS 和 Swift 编程语言，那么你也可以看看我为程序员准备的免费 iOS 和 Swift 课程清单[](https://javarevisited.blogspot.com/2018/11/5-free-ios-app-development-courses-for.html)
+> **p . s .**——如果你正在寻找免费的在线课程来学习 iOS 和 Swift 编程语言，那么你也可以看看我为程序员准备的免费 iOS 和 Swift 课程清单<https://javarevisited.blogspot.com/2018/11/5-free-ios-app-development-courses-for.html>
 
 ## **您可能喜欢的其他媒体文章:**
 
-**[](/javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78) [## 我最喜欢的学习 Flutter 移动应用程序开发的课程——最好的和免费的
-
-### 2023 年学习 Flutter 的最佳和少数免费课程的精选列表
-
-medium.com](/javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78) [](/hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4) [## 我最喜欢的 Java 程序员学习 Android 的在线培训课程——最好的
-
-### Java 非常幸运，Android 把它作为编程语言。这为…打开了一扇机会之门
-
-medium.com](/hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4) [](/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46) [## 面向移动应用开发者的五大 React-Native 课程
-
-### 如果你是一名网络开发人员，想进入移动应用程序开发的广阔世界，但又不想花费…
-
-medium.com](/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)****
+**</javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78>  </hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4>  </hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46> ****

@@ -22,16 +22,4 @@
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [## 如何在 2022 年成为一名 Java 程序员？您需要的所有工具、技能、框架和库
-
-### Java 开发人员可以在 2022 年学习的 22 项基本技术技能，以进一步改善他们的形象，并成为…
-
-medium.com](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2022 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2)
+</javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491>  </javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2> 

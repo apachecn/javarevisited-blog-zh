@@ -24,11 +24,7 @@
 
 如果需要资源，我推荐 Udemy 上 Stephen Grider 的[**React Native——实用指南【2023 版】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) 课程。这是 2023 年学习 JavaScript 和 React Native 应用程序开发的综合和最新资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) [## React Native 实用指南:构建 iOS/Android 应用
-
-### 本课程已完全更新，现在不仅涵盖 React Native 的最新版本，还包括…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F>  
 
 # 2023 年应用程序开发的 5 种最佳编程语言
 
@@ -48,11 +44,7 @@ React Native 是一个流行的 JavaScript 框架，允许您为 Android 和 iOS
 
 如果你选择了 JavaScirpt，我也推荐你学习 React Native 进行 app 开发，如果你需要一门课程那么我推荐 Udemy 上 Stephen Grider 的[**React Native——实用指南【2023 版】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) [## React Native 实用指南:构建 iOS/Android 应用
-
-### 本课程已完全更新，现在不仅涵盖 React Native 的最新版本，还包括…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F>  
 
 而且，如果你不介意从一些免费资源中学习，那么你也可以看看这个为初学者提供的[免费 JavaScript 课程列表](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32)。
 
@@ -163,8 +155,4 @@ Dart 是 Google 在 2011 年开发的一种开源、面向对象的通用编程�
 
 **p . s .**——如果你是一个完全的初学者，并想在 2023 年成为一名应用程序开发人员，那么我强烈建议你加入 Udemy 上由 Stephen Grider 开设的[**React Native——实用指南【2023 版】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) 课程。这是 2023 年学习 JavaScript 和 React Native 应用程序开发的综合和最新资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F) [## React Native 实用指南:构建 iOS/Android 应用
-
-### 本课程已完全更新，现在不仅涵盖 React Native 的最新版本，还包括…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-native-the-practical-guide%2F> 

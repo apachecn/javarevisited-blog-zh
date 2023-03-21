@@ -115,11 +115,7 @@
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。您还可以使用优惠券代码 FRIENDS10 获得本课程或您选择的任何订阅的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 6.[软件设计和架构专业化课程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture)
 
@@ -182,11 +178,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 另一方面，如果你喜欢 Educative 这个平台，你也可以购买订阅，每月只需 17 美元 **(** [**五折**](https://www.educative.io/subscription?affiliate_id=5073518643380224) **)** ，我有一个，强烈推荐你去获得。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### Educative 提供编程和编码面试准备课程，涵盖几乎每一个框架，语言，和…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 9[edX 的数据结构和软件设计](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fdata-structures-and-software-design%5D%5D)
 
@@ -239,11 +231,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 12.[系统设计:Whatsapp 或微信之类的信使服务——面试问题](https://www.youtube.com/watch?v=5m0L0k8ZtEs)
 
@@ -353,11 +341,7 @@ Java 开发人员的一个问题是，他们知道如何编码，但是他们不
 
 而且，如果你找到了教育平台和他们的探索课程，比如探索系统设计面试，然后考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 250 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于软件设计和架构的**最佳学习课程**。正如我所说的，在这些技能上投入时间和精力对你的职业生涯和成为一名更好的软件开发人员大有帮助。
 
@@ -383,8 +367,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **p . s .**——如果你想学习面向对象编程和设计，那么你也可以看看这个 [**免费 OOP 课程列表**](https://www.java67.com/2018/02/5-free-object-oriented-programming-online-courses.html) 来建立你的基础，填补你理解上的空白。
 
-[](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) [## 面向程序员的 5 门免费面向对象编程在线课程
-
-### 成为 DevOps 工程师的图解指南，包含相关课程的链接
-
-medium.com](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)
+</swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73> 

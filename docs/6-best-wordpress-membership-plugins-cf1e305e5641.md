@@ -249,8 +249,4 @@ JetEngine 会员功能允许您创建四种类型的网站:
 
 **还想吃吗？**
 
-**[](/javarevisited/5-best-wordpress-courses-for-beginners-and-experienced-website-developers-b45f7976ee40) [## 2021 年给初学者和有经验的网站开发者的 5 门最佳 WordPress 课程
-
-### 我最喜欢的在线课程从 Udemy、Pluralsight 和 Coursera 学习 WordPress 在线课程，用于网站设计…
-
-medium.com](/javarevisited/5-best-wordpress-courses-for-beginners-and-experienced-website-developers-b45f7976ee40)**
+**</javarevisited/5-best-wordpress-courses-for-beginners-and-experienced-website-developers-b45f7976ee40> **

@@ -165,8 +165,4 @@ Lambda 表达式允许我们使用 JAVA 进行函数式编程，并使我们的�
 
 所有代码都可以在这里找到:
 
-[](https://github.com/forfireonly/MediumArticlesJava/blob/master/src/com/company/Lambda.java) [## MediumArticlesJava/lambda . Java at master for fire only/MediumArticlesJava
-
-### 在 GitHub 上创建一个帐户，为 forfireonly/MediumArticlesJava 开发做贡献。
-
-github.com](https://github.com/forfireonly/MediumArticlesJava/blob/master/src/com/company/Lambda.java)
+<https://github.com/forfireonly/MediumArticlesJava/blob/master/src/com/company/Lambda.java> 

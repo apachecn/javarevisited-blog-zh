@@ -39,31 +39,19 @@
     在 primitiveObjectMap 中增加了 injectIntoKeyValue。
     给 primitivePrimitiveMap 增加了 injectIntoKeyValue。
 
-[](https://emilie-robichaud.medium.com/injectintokeyvalue-in-eclipse-collections-8b29c9a4830d) [## Eclipse 集合中的 InjectIntoKeyValue
-
-### 在 Eclipse Collections 11.1.0 版本中，引入了一个新的 API！最近，我致力于这个问题，以实现…
-
-emilie-robichaud.medium.com](https://emilie-robichaud.medium.com/injectintokeyvalue-in-eclipse-collections-8b29c9a4830d) 
+<https://emilie-robichaud.medium.com/injectintokeyvalue-in-eclipse-collections-8b29c9a4830d>  
 
 *博客作者* [*艾米莉·罗比查*](https://medium.com/u/b220de0951d0?source=post_page-----acca6905585a--------------------------------)
 
 *   为 objectprimitivehashmapwithshashingstrategy 添加了工厂。
 
-[](/@aqsamalik70/factories-for-a-primitive-map-with-hashing-strategies-in-eclipse-collections-f4613ef2446c) [## Eclipse 集合中带有散列策略的原始映射的工厂
-
-### 在 Eclipse Collections 11.1.0 版本中，我们将有一个新的工厂，ObjectPrimitiveHashingStrategyMaps，它具有方法…
-
-medium.com](/@aqsamalik70/factories-for-a-primitive-map-with-hashing-strategies-in-eclipse-collections-f4613ef2446c) 
+</@aqsamalik70/factories-for-a-primitive-map-with-hashing-strategies-in-eclipse-collections-f4613ef2446c>  
 
 *博客作者* [*阿克萨马利克*](https://medium.com/u/aa39c8c851a0?source=post_page-----acca6905585a--------------------------------)
 
 *   向 mutableObjectPrimitiveMap 添加了 getAndPut，以检索与键关联的值(如果存在)。
 
-[](/@goldbal/ec-by-examples-getting-and-putting-values-in-the-primitive-map-api-d18cabbc67d3) [## EC 示例:在原始 Map API 中获取和放置值。
-
-### 我最近参与了 Eclipse Collections 项目，为原始 Map API 添加了一个 getAndPut 方法。
-
-medium.com](/@goldbal/ec-by-examples-getting-and-putting-values-in-the-primitive-map-api-d18cabbc67d3) 
+</@goldbal/ec-by-examples-getting-and-putting-values-in-the-primitive-map-api-d18cabbc67d3>  
 
 *博客作者* [*亚历克斯·戈德堡*](https://medium.com/u/da10a7c5350?source=post_page-----acca6905585a--------------------------------)
 
@@ -75,21 +63,13 @@ medium.com](/@goldbal/ec-by-examples-getting-and-putting-values-in-the-primitive
 
 如果你想了解 Jackson 对 Eclipse 集合的支持，可以看看下面来自 [Alex Goldberg](https://medium.com/u/da10a7c5350?source=post_page-----acca6905585a--------------------------------) 的博客和 kata。
 
-[](/@goldbal/eclipse-collections-json-serialization-support-cd3c791d2046) [## Eclipse Collections JSON 序列化支持
-
-### 如果您将 Eclipse 集合用于 REST 服务或任何其他需要 JSON 序列化的项目，您可能会…
-
-medium.com](/@goldbal/eclipse-collections-json-serialization-support-cd3c791d2046) 
+</@goldbal/eclipse-collections-json-serialization-support-cd3c791d2046>  
 
 ## 使用文本块的 Java 俳句
 
 在下面的博客中，我将展示 Eclipse Collections 解决方案与使用 Java 文本块的 Java Streams 解决方案的比较。
 
-[](/javarevisited/haiku-for-java-using-text-blocks-6b7862ccd067) [## 使用文本块的 Java 俳句
-
-### 创意写作遇到 Java 文本块和 Eclipse 集合
-
-medium.com](/javarevisited/haiku-for-java-using-text-blocks-6b7862ccd067) 
+</javarevisited/haiku-for-java-using-text-blocks-6b7862ccd067>  
 
 还有 José Paumard 为 Java YouTube 频道录制的《JEP 咖啡馆》第 9 集，它比较了基于该博客的解决方案，并展示了利用 Java 记录的好方法。
 
@@ -97,11 +77,7 @@ medium.com](/javarevisited/haiku-for-java-using-text-blocks-6b7862ccd067)
 
 有时候，小小的竞争会带来学习不同解决问题方法的最佳机会。JLDD 是一个缩写，代表时差驱动开发。我在下面的博客中描述了 JLDD，并回应了来自 [José Paumard](https://medium.com/u/18673d5e2e01?source=post_page-----acca6905585a--------------------------------) 的 JLDD 挑战，使用 Eclipse 集合解决了一个 Wordle Kata。
 
-[](/oracledevs/a-wordle-jldd-kata-challenge-b6fb1c89d8eb) [## 一个世界性的形挑战
-
-### 了解如何使用 Eclipse 集合来解决单词猜形
-
-medium.com](/oracledevs/a-wordle-jldd-kata-challenge-b6fb1c89d8eb) 
+</oracledevs/a-wordle-jldd-kata-challenge-b6fb1c89d8eb>  
 
 José为 Wordle JLDD Kata Challenge 录制了另一集 JEP 咖啡馆。看他边喝咖啡边现场编写解决方案，解释记录和模式匹配等 Java 新特性，是一件非常有趣的事情。
 
@@ -121,16 +97,4 @@ Eclipse Collections 12.0 将是该框架的一个重大变化。我们将在 Jav
 
 你可能喜欢的其他 Java 文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [## 如何在 2022 年成为一名 Java 程序员？您需要的所有工具、技能、框架和库
-
-### Java 开发人员可以在 2022 年学习的 22 项基本技术技能，以进一步改善他们的形象，并成为…
-
-medium.com](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [## 2022 年每个程序员都应该学习的前 22 个 Java 库和 API
-
-### 成为更好的 Java 开发人员可以学习的最基本的 Java 库。它包括用于日志记录的 Java 库…
-
-medium.com](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491>  </javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7> 

@@ -28,11 +28,7 @@
 
 我就不解释设立[基地 Spring Boot 申请](https://javarevisited.blogspot.com/2022/08/how-to-test-spring-boot-application.html)的来龙去脉了。完整的示例项目可以在 [***GitHub***](https://github.com/jonas-tm/spring-boot-kotlin-reactive-example) 上找到。
 
-[](https://github.com/jonas-tm/spring-boot-kotlin-reactive-example) [## GitHub-Jonas-TM/spring-boot-kot Lin-reactive-example
-
-### 在 GitHub 上创建一个帐户，为 Jonas-TM/spring-boot-kot Lin-reactive-example 开发做贡献。
-
-github.com](https://github.com/jonas-tm/spring-boot-kotlin-reactive-example) 
+<https://github.com/jonas-tm/spring-boot-kotlin-reactive-example>  
 
 Gradle 设置使用了 Spring Boot 插件和实验性的 Spring AOT 插件，该插件内部包含了 Spring Native 所需的所有东西。
 
@@ -57,7 +53,7 @@ Spring AOT 插件将自动在构建管道中运行，以创建一个特殊的 Sp
 
 这是因为代码中定义了`DataCreator`。如果仔细观察，您会发现它正在启动一个协程，用一些样本数据填充 H2 数据库。如果我们放弃使用协程，应用程序会正常启动。
 
-这是因为[科特林](https://javarevisited.blogspot.com/2018/02/5-courses-to-learn-kotlin-programming-java-android.html)协程在内部使用反射，这是 Spring AOT 不支持的。我们也不能通过一个 Spring AOT 配置注释来定义它，因为错误消息中命名的类是一个内部类。这是一个众所周知的问题，不是 Spring 独有的，而是所有 Kotlin 程序的问题。这里有一张公开的 bug 票[](https://youtrack.jetbrains.com/issue/KT-51579/PlatformImplementations-loading-is-not-compatible-with-graalvm-native-image-no-fallback)*。*
+这是因为[科特林](https://javarevisited.blogspot.com/2018/02/5-courses-to-learn-kotlin-programming-java-android.html)协程在内部使用反射，这是 Spring AOT 不支持的。我们也不能通过一个 Spring AOT 配置注释来定义它，因为错误消息中命名的类是一个内部类。这是一个众所周知的问题，不是 Spring 独有的，而是所有 Kotlin 程序的问题。这里有一张公开的 bug 票<https://youtrack.jetbrains.com/issue/KT-51579/PlatformImplementations-loading-is-not-compatible-with-graalvm-native-image-no-fallback>*。*
 
 *为了解决这个问题，我们必须手工定义一个`reflection-config.json`文件。下面的代码必须放在这里`/src/main/resources/META-INF/native-image/reflect-config.json`，由原生图像工具自动获取。*
 

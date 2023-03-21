@@ -16,11 +16,7 @@ Coursera 上的深度学习由[吴恩达](https://medium.com/u/592ce2a67248?sour
 
 我的机器学习之旅始于几年前，当时我在 Coursera 上偶然看到了吴恩达的优秀的 [**机器学习课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) ，这也恰好是 Coursera 的第一门课程，因为吴恩达也是 Coursera 和 DeepLearning.ai 的创始人之一，Deep Learning . ai 是 Coursera 最受欢迎的深度学习项目背后的公司。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) [## 深度学习
-
-### 从 deeplearning.ai 学习深度学习，如果你想打入人工智能(ai)，这个专精…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning>  
 
 除了课程之外，安德鲁还启发我学习机器学习和人工智能，从那以后，每当我阅读他在 Medium 上推出的深度学习课程时，我总是很兴奋地想了解更多关于这个领域的知识。另一个给我很大启发的故事是一个日本农民，他使用谷歌的 [TensorFlow](https://hackernoon.com/top-5-tensorflow-and-ml-courses-for-programmers-8b30111cad2c) 和[机器学习](https://dev.to/javinpaul/10-data-science-and-machine-learning-courses-for-programmers-looking-to-switch-career-57kd)在他的农场对黄瓜进行过滤和分类，显然只有他的母亲才能做到，因为她有多年的经验。
 
@@ -28,11 +24,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你是机器学习新手那就不要从这些课程开始，最好的起点还是 Coursera 上的 [**吴恩达原创的机器学习**课程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)。只有你上了那门课之后，你才应该去查这些高级课程，深入学习神经网络和深度学习。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) [## 机器学习
-
-### 4，734，144 已注册机器学习是让计算机在没有明确…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning>  
 
 # 初学者学习深度学习和神经网络的 5 门最佳课程
 
@@ -97,11 +89,7 @@ Andrew 遵循自下而上的方法，这意味着您将从最小的组件开始�
 
 如果你觉得 Coursera 的课程、专业和认证有用，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个很棒的订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书**。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[fast . ai 面向编码人员的实用深度学习](https://course.fast.ai/)
 
@@ -141,11 +129,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 210 多门课程，每月仅需 14.9 美元。它非常划算，非常适合准备编码面试
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 6.[数据科学:Python 中的深度学习](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-science-deep-learning-in-python%2F)
 
@@ -180,8 +164,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你喜欢从免费资源中学习，那么你也可以看看这个 [**深度学习必备:Udemy 上 Python V2**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F) 中的 Numpy 栈免费课程。超过 16K 名学生加入了本课程，您只需要一个 Udemy 帐户就可以注册本课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F) [## 免费 Python 教程-深度学习先决条件:Python V2 中的 Numpy 堆栈
-
-### 今天，我花了大部分时间作为一名人工智能和机器学习工程师，专注于深度…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F> 

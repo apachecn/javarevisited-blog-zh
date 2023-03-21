@@ -216,8 +216,4 @@ System.***out***.printf(**"%d : %d = %d"**, firstNumber, secondNumber, quotient)
 
 完整的代码可以在这里找到:
 
-[](https://github.com/forfireonly/MediumArticlesJava/tree/master/src) [## forfireonly/MediumArticlesJava
-
-### 在 GitHub 上创建一个帐户，为 forfireonly/MediumArticlesJava 开发做贡献。
-
-github.com](https://github.com/forfireonly/MediumArticlesJava/tree/master/src)
+<https://github.com/forfireonly/MediumArticlesJava/tree/master/src> 

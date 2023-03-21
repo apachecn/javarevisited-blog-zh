@@ -66,11 +66,7 @@ Pluralsight 上的一个很好的入门课程，学习网络基础，并为思�
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，您也可以使用他们的[**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 4. [CCNA 实验室—距离您的思科 200–125 和 200–105 考试还有 7 天](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fccna-icnd2-cisco-labs%2F)
 
@@ -122,8 +118,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你认真准备并通过思科 CCNA 认证考试，但正在寻找在线课程，那么你也可以在 Udemy 上查看 [**思科 CCNA 入门课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcisco-ccna-getting-started%2F) 。这是一个免费的课程，你只需要一个 Udemy 帐户就可以参加。基尔·马丁教授的这个 3.5 小时的免费课程非常适合刚刚开始准备思科 CCNA 考试的初学者。
 
-[](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-pass-cisco-ccna-200-301.html) [## 2023 年通过思科 CCNA 200-301 认证考试的前 5 门课程-最佳课程
-
-### 大家好，如果你正在准备思科 CCNA 认证，特别是 CCNA 200-301，并寻找最好的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-pass-cisco-ccna-200-301.html)
+<https://javarevisited.blogspot.com/2021/10/top-5-courses-to-pass-cisco-ccna-200-301.html> 

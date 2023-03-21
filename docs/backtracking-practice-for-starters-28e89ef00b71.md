@@ -88,12 +88,4 @@ N 皇后就是在 N×N 的棋盘上放置 N 个国际象棋皇后，使得没有
 
 实践中的其他编码问题。
 
-[](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45)  [## 50 大数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+</javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45>   

@@ -89,11 +89,7 @@ AWS Certified Developer-Associate 考试面向拥有一年或一年以上开发�
 
 如果您不能回答任何问题，您可以查看解释并点击 AWS 文档链接。我还建议您通过主课程再次学习您不太有信心的 AWS 服务。而且，如果你需要更多的练习，你也可以看看大卫·梅尔的这些 [AWS 开发者助理转储](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)。
 
-[](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 亚马逊 AWS 认证开发人员助理实践考试
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 转储是在真实考试中问的真实问题，由必须参加考试的考生提供。这些是众包的问题，让你对真正考试的难度水平和题型有一个大致的了解。
 
@@ -131,11 +127,7 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 它包含一些**最佳质量的 AWS 培训材料，**不仅仅是针对该考试，还包括其他 AWS 认证，如云从业者和解决方案架构师。如果你渴望今年获得这些认证，那么这个会员资格会非常有用。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是关于通过 AWS 认证开发人员考试的一些**最佳课程。正如我所说的，这是最具实践经验的 AWS 认证，你需要做大量的准备来破解它。**
 
@@ -164,8 +156,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 如果你是 AWS 新手，正在寻找免费的在线培训课程来学习亚马逊网络服务(AWS)的核心服务，如 IAM、EC2、S3、VPC、RDS、SNS etch，那么[**AWS Essentials**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F)—Linux academy 的一门*免费课程*是一个很好的开始。这是完全免费的，你需要做的就是创建一个免费的 Udemy 帐户来学习这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F) [## 免费亚马逊 AWS 教程- AWS 精要(2019)
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F> 

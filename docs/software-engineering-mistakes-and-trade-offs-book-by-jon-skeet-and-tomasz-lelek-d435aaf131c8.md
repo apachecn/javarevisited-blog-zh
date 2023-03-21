@@ -56,8 +56,4 @@ Tomasz Lelek 和 Jon Skeet 写了一本书，讲述了参与交付软件的每�
 
 总的来说，这是一门通过学习错误和权衡来学习你的[软件开发技能](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio)的伟大课程。如果你对作者有任何意见或反馈，请在这里分享。这将是高度赞赏！如果决定购买，可以使用*七五折代码:* ***jrlelek35***
 
-[](https://www.manning.com/books/software-mistakes-and-tradeoffs?a_aid=javarevisited) [## 软件错误和权衡
-
-### 通过探索常见错误和专家做出的有意权衡，优化定义您代码的决策…
-
-www.manning.com](https://www.manning.com/books/software-mistakes-and-tradeoffs?a_aid=javarevisited)
+<https://www.manning.com/books/software-mistakes-and-tradeoffs?a_aid=javarevisited> 

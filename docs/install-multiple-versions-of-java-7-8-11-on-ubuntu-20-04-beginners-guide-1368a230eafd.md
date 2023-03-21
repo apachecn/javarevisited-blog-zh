@@ -8,11 +8,7 @@
 
 在这个例子中，我将使用 Oracle JDKs。您可以从以下网站下载您最喜欢的甲骨文 JDK，
 
- [## Java SE 下载
-
-### 您的搜索没有匹配任何结果。我们建议您尝试以下方法来帮助找到您正在寻找的内容:检查…
-
-www.oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html) 
+  
 
 我个人使用的是 Java 7、8 和 11。在 java 11 中，可以直接从 Oracle 官网下载 Debian 包和，使用以下命令安装。
 

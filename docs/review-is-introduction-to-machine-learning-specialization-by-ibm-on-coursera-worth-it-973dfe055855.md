@@ -102,11 +102,7 @@ IBM 不需要介绍，它是历史最悠久、最负盛名的软件和技术公�
 
 当谈到加入这门课程时，你有两个选择，你可以单独加入这门课程，每月花费大约 39 美元进行专业化，你也可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，每月花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 结论
 
@@ -145,8 +141,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找最好的 Udemy 在线课程来学习 Python 上的数据科学，你也可以查看由基里尔·叶列缅科和他的团队**编写的 [**机器学习 A-Z 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F) 。**他们在 Udemy 上有最好的用 Python 和 R 编程的机器学习在线课程。
 
-[](/javarevisited/udemy-course-review-machine-learning-a-z-hands-on-python-and-r-in-data-science-by-kirill-eremenko-f2b8aa625895) [## Udemy 课程回顾——机器学习 A-Z 数据科学中的 Python 和 R 实践，作者:基里尔·叶列缅科
-
-### 机器学习 A-Z 动手 Python 和 R 在数据科学由基里尔叶列缅科是一个详细的，迷人的，信息丰富的…
-
-medium.com](/javarevisited/udemy-course-review-machine-learning-a-z-hands-on-python-and-r-in-data-science-by-kirill-eremenko-f2b8aa625895)
+</javarevisited/udemy-course-review-machine-learning-a-z-hands-on-python-and-r-in-data-science-by-kirill-eremenko-f2b8aa625895> 

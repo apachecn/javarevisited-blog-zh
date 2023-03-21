@@ -73,21 +73,13 @@ Vlad 还定期举办在线直播研讨会，深入教授您 Hibernate。你可�
 
 这个在线研讨会旨在了解 Java 开发人员和数据库编程之间的差距，培训费用为每张 750 美元。如果您想参加本次培训，请使用我的优惠券 JAVINPAULDISCOUNT 获得 10%的折扣(嵌入在下面的链接中)
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) [## 高性能 Java 持久性-在线研讨会
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s>  
 
 这是一个由资深 Hibernate 培训师和 Java champion 提供的高级 Hibernate 培训，它分 4 次进行，每次 4 小时，成本是完全值得的，因为您不会发现 Vlad 将在本课程中分享的技巧，并且您将有机会向 Java champion 学习。
 
 该培训包括无限制地访问[高性能 Java 持久性书籍](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s)和 [Mach 3 视频课程。](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s)视频课程将在培训结束后通过 **100%折扣券授予。**
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) [## 高性能 Java 持久性- Mach 3 -在线
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s>  
 
 ## [**3。Hibernate 和 Java 持久性 API (JPA)基础知识**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-java-persistence-api-jpa-fundamentals%2F)
 
@@ -145,11 +137,7 @@ vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performanc
 
 他们还提供一个 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 没有任何承诺，这是一个很好的方式，不仅可以免费访问这门课程，还可以在加入 Pluralsight 之前检查课程的质量。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [## Pluralsight 订阅计划和定价:按月和按年
-
-### 多重视野要多少钱？点击此处了解月度和年度订购计划的价格。不要把你的技术技能放在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing>  
 
 以上是关于学习 Hibernate 和 JPA online 的一些**最佳课程。Java 和 JEE 开发人员可以通过这些课程来掌握 Java 应用程序的这两种持久性技术。**
 
@@ -174,8 +162,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你正在寻找一个可以和《Spring Boot 2》一起学习春天和冬眠的课程，那么你也可以从 Udemy 上的 Chad Darby 开设的 [**【春天和冬眠】初学者课程(包括 Spring Boot)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F) 开始。这是一门很好的课程，在 Udemy 网站上你只需花 9.9 美元就能买到。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F) [## 学习 Hibernate 和 Spring(作为初学者)教程
-
-### UDEMY 上最畅销的 1 门春季冬眠课程-超过 38000 条评论- 5 颗星！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F> 

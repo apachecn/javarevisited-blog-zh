@@ -16,11 +16,7 @@
 
 不要像杰克一样。如果构建中断，让 CI 服务器通知您。**收到一条团队关于不完整构建的消息。**
 
-[](https://verbosemode.dev/membership) [## 通过我的推荐链接- Mirco 加入媒体
-
-### 对技术感兴趣吗？订阅 Medium！你的会员费直接支持我和其他作家你…
-
-verbosemode.dev](https://verbosemode.dev/membership) 
+<https://verbosemode.dev/membership>  
 
 ## 配置 Microsoft 团队
 
@@ -72,8 +68,4 @@ verbosemode.dev](https://verbosemode.dev/membership)
 
 想要从团队中获得更多？查看以下文章:
 
-[](/javarevisited/react-faster-alertmanager-to-teams-fa888bcd7c01) [## Alertmanager 和团队如何主动轻松缩短事件响应时间
-
-### 从警报管理器向 Microsoft 团队发送通知
-
-medium.com](/javarevisited/react-faster-alertmanager-to-teams-fa888bcd7c01)
+</javarevisited/react-faster-alertmanager-to-teams-fa888bcd7c01> 

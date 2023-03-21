@@ -20,11 +20,7 @@
 
 我在写上一篇文章时就经历过这种情况，我构建了一个 RESTful 服务来演示向 Google OAuth 2.0 的迁移。
 
-[](/@hrishabhpurohit/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a) [## 带有 Google 客户端库的 OAuth 2.0:Java SDK
-
-### 免责声明:本实施指南旨在增强用户对概念的理解，而不是构建一个完整的…
-
-medium.com](/@hrishabhpurohit/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a) 
+</@hrishabhpurohit/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a>  
 
 我碰巧有一个用例的补丁方法，并且正在使用我的一个 Java HTTP 客户端测试它。
 

@@ -63,11 +63,7 @@ Benjamin J Evans、James Gough 和 Chris Newland 所著的《优化 Java:提高 
 
 弗拉德还为他的电子书提供 10%的折扣，使用优惠券代码 **JAVINPAULDISCOUNT 可以在他的** [**教学网站上获得这本书的 10%折扣。**](http://bit.ly/2LbIgy5)
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) [## 高性能 Java 持久性-电子书
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s>  
 
 ## 3.斯科特·奥克斯的《Java 性能权威指南》
 
@@ -198,8 +194,4 @@ Binu John 是 Ning，Inc .的高级性能工程师，他主要致力于提高 Ni
 
 **P. S. —** 如果你是 Java 编程世界的新手，并且想以一种有指导和更结构化的方式学习 Java，那么你也可以在 Udemy 上查看由 Tim Buchalaka 和他的团队开设的 [**完整的 Java 大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) 课程。这是一门很棒的课程，最近针对 Java SE 17 进行了更新，以便在线学习 Java。
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年要学的 10 门最佳 Java 编程课程和认证
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> 

@@ -25,18 +25,6 @@
 
 你可能喜欢的其他文章和资源
 
-[](/javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006) [## 学习重构和提高 Java 编码技能的 7 门最佳课程
+</javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006>  </javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c>  <https://javarevisited.blogspot.com/2020/12/top-5-course-to-improve-coding-skills.html>  
 
-### 我最喜欢的在线课程学习重构和最佳实践，以提高您的编码技能，并成为一个更好的…
-
-medium.com](/javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006) [](/javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c) [## 干净的代码审查——程序员必读的编码书籍
-
-### 想学习将糟糕的代码转换成好代码的艺术吗？这本书会有所帮助
-
-medium.com](/javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c) [](https://javarevisited.blogspot.com/2020/12/top-5-course-to-improve-coding-skills.html) [## 有经验的 Java 程序员学习代码重构的 6 大课程
-
-### 你好伙计们，如果你想提高你的编码技能，学习重构和其他编码最佳实践，并寻找…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/12/top-5-course-to-improve-coding-skills.html) 
-
-如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入介质**[](/@somasharma_81597/membership)
+如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入介质**</@somasharma_81597/membership>

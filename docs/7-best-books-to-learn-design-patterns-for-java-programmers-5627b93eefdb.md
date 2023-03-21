@@ -48,11 +48,7 @@ image_credit —软件设计模式:软件开发人员的最佳实践
 
 如果你在理解文本方面有困难，你可以将这本书与 Udemy 的 [**从 0 到 1:设计模式——24 个重要的 Java 中的**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-design-patterns%2F) 课程结合起来，该课程也涵盖了所有这些设计模式。在参加了那门课程并阅读了这本书之后，我对设计模式的理解有了显著的提高。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-design-patterns%2F) [## 从 0 到 Java 中的设计模式——24 种重要模式
-
-### 先决条件:对 Java 的基本理解由一个斯坦福毕业、前谷歌员工、超过 50 人的夫妻团队教授
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-design-patterns%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffrom-0-to-1-design-patterns%2F>  
 
 ## 3.[头一次面向对象的分析与设计](http://www.amazon.com/dp/0596008678/?tag=javamysqlanta-20)
 
@@ -124,21 +120,13 @@ UML 对于任何严肃的面向对象程序员来说都是一项基本技能，�
 
 如果你想成为一名软件架构师，我强烈推荐这本书。我甚至把它列入了我的 [**最佳软件架构书籍**](/javarevisited/5-best-software-architecture-books-for-experienced-java-developers-1267d05a6b1d) 的名单。
 
-[](https://javarevisited.blogspot.com/2018/02/5-must-read-books-to-become-software-architect-solution.html#axzz6LCJoCRf9) [## 成为软件架构师或解决方案架构师的 5 本必读书籍
-
-### 我收到了很多来自高级 Java 开发人员的询问，他们渴望成为软件架构师或解决方案架构师…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/5-must-read-books-to-become-software-architect-solution.html#axzz6LCJoCRf9) 
+<https://javarevisited.blogspot.com/2018/02/5-must-read-books-to-become-software-architect-solution.html#axzz6LCJoCRf9>  
 
 这就是学习 Java 设计模式的几本好书的全部内容。如果你想学习它们，没有什么比 Head First 设计模式更好的了——尽管它不是一个很好的参考文本。我不会太在意设计模式。和大多数好的一样，如果你是一个优秀的软件开发人员，无论如何你都会写。
 
 不好的开发者可能会照本宣科，把简单的问题变成灾区。在网络课程时代，你也可以将这些书与 Dmitri Nestruk 的 Jav a course 中的 [**设计模式相结合，这是我最喜欢的学习模式的课程之一。他真的很好地解释了模式，也建议了经典模式的现代实现。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) [## 面向工程师、设计师和架构师的 Java 设计模式
-
-### 本课程从实用的角度全面概述了 Java 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F>  
 
 还想吃吗？这里有更多的编程书籍和资源供您探索
 
@@ -161,8 +149,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P. S. —** 如果你喜欢免费资源，正在寻找一门优秀的免费在线课程来深入学习设计模式，你也可以在 Udemy 上看到 [**Java 设计模式与架构**](http://bit.ly/java-design-patterns-tutorial) ，一门免费课程。这是完全免费的，你不需要支付任何费用。你只需要创建一个 Udemy 帐户就可以学习这门课程。
 
-[](http://bit.ly/java-design-patterns-tutorial) [## 免费 Java 教程——Java 设计模式和架构
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/java-design-patterns-tutorial)
+<http://bit.ly/java-design-patterns-tutorial> 

@@ -22,11 +22,7 @@ image_credit — Udemy
 
 这个列表中的大部分课程会带你了解客户端 web 开发的基本知识，向你展示如何用 [HTML](https://www.java67.com/2020/08/5-best-online-courses-to-learn-html-5.html) 、[级联样式表](https://javarevisited.blogspot.com/2020/09/top-5-css-cascading-style-sheet-courses-for-beginners.html)、 [JavaScript](https://www.java67.com/2019/01/best-websites-to-learn-javascript-online.html) 和 [jQuery](https://hackernoon.com/top-5-free-jquery-courses-for-web-developers-best-of-lot-9f65a1ff25b6) 构建网页，然后向你展示你可以用 React、Angular 或 Vue.js 做什么 JS 课程和[初学者最佳全栈开发课程](/better-programming/my-5-favorite-courses-to-learn-web-development-in-2019-a5e74167f8b2)。
 
-[](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) [## 2023 年成为全栈 Java 程序员的 10 门最佳在线课程
-
-### 以上是 Udemy 学习全栈 web 最好的 Java+Spring Boot+Angular+react js+Kubernetes 课程…
-
-medium.com](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) 
+</javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868>  
 
 # 2023 年学习前端开发的 6 大在线课程
 
@@ -64,11 +60,7 @@ medium.com](/javarevisited/10-best-java-full-stack-web-development-courses-to-jo
 
 而且，如果你觉得 Coursera 课程和专业很有用，那么你也应该加入 Coursera Plus[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)，这是 Coursera 的一个订阅计划，为你提供**无限制访问**他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[网络开发者训练营 2023 (Udemy)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)
 
@@ -96,11 +88,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需的技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.使用 React 进行前端 Web 开发 (Coursera)
 
@@ -120,11 +108,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，如果你没有联系到导师，需要一个选择，你也可以在 Udemy 上查看 Max 的[**React——完整指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 课程，我个人的最爱。它涵盖了 Hooks 和 Redux，以及 React 路由器。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 投入其中，从头开始学习 React.js！学习 Reactjs、Hooks、Redux、React Routing、Animations、Next.js 等等！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F>  
 
 ## 6.[成为前端开发人员(教育性)](https://www.educative.io/track/beginning-front-end-developer?affiliate_id=5073518643380224)
 
@@ -140,19 +124,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一下，Educative 让您可以选择购买单独的课程，但如果您加入了像这样包含多个课程的课程，最好购买 **Educative 订阅**，每月只需 18 美元就可以访问他们的 100 多个课程，这是物有所值的。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 他们的编码面试课程，如[探索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)和[探索编码模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)也很棒，这种订阅也将允许访问他们和任何未来的课程。
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 以上就是成为前端开发人员的**最佳在线培训课程和认证**的全部内容。如果你有什么其他学习前端 web 开发的优秀课程，那就随便分享吧。
 
@@ -181,8 +157,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 **p . s .**——如果你不介意从免费在线课程、书籍和教程等免费资源中学习，那么你也可以看看我之前列出的 [**5 种学习 web 开发的免费资源**](http://www.java67.com/2018/03/top-5-free-courses-to-learn-web-development.html) ，其中我分享了一些对 web 开发人员有用的免费资源。
 
-[](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97) [## 学习 HTML 5、CSS 3 和 Web 开发的 10 大免费课程
-
-### 大家好，我已经分享了很多关于各种技术和编程语言的免费在线课程和书籍…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97)
+</javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97> 

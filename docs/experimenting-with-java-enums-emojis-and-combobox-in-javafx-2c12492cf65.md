@@ -12,11 +12,7 @@
 
 在我的 Java `TodoListApplication`的第二次迭代中，我使用了 JavaFX `DatePicker`和`TableView`组件。我还引入了一个名为`ToDoItem`的 Java 记录，看看如何在 JavaFX 应用程序中使用记录。
 
-[](/javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2) [## 在 JavaFX 中试验 Java 记录、日期选择器和表视图
-
-### 将我的 JavaFX ToDoList 从 ListView 升级到 TableView
-
-medium.com](/javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2) 
+</javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2>  
 
 我在之前的博客中说过，我会坚持我的 ToDoList。我还打算这么做(下一篇博客！)，但是我意识到在使它持久化之前，我想先给我的`ToDoItem`添加一条信息。
 

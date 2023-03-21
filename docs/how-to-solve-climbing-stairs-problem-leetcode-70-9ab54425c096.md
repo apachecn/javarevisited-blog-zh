@@ -4,7 +4,7 @@
 
 ## Leetcode #70 的 Java 解决方案
 
-> 最初发表于[](https://asyncq.com/how-to-solve-climbing-stairs-problem-leetcode-70)
+> 最初发表于<https://asyncq.com/how-to-solve-climbing-stairs-problem-leetcode-70>
 
 **![](img/240dfbe2e9387464242b32baa03e402b.png)**
 

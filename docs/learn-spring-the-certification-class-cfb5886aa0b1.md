@@ -12,21 +12,13 @@
 
 **之前，我已经分享了最好的 Spring 课程和书籍，在这篇文章中，我将回顾 Baeldung 广受欢迎的 Spring 5 和 Spring Boot 课程，[**the Learn Spring master class**](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)**。****
 
-**[](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习春天:大师课
-
-### 我有多长时间可以学习这门课程？材料过期了吗？访问永远不会消失。一旦你注册了…
-
-courses.baeldung.com](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 
+**<https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa>  
 
 我第一次看到 Baeldung 是通过他们的博客，因为我也是一个 Java 博客作者，并且总是在寻找最好的 Java 资源。后来我遇到了欧根，了解了他在《春天和 Spring Boot》中的丰富经历。他参与了几个实际操作和咨询项目，在这些项目中他使用了 Java、Spring 和 Spring Boot，这在他的课程中有所体现。
 
 他是最早创建在线 Spring 课程的人之一，这些课程可以深入地教你 Spring，如[**REST with Spring**](http://www.baeldung.com/rest-with-spring-course?utm_source=javarevisited&utm_medium=web&utm_campaign=rws&affcode=22136_bkwjs9xa)和[**Learn Spring Security**](https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)，这些课程专注于深入地教你 REST web 服务和 Spring 安全性。
 
-[](https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习 Spring Security:认证课程(新)
-
-### 保护 Spring 应用程序的规范参考。这 21 个模块涵盖了从 Spring 的基础知识…
-
-courses.baeldung.com](https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 
+<https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa>  
 
 很长一段时间，他没有任何初级水平的 Spring 和 Spring boot 课程，许多人要求创建一个，包括我，这就是这个课程的诞生，我必须说它是深入学习 Spring 5 的最佳资源之一。
 
@@ -130,11 +122,7 @@ courses.baeldung.com](https://courses.baeldung.com/p/learn-spring-security-the-c
 
 下面是链接— [**学春大师班**](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) **。**
 
-[](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习春天:大师课
-
-### 我有多长时间可以学习这门课程？材料过期了吗？访问永远不会消失。一旦你注册了…
-
-courses.baeldung.com](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 
+<https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa>  
 
 如果您对更多 Spring 资料感兴趣，您还可以查看以下资源
 

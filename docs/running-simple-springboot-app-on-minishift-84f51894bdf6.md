@@ -22,11 +22,7 @@
 
 你可以通过官方安装说明以及下面提到的。
 
- [## 概述-入门|迷你班| OKD 最新
-
-### 本节包含有关如何为 Minishift 准备虚拟化环境(虚拟机管理程序)的信息…
-
-docs.okd.io](https://docs.okd.io/latest/minishift/getting-started/index.html) 
+  
 
 **安装**
 
@@ -252,11 +248,7 @@ Openshift 的源到图像(S2I)是一个工具包和工作流程，用于从源�
 
 在下一篇文章中，我们将讨论如果我们对 Github 库做了任何更改，如何触发构建。
 
-[](https://ashish-choudhary.medium.com/openshift-webhook-github-1e2df303167b) [## Openshift Github 集成
-
-### 在本文中，我将介绍在将更改推送到 Github 存储库之后，如何使用 Minishift 触发构建。
-
-ashish-choudhary.medium.com](https://ashish-choudhary.medium.com/openshift-webhook-github-1e2df303167b) 
+<https://ashish-choudhary.medium.com/openshift-webhook-github-1e2df303167b>  
 
 **支持我**
 
@@ -268,8 +260,4 @@ ashish-choudhary.medium.com](https://ashish-choudhary.medium.com/openshift-webho
 
 也可以看看我之前的一篇文章。
 
-[](https://ashish-choudhary.medium.com/connecting-simple-java-client-with-apache-geode-docker-container-fca32a4c9946) [## 连接简单的 Java 客户端和 Apache Geode Docker 容器
-
-### 在上一篇文章中，我们启动了一个简单的 apache geode docker 实例。然而，为了简单起见，我们没有开始任何…
-
-ashish-choudhary.medium.com](https://ashish-choudhary.medium.com/connecting-simple-java-client-with-apache-geode-docker-container-fca32a4c9946)
+<https://ashish-choudhary.medium.com/connecting-simple-java-client-with-apache-geode-docker-container-fca32a4c9946> 

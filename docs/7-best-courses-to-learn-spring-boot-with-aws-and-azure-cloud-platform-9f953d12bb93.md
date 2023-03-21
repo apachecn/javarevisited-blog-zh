@@ -100,11 +100,7 @@
 
 顺便说一句，如果你发现 Coursera 的课程很有用，因为它们是由世界各地的知名公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.[使用 Spring 微服务的 Master Pivotal Cloud Foundry(PCF)](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-pivotal-cloud-foundry-pcf-deploying-spring-boot-apps%2F)
 
@@ -181,8 +177,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **附言——**如果你正在寻找学习 Spring Boot 和云的免费课程，那么你也可以在 Udemy 上查看这个 [**Spring Boot 和 AWS S3**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-and-aws-s3%2F) 免费课程。本课程由 Nelson Djaolo 创建，它将教你如何上传图片和文件到亚马逊 S3。该课程完全免费，您只需创建一个免费的 Udemy 帐户即可注册该课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-and-aws-s3%2F) [## 免费 Spring Boot 教程- Spring Boot 和 AWS S3
-
-### 嗨，我叫尼尔森，是一名软件工程师。以一级荣誉毕业于计算机科学和…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-and-aws-s3%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-and-aws-s3%2F> 

@@ -128,7 +128,7 @@ Python 现在已经取代 Java 成为大学和学术界教授最多的编程语�
 
 老实说，我对 Rust 不太了解，因为我从未使用过它，但它确实在 Stack Overflow 开发者调查中获得了“最受欢迎的编程语言”奖，所以这里显然有值得学习的东西。
 
-那里没有很多免费的 Rust 课程，但是为本科生开设的[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frust-for-undergrads%2F)**Rust 是一个不错的开始。**
+那里没有很多免费的 Rust 课程，但是为本科生开设的<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frust-for-undergrads%2F>**Rust 是一个不错的开始。**
 
 **[![](img/264c70228585250751ac57d82b1e4e8b.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frust-for-undergrads%2F)**
 
@@ -166,12 +166,4 @@ Python 现在已经取代 Java 成为大学和学术界教授最多的编程语�
 
 **如果你喜欢这篇文章，那么请考虑在 Twitter 上关注我。如果你想得到每一个新帖子的通知，别忘了在 Twitter 上关注[**javarevited**](https://twitter.com/javarevisited)！**
 
-**[](https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html) [## 2023 年学习 Python 编程的 10 门最佳 Udemy 课程[更新]
-
-### 大家好，如果你想学习 Python 编程，并且正在寻找在线学习 Python 的最佳 Udemy 课程，那么…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html) [](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html) [## 2023 年学习 Web 开发的 8 大在线课程——最佳选择
-
-### 大家好，如果你想在今年学习 Web 开发，并且认为现在制定这个目标为时已晚，那么让我…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html)**
+**<https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html>  <https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html> **

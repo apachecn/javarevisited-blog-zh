@@ -20,19 +20,11 @@
 
 如果你能花几块钱上一门优秀的课程，那么我建议你只要看一下安德烈·内阿高伊的[**《2023 年网络开发者大全:零到精通**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 》。从零开始学习 Web 开发的最佳课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) [## 2023 年的完全网络开发者:零到精通
-
-### 刚刚更新为 2023 年！通过学习最受欢迎的技能，在 2023 年成为 Fullstack Web 开发人员！这是其中之一…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F>  
 
 顺便说一句，如果你喜欢 Andrei 的风格和他极具吸引力的、全面的和最新的课程，那么你也可以加入他的 [ZTM 学院](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)，以每月[**39 美元的计划获得他的所有课程。**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 您也可以使用我的代码**朋友 10 在月度和年度计划中获得 10%的优惠**。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 # 2023 年学习使用 HTML 和 CSS 的前端 Web 开发的 7 个最佳免费在线课程
 
@@ -52,11 +44,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 如果你有兴趣，也可以看看这个 2023 年成为 Web 开发者的[路线图。](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html)
 
-[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) 
+</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  
 
 ## 2.[前端 Web 开发基础](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Ffoundations-of-front-end-development%2F)
 
@@ -113,15 +101,7 @@ medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e)
 
 由 Jonas Schmedtmann 创建，他是我最喜欢的 [JavaScript Bootcamp](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 和 [HTML 5 和 CSS Bootcamp](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) 课程的作者。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### “很棒的课程。Jonas 解释了 javascript 中的核心概念，这些概念在其他课程中通常会被忽略。还有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) [## 用 HTML5 和 CSS3 构建响应性网站
-
-### “在经历了其他平台上的其他相关课程后，我可以说这个课程是最实用和最容易的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F>  <https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F>  
 
 在本课程中，您将学习以下内容:
 
@@ -163,15 +143,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [![](img/5e7020ee25fadb95c1c53134e5d9c56b.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design)
 
-如果你觉得 Coursera 的课程有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
+如果你觉得 Coursera 的课程有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>
 
 **这种单一订阅让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**职业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是关于免费使用 HTML 和 CSS 学习 web 开发的一些最好的课程。即使你知道 HTML 和 CSS，这些免费资源也是更新知识和填补空白的好方法。Web 开发是一项重要的技能，而在创业时代，我认为每个程序员都应该知道如何自己创建一个网站或移动 app。
 
@@ -192,8 +168,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **【p . s .】**——如果你能花几块钱上一门优秀的课程，那么我建议你只要看看 Colt_Steele 的[**Web Developer boot camp**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)。从零开始学习 Web 开发的最佳课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到 web 开发者训练营，这是学习 Web 开发的唯一课程。有很多…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F> **

@@ -14,21 +14,13 @@
 
 并分享我的想法，为什么它是全世界每个 Java 开发人员的必读之书。这个新版本涵盖了 JDK 7、8 和 9 中引入的特性和范例。Joshua Bloch 也做了很好的工作，更新了大部分项目，使它们与新版本相关。除此之外，还有一个全新的章节来解释 Java 8 特性的最佳实践。我知道你不需要任何理由来阅读这本书，因为它非常受欢迎，被广泛接受。*许多使用 Java 的初创公司，尤其是在印度*，也向新的 Java 开发人员分发这本书，通过避免错误和低质量的 Java 代码节省了大量资金。正如我之前告诉你的，我已经在 10 月份预订了这本书，并在几天前收到了我的副本。不过，我已经读完了大部分内容，主要是我的 Kindle 上较新的内容，电子书([Effective Java Kindle Edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20))自出版以来就可以在 Kindle 上看到。
 
-[](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20) [## 有效的 Java
-
-### 有效的 Java [Bloch，Joshua]对 Amazon.com。*符合条件的优惠可享受免费*运输。有效的 Java
-
-www.amazon.com](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20) 
+<https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20>  
 
 我非常喜欢它，尽管我确实了解 Java 8 lambdas、streams，以及它们在多大程度上帮助你用 Java 编写干净的代码，但 Josh 的建议帮助我填补了一些空白。
 
 他关于 Java 9 模块的章节(第 15 项)也很好地介绍了这个 JDK 9 的基本特性，但并没有涵盖所有的内容。如果你想学习 JDK 9 特性，我建议你最好去 Udemy 上看看 Tim Buchalaka 的 [**完整 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 有效 Java 第三版的新特性
 
@@ -102,8 +94,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **P. S.** —如果找不到平装版，就不要等了。只需购买 [**有效的 Java 电子书**](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20) ，在手机或平板上阅读即可。这本书的格式非常好，你会得到和阅读平装书一样的体验
 
-[](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20) [## 有效的 Java
-
-### 有效的 Java [Bloch，Joshua]对 Amazon.com。*符合条件的优惠可享受免费*运输。有效的 Java
-
-www.amazon.com](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20)
+<https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20> 

@@ -38,11 +38,7 @@
 
 顺便说一下，你可以单独加入这个认证，也可以参加 [**Coursera Plus 会员**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它提供了超过 7000+ Coursera 课程、专业和认证的无限制访问。我向希望获得认证并提升自身技能的 it 专业人士强烈推荐它。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 2.谷歌云助理云工程师认证[最适合软件工程师]
 
@@ -168,8 +164,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **附言——**如果你是云计算和谷歌云平台(GCP)的绝对初学者，并且正在寻找免费资源开始你的云之旅，那么你也可以查看这些 [**最好的免费谷歌云课程**](/javarevisited/7-free-courses-to-learn-google-cloud-platform-for-beginners-cbb260fbd8e4) 。这个列表包含了 Udemy 和 Coursera 上学习谷歌概念的最好的免费课程。
 
-[](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html) [## 2023 年面向初学者的 5 大免费谷歌云平台课程——最佳选择
-
-### 大家好，如果你也想学习 2023 年的谷歌云平台，并且正在寻找一些免费的在线谷歌云…
-
-www.java67.com](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html)
+<https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html> 

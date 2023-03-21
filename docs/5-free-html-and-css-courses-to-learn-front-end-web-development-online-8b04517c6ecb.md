@@ -22,11 +22,7 @@ HTML 代表超文本标记语言(HyperText Markup Language)之前学习 JavaScri
 
 这是最好的也是我最喜欢的课程之一，如果你喜欢基于项目的学习，你会喜欢它的。从零开始一步一步学习现代网页设计、HTML5 和 CSS3 的最简单方法。你将设计和编码一个巨大的项目。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) [## 用 HTML5 和 CSS3 构建响应性网站
-
-### “在经历了其他平台上的其他相关课程后，我可以说这个课程是最实用和最容易的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F>  
 
 # 5 门免费课程，供初学者学习 HTML 和 CSS
 
@@ -78,11 +74,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 而且，如果你找到了教育平台和他们的搜索课程，如搜索系统设计面试，搜索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.99 美元就可以访问他们的 250 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## [**5。HTML 入门课程:2 小时学会 HTML！！**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhtml-introduction-course-learn-html-in-2-hours%2F)
 
@@ -111,11 +103,7 @@ CodeCademy 以有趣和互动的方式教你关键的编程技巧，如 [Python]
 顺便说一句，如果你喜欢 CodeCademy 平台，那么你也可以加入 [**CodeCademy PRO**](https://bit.ly/codecademypro) ，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 以上是一些学习 HTML 和 CSS 的免费课程，开始你在 Web 开发的美丽世界中的旅程。顺便说一下，仅仅学习 HTML 和 CSS 对于现代 web 开发来说是不够的，你还需要学习像 [Twitter Bootstrap](http://javarevisited.blogspot.sg/2017/12/top-10-pluralsight-courses-java-and-web-developers.html) 这样的框架来真正开发你喜欢的网站。
 
@@ -123,11 +111,7 @@ bit.ly](https://bit.ly/codecademypro)
 
 最好的和我最喜欢的课程之一，如果你喜欢基于项目的学习，你会喜欢它的。从零开始一步一步学习现代网页设计、HTML5 和 CSS3 的最简单方法。你将设计和编码一个巨大的项目。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) [## 用 HTML5 和 CSS3 构建响应性网站
-
-### “在经历了其他平台上的其他相关课程后，我可以说这个课程是最实用和最容易的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-and-develop-a-killer-website-with-html5-and-css3%2F>  
 
 其他**免费在线课程**你可能喜欢探索
 [5 门课程免费学习 Ruby 和 Rails](http://www.java67.com/2018/02/5-free-ruby-and-rails-courses-to-learn-online.html)

@@ -73,11 +73,7 @@ React JS 或简称 React 是用于开发前端或 GUI web 应用程序的领先 
 
 **顺便说一下，与其单独学习这些技术，不如参加一个完整的 web 开发课程，如 [**由**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) **[Colt_Steele](https://medium.com/u/b74a1e474498?source=post_page-----9a8e290b8a56--------------------------------) 举办的 web 开发人员训练营** ，它会教你成为 Web 开发人员所需的所有基本技能。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=508237.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F) [## 高级 Web 开发人员训练营
-
-### 嗨！欢迎来到高级 Web 开发人员训练营，这是一个完整的课程，将帮助您了解最新的…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=508237.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=508237.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F> ** 
 
 # **2.一般发展技能**
 
@@ -426,20 +422,8 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ******附言——**如果你不介意从免费资源中学习，那么你也可以查看我的[免费 React JS 课程列表](http://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html)开始你的旅程。****
 
-****[](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) [## 学习 Angular 和 React.js 进行 Web 开发的 10 大免费课程——最好的
-
-### 毫无疑问，Angular 和 React(也称为 Angular JS 和 React JS)是最受欢迎的两种…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) 
+****<https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [## 面向初学者和有经验的 Web 开发人员的 10 大有价值的书籍和课程——最好的
-
-### 大家好，如果你对学习 Angular 框架感兴趣，这是最流行的 JavaScript 框架之一…
-
-medium.com](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [## 我最喜欢的初学者和有经验的开发人员的角度课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-medium.com](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc)****
+</javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c>  </javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc> ****

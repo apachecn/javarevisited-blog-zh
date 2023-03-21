@@ -12,7 +12,7 @@
 
 如果您正在使用 AWS，那么您可能听说过 AWS Quicksight 工具。Amazon AWS Quicksight 是一款基于云的快速商业智能工具，可以对您的数据以及您的应用程序使用的 AWS 资源进行分析并制作仪表盘和图表，因此它将它们合并到一个仪表盘中，以获得对您数据的更多洞察。
 
-这些在线课程是从像[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0)**[**plural sight**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)和 [**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 这样的网站中挑选出来的，是由专家创建的，受到成千上万开发者的信任。您可以在办公室或家里使用它们来学习 AWS Quicksight，并且可以按照自己的时间表来学习。
+这些在线课程是从像<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0>**[**plural sight**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)和 [**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 这样的网站中挑选出来的，是由专家创建的，受到成千上万开发者的信任。您可以在办公室或家里使用它们来学习 AWS Quicksight，并且可以按照自己的时间表来学习。
 
 这项基于云的服务有一些有用的功能，肯定会让你受益，比如从文件或数据库(如 [MySQL 服务器](/javarevisited/top-5-courses-to-learn-mysql-in-2020-4ffada70656f))以及你使用过的 AWS 资源导入数据的能力。
 
@@ -20,11 +20,7 @@
 
 **如果您需要涵盖所有基本 AWS 服务并帮助您成为解决方案架构师的综合课程，那么我强烈推荐夏羽·马瑞克在 Udemy 上的 [**终极 AWS 认证解决方案架构师助理 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) 课程。夏羽·马瑞克刚刚被公认为 AWS 的英雄，他的课程是深入学习 AWS 的最佳材料。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-quicksight-getting-started%2F) [## 亚马逊(AWS)快速入门
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-quicksight-getting-started%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-quicksight-getting-started%2F>  
 
 # 2023 年初学者学习 AWS QuickSight、Glue 和 Athena 的 6 门最佳课程
 
@@ -84,11 +80,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元。如果你还没有，我强烈推荐你订阅，它就像开发者的网飞，提供超过 7000 门在线课程来学习最新的技术。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **免费观看本课程。****
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **4.[亚马逊(AWS) QuickSight、Glue、雅典娜& S3 基本面](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-quicksight-datalake%2F)**
 
@@ -136,11 +128,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **顺便说一下，你需要一个 [LinkedIn Learning 会员](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)来观看这个课程，这个课程每月花费大约 29.99 美元，但是你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这个课程，这是一个探索他们 16000+最新技术在线课程的好方法。**
 
- **[## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 17，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)** 
+ **** 
 
 **以上就是 2023 年**学习 AWS Quicksight 的最佳在线课程**。正如我之前说过的，数据是我们这个时代的燃料，每个企业都应该使用它，并利用它来做出正确的决策，通过将数据转化为有助于理解数据的图表来推动其组织的成功，因此您需要一个商业智能工具来实现这一点，这就是 AWS Quicksight 的真正力量。**
 
@@ -175,8 +163,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **P. S.** —如果你热衷于学习像 Quicksight 这样的 AWS 分析工具，但正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看 [**AWS 分析——Athena Kinesis，Redshift，Quicksight Glue**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-data-analyticsscience-elastic-search-kinesis%2F) 课程。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-data-analyticsscience-elastic-search-kinesis%2F) [## 免费网络分析教程- AWS 分析-雅典娜 Kinesis 红移 QuickSight 胶水
-
-### 拥有 25 年以上的企业基础设施、数据、信息安全和项目管理经验。企业是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-data-analyticsscience-elastic-search-kinesis%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-data-analyticsscience-elastic-search-kinesis%2F> **

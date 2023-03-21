@@ -36,11 +36,7 @@ Martin Fowler 不需要任何介绍，我相信你可能已经读过它的一些
 
 而且，如果你有一个在线课程来从头开始学习 UML，那么你也可以将这本书与统一建模语言(UML)的[**:Udemy 上的**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fuml-the-complete-uml-unified-modeling-language-reference%2F) 课程结合起来，获得一些使用 UML 的实践经验。这也将帮助你更好地理解 UML 概念。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fuml-the-complete-uml-unified-modeling-language-reference%2F) [## 统一建模语言(UML):完整指南和示例
-
-### 我是 ExpertWave 的总经理，expert wave 是一家培训和咨询公司，总部设在埃及开罗，在…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fuml-the-complete-uml-unified-modeling-language-reference%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fuml-the-complete-uml-unified-modeling-language-reference%2F>  
 
 ## 2.[罗伯特·c·马丁的《面向 Java 程序员的 UML》](http://www.amazon.com/UML-Java%C2%BF-Programmers-Robert-Martin/dp/0131428489?tag=javamysqlanta-20)
 
@@ -56,11 +52,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 而且，你将能够用一种被称为统一建模语言(UML)的可视化符号来交流这些设计。超过 65，000 人已经注册了该课程。本课程也是 Coursera 上 [**软件设计与架构专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture) 的一部分，是学习软件设计与架构的最佳资源之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture) [## 软件设计和架构
-
-### 乌尔贝塔被认为是世界领先的公共研究和教学密集型大学。作为…之一
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture>  
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每月花费大约 59 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
@@ -78,11 +70,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你需要在线课程来加入这本书，我建议你使用 Udemy 上的 UML 课程查看[**高级面向对象的困难问题分析，这是一门非常实用的课程。**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fadvanced-object-oriented-analysis-of-hard-problems%2F)
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fadvanced-object-oriented-analysis-of-hard-problems%2F) [## 使用 UML 对困难问题进行高级面向对象分析
-
-### 我是 Soundtrap 的联合创始人之一，也是该公司的首席执行官，sound trap 是一项让音乐人在云中制作在线音乐的服务…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fadvanced-object-oriented-analysis-of-hard-problems%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fadvanced-object-oriented-analysis-of-hard-problems%2F>  
 
 ## 4.Grady Booch 等人的《统一建模语言用户指南》。
 
@@ -98,21 +86,13 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 而且，如果你需要一个在线课程来配合这本书，那么我也建议你去看看 [**关于 Educative 的面向对象设计面试课程**](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224) ，这是一个互动的、基于文本的课程，以掌握 OOP 和设计。
 
-[](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224) [## 探索面向对象的设计面试——互动学习
-
-### 面向对象设计一直是软件工程面试过程的关键部分。大多数的…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224>  
 
 本课程是掌握面向对象分析和设计的完整指南。它是由谷歌、脸书、微软和亚马逊的招聘经理设计的。它不仅有一套精心挑选的案例研究，这些案例在顶级科技公司被反复询问，而且还提供了处理不同面向对象设计场景的全面体验。
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 210 多门课程，每月仅需 14.9 美元。它非常划算，非常适合准备编码面试
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于学习 UML 或统一建模语言的一些**最佳书籍和在线课程。如果您渴望成为一名企业 Java 架构师、解决方案架构师或顾问，您必须提高您的 UML 技能，这些书籍将帮助您实现这一目标。**
 
@@ -138,8 +118,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 如果你正在寻找一些从零开始学习 Java 的在线课程，那么你也可以在 Medium 上查看 2023 年学习 Java 的 10 门最佳课程。
 
-[](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a) [## 2023 年将加入 11 门高级核心 Java 在线课程
-
-### 这些是核心 java 开发人员学习多线程、集合、JVM 等技能的最佳在线课程
-
-medium.com](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a)
+</javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a> 

@@ -18,11 +18,7 @@ Java 应用程序崩溃的主要原因之一是糟糕的 [JVM 参数](https://ja
 
 想象一下，如果您处于云环境中，那么您的纵向扩展策略很可能会因为错误的原因而触发，以防您的 pod 由于资源分配而开始失败，最终整个应用程序崩溃。好消息是市场上已经有了一些好的 JVM 监控工具， [JVM](/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686) 也提供了一些支持 JVM 使用度量的配置。
 
- [## JVM 的监控、调优和故障排除
-
-### 您可以同时运行多个录制，并使用不同的设置配置每个录制；特别是，你…
-
-docs.oracle.com](https://docs.oracle.com/cd/E49461_01/doc.70/e52859/cnf_jvmgc.htm#CASCG805) 
+  
 
 如果您正在处理生产中的一些问题，并且想要开始查看[垃圾收集](https://javarevisited.blogspot.com/2012/10/10-garbage-collection-interview-question-answer.html)进程本身，您也可以启用 JVM 选项来记录 GC 活动:
 
@@ -64,11 +60,7 @@ JVM 配置参数对您的应用程序性能有很大的影响，所以请不要�
 
 我发现许多用户喜欢 JMeter 进行性能测试，但我个人认为，为特定用例进行配置有点困难，例如*“我需要每 10 分钟将用户负载增加 4 倍，然后每 15 分钟增加 6 倍”*。对于这些场景，我发现加特林更加强大和可伸缩:
 
-[](https://gatling.io) [## Gatling -专业负载测试工具
-
-### Gatling 是一个用于 web 应用程序的负载测试工具，是为 DevOps 和持续集成设计的。试试加特林吧！
-
-加特林. io](https://gatling.io) 
+<https://gatling.io>  
 
 我强烈建议将所有的测试场景保存在代码版本控制中，并定期执行它们。这种预防性监控将非常有助于在最终用户之前发现问题。
 

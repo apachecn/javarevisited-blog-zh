@@ -89,7 +89,7 @@ RJSF 支持依赖关系，允许我们向表单添加一些功能。我们可以
 
 **注意:**在最新的 JSON 模式标准中，依赖性已经被删除，但是 RJSF 仍然支持它。
 
-我希望这篇博客能够帮助您开始使用 RJSF 库，并将其集成到 React 应用程序中。现在，我把探索 RJSF 过多特性的好奇心留给你，从他们的[](https://react-jsonschema-form.readthedocs.io/en/latest/)****官方文档中。**查看 [**现场游乐场**](https://rjsf-team.github.io/react-jsonschema-form/) ，通过实例加深理解。另外，我创建了一个简单的 [**表单**](https://github.com/Anushka-shukla/RJSF) 供你参考，你可以在我的 [**GitHub**](https://github.com/Anushka-shukla) 上查看。**
+我希望这篇博客能够帮助您开始使用 RJSF 库，并将其集成到 React 应用程序中。现在，我把探索 RJSF 过多特性的好奇心留给你，从他们的<https://react-jsonschema-form.readthedocs.io/en/latest/>****官方文档中。**查看 [**现场游乐场**](https://rjsf-team.github.io/react-jsonschema-form/) ，通过实例加深理解。另外，我创建了一个简单的 [**表单**](https://github.com/Anushka-shukla/RJSF) 供你参考，你可以在我的 [**GitHub**](https://github.com/Anushka-shukla) 上查看。**
 
 **一定要让我知道你的反馈和建议，这样我就可以通过在这个博客上添加更多的东西来改进。**
 

@@ -40,7 +40,7 @@ Btw，如果你是初学者，建议你先去上一堂类似 [**Eclipse 初学�
 
 如果你不知道， [Git](https://javinpaul.medium.com/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea) 是一个分布式版本控制系统，这意味着每个开发人员都有代码每个修订版的完整副本。
 
-它也使得针对历史的搜索和执行查询变得快速和通用。如果你不熟悉 Git，我建议你首先查看一下 Git master class[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F)****，它提供了一个完整的分步指南来掌握所有关键的 Git 概念和命令**。**总之是 Java 开发必备插件。****
+它也使得针对历史的搜索和执行查询变得快速和通用。如果你不熟悉 Git，我建议你首先查看一下 Git master class<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F>****，它提供了一个完整的分步指南来掌握所有关键的 Git 概念和命令**。**总之是 Java 开发必备插件。****
 
 ****[![](img/db3ead16eee5b592128d8a03e06f744e.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F)****
 
@@ -147,8 +147,4 @@ ADT 扩展了 Eclipse 的功能，让您可以快速设置新的 Android 项目�
 
 ****感谢您阅读本文。如果你喜欢这些用于 Java 和 Spring Boot 开发的最好的 Eclipse 插件，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。**** 
 
-****[](https://javarevisited.blogspot.com/2020/05/top-5-courses-to-learn-eclipse-ide-for-java-developers.html) [## 深入学习面向 Java 程序员的 Eclipse IDE 的前 5 门课程——最好的
-
-### 大家好，如果你从事 Java 开发，你可能知道 Eclipse 是最流行的 Java ide 之一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/05/top-5-courses-to-learn-eclipse-ide-for-java-developers.html)****
+****<https://javarevisited.blogspot.com/2020/05/top-5-courses-to-learn-eclipse-ide-for-java-developers.html> ****

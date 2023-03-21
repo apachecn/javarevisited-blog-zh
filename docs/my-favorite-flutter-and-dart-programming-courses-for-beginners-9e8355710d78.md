@@ -88,11 +88,7 @@ Flutter 还搭载了来自 Google 的编程语言 [**Dart**](https://javarevisit
 
 > ****而且，如果你不知道 Pluralsight 已经把他们 7000+的课程全部免费了一个月。如果你想免费访问，你可以使用这个链接加入他们的[免费四月优惠](https://pluralsight.pxf.io/c/1193463/796093/7490)。不需要信用卡，也没有观看限制****
 
-****[](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2) [## 7000 多门免费的 Pluralsight 课程，让您足不出户就能掌握所需的技术技能
-
-### 不需要信用卡。没有手表限制。和一份精选的课程清单
-
-medium.com](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2)**** 
+****</javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2> **** 
 
 ## ****5.[用 Flutter 构建原生移动应用](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)(免费)****
 
@@ -126,11 +122,7 @@ medium.com](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech
 
 ****你可以免费注册这门课程，但如果你喜欢充分利用这个平台，我建议你购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月花费 18 美元(现在有 50%的折扣)，对于需要持续学习的程序员和软件工程师来说完全值得。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### Educative 提供编程和编码面试准备课程，涵盖几乎每一个框架，语言，和…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****7.[学习 Flutter —初学者课程(免费 Udemy 课程)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-beginners-course%2F)****
 
@@ -156,19 +148,11 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****你可以在下面关于媒介本身的文章中阅读更多关于本课程的内容:****
 
-****[](/flutter/learn-flutter-for-free-c9bc3b898c4d) [## 宣布一个免费的颤振入门课程
-
-### 十个小时的视频和实践教程来构建漂亮的应用程序
-
-medium.com](/flutter/learn-flutter-for-free-c9bc3b898c4d) 
+****</flutter/learn-flutter-for-free-c9bc3b898c4d>  
 
 另外一个好消息，我想分享的是，现在 [CodePen](http://codepen.io/) ，这个面向百万前端开发者和设计师的领先社交开发环境，正在增加[对 Flutter](https://codepen.io/flutter) 的支持！。你可以在 Flutter 自己的刊物上阅读更多关于佐伊粉丝的故事:
 
-[](/flutter/announcing-codepen-support-for-flutter-bb346406fe50) [## 宣布 CodePen 支持 Flutter
-
-### 今天，我们很高兴地宣布，CodePen，领先的社会发展环境，数百万前端…
-
-medium.com](/flutter/announcing-codepen-support-for-flutter-bb346406fe50) 
+</flutter/announcing-codepen-support-for-flutter-bb346406fe50>  
 
 以上就是针对初学者和中级程序员学习 Flutter 和 Dart 的一些**最佳课程。我还为寻找免费资源学习 Flutter 和开发 [iOS](/javarevisited/top-5-online-courses-to-learn-ios-12-swift-in-2019-a35ae1be7b2b?source=---------22------------------) 和 [Android](/hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4) 应用的程序员提供了一些免费的 Flutter 课程。**
 
@@ -194,8 +178,4 @@ medium.com](/flutter/announcing-codepen-support-for-flutter-bb346406fe50)
 
 **P. S.** —如果你想学习 Android 应用程序开发，但又在寻找一些免费的东西，那么我也建议你看看这些面向程序员的 [**免费 Android 课程**](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html) 。
 
-[](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675) [## 2023 年成为安卓开发者的 5 门免费课程
-
-### 这些是免费学习 Android 与 Java 和 Kotlin 的最佳免费课程
-
-medium.com](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675)****
+</javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675> ****

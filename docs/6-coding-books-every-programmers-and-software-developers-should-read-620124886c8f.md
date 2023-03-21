@@ -19,11 +19,7 @@ Martin Fowler 是软件设计、开发和测试领域的另一位伟人，他关
 
 如果你不熟悉它们，我建议你通过 Udemy 上的 [**面向对象设计和架构的坚实原理**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fsolid-principles-object-oriented-design-architecture%2F) 课程来学习它们。它们完全值得你花费时间和金钱。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fsolid-principles-object-oriented-design-architecture%2F) [## 面向对象设计和架构的坚实原则
-
-### 我是一名专业的 Android 开发人员，有着广泛的技术兴趣。在微电子工作后…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fsolid-principles-object-oriented-design-architecture%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fsolid-principles-object-oriented-design-architecture%2F>  
 
 # 提高编码技能的最佳书籍
 
@@ -100,11 +96,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 并且，如果你只是想做一件事，从 Udemy 上的 30 步 课程中的 [**开始用 Junit & Mockito 学习 Java 单元测试。学习 Java 中的单元测试是一门很棒的课程。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) [## 学习 Mockito 和 JUnit 教程(单元测试)
-
-### 编写伟大的单元测试将优秀的程序员与伟大的程序员区分开来。在本课程中，您将学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F>  
 
 ## 5.[实施精益软件开发:从概念到现金](https://www.amazon.com/Implementing-Lean-Software-Development-Addison-Wesley-ebook/dp/B00HNB3VQE?tag=javamysqlanta-20)
 
@@ -155,24 +147,12 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **附言**——把书当成你的朋友，听播客，看干净的代码讲座，最重要的是写代码并重构它，直到你能说它是干净的。如果你渴望成为一名更好的开发人员，请务必阅读我的 [**10 条成为专业程序员的技巧**](http://javarevisited.blogspot.sg/2014/01/10-tips-to-improve-programming-skill-become-better-programmer.html) 。
 
-[](http://javarevisited.blogspot.sg/2014/01/10-tips-to-improve-programming-skill-become-better-programmer.html) [## 提高编程技能并成为更好的程序员、开发人员的 10 个技巧
-
-### 很多 Java 开发者问我如何成为一个更好的程序员？我如何提高我的编程技能？或者我擅长…
-
-javarevisited.blogspot.sg](http://javarevisited.blogspot.sg/2014/01/10-tips-to-improve-programming-skill-become-better-programmer.html) 
+<http://javarevisited.blogspot.sg/2014/01/10-tips-to-improve-programming-skill-become-better-programmer.html>  
 
 **p . s . s .**——如果你是编程世界的新手，想学习编程成为一名程序员，那么我建议你从 Python 开始，没有比何塞·波尔蒂利亚的《Python 3:从零到英雄 》更好的课程了。
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2BY5LJC) 
+<http://bit.ly/2BY5LJC>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末**](https://pluralsight.pxf.io/c/1193463/871467/7490) 就在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

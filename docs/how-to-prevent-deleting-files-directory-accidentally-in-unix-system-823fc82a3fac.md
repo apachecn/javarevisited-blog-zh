@@ -2,11 +2,7 @@
 
 > 原文：<https://medium.com/javarevisited/how-to-prevent-deleting-files-directory-accidentally-in-unix-system-823fc82a3fac?source=collection_archive---------2----------------------->
 
-[](https://github.com/sophea/bash-script-sample/blob/master/prevent_remove_file_folder_in_linux.txt) [## sophea/bash-脚本-示例
-
-### Permalink GitHub 是 5000 多万开发人员的家园，他们一起工作来托管和审查代码、管理项目以及…
-
-github.com](https://github.com/sophea/bash-script-sample/blob/master/prevent_remove_file_folder_in_linux.txt) ![](img/faa6c76e52dfe4361cc67620d3f0fe64.png)
+<https://github.com/sophea/bash-script-sample/blob/master/prevent_remove_file_folder_in_linux.txt>  ![](img/faa6c76e52dfe4361cc67620d3f0fe64.png)
 
 默认情况下， **chattr** 命令在大多数现代 Linux 操作系统中都可用。 **chattr** 命令的默认语法是:
 
@@ -165,16 +161,4 @@ $rm -rf dir1output : rm: cannot remove ‘dir1/.lock’: Operation not permitted
 
 ## 你可能喜欢的其他文章
 
-[](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) [## 2020 年学习 Linux 命令行的 10 大课程——最好的免费课程
-
-### 有没有想过为什么命令行仍然在使用，即使有数百种人性化的图形用户界面和工具…
-
-medium.com](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) [](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6) [## 谷歌、微软和 Coursera 为初学者提供的 10 个免费 Python 教程和课程
-
-### 大家好，如果你在这里，那么让我首先祝贺你做出了学习 Python 的正确决定…
-
-medium.com](/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)
+</javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0>  </javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6> 

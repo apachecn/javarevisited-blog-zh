@@ -24,11 +24,7 @@ stack overflow 发表的一项研究显示，这种编程语言是近七年来�
 
 当我在开发 udemy 平台来学习这门语言的基础知识以及构建一些令人惊叹的项目时，我发现了一个名为[**The Complete JavaScript Course 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F)的项目，我想为什么不复习一下这门令人惊叹的课程呢？*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### 完全从零开始重建(68 小时视频)***“球场制作得非常非常好。超级深入…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F>  
 
 # Udemy 课程回顾—完整的 JavaScript 课程 2023:从零到专家！？值得吗？
 
@@ -112,10 +108,6 @@ Jonas 不仅精通 JavaScript，还精通 web 开发和 web 设计的所有其�
 
 **附言——**如果你是 JavaScript 新手，正在寻找免费的 JavaScript 课程来开始你的旅程，那么你也可以从 Udemy 查看这个 [**免费的 Javascript 基础课程**](http://bit.ly/2zNH9Tj) 。*
 
-*[](http://bit.ly/2zNH9Tj) [## 免费 JavaScript 教程- Javascript 基础
-
-### 劳伦斯·图尔顿是一名网页开发和平面设计师，专攻 HTML、CSS、jQuery、UI 和 UX 设计。他有…
-
-bit.ly](http://bit.ly/2zNH9Tj) 
+*<http://bit.ly/2zNH9Tj>  
 
 这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。它包含超过 6.5 小时的 Javascript 内容，超过 24 万名学生已经加入了该课程。*

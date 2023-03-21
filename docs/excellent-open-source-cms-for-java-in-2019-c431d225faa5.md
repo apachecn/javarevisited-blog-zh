@@ -28,7 +28,7 @@
 
 **商业——每月 26 美元**
 
-## [](https://www.weebly.com/uk?c=mkt_w_chnl:aff_geo:all_prtnr:sas_subprtnr:1338591_camp:brand_adtype:txtlnk_ag:weebly_lptype:hp_var:358504&sscid=61k3_8fbau)
+## <https://www.weebly.com/uk?c=mkt_w_chnl:aff_geo:all_prtnr:sas_subprtnr:1338591_camp:brand_adtype:txtlnk_ag:weebly_lptype:hp_var:358504&sscid=61k3_8fbau>
 
 **这个平台可以让你利用拖放的方式在几分钟内建立一个简单的网站。这个功能允许你添加任何你想要的，甚至洗出你需要的一切。Weebly 类似于 WordPress，但不是一个开源平台。根据你想如何使用它，它有不同的价格范围。**
 

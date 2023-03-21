@@ -82,15 +82,7 @@ kata 中的实验收藏框架已经发展到使用[琥珀项目](https://openjdk
 
 以下博客解释了定制集合框架设计在过去六个月中的演变。
 
-[](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [## Java 流很棒，但现在是更好的 Java 集合的时候了
-
-### 25 年后，Java 是时候进行集合升级了。
-
-medium.com](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [](/javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048) [## 渴望是容易的，懒惰是迷宫
-
-### 从初始化到迭代，学渴望比学懒惰容易。
-
-medium.com](/javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048) 
+</javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1>  </javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048>  
 
 我希望你觉得这个博客有用。检查源代码，并尝试回购中包含的卡片组和其他代码。
 

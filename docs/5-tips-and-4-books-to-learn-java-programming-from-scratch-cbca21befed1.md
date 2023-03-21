@@ -64,11 +64,7 @@ image_credit —教育性
 
 **Head First Java 以这样一种方式提供知识，使你很快就能理解 Java。编码部分有点简单，但是如果您按照代码示例并结合 IDE 使用这本书，那么您会学得更快。**
 
-**[](/javarevisited/is-complete-java-masterclass-from-udemy-good-to-learn-java-online-in-2021-review-cef466469733) [## Udemy 完整的 Java Masterclass 值得吗？回顾
-
-### 我在 Udemy 上对 Tim Buchalaka 的软件开发人员 Java 编程大师班课程的评论，值得吗…
-
-medium.com](/javarevisited/is-complete-java-masterclass-from-udemy-good-to-learn-java-online-in-2021-review-cef466469733)** 
+**</javarevisited/is-complete-java-masterclass-from-udemy-good-to-learn-java-online-in-2021-review-cef466469733> ** 
 
 ## **2.[凯·霍斯特曼的核心 Java](http://www.amazon.com/Core-Java-Impatient-Cay-Horstmann/dp/0321996321?tag=javamysqlanta-20)**
 
@@ -110,11 +106,7 @@ medium.com](/javarevisited/is-complete-java-masterclass-from-udemy-good-to-learn
 
 比如，作为一名 Java 开发人员，你需要掌握 [Java 集合](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)、[并发](/javarevisited/8-best-multithreading-and-concurrency-courses-for-experienced-java-developers-8acfd3b25094)、 [JUnit 测试](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688)、 [Java 性能优化](/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686?source=---------8------------------)、[设计模式](/javarevisited/7-best-online-courses-to-learn-object-oriented-design-pattern-in-java-749b6399af59?source=---------10------------------)。Java 中有很多东西需要学习，但最好从一本书开始，并适当地遵循它。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-programming) [## Java 编程和软件工程基础
-
-### 探索软件工程师的职业生涯。学习编程和软件开发的基础知识迈出第一步…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-programming) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-programming>  
 
 正如我之前所说，学习 Java 很容易，但掌握 Java 编程语言非常困难，因为它非常庞大，在语言、API、框架和库方面有太多的东西需要学习。因此，如果你不仅想学习 Java，还想掌握它，我建议你看看下面的建议，让自己在并发、集合、spring、hibernate、单元测试、JVM 内部和性能调优等重要领域变得强大。
 
@@ -137,8 +129,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找一些可以下载供离线阅读的免费 Java 书籍和 pdf，那么你应该看看这个列表，里面有 [**免费 Java 书籍**](http://www.java67.com/2013/11/10-free-java-programing-books-download-PDF-HTML.html) 和 [**免费 Java 课程**](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 。它包含了一些 Java 书籍和课程的合法免费拷贝，它们的作者和出版商可以免费在线阅读或下载 PDF 格式供离线阅读。
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年学习 Java 的 10 大在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)**
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> **

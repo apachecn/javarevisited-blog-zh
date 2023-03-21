@@ -153,8 +153,4 @@ CompTIA IT Fundamentals 正式考试涵盖了您在编程安全等非常基础�
 
 **附言** —如果你渴望通过代码为 **(ITF+ FC0-U61** )的 CompTIA IT Fundamentals 认证，但正在寻找一门*免费在线培训课程*，那么你也可以在 Udemy 上查看这门 16 小时的免费在线课程——[**【CompTIA IT Fundamentals(ITF+FC0-U61)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitprotv-comptia-it-fundamentals-fc0-u61%2F)。它是完全免费的，超过 20，000 名学生已经加入了这个课程。你只需要一个免费的 Udemy 帐户就可以注册这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitprotv-comptia-it-fundamentals-fc0-u61%2F) [## 免费的 CompTIA IT 基础教程- CompTIA IT 基础(ITF+ FC0-U61)
-
-### Don 已经在 IT 行业工作了 18 年多，在培训行业工作了 12 年多。他是一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitprotv-comptia-it-fundamentals-fc0-u61%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitprotv-comptia-it-fundamentals-fc0-u61%2F> 

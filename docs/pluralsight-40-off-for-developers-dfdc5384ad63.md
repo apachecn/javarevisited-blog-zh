@@ -18,27 +18,11 @@ Java 每六个月发布一个新版本，现在我们正在寻找 Spring 6 和 S
 
 举个例子，我通过在 Pluralsight 上的[Java 新特性](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new)和[**Spring 新特性 5**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-spring-5) 课程，了解了大部分 Java 新特性和 Spring 新特性。他们有这些 Java 8、Java 9、Java 10、Java 11、Java 12、Java 13、Java 14、Java 15、Java 16 和 Java 17 的小课程，可能很快就会推出。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new) [## Java 9 的新特性
-
-### 是时候跟上 Java 9 的发布及其发展了。在本课程中，您将了解…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new) [](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-spring-5) [## 春季 5 有什么新内容
-
-### Spring 是最流行的 Java 开发框架。本课程将向您介绍……的新功能
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-spring-5) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new>  <https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-spring-5>  
 
 虽然 [**Udemy**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0) 是我最喜欢学习新技能的地方，因为它提供了最大的课程集合，我在那里有许多我最喜欢的导师，但我也有 [Pluralsight](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 、 [LinkedIn Learning](http://linkedin-learning.pxf.io/c/1193463/449670/8005) 、 [DataCamp](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fpricing) 、 [Codecademy](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fsubscriptions%2FproAnnualV3%2Fcheckout%3FdiscountCode%3DCYBER21) 和[educational membership](https://www.educative.io/subscription?affiliate_id=5073518643380224)，因为我的大部分时间都在学习东西。
 
-[](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fsubscriptions%2FproAnnualV3%2Fcheckout%3FdiscountCode%3DCYBER21) [## 结帐|代码学院
-
-### 通过独家课程、测验和额外练习内容了解更多信息。路径向您展示从哪里开始以及要学习什么…
-
-www.gopjn.com](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fsubscriptions%2FproAnnualV3%2Fcheckout%3FdiscountCode%3DCYBER21) [](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fsubscriptions%2FproAnnualV3%2Fcheckout%3FdiscountCode%3DCYBER21>  <https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 谢天谢地，它们不是很贵，而且每月只有 200 美元的预算，我可以学任何我想学的东西。
 
@@ -82,7 +66,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **11.他们有一种叫做技能智商测试的东西，你可以用它来检查你的技术技能水平，然后努力提高。**
 
-**所以，这是加入 Pluralsight 的几个原因，如果你想加入，没有比现在更好的时间了，因为他们正在重新进行今年最好的交易，你可以在他们的年度和高级计划中获得高达 40%的折扣[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**。****
+**所以，这是加入 Pluralsight 的几个原因，如果你想加入，没有比现在更好的时间了，因为他们正在重新进行今年最好的交易，你可以在他们的年度和高级计划中获得高达 40%的折扣<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**。****
 
 ****[![](img/61bee186f5a46a777235a3c2d4b736aa.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)****
 
@@ -92,11 +76,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****他们还提供为期 10 天的免费试用期，这样你可以在加入他们之前检查一下课程的质量。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 您可能喜欢的其他**编程和课程文章**
 
@@ -120,8 +100,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你正在寻找在黑色星期五促销中可以买到的最好的 Udemy 课程，那么你也可以看看我列出的在黑色星期五促销中可以买到的 10 个最好的 Udemy 课程。
 
-[](https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html) [## 2022 年学习 Python 编程的 10 门最佳 Udemy 课程[更新]
-
-### 大家好，如果你想学习 Python 编程，并且正在寻找在线学习 Python 的最佳 Udemy 课程，那么…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html)****
+<https://javarevisited.blogspot.com/2020/05/top-10-udemy-courses-to-learn-python-programming.html> ****

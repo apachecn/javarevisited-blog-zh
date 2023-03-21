@@ -103,11 +103,7 @@ DBA 还负责数据对用户和客户的安全性、性能和可用性。本课�
 
 他们还提供一个 [**10 天的免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 无需任何承诺，这是一个很好的方式，不仅可以免费参加这个课程，还可以在加入 Pluralsight 之前检查课程的质量。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是一些最好的免费在线课程，供你自己学习微软 SQL Server **和 T-SQL** 。你可以在办公室或家里参加这些课程，按照自己的进度学习。
 
@@ -133,8 +129,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **P. S. —** 如果你不介意花点钱学习微软 SQL Server 的宝贵技能，那么我也建议你看看 Udemy 上 Brewster Knowlton 的 [**微软 SQL 初学者**](http://bit.ly/2zLX4Bu) 课程。这是一门综合课程，同时学习 SQL Server 和 T-SQL。
 
-[](http://bit.ly/2zLX4Bu) [## Microsoft SQL Server 和 T-SQL:从初级到高级
-
-### Brewster Knowlton 曾在商业智能行业的各个方面工作过。具有丰富的写作经验…
-
-udemy.com](http://bit.ly/2zLX4Bu)
+<http://bit.ly/2zLX4Bu> 

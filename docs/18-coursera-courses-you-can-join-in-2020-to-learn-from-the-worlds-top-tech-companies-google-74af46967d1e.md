@@ -258,8 +258,4 @@
 
 如果你正在寻找 2023 年最好的 Udemy 课程，那么你也可以看看我列出的 [**程序员和软件开发人员最佳 Udemy 课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 。包含了最好的 Udemy 课程，学习 Java、Python、Git，以及其他软件开发所需的必备技能。
 
-[](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) [## 十大 Udemy 课程，学习程序员和开发人员的基本工作技能-最好的
-
-### 毫无疑问，Udemy 是最受欢迎的电子学习平台之一，它帮助越来越多的人…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html)
+<https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html> 

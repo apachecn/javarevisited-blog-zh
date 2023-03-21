@@ -22,11 +22,7 @@
 
 我还建议你**学习 Python** 如果你还不知道它，如果你需要推荐，那么你可以在 Udemy 上查看这个[**Python 3 boot camp**](http://bit.ly/2BY5LJC)课程。由何塞·马西亚尔·波尔蒂利亚创建，它是在线学习 Python 的最佳资源之一。
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2BY5LJC) 
+<http://bit.ly/2BY5LJC>  
 
 # 2023 年学习人工智能的 7 门最佳在线课程
 
@@ -156,8 +152,4 @@ bit.ly](http://bit.ly/2BY5LJC)
 
 **P. S.** —如果你是认真的想进入 AI 和机器学习领域，我也建议你学习 Python，这是机器学习和 AI 最有价值的技能之一。如果你需要资源，看看这个列表中的 [**最好的 Python 课程**](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) ，开始你的旅程。
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2BY5LJC)
+<http://bit.ly/2BY5LJC> 

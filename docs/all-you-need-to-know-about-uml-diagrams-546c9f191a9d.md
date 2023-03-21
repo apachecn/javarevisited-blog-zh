@@ -133,8 +133,4 @@ Since 👏 is free of charge, I’d like to **make 👏 as one of our communicat
 😉If you are **following me and looking forward to my visit** to your story too, please give me **10**👏 to let me know️ ❤ ️
 ```
 
-[](/javarevisited/5-best-uml-books-and-courses-for-java-programmers-13c551a9235d) [## Java 程序员的 5 本最佳 UML 书籍和课程
-
-### UML 是软件设计的重要工具之一，这些是初学者最好的 UML 书籍和课程…
-
-medium.com](/javarevisited/5-best-uml-books-and-courses-for-java-programmers-13c551a9235d)
+</javarevisited/5-best-uml-books-and-courses-for-java-programmers-13c551a9235d> 

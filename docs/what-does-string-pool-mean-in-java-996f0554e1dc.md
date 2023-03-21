@@ -121,16 +121,4 @@ true
 
 ***你可能喜欢看下面的面试问题:***
 
-[](/@basecs101/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9) [## 你知道 Java 中的不可变类吗？为什么字符串是不可变的？
-
-### 关于不变性的一切——什么、如何以及何时。
-
-medium.com](/@basecs101/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9) [](/@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc) [## 字符串池在 Java 中是什么意思？
-
-### 了解 Java 中的字符串池，以及如何在字符串池中存储和检索对象。
-
-medium.com](/@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc) [](https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5) [## String、StringBuilder 和 StringBuffer:完整指南
-
-### 了解 java 中的文本/字符串操作类，如何以及何时使用它们。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5)
+</@basecs101/do-you-know-immutable-class-in-java-why-string-is-immutable-dc18b0cec4b9>  </@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc>  <https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5> 

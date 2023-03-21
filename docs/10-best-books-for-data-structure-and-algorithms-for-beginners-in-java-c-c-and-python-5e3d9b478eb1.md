@@ -42,11 +42,7 @@ Neo4j 的图像算法
 
 一口气读完这本书是不可能的，你们中的一些人可能会觉得阅读起来很困难，但不要担心，你可以将你的学习与在线课程结合起来，如与这本书一起的 [**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 的深度学习。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 这就像是两全其美，你可以在在线课程中快速学习基本算法，然后通过阅读这本书来进一步巩固知识，这对于你来说更有意义，因为你已经完成了一门课程。
 
@@ -62,15 +58,7 @@ click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80
 
 这本书也有几个免费的 Coursera 在线课程，[**算法第一部分**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) 和[**算法第二部分**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) ，很好地补充了这本书。太棒了。这也是我向 Java 程序员学习算法的首要推荐。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) [## 算法，第一部分
-
-### 这门课程涵盖了每个严肃的程序员需要知道的关于算法和数据的基本信息…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) [](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) [## 算法，第二部分
-
-### 这门课程涵盖了每个严肃的程序员需要知道的关于算法和数据的基本信息…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1>  <https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2>  
 
 在 Coursera 上，它也有一些最好的数据结构和算法课程，涵盖了每一个重要的主题。它们被捆绑在一起作为[Coursera Specialization on Algorithms](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-structures-algorithms)。如果你热衷于深入学习算法，那是我建议你去的地方。
 
@@ -118,11 +106,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你愿意，你也可以将你的学习与类似 [**算法和数据结构的在线课程结合起来——第一部分和第二部分**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 在 [Pluralsight](https://medium.com/u/50a6c7ef7431?source=post_page-----d50487313127----------------------) 上。在进入算法设计主题之前，熟悉基本算法和数据结构是一门很好的课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) [## 算法和数据结构-第 1 部分
-
-### 在本课程中，您将学习以下概念:数据结构的类型和算法链表堆栈…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1>  
 
 ## 7.算法导论:一种创造性的方法
 
@@ -134,7 +118,7 @@ Udi Manber 的《算法导论:一种创造性的方法》是另一本优秀的�
 
 ## 8.算法的设计和分析
 
-这是计算机算法方面的又一个伟大的厨师，值得在程序员的书架上占有一席之地。一旦你读完了 Coursera 关于算法的专业课程[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-structures-algorithms)*和一本入门书籍，你就可以阅读这本书来学习算法中的高级主题。*
+这是计算机算法方面的又一个伟大的厨师，值得在程序员的书架上占有一席之地。一旦你读完了 Coursera 关于算法的专业课程<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-structures-algorithms>*和一本入门书籍，你就可以阅读这本书来学习算法中的高级主题。*
 
 *[![](img/2d0dffac6beda82eb8a1c8c9cc8a63d1.png)](https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811?tag=javamysqlanta-20)*
 
@@ -144,7 +128,7 @@ Udi Manber 的《算法导论:一种创造性的方法》是另一本优秀的�
 
 *[![](img/4b49864ee2aadb4501802572c7be7305.png)](https://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237?tag=javamysqlanta-20)*
 
-*顺便说一句，如果你觉得这本书读起来很有挑战性，这也是我的一些读者抱怨的，那么你也可以看看 Aditya Bhargava 的[](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/?tag=javamysqlanta-20)**算法，这是一本对初学者来说最简单和令人兴奋的算法书籍。***
+*顺便说一句，如果你觉得这本书读起来很有挑战性，这也是我的一些读者抱怨的，那么你也可以看看 Aditya Bhargava 的<https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/?tag=javamysqlanta-20>**算法，这是一本对初学者来说最简单和令人兴奋的算法书籍。***
 
 ## ***10.Python 算法:掌握 Python 语言中的基本算法***
 
@@ -197,7 +181,7 @@ Udi Manber 的《算法导论:一种创造性的方法》是另一本优秀的�
 *   ***[75+实践面试中的编码问题](http://www.java67.com/2018/05/top-75-programming-interview-questions-answers.html)***
 *   ***[我最喜欢的深入学习算法的免费课程列表(freeCodeCamp)](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)***
 
-***感谢您阅读本文，如果您喜欢这份书单，那么您也会喜欢我收集的每个程序员都应该阅读的 10 本书[](http://java67.blogspot.sg/2015/03/10-books-every-programmer-and-software-engineer-read.html)****，**，这是一份关于编程、编码、软件开发技术、最佳实践、计算机、编程职业以及过去 50 年中一些伟大的程序员/编码员/开发人员的经验的书单。*****
+***感谢您阅读本文，如果您喜欢这份书单，那么您也会喜欢我收集的每个程序员都应该阅读的 10 本书<http://java67.blogspot.sg/2015/03/10-books-every-programmer-and-software-engineer-read.html>****，**，这是一份关于编程、编码、软件开发技术、最佳实践、计算机、编程职业以及过去 50 年中一些伟大的程序员/编码员/开发人员的经验的书单。*****
 
 > *****最后，有两种程序员，一种懂算法，一种不懂。*****
 
@@ -205,16 +189,8 @@ Udi Manber 的《算法导论:一种创造性的方法》是另一本优秀的�
 
 > ********p . s .——****如果你更喜欢在线课程而不是书本，或者你想同时从书本和在线课程中学习，那么你也可以查看我列出的* [***学习数据结构和算法的前 5 名在线课程***](https://javarevisited.blogspot.com/2018/11/top-5-data-structures-and-algorithm-online-courses.html#axzz5YFaOvjsh) ***。*** *包含 Java、Python、JavaScript 等课程，方便学习。******
 
-*****[](https://www.java67.com/2019/07/top-10-online-courses-to-learn-data-structure-and-algorithms-in-java.html) [## 2023 年学习数据结构和算法的 10 大在线课程-最佳选择
-
-### 大家好，在过去，我已经分享了很多有用的资源，如书籍和教程，以学习数据结构和…
-
-www.java67.com](https://www.java67.com/2019/07/top-10-online-courses-to-learn-data-structure-and-algorithms-in-java.html) 
+*****<https://www.java67.com/2019/07/top-10-online-courses-to-learn-data-structure-and-algorithms-in-java.html>  
 
 而且，如果你想学习系统设计，面试的另一个重要话题，那么你也可以查看 Alex Xu 的[**【ByteByteGo】**](https://bytebytego.com?fpr=javarevisited)，学习面试系统设计的最佳地点之一
 
-[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)*****
+<https://bytebytego.com?fpr=javarevisited> *****

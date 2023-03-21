@@ -28,11 +28,7 @@ Grails 在一个 zip 文件中包含了你需要的一切 web 服务器(Jetty)�
 
 如果你喜欢在线课程，这也是学习新技术、框架、编程语言或库的好方法，你也可以在 Udemy 上查看 [**完整的 Apache Groovy 开发者课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) 。这是一门学习 Groovy 的综合课程，我最近花了不到 10 美元买的。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) [## 完整的 Apache Groovy 开发人员课程
-
-### 你好，我是丹·维加。我是一名软件工程师，住在全球我最喜欢的地方之一——克利夫兰……
-
-udemy.com。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F>  
 
 # 我最喜欢的面向 Java 程序员的 Groovy 书籍
 
@@ -52,11 +48,7 @@ udemy.com。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&
 
 如果你需要一个在线课程来配合这本书，我建议你查看一下 Pluralsight 上的**[**Groovy 基础**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgroovy-fundamentals) 课程。你需要一个 Pluralsight 会员。如果您错过了免费课程，您还可以使用他们的 10 天免费通行证来免费学习这门课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgroovy-fundamentals) [## Groovy 基础知识
-
-### 3h 37m 描述本课程不仅将向您介绍 Groovy 语言，还将介绍
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgroovy-fundamentals)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgroovy-fundamentals> ** 
 
 ## **2. [Groovy 食谱:润滑 Java 的轮子](https://www.amazon.com/Groovy-Recipes-Greasing-Pragmatic-Programmers/dp/0978739299?tag=javamysqlanta-20)**
 
@@ -72,11 +64,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **如果你需要一门课程来配合这本书，请查看 Udemy 上的[测试人员 Groovy 基础——一步一步](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgroovy-fundamentals-for-testers-step-by-step%2F)。这是为测试人员准备的，但是对于从头开始学习 Groovy 非常有用。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgroovy-fundamentals-for-testers-step-by-step%2F) [## Groovy 测试人员基础——循序渐进
-
-### 这是唯一一门涵盖 web 自动化和 web 服务所需的所有基础知识的 Groovy 课程…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgroovy-fundamentals-for-testers-step-by-step%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgroovy-fundamentals-for-testers-step-by-step%2F> ** 
 
 ## **3. [Groovy 在行动，第二版](https://www.amazon.com/Groovy-Action-Covers-2-4/dp/1935182447?tag=javamysqlanta-20)**
 
@@ -92,11 +80,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **并且，如果你不介意从免费的在线课程这样的免费资源中学习，你也可以在 Udemy 上加入这个免费的 Groovy 课程—[**Groovy | Step by Step by grahav Pal**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F)已经有超过 12K 的开发者加入了这个免费的 Udemy 课程来在线学习 Groovy。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F) [## 免费的 Apache Groovy 教程- Groovy |初学者循序渐进
-
-### 在学习走路和跑步之前，我们经常需要有人牵着我们的手，帮助我们迈出最初的几步。这是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F)** 
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F> ** 
 
 ## **4.[编程 Groovy 2](https://www.amazon.com/Programming-Groovy-Productivity-Developer-Programmers/dp/1937785300?tag=javamysqlanta-20)**
 
@@ -110,21 +94,13 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **书籍对于学习新技术很有帮助，但是每个程序员都不一样。一些程序员发现在线或课堂培训比读书更容易。如果你更喜欢培训 overbook，你也可以看看 [**完整的 Apache Groovy 开发者课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) ，学习 Groovy 最好的在线课程之一。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) [## 完整的 Apache Groovy 开发人员课程
-
-### 你好，我是丹·维加。我是一名软件工程师，住在世界上我最喜欢的地方之一克利夫兰的郊外…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fapache-groovy%2F>  
 
 以上是 Java 开发人员学习 Groovy 的最佳书籍**。书不多，但这些都是你从头开始学习 Groovy 可以阅读的最好和最喜欢的书。第一本书非常适合 Java 开发人员，我建议从那本书开始。**
 
 此外，如果你也有兴趣学习 [Gradle](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e) ，这是一个流行的构建框架，通常被称为 [Maven 的替代品](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89)，那么你可以在 Udemy 上查看[**Gradle master class 课程**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-masterclass%2F) ，这是另一个只需几美元就可以获得的强大课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-masterclass%2F) [## Gradle Masterclass:学习用于 Java 开发的 Gradle
-
-### 在这里，您将了解这个星球上最先进的软件构建工具之一的复杂性和细微差别...在…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-masterclass%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-masterclass%2F>  
 
 正如我之前说过的，Groovy 由于其简洁的语法和强大的 API，在 Java 开发人员中越来越受欢迎，特别是在 [DevOps](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) 和[单元测试](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688)领域；因此，现在是学习 Groovy 的好时机，这不仅可以简化您的日常开发任务，还可以通过展示您的多语言编程技能为您的简历增色不少。
 
@@ -149,8 +125,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **P. S.** —如果你也有兴趣学习 Grails，这是一个开发类似 Ruby on Rails 的 Web 应用程序的 Groovy 框架，那么 Pluralsight 上的[**Grails 简介**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgrails-introduction) 是一个很好的开始课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgrails-introduction) [## Grails 简介
-
-### 关于作者，Dan 是软件技术组的脚本实践经理。Dan 也使用 Java……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgrails-introduction)**
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgrails-introduction> **

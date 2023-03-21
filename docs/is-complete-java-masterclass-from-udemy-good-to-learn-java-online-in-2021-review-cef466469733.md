@@ -18,11 +18,7 @@ image_credit — Udemy
 
 您不仅将学习如何设置您的环境，还将与 Tim Buchalaka 一起学习如何编写 Java 代码。该课程还附带了许多测验、练习和小项目，使学习变得非常有趣。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 如果你还没有决定是否要参加这个课程，那么*读一读我对软件开发人员 Java 编程大师课程的评论*，我相信你会找到答案。
 
@@ -116,8 +112,4 @@ Java 也可以用来创建运行在任何平台上的用户界面应用程序，
 
 **P. S.** —如果你热衷于学习 Java，但负担不起这门课程，并且正在寻找免费的在线培训课程来学习 Java，那么我强烈推荐你查看 Udemy 上的 [**【完全初学者 Java 教程(免费)**](http://bit.ly/2zO3AHT) 。这个课程是完全免费的，到目前为止已经有超过 100 万的开发者加入了这个课程来免费学习 Java。
 
-[](http://bit.ly/2zO3AHT) [## 免费 Java 教程-免费 Java 教程-完全初学者学习 Java
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/2zO3AHT)
+<http://bit.ly/2zO3AHT> 

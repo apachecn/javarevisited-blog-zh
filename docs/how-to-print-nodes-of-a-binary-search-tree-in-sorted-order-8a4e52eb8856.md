@@ -18,11 +18,7 @@ InOrder 遍历也称为**左节点右**或**左根右**遍历或 **LNR** 遍历�
 
 类似于[预排序算法](http://www.java67.com/2016/07/how-to-implement-preorder-traversal-of-binary-tree-in-java.html)，它也是深度优先算法，因为它在探索兄弟之前探索二叉树的深度。因为它是基本的二叉树算法之一，所以在[编程面试](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7)中很受欢迎。
 
-[](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) [## 程序员的 100+编码面试问题
-
-### 解决这些常见的编码问题，以便在下一次编程工作面试中表现出色。
-
-codeburst.io](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) 
+<https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7>  
 
 这些遍历算法也是学习更高级的[二叉树算法](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30)的基础，因此每个程序员都应该学习、理解并知道如何实现顺序和其他遍历算法。
 
@@ -80,11 +76,7 @@ public void inOrder() {
 
 顺便说一下，它还提供了 10 天的免费试用，没有任何义务，允许您观看 200 小时的内容。注册那个 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，就可以免费观看这些课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 # Java 中二叉树的有序遍历
 
@@ -187,14 +179,6 @@ import java.util.Stack;/*
 
 **P.S.** —如果你不介意从免费资源中学习，那么你也可以看看我为 Java 开发人员提供的 [**免费数据结构和算法课程**](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html) 列表。
 
-[](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [## 面向初学者的 10 大免费数据结构和算法课程——最好的
+</javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a>  </javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1>  
 
-### 算法和数据结构是计算机科学的两个最基本和最重要的课题，是计算机科学的基础
-
-medium.com](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>

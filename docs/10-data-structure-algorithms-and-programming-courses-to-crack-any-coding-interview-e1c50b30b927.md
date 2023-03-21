@@ -24,21 +24,13 @@
 
 *我真的很喜欢新兵训练营，因为他们的方法、专注和严格的实践，但他们有点贵，不是每个正在找工作的计算机科学毕业生都负担得起。如果你愿意，你还可以获得一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来获得不仅是这个课程，还有其他关于系统设计和开发的编码面试课程。*
 
-*[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+*<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 另一个选择是像[软件工程师面试释放](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fsoftware-engineer-interview-unleashed%2F)这样的在线课程，它们既便宜又能给你提供类似于你在编码训练营中得到的那种互动指导。
 
 在热门的课程网站上有很多编程面试课程，比如 Udemy、Coursera、T21 和 PluralSight，但是你需要选择正确的课程来帮助你实现你的目标。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-tech-interview) [## 掌握软件工程面试
-
-### 作为一名计算机科学家，你已经达到了一个重要的里程碑，并且正在成为一名有能力的程序员。你现在知道如何解决…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-tech-interview) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-tech-interview>  
 
 # 15+编程和编码面试最佳数据结构和算法课程
 
@@ -70,11 +62,7 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 这是所有级别程序员的理想课程，尤其是 Java 程序员。如果你正在寻找一个好的 Java 编程/编码面试课程，这是一个。你可以用它从头开始，或者只是在去面试前复习一下知识。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F) [## 数据结构与算法分析-工作面试
-
-### 编写运行更快、使用更少内存的代码，为软件工程师的工作面试做准备
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F>  
 
 ## 2.[钻研系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)
 
@@ -122,11 +110,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 而且，如果你发现教育平台很有用，那么你也可以考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，这样你每月只需花费**14.9 美元**就可以获得他们的 100 多门课程。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 提升技能不一定是一场斗争。通过 Educative Unlimited 获得所有+课程的完全访问权限，并获得工具…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 有时你需要这种灵活性，加入你想要的课程，而不是购买它。如果你打算在一年内参加几门以上的教育课程，这也是一个更好的交易。
 
@@ -148,11 +132,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **这里是参加零到精通学院**课程的链接— [精通编码面试](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn)
 
-[](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) [## 掌握编码面试:数据结构+算法
-
-### 一些顶级技术公司的 Ace 编码访谈“学习、实现和使用不同的数据结构”
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn>  
 
 ## [7。编码面试训练营:算法+数据结构](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcoding-interview-bootcamp-algorithms-and-data-structure%2F)
 
@@ -278,11 +258,7 @@ SQL 查询和数据库相关的问题在编程工作面试中非常常见，因�
 
 你需要大量的练习才能做到。谢天谢地，有很多网站可以让你练习编码问题。一旦你完成了这些课程中的一门，你可以试着解决我列出的 50 个编码问题。
 
-[](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [## 50+数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) 
+</hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>  
 
 # 现在，您已经为编码面试做好了准备
 
@@ -323,20 +299,4 @@ medium.com](/hackernoon/50-data-structure-and-algorithms-interview-questions-for
 
 **其他文章上** [**中**](https://medium.com/u/504c7870fdb6?source=post_page-----b657a195aa07----------------------) **你可能喜欢:**
 
-[](/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65) [## 2023 年编码面试 10 大最佳系统设计课程
-
-### 这些是 2021 年学习 Udemy，edX，Educative 进行编码面试的最好的在线课程。
-
-medium.com](/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65) [](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) [## 2023 年编码面试的 6 门最佳动态编程课程
-
-### 这些是从 Udemy，Educative 和 Coursera 学习动态编程的最佳课程，适用于…
-
-medium.com](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) [](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)*
+</javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65>  </javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c>  </javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0> *

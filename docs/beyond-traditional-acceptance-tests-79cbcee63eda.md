@@ -297,11 +297,7 @@ PetShopDDT > DomainOnly - Setting up the scenario PASSEDPetShopDDT > DomainOnly 
 
 从这里开始应该是下坡路了。您可以在此找到所有 PetShop 测试的完整代码:
 
-[](https://github.com/uberto/pesticide/tree/master/pesticide-examples/src/test/kotlin/com/ubertob/pesticide/examples/petshop) [## Uber to/杀虫剂
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/uberto/pesticide/tree/master/pesticide-examples/src/test/kotlin/com/ubertob/pesticide/examples/petshop) 
+<https://github.com/uberto/pesticide/tree/master/pesticide-examples/src/test/kotlin/com/ubertob/pesticide/examples/petshop>  
 
 这里只有另一个有趣的特性值得一提——在测试期间存储和检索新数据。
 

@@ -156,16 +156,4 @@ p . s——如果你需要一些免费资源，可以查看这个 [f **ree 数�
 
 **你可能喜欢的其他文章:**
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年学习 Java 的 10 大课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [## 我最喜欢的 2023 年学习软件架构的课程——最好的
-
-### 这些是 2023 年学习软件架构并成为解决方案架构师的最佳课程
-
-medium.com](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9> 

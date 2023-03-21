@@ -4,7 +4,7 @@
 
 ## 仅筛选集合中的唯一元素
 
-> 最初发表于[](https://asyncq.com/how-to-filter-distinct-elements-in-java)
+> 最初发表于<https://asyncq.com/how-to-filter-distinct-elements-in-java>
 
 **[![](img/25e4531ce9964e587586d44e1ff64394.png)](http://www.java67.com/2018/06/how-to-remove-duplicates-from-stream-in-java8-distinct-example.html)**
 

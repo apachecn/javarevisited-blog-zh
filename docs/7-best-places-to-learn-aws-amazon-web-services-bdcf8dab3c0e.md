@@ -90,11 +90,7 @@ AWS 官方门户网站最棒的一点是，所有的学习材料都是最新的�
 
 而且，如果你觉得教育平台和他们的互动课程很有用，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就能获得他们的 200 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于**免费在线学习 AWS 的最佳网站和平台**。亚马逊网络服务正在为 Twitch LinkedIn、BBC、百度等许多知名公司提供支持，你可以认为这是一种在全球范围内为你的企业提供支持的方式，而不用担心服务器或云的成本。
 
@@ -121,10 +117,6 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 感谢您阅读本文。如果你觉得这些*最好的免费学习 AWS 的网站和平台*有用，请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。
 
-**附言——**如果你喜欢 AWS，想学习 AWS 服务，但正在寻找一些免费课程，不要担心。首先，你也可以查看这份免费 AWS 课程清单[](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html)**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。**
+**附言——**如果你喜欢 AWS，想学习 AWS 服务，但正在寻找一些免费课程，不要担心。首先，你也可以查看这份免费 AWS 课程清单<https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html>**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。**
 
-**[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)**
+**</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> **

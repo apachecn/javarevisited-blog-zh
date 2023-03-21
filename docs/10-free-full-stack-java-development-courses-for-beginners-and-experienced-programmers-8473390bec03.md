@@ -22,11 +22,7 @@ image_credit — Spring Boot 新协议和 React 全栈开发
 
 如果你不介意花几块钱来学习像全栈 Java 开发这样的有用技能，那么我也推荐你去看看 Spring Boot 的 [**Go Java Fullstack 和 Ranga 的 React**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) 课程，Ranga 是一位 Java 博客作者，也是最好的 Udemy 讲师之一。你可以在 Udemy 上花 10 美元购买这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) [## 与 Spring Boot 一起使用 Java 全栈并做出反应
-
-### 用 React & Spring Boot 构建你的第一个 Java 全栈应用。立即成为 Java 全栈 Java Web 开发者！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F>  
 
 # 成为全栈 Java 开发人员的 10 门最佳免费课程
 
@@ -154,11 +150,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **顺便说一句，如果你打算参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅** n](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **8 **。** [**使用微服务架构开发云原生应用**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdeveloping-cloud-native-applications-microservices-architectures%2F)**
 
@@ -216,8 +208,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **如果你不介意花几块钱来学习像全栈 Java 开发这样有用的技能，那么我也推荐你去看看由 Ranga 教授的[**Go Java full stack with Spring Boot 和 React**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) 课程，Ranga 是一位 Java 博客作者，也是最好的 Udemy 讲师之一。你可以在 Udemy 上花 10 美元购买这门课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) [## 与 Spring Boot 一起使用 Java 全栈并做出反应
-
-### 用 React & Spring Boot 构建你的第一个 Java 全栈应用。立即成为 Java 全栈 Java Web 开发者！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F> **

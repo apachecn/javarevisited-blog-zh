@@ -22,11 +22,7 @@ REST 现在已经成为开发 web 服务的标准方式，而说到 Java，有�
 
 **Btw，如果你对 Spring 本身不熟悉，建议你先在 Udemy 上上一个类似 [**Spring Framework:初学者到 Guru**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 的综合课程。如果你知道 Spring 是如何工作的，它会帮助你开发 REST API。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) [## Spring 框架:初学者到大师教程
-
-### 通过 Spring Framework 5 和 Spring Boot 2 可用的最现代和最全面的课程来学习 Spring。你会…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F>  
 
 # 使用 Spring 在 Java 中创建 RESTful Web 服务的 7 个理由
 
@@ -56,11 +52,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **这意味着您不需要用注释来注释每个方法。这也使你的代码更加整洁。你可以进一步查看 [**Master Java Web Services 和 RESTful API with Spring Boot**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F)来了解更多关于这些来自 Spring 的 REST 注释。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F) [## RESTful Web 服务(Java Web 服务)教程
-
-### 休息？是的。Spring Boot？是的肥皂？是最佳实践？是动手？当然了。你想掌握建筑…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F> ** 
 
 ## ****4。支持从 URL 提取数据****
 
@@ -96,11 +88,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **这一关键差异会导致其他差异，比如用 JSON 或 XML 而不是 HTML 表示数据，这适合人类用户，但不适合非人类系统。如果您想在开始使用 Spring 开发生产级 RESTful web 服务之前了解更多，那么[**REST with Sprin**](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa)**g**课程是一个不错的起点。**
 
-**[](https://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:认证课程
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](https://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) 
+**<https://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa>  
 
 您可能喜欢的其他**弹簧**和**休息资源**
 
@@ -108,8 +96,4 @@ courses.baeldung.com](https://courses.baeldung.com/p/rest-with-spring-the-certif
 > [微服务与 Spring Boot](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fexploring-spring-boot-and-spring-cloud-microservices%2F)
 > [Spring in Action by Craig Walls](http://aax-us-east.amazon-adsystem.com/x/c/QiZVriYHFuciDCpQUIuQj8sAAAFhQeGL5QEAAAFKAVVDQvE/https://assoc-redirect.amazon.com/g/r/https://www.amazon.com/Spring-Action-Covers-4/dp/161729120X/ref=as_at?creativeASIN=161729120X&linkCode=w61&imprToken=7fwWaemDeV0uveAVwqurZw&slotNum=0&tag=javamysqlanta-20)
 > [Spring Framework 5:初学者到宗师](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F)
-> [掌握 Java Web 服务和 RESTful API 与 Spring Boot](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F)** **[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)**
+> [掌握 Java Web 服务和 RESTful API 与 Spring Boot](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F)** **</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd> **

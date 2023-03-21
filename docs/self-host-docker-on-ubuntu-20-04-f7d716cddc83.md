@@ -135,16 +135,4 @@ docker --version
 
 你可能喜欢的其他 **Docker 文章和资源**
 
-[](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 2021 年学习 Docker、Kubernetes 和 AWS 的 15 大在线课程
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/javarevisited/top-5-free-courses-to-learn-docker-for-beginners-best-of-lot-b2b1ad2b98ad) [## 2021 年学习 Docker 的五大免费课程——最佳选择
-
-### 如果你是一名使用 Java 或 C#或任何其他语言的应用程序开发人员，并且想成为一名 DevOps 工程师或…
-
-medium.com](/javarevisited/top-5-free-courses-to-learn-docker-for-beginners-best-of-lot-b2b1ad2b98ad) [](/javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee) [## 我最喜欢的为前端开发者学习 Docker 和 DevOps 的免费课程
-
-### 面向开发人员和 DevOps 专业人员的免费 Docker 课程精选列表
-
-medium.com](/javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee)
+</javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </javarevisited/top-5-free-courses-to-learn-docker-for-beginners-best-of-lot-b2b1ad2b98ad>  </javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee> 

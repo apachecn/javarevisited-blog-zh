@@ -16,11 +16,7 @@
 
 在这个列表中，我包括了最好的网站，像 Udemy，YouTube 和 [Coursera](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 这样的在线学习平台，以及像[**101 block chain**](http://shrsl.com/349rm)这样专门学习区块链的社区网站。如果你有任何其他学习区块链的好地方，请在评论中免费分享。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) [## 区块链
-
-### 利用下一个前沿技术进行创新。了解区块链如何引领去中心化的范式转变…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain>  
 
 # 免费在线学习区块链的 7 个最佳网站
 
@@ -88,11 +84,7 @@ Coursera 是一个经过精心挑选的在线学习平台。学生可以通过�
 
 顺便说一句，如果你喜欢 Coursera 课程和认证，那么你也可以参加[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是一个**订阅计划，提供超过 7000 门课程、专业认证和知名大学公司的专业认证。它每年花费大约 399 美元，绝对是你自我升级的最佳投资。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.多元视觉
 
@@ -124,11 +116,7 @@ Pluralsight 也提供区块链课程，这是一家提供在线区块链课程�
 
 你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费查看这些区块链课程中的任何一门。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 5.LinkedIn 学习
 
@@ -152,11 +140,7 @@ LinkedIn Learning 是一个类似于 [Udemy](https://javarevisited.blogspot.com/
 
 它介绍了区块链技术，并解释了去中心化的加密数据对商业和整个社会意味着什么。你可以使用他们的 [*1 个月免费试用*](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 免费加入这个课程。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 18，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 6.EatTheBlocks
 
@@ -206,8 +190,4 @@ YouTube 拥有最大的区块链资源集合，你可以在 2022 年免费在线
 
 **p . s .**——如果你认真学习区块链技术并寻找最好的区块链认证，那么 Coursera 上的这个 [**区块链认证**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) 是最好的资源。我的许多学生和读者都选了这门课，反馈非常好。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) [## 区块链
-
-### 利用下一个前沿技术进行创新。了解区块链如何引领去中心化的范式转变…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain> 

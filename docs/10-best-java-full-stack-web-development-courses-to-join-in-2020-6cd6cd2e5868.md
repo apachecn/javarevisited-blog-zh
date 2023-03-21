@@ -186,8 +186,4 @@ Angular 和 Spring Boot 是开发全栈应用的两种最热门的技术。
 
 **P. S. —** 如果你想学习全栈 Java 开发(包括前端和后端)并寻找一个免费的基于项目的课程，那么你也可以在 Udemy 上查看这个 [**构建 Angular 和 Spring MVC Web 应用**](http://bit.ly/2Dknigm) 课程。这是完全免费的，你只需要一个 Udemy 帐户就可以参加这个课程。
 
-[](http://bit.ly/2Dknigm) [## 免费全栈 Web 开发教程- Angular 和 Spring MVC(更新:Angular 9 和 Spring…
-
-### 欢迎使用 Angular 和 Spring MVC 进行全栈开发。对于那些不知道棱角和春天的人来说…
-
-bit.ly](http://bit.ly/2Dknigm)
+<http://bit.ly/2Dknigm> 

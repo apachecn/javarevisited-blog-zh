@@ -4,7 +4,7 @@
 
 ## 解决亚马逊提出的 SQL 问题
 
-> 最初发表于[](https://asyncq.com/highest-grossing-items-sql-question-asked-by-amazon)
+> 最初发表于<https://asyncq.com/highest-grossing-items-sql-question-asked-by-amazon>
 
 **![](img/61e65a2254adf8b3ceca669c191f87bb.png)**
 

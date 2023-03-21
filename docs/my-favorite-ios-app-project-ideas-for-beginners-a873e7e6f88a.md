@@ -20,11 +20,7 @@
 
 顺便说一句，如果你对 iOS 和 Swift 编程语言完全陌生，那么我强烈建议你参加一个全面的 iOS 课程，如 Udemy 上 Angela Yu 博士的[**iOS&Swift—**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F)完整的 iOS 训练营课程。该课程是学习 iOS 的最佳课程，受到超过 19 万学生的信赖。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS & Swift -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F>  
 
 # 2023 年 7 个最佳 iOS 和 Swift 初学者项目
 
@@ -111,11 +107,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这个 30 小时的基于项目的 iOS 课程非常适合初学者。你不仅要构建这些类型的应用程序，还要学习如何将它们上传到 AppStore，以便其他人可以下载和使用它们。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-64-ios9-projects-in-swift-build-50-apps-and-14-games%2F) [## 在 Swift 中构建 64 个 iOS9 项目。构建 50 个应用程序和 14 个游戏！
-
-### 建立 64 个 iOS 项目来提升你的职业生涯。将这些项目添加到你的 LinkedIn 或简历中。在…开始你的职业生涯
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-64-ios9-projects-in-swift-build-50-apps-and-14-games%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-64-ios9-projects-in-swift-build-50-apps-and-14-games%2F>  
 
 学习新技术和构建移动应用程序需要尽可能多地接触创建项目，以利用该语言的力量，增强您的知识和技能。
 
@@ -136,8 +128,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **P. S.** —如果你此刻只想做一件事来启动你的 iOS 应用程序开发之旅，就去参加 Udemy 上 Angela Yu 博士的**[**iOS&Swift——完整的 iOS bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 课程吧。该课程是学习 iOS 的最佳课程，受到超过 20 万学生的信赖。你会很快学会 iOS 和 Swift，永远不会后悔你的决定。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS & Swift -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F> **

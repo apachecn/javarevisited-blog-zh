@@ -25,7 +25,7 @@
 
 # 功能组件
 
-在[](https://javarevisited.blogspot.com/2021/09/what-are-react-and-redux-hooks-example.html)**中工作时更经常使用功能组件。这些只是简单的 **JavaScript** 函数。我们可以通过编写一个 **JavaScript** 函数在 [**React**](https://javinpaul.medium.com/top-5-courses-to-learn-react-js-in-2019-best-of-lot-fa02cd96cdf0) 中创建一个功能组件。在功能组件中，返回值是呈现(显示)到 DOM 树的 **JSX** 代码。**
+在<https://javarevisited.blogspot.com/2021/09/what-are-react-and-redux-hooks-example.html>**中工作时更经常使用功能组件。这些只是简单的 **JavaScript** 函数。我们可以通过编写一个 **JavaScript** 函数在 [**React**](https://javinpaul.medium.com/top-5-courses-to-learn-react-js-in-2019-best-of-lot-fa02cd96cdf0) 中创建一个功能组件。在功能组件中，返回值是呈现(显示)到 DOM 树的 **JSX** 代码。**
 
 **例如:**
 
@@ -73,10 +73,6 @@ export **default** App;
 
 **在这里，我让你熟悉了 React 和如何安装。**
 
-**[](/javarevisited/react-lets-get-started-20f0e71bf50f) [## 反应:让我们开始吧…
-
-### 每当我听到 React 的时候我都很着迷，但是我承认我看了一眼它，它吓了我一跳。我看到了什么…
-
-medium.com](/javarevisited/react-lets-get-started-20f0e71bf50f) 
+**</javarevisited/react-lets-get-started-20f0e71bf50f>  
 
 > 谢谢！对于阅读，我希望你已经学到了新的东西，并喜欢它。关注更多此类信息丰富的博客，并给予👏并做评论，它给了我写更多博客的鼓励，快乐学习！！祝你愉快！！！**

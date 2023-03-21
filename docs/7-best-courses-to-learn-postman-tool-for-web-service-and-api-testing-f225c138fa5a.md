@@ -63,11 +63,7 @@
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程。如果你有 Pluralsight 会员资格，你应该参加这个课程来学习这个优秀的 API 测试工具。如果你没有 Pluralsight 会员资格，那么你也可以试试他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，提供 200 分钟的免费观看时间，免费访问这个课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3. [REST API 测试，自动化使用 Postman](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frest-api-testing-automation-using-postman%2F)
 
@@ -95,11 +91,7 @@ REST APIs 是一种将系统连接在一起的好方法，这也是它们受欢�
 
 同样，你需要一个 [Pluralsight 会员](https://dev.to/javinpaul/pluralsight-vs-udemy-review-which-is-better-for-software-developers-276c)才能进入本课程。如果您没有会员资格，您仍然可以通过加入他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来访问该课程，该课程允许 200 分钟免费访问他们的所有 7000+课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[初级邮递员速成班—学习 API 测试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpostman-crash-course-for-beginners-learn-rest-api-testing%2F)
 
@@ -175,8 +167,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你喜欢这个工具，渴望学习和掌握它，但负担不起这些课程并寻找免费资源，那么你也可以在 Udemy 上查看由 tejasvi Hegde 提供的[**POSTMAN 简介—初学者指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-postman-a-beginners-guide%2F) 免费课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-postman-a-beginners-guide%2F) [## 免费邮差教程-邮差入门-初学者指南
-
-### 嗨，我是 Tej。我目前是一名软件工程师，专攻测试/基础设施自动化，CI-CD…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-postman-a-beginners-guide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-postman-a-beginners-guide%2F> 

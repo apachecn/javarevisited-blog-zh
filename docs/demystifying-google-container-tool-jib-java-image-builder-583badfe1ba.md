@@ -10,11 +10,7 @@
 
 你想知道 Jib 是什么吗？。在继续之前，你也许应该读一读我以前的文章。
 
-[](https://ashishtechmill.com/containerizing-spring-boot-application-with-jib) [## 用 Jib 集装箱化 Spring Boot 应用
-
-### 在本帖中，我们将了解如何创建 docker 或 OCI 投诉图片，而无需安装任何 docker 客户端或…
-
-ashishtechmill.com](https://ashishtechmill.com/containerizing-spring-boot-application-with-jib) 
+<https://ashishtechmill.com/containerizing-spring-boot-application-with-jib>  
 
 对于对 Java 应用程序的容器化感兴趣，但对创建和维护 Dockerfile 或安装 [Docker](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) 不感兴趣的 Java 开发人员来说，Jib 是一个优秀的工具。
 
@@ -99,12 +95,4 @@ Dive 还会告诉你是否在浪费空间，如果是的话，你可以想办法
 
 你可以在我的博客上继续阅读我以前的一些文章。
 
-[](https://ashishtechmill.com/) [## 阿什什·乔杜里
-
-### 我是一名软件工程师和技术作家，热爱 Java、Spring Boot、DevOps 和云。
-
-ashishtechmill.com](https://ashishtechmill.com/) [](https://ashishtechmill.com/running-kubernetes-application-on-docker-desktop-for-mac) [## 在 Mac 版 Docker 桌面上运行 Kubernetes 应用程序
-
-### 在这篇短文中，我将解释如何在 Mac 版 Docker 桌面上启用 Kubernetes 并进行部署…
-
-ashishtechmill.com](https://ashishtechmill.com/running-kubernetes-application-on-docker-desktop-for-mac)
+<https://ashishtechmill.com/>  <https://ashishtechmill.com/running-kubernetes-application-on-docker-desktop-for-mac> 

@@ -48,11 +48,7 @@ Coursera 最好的敏捷课程基本上是分为四门课程的专业化。这�
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[敏捷基础:包括 Scrum 和看板——2023 年](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-fundamentals-scrum-kanban-scrumban%2F)
 
@@ -79,11 +75,7 @@ Udemy 的另一个畅销书，这个课程是学习敏捷基础的另一个很�
 
 你还需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5. [Scrum 认证准备+ Scrum 大师+敏捷 Scrum 培训](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-certification%2F)
 
@@ -155,8 +147,4 @@ PMI-ACP 是项目管理领域中发展最快的认证之一，组织正在采用
 
 **【p . s .】**——如果你热衷于学习敏捷和 Scrum 方法论，但正在寻找免费的在线课程，那么你也可以看看这个 [**敏捷 PM 101——从 Udemy 了解敏捷与瀑布的真相**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-the-truth-about-agile-versus-waterfall%2F) 。在这个 2 小时的免费课程中，你将学习敏捷和 Scrum 基础知识。它是完全免费的，你只需要一个 Udemy 帐户就可以注册这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-the-truth-about-agile-versus-waterfall%2F) [## 免费敏捷教程-敏捷 PM 101 -了解敏捷与瀑布的真相
-
-### 重要提示:本课程是七门课程的大学综合课程的一部分(详见下文)。这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-the-truth-about-agile-versus-waterfall%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-the-truth-about-agile-versus-waterfall%2F> 

@@ -16,10 +16,6 @@
 
 调试可能很难，但它是 [**编程**](/javarevisited/top-10-free-interactive-programming-courses-from-educative-for-beginners-to-learn-in-2021-713cbf96d4eb) 的一个**重要部分。使用上述策略可以帮助您快速有效地找到并修复代码中的错误。通过**练习**，你可以**成为更好的调试器**，节省时间和精力，同时创造更好的代码。**调试愉快！****
 
-[](https://kapilbaser44.medium.com/5-steps-to-learn-and-master-coding-8709425f1848) [## 学习和掌握编码的 5 个步骤
-
-### 无论你是学生还是在职专业人士，问题“如何学习和掌握一门编程语言？”是…
-
-kapilbaser44.medium.com](https://kapilbaser44.medium.com/5-steps-to-learn-and-master-coding-8709425f1848) 
+<https://kapilbaser44.medium.com/5-steps-to-learn-and-master-coding-8709425f1848>  
 
 感谢您阅读这篇关于调试的文章。我们希望它对您有所帮助，并且您现在能够更好地识别和修复代码中的错误。如果您有任何进一步的问题或想了解更多关于编程的知识，**请关注** [Kapil Baser](https://medium.com/u/b813b18b3785?source=post_page-----6ccefba1679b--------------------------------) **获取更多提示和资源并给予支持**。感谢您的时间和快乐的编码！

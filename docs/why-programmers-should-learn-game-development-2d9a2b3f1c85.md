@@ -67,8 +67,4 @@
 
 **p . s .**——如果你对游戏开发感兴趣，并且正在寻找一些免费的东西开始，那么你也可以在 Udemy 上查看——[**Unity**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-game-development-with-unity%2F)游戏开发简介，这是一门免费课程。这个课程是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-game-development-with-unity%2F) [## 免费游戏开发基础教程 Unity 游戏开发入门
-
-### Yohann 拥有 FIU 大学的计算机科学学士学位。他一直是大学讲师…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-game-development-with-unity%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-game-development-with-unity%2F> 

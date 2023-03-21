@@ -101,24 +101,8 @@
 
 ****p . s .——**如果你想从学习 Kotlin 的在线课程开始，我认为使用 Kotlin 的 [**Android App 开发大师班是最好的开始。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandroid-oreo-kotlin-app-masterclass%2F)**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandroid-oreo-kotlin-app-masterclass%2F) [## Android Kotlin 开发大师班与 Android Oreo
-
-### 在本课程中，您将发现 Android 应用程序开发的强大功能，并获得大幅提高应用程序开发效率的技能
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandroid-oreo-kotlin-app-masterclass%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fandroid-oreo-kotlin-app-masterclass%2F>  
 
 ## 您可能喜欢的其他媒体文章:
 
-[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)  [## 我最喜欢在线学习的 SQL 和数据库课程
-
-### 大家好，如果你是一名计算机科学毕业生或刚进入编程世界并对学习感兴趣…
-
-medium.com](/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61)**
+</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>   **

@@ -20,7 +20,7 @@ LinkedIn Learning，以前被称为 Lynda，也是一个基于订阅的网站，
 
 他们也有一个流行技术的学习路径，例如，有一个 Java 程序员学习路径，它将以结构化的方式结合最好的 Java 课程，为您提供 20 个小时的学习时间。
 
-与 [**教育性**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 类似，他们也允许你购买单一课程，但我建议你按月订阅，这是在 LinkedIn Learning 上更划算的学习方式。只需[](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)**每月 29 美元，你就可以访问他们的 15000 多个在线课程，这些课程是由不同技术领域的专家创建的。**
+与 [**教育性**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 类似，他们也允许你购买单一课程，但我建议你按月订阅，这是在 LinkedIn Learning 上更划算的学习方式。只需<http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts>**每月 29 美元，你就可以访问他们的 15000 多个在线课程，这些课程是由不同技术领域的专家创建的。**
 
 # **LinkedIn Learning 2023 年加入的 10 门最佳 Java 和 Spring 课程**
 
@@ -158,11 +158,7 @@ JPA 提供了一些优于传统数据访问方法的优势，比如 [Java 数据
 
 **你只需订阅一个 LinkedIn 就可以观看所有这些课程。如果你已经订阅了 LinkedIn，那么你可以马上加入这个课程，或者，你也可以使用他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这些培训课程。**
 
- **[## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 17，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)** 
+ **** 
 
 **您可能希望探究的其他 **Java 和编程文章****
 
@@ -181,8 +177,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 ****附注——**如果你是 Java 编程新手，正在寻找免费的在线培训课程来磨练你的核心 Java 技能，那么我也建议你查看 Udemy 上的 [**完全初学者 Java 教程**](http://bit.ly/2zO3AHT) 课程。本文将从 Udemy、Pluralsight、Coursera 和其他在线门户网站找到许多免费的 Java 课程。**
 
-**[](http://bit.ly/2zO3AHT) [## 免费 Java 教程-免费 Java 教程-完全初学者学习 Java
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/2zO3AHT)**
+**<http://bit.ly/2zO3AHT> **

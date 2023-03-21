@@ -12,11 +12,7 @@
 
 三年前，我为《每个 Java 程序员都应该知道的 97 件事》*这本书写了一篇文章，题目是《学会形和形要学会》。*
 
- *[## 学习形和形来学习
-
-### 随着 Java 生态系统的不断发展，每个 Java 开发人员都需要不断学习新技能。Java……
-
-medium.com](/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c)* 
+ ** 
 
 *在本文中，我演示了如何用 Java 创建一个加入`Strings`的形练习。在本文中，我遍历了几个解决方案，并在此过程中进行了重构。我最终删除了我所有的解决方案，只留下了形，可以在以后解决。*
 
@@ -121,11 +117,7 @@ medium.com](/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c)*
 
 *我写了一篇关于 Eclipse 集合中异常处理的博客，其中包括一些使用`Appendable`接口的代码示例。*
 
-*[](/javarevisited/exception-handling-in-eclipse-collections-9e37a68fc6a9) [## Eclipse 集合中的异常处理
-
-### Java 8 之前和之后处理 Eclipse 集合异常的一些策略
-
-medium.com](/javarevisited/exception-handling-in-eclipse-collections-9e37a68fc6a9) 
+*</javarevisited/exception-handling-in-eclipse-collections-9e37a68fc6a9>  
 
 # 为什么用？而不是字符串
 

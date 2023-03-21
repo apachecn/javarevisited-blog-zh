@@ -8,7 +8,7 @@
 
 大家好，如果你是 Coursera 的粉丝，并且正在寻找最好的 Coursera 项目来学习 2022 年急需的技能，如 Java、Python、Web 开发、创建网站和项目管理，那么你来对地方了。
 
-以前我分享过最好的 Coursera 课程学习 [**Python**](/javarevisited/10-best-python-certification-courses-from-coursera-4576890eb6b3?source=extreme_sidebar----d3a191ac6ed-----0-1----------------------) **，** [**云计算**](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7) **，** [**人工智能**](/javarevisited/10-best-coursera-certifications-courses-for-machine-learning-and-artificial-intelligence-256d9a125822) **，** [**软件开发**](/javarevisited/10-best-software-development-courses-certifications-from-coursera-4ccc59aae201) **t，以及** [**Web 开发**](/javarevisited/10-best-coursera-courses-for-web-development-and-web-design-9ec54ed92dd9)t[](/javarevisited/10-best-courses-courses-and-certifications-for-business-finance-and-entrepreneurship-616b80cbd0e6)
+以前我分享过最好的 Coursera 课程学习 [**Python**](/javarevisited/10-best-python-certification-courses-from-coursera-4576890eb6b3?source=extreme_sidebar----d3a191ac6ed-----0-1----------------------) **，** [**云计算**](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7) **，** [**人工智能**](/javarevisited/10-best-coursera-certifications-courses-for-machine-learning-and-artificial-intelligence-256d9a125822) **，** [**软件开发**](/javarevisited/10-best-software-development-courses-certifications-from-coursera-4ccc59aae201) **t，以及** [**Web 开发**](/javarevisited/10-best-coursera-courses-for-web-development-and-web-design-9ec54ed92dd9)t</javarevisited/10-best-courses-courses-and-certifications-for-business-finance-and-entrepreneurship-616b80cbd0e6>
 
 **如果你不知道，Coursera 的指导项目提供实践学习，你可以在两个小时内学会任何技能。您不需要下载任何软件或设置您的开发，这对于经常努力自己设置东西的初学者来说是一个很大的优势。**
 
@@ -121,11 +121,7 @@ Coursera 的 [**引导项目**](https://coursera.pxf.io/c/3294490/1164545/14726?
 
 您可以通过单独购买的方式逐个加入这些项目，但是，如果您计划加入多个 Coursera 课程或专业，那么可以考虑参加[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**订阅，它将为您提供无限制的访问最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。********
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他最好的 Coursera 和编程文章
 
@@ -153,8 +149,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你正在寻找最好的 Udemy 课程来学习基本的编程和技术技能，那么你也可以看看我之前的一篇关于 [**十大 Udemy 程序员课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 的文章。它包含学习 SQL、Python、Java、数据结构、算法和其他关键技能的课程。
 
-[](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f) [## 2022 年 Java 开发者 10 大最佳 Udemy 课程
-
-### 大家好，如果你是一名 Java 开发人员，或者想成为一名专业的 Java 开发人员，并且正在寻找最好的 Udemy…
-
-medium.com](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f)****
+</javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f> ****

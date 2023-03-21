@@ -184,11 +184,7 @@ JavaScript 代码很难维护，尤其是当您在几个月甚至几年的时间
 
 如果你喜欢书，道格拉斯也写了一本同名的书[**JavaScript:The Good Parts**](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742?tag=javamysqlanta-20)，这是最值得推荐的 JavaScript 书籍之一。
 
-[](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742?tag=javamysqlanta-20) [## JavaScript:精彩部分:精彩部分
-
-### JavaScript:好的部分:Amazon.com 的好的部分[道格拉斯·克洛克福特]。*符合条件的优惠可享受免费*运输…
-
-www.amazon.com](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742?tag=javamysqlanta-20) 
+<https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742?tag=javamysqlanta-20>  
 
 # Pluralsight 的 25 门免费 JavaScript 课程
 
@@ -225,8 +221,4 @@ www.amazon.com](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/d
 
 如果你还在考虑 Pluralsight 会员资格是否值得，那么我建议你报名参加他们 [**的这个免费周末 10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 并查看这些课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> 

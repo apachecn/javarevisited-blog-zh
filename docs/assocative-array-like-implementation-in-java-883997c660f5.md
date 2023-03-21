@@ -58,11 +58,7 @@ Java 就像 JavaScript 一样**不**支持带有命名 indexes.Java 的数组**�
 
 下面是 github 的完整实现链接:
 
-[](https://github.com/root0109/util/blob/master/src/main/java/com/zaprit/collections/ArrayDictionary.java) [## root0109/util
-
-### 这是一组可以用来支持和简化 java 开发的工具。- root0109/util
-
-github.com](https://github.com/root0109/util/blob/master/src/main/java/com/zaprit/collections/ArrayDictionary.java) 
+<https://github.com/root0109/util/blob/master/src/main/java/com/zaprit/collections/ArrayDictionary.java>  
 
 ## **我在哪里使用它？**
 
@@ -70,11 +66,7 @@ github.com](https://github.com/root0109/util/blob/master/src/main/java/com/zapri
 
 您可以在下面阅读有关 Java 序列化问题的更多信息:
 
-[](https://www.linqz.io/2018/03/serialization-techniques-for-highly-scalable-systems.html) [## 高度可伸缩系统的串行化技术
-
-### 让我们一步一步地看看对象是如何序列化和反序列化的。所以当一个对象首先被序列化时…
-
-www.linqz.io](https://www.linqz.io/2018/03/serialization-techniques-for-highly-scalable-systems.html) 
+<https://www.linqz.io/2018/03/serialization-techniques-for-highly-scalable-systems.html>  
 
 这两个接口都要求开发人员实现读/写方法。
 

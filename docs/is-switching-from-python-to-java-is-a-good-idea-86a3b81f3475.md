@@ -23,11 +23,7 @@
 
 如果你需要更多的理由，你可以看看这篇关于为什么学习 Java 是个好主意的文章:
 
-[](https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html) [## 学习 Java 编程语言的 10 个理由以及为什么 Java 是最好的
-
-### 经常收到邮件问我该不该学 Java 编程或者为什么学 Java 好，以后会找工作吗…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html) 
+<https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html>  
 
 # 转 Java…怎么办？
 
@@ -137,11 +133,7 @@ Java 是在牢记向后兼容性的基础上创建的。这是好是坏？这种
 
 在 Python 的例子中，你做得更少，但是计算机做得更多。在 Java 中，与 [Python](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) 相比，一切都是颠倒的。因此，由于所有这些静态和编译，而不是动态类型和解释， [Java](https://dev.to/javinpaul/10-free-courses-to-learn-java-in-depth-3ikn) 运行得更快。这意味着您的 Java 程序将在更短的时间内执行，操作也将更快。对于用户来说，这并不总是一个明显的区别。然而，有时这可能是至关重要的。如果你想了解更多的区别，这张信息图也能帮到你
 
-[](https://javarevisited.blogspot.com/2018/06/java-vs-python-which-programming-language-to-learn-first.html) [## Java vs Python——程序员应该先学习哪种编程语言？
-
-### Java 和 Python 是当今最流行和最有影响力的两种编程语言。初学者…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/java-vs-python-which-programming-language-to-learn-first.html) 
+<https://javarevisited.blogspot.com/2018/06/java-vs-python-which-programming-language-to-learn-first.html>  
 
 # 结论
 
@@ -149,16 +141,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/java-vs-p
 
 学习 Python 和 Java 的资源
 
-[](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912) [## 10 门免费 Python 编程课程，供初学者在线学习
-
-### 毫无疑问，Python 是目前世界上排名第一的编程语言，它最大的优势是…
-
-hackernoon.com](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912) [](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) [## 2019 年 Java 开发者路线图
-
-### 我一直在分享很多成为 Web 开发者、DevOps 工程师、最近成为 React.js 开发者的路线图。一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)
+<https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912>  </javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  <https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html> 

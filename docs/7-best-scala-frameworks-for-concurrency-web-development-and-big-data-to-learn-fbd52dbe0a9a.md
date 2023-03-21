@@ -135,8 +135,4 @@ Scala 允许你使用你已经写好的代码，并把它部署到你已经配�
 
 **P. S. —** 如果你真的想学习 Scala 编程语言和框架，比如 Akka，并且正在寻找最好的 Scala 课程，那么你也可以看看 Udemy 上 Daniel 的 [**Scala 和面向初学者的函数式编程|摇滚 JVM**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) 课程。这个 15 小时 30 分钟的在线课程是在线学习 Scala 的最佳课程。
 
-[](https://javarevisited.blogspot.com/2020/09/top-5-courses-to-learn-scala.html) [## 2023 年在线学习 Scala 编程的前 5 门课程——最好的
-
-### 大家好，如果你想学习 Scala 编程语言并寻找最好的在线课程来开始你的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/09/top-5-courses-to-learn-scala.html)
+<https://javarevisited.blogspot.com/2020/09/top-5-courses-to-learn-scala.html> 

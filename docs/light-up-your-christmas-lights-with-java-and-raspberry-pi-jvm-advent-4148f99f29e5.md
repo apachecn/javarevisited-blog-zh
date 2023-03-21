@@ -247,4 +247,4 @@ Done
 
 ![](img/294f2a7248e89d2660e0a4aa64847254.png)![](img/03821a10e4e064dce9405cb62edf47e8.png)
 
-*原载于 2020 年 12 月 19 日 https://www.javaadvent.com*[](https://www.javaadvent.com/2020/12/light-up-your-christmas-lights-with-java-and-raspberry-pi.html)**。**
+*原载于 2020 年 12 月 19 日 https://www.javaadvent.com*<https://www.javaadvent.com/2020/12/light-up-your-christmas-lights-with-java-and-raspberry-pi.html>**。**

@@ -127,16 +127,4 @@ ImmutableList<IntIntPair> zipTwoAndOne = two.zipInt(one);
 
 **你可能喜欢的其他文章:**
 
-[](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员接下来会做什么？项目经理、技术架构师或 DevOps 工程师
-
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的 7 大课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d)
+</javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d> 

@@ -40,31 +40,19 @@
 
 该课程由普林斯顿大学免费提供，讲师凯文·韦恩和罗伯特·塞奇威克都是专业作家和讲师。罗伯特·塞奇威克还撰写了 [**算法书籍**](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X?tag=javamysqlanta-20) ，这是学习 Java 数据结构和算法的最佳书籍之一。
 
-[](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X?tag=javamysqlanta-20) [## 算法(第四版)
-
-### 算法(第四版)[Sedgewick，罗伯特，韦恩，凯文]对 Amazon.com。*符合条件的优惠可享受免费*运输…
-
-www.amazon.com](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X?tag=javamysqlanta-20) 
+<http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X?tag=javamysqlanta-20>  
 
 谈到社会证明，这门课程平均得到了 1000 名评论者的 4.9 分，这太令人惊讶了。一旦你注册，你就可以接触到所有的课程材料，而且完全免费，但是不像其他的课程，你不会得到结业证书。
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM 和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单一订阅让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**职业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值你的钱，因为你得到了**无限证书**。
 
 这里是本课程第二部分的链接， [**算法第二部分**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) ，它也是完全免费的
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) [## 算法，第二部分
-
-### 这门课程涵盖了每个严肃的程序员需要知道的关于算法和数据的基本信息…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2>  
 
 ## 2.[数据结构](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-part-1-lognacademy%2F)【免费 Udemy 课程】
 
@@ -104,11 +92,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 您还将学习如何在计算机上实现和存储图形。简而言之，一门[学习图形数据结构和算法的完美课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgraph-theory-algorithms%2F)。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgraph-theory-algorithms%2F) [## 图论算法
-
-### 计算机科学和数学中的图论算法的完整概述。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgraph-theory-algorithms%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgraph-theory-algorithms%2F>  
 
 ## 5.[动态编程— I](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdynamic-programming-i%2F)
 
@@ -122,11 +106,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 在解决了这些问题并理解了它们的分析之后，当你着手解决新的问题时，你将帮助你对任何类型的动态规划问题发展出一种强烈的直觉。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdynamic-programming-i%2F) [## 动态编程— I
-
-### 理解动态编程的最好方法是什么？我应该直接跳到问题上还是花大量的时间在…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdynamic-programming-i%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdynamic-programming-i%2F>  
 
 ## 6.[数据结构概念&单链表实现](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F)
 
@@ -138,11 +118,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *这里是加入本课程的链接—* [*数据结构概念&单链表实现*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F) [## 免费数据结构教程——数据结构概念和单链表实现
-
-### 数据结构是在计算机中存储和组织信息的一种特殊方式，以便于检索和管理
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F>  
 
 ## 7.[c++中的算法和数据结构介绍](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fintroduction-to-algorithms-and-data-structures-in-c%2F)
 
@@ -188,11 +164,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *本系列的第一部分涵盖了基本的数据结构，如链表、堆栈、队列、二叉树和[哈希表](http://www.java67.com/2017/08/top-10-java-hashmap-interview-questions.html)，第二部分关注高级数据结构和算法，如[数据排序](https://javarevisited.blogspot.com/2014/08/quicksort-sorting-algorithm-in-java-in-place-example.html)、字符串搜索、集合、AVL 树和并发问题。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) [## 算法和数据结构—第 1 部分
-
-### 初学 3h 14m 描述在本课程中，我们将了解在…中使用的核心数据结构和算法
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1>  
 
 顺便说一句，plur sight 的最后两门算法和数据结构课程并不完全免费，因为你需要[**plur sight 会员**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能访问它们。如果您不是会员，那么 Pluralsight 月会员每月大约花费 29 美元，年会员大约 299 美元，这也为您提供了 5000 多门最新技术课程。
 
@@ -225,23 +197,15 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 [30+基于数组的面试问题](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html)
 [30+基于 LinkedList 的 Java 面试问题](https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html)
 [搜索算法—书评](https://javarevisited.blogspot.com/2017/10/grokking-algorithms-by-aditya-bhargava-best-beginner-book.html)
- [](http://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html) [如何解决基于场景的算法面试问题](https://javarevisited.blogspot.com/2017/03/2-practical-data-structure-algorithm-interview-questions-java.html)
+ <http://www.java67.com/2018/04/21-string-programming-and-coding-interview-questions-answers.html> [如何解决基于场景的算法面试问题](https://javarevisited.blogspot.com/2017/03/2-practical-data-structure-algorithm-interview-questions-java.html)
 [面向程序员的 Top 5 数据结构与算法书籍](https://javarevisited.blogspot.com/2015/07/5-data-structure-and-algorithm-books-best-must-read.html)
 
 感谢您阅读本文。如果你喜欢这些免费的算法和数据结构课程，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
 **p . s .**——如果你不介意为一门好课程支付 10 美元，并且把你的时间看得比金钱更重要，那么我建议你查看一下这个 [**最佳数据结构和算法课程**](https://javarevisited.blogspot.com/2018/11/top-5-data-structures-and-algorithm-online-courses.html#axzz5YFaOvjsh) 的列表。
 
-[](/javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0) [## 面向 Java 开发人员的 10 大数据结构和算法课程
-
-### 这些是学习 Java 中数据结构和算法的最好的在线课程，包含免费和付费…
-
-medium.com](/javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0) 
+</javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0>  
 
 如果你更喜欢书籍而不是课程，那么你应该看看我列出的每个程序员都应该阅读的 10 本算法书籍。
 
-[](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)*
+</javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1> *

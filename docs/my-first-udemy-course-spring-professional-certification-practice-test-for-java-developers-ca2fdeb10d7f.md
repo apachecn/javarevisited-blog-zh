@@ -10,11 +10,7 @@
 
 这是为您的 spring 认证考试做准备的一个练习，也是破解 Spring 专业认证考试的一个练习，Spring 专业认证考试是 Java 开发人员最需要的认证之一。
 
-[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 实践考试|春季专业认证 2023
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 
+<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E>  
 
 如果你正在准备春季认证，那么你会喜欢这些测试。这些是为春季专业认证( [VMware EDU-1202](/javarevisited/spring-professional-certification-vmware-edu-1202-the-ultimate-guide-to-pass-spring-11dab8d311c3) )做准备的 250 多个独特且高质量的模拟测试。
 

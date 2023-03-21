@@ -24,11 +24,7 @@ python 如此受欢迎有很多原因，比如它用几行代码创建复杂代�
 
 顺便说一下，如果你是 Python 编程世界的新手，想从头开始，那么我强烈推荐你加入这些 [**最好的 Python 课程**](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 。它们价格实惠，是最新的，而且非常吸引人来在线学习 Python。
 
-[](https://becominghuman.ai/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad) [## 初学者的 10 个最佳 Python 课程
-
-### Udemy、Coursera、edX 为 2021 年学习编程的初学者精心策划的最佳 Python 课程列表…
-
-becominghuman.ai](https://becominghuman.ai/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad) 
+<https://becominghuman.ai/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad>  
 
 # 2023 年每个 Python 开发者都应该学习的 10 个工具
 
@@ -54,11 +50,7 @@ becominghuman.ai](https://becominghuman.ai/7-best-python-online-courses-for-begi
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但是也提供了许多超级吸引人和有用的课程，比如这个 Python 课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 简而言之，JetBrains 的 PyCharm 是 python 开发人员最常用和最喜欢的集成开发环境(IDE ),因为它有许多工具可以帮助您编写干净的代码，并且自动完成功能使它成为开发人员的最佳选择。
 
@@ -90,11 +82,7 @@ Pip 是最有用的 **python 工具**之一，每个开发人员都应该拥有�
 顺便说一句，你需要一个 [**CodeCademy PRO**](https://bit.ly/codecademypro) 才能加入这个课程。它的年费大约是每月 15.99 美元，提供所有 CodeCademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用现成的技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:Pro | CodeCademy
-
-### 文件锁图标通过独家课程、测验和额外练习内容了解更多信息。体验图标构建真实…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 4. [Scikit-Learn](https://scikit-learn.org/stable/) 【数据科学最佳 Python 库】
 
@@ -194,8 +182,4 @@ IDE 在浏览器上工作，您可以向代码和标题添加注释，并将其�
 
 **P. S. —** 如果你是 Python 新手，并且正在寻找一门全面的课程来深入学习 Python，那么我也推荐你在 Udemy 上查看一下由何塞·波尔蒂利亚教授的 [**完整的 Python 训练营**](http://bit.ly/2BY5LJC) 课程。该课程受到超过 100 万 python 开发人员的信任，是在线学习 Python 的最佳课程之一。
 
-[](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) [## 2023 年学习 Python 3 的前 5 门课程——最好的
-
-### 2018 年学习 Python 3 的一些最好的在线课程的集合。Python 是最强大而简单的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html)
+<https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html> 

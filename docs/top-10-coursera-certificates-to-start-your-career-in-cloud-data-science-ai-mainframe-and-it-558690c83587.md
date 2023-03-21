@@ -134,11 +134,7 @@ SAS 程序员
 
 顺便说一下，如果你想成为谷歌云认证，并证明你在谷歌云平台上设计和构建数据处理系统和操作机器学习模型的能力，你需要注册并通过官方的谷歌云认证考试。如果您需要一些指导和资源，您也可以查看此 GCP 认证 五大 [**课程列表。**](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html)
 
-[](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html) [## 在线学习的 5 大谷歌云平台(GCP)课程和认证
-
-### GCP 或谷歌云平台在公共云计算领域的进入时间稍晚，但它已经…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html) 
+<https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html>  
 
 ## 9. [IBM z/OS 大型机从业人员职业证书由 IBM 颁发](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-z-mainframe)
 
@@ -177,7 +173,7 @@ IBM
 
 # Coursera Plus
 
-如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你**无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
+如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你**无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
 
 **[![](img/402c7100ecb6b0731e7b5350d6311e41.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**
 
@@ -225,16 +221,4 @@ IBM
 
 ## **你可能喜欢的其他媒体文章**
 
-**[](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)  [## 我最喜欢在线学习的 SQL 和数据库课程
-
-### 大家好，如果你是一名计算机科学毕业生或刚进入编程世界并对学习感兴趣…
-
-medium.com](/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61) [](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)**
+**</hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>    </swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf> **

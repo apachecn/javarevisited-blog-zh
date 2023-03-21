@@ -100,11 +100,7 @@ Angular 2+提供了声明性模板、[依赖注入](https://javarevisited.blogsp
 
 而且，如果你想成为 Angular 的全栈 Java 开发者，那么我强烈推荐 Udemy 上 28 分钟官方的 Ranga Rao 的 [**Go Java 全栈与 Spring Boot 和 Angular**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) [## 用 Spring Boot 和 Angular 实现 Java 全栈
-
-### 成为全栈 Java 开发者。用 Angular 和 Spring Boot 构建你的第一个 Java 全栈应用。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F>  
 
 ## 6.引导程序
 
@@ -206,8 +202,4 @@ Spring 5.0 的采用与日俱增，这就是为什么每个 Java 开发人员都
 
 ****附言**。—我建议你成为 Angular 或 React 的全栈 Java 开发人员，以获得两个世界的最佳效果，给你的职业生涯一个推动。如果你想成为 React 的全栈 Java 开发者，那么我强烈推荐 Spring Boot 的 [**Go Java 全栈和 Udemy 上 Ranga Rao 的**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)28 分钟*官方*课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) [## 与 Spring Boot 一起使用 Java 全栈并做出反应
-
-### Ranga 是 AWS 认证解决方案架构师助理、AWS 认证开发人员助理和 AWS 认证云…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F> **

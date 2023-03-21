@@ -24,11 +24,7 @@
 
 编程面试总是因其理论性而受到批评，我的意思是，任何懂一点编程的人都可以通过参加一些常见的编程面试来找到工作，比如[字谜](http://javarevisited.blogspot.sg/2013/03/Anagram-how-to-check-if-two-string-are-anagrams-example-tutorial.html)、[字符串排列](http://javarevisited.blogspot.sg/2015/08/how-to-find-all-permutations-of-string-java-example.html)或[链表问题](http://javarevisited.blogspot.sg/2012/12/how-to-find-middle-element-of-linked-list-one-pass.html)，但那已经是过去的事情了。就像获得驾驶执照一样，你需要通过理论考试和实际驾驶，许多公司现在正在转向类似的模式，在他们给你提供工作之前，他们将测试你的理论知识和实际编程技能。这种增长趋势使得这些资源更受追捧。我是我在这里分享的所有网站的成员，解决了几个问题，并且仍然会在我有空的时候去那里，特别是 LeetCode 和 HackerRank
 
- [## 50 大数据结构和算法程序员面试问题
-
-### 准备编程工作面试？这里有 50 多个数据结构和算法问题，你可以练习…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) 
+  
 
 # 准备数据结构、算法和编码面试问题的 7 个最佳网站
 
@@ -152,8 +148,4 @@ Pramp 是另一个不错的网站，可以让你免费练习编码面试。加�
 
 如果你真的想进入 FAANG 公司，并且想尽一切办法，那么我也建议你加入[**Master the Coding Interview:Big Tech(FAANG)Interview**](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn)on ZTM 学院，作者 Andrei Negaoie，这是准备 FAANG 面试的最佳资源之一。还可以用码友 10 打九折。
 
-[](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn) [## 精通编码面试:大技术(FAANG)面试|零到精通
-
-### 我们向你保证，这是最好的 FAANG 面试准备课程，你可以找到，如果你是认真的…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn)
+<https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn> 

@@ -66,4 +66,4 @@ Java 是一种设计用于为万维网创建内容的编程语言，是一种面
 
 在 [Java web 开发服务](https://www.inexture.com/services/java-development/)中使用了许多应用程序。我们可以有把握地说，数以百万计的网站已经选择 Java 作为他们的应用程序开发媒介。
 
-*原载于 2022 年 1 月 10 日 https://www.inexture.com*[](https://www.inexture.com/how-to-use-java-in-web-application-development/)**。**
+*原载于 2022 年 1 月 10 日 https://www.inexture.com*<https://www.inexture.com/how-to-use-java-in-web-application-development/>**。**

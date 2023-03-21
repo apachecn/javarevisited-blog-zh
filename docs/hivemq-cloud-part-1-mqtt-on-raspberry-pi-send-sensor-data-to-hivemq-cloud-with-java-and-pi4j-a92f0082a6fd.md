@@ -386,4 +386,4 @@ Message sent to 'crowpi/noise': {"value":true}
 
 在本系列的下一篇文章中，我们将在仪表板中可视化传感器的数据。当然，在 Raspberry Pi 上再次使用 Java(和 JavaFX )!
 
-*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*[](https://www.hivemq.com/blog/mqtt-raspberrypi-part01-sensor-data-hivemqcloud-java-pi4j/)**。**
+*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*<https://www.hivemq.com/blog/mqtt-raspberrypi-part01-sensor-data-hivemqcloud-java-pi4j/>**。**

@@ -64,8 +64,4 @@
 
 这篇文章最初发表于[https://softgrade.org](https://softgrade.org)。为了让印刷热了新闻，考虑订阅作为一个免费会员那里！几个月后将会发布中等帖子。
 
-[](https://softgrade.org) [## 软坡度
-
-### 软件博客
-
-softgrade.org](https://softgrade.org)
+<https://softgrade.org> 

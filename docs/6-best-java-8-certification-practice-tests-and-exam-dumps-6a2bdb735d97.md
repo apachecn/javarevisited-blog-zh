@@ -36,7 +36,7 @@ image_credit — Whizlabs
 
 大多数考试模拟器还提供免费的样题和在线测试，你可以在购买之前进行测试，以判断问题的质量以及你是否物有所值。
 
-## 1.[](http://shrsl.com/?g0cb)
+## 1.<http://shrsl.com/?g0cb>
 
 **Whizlabs 考试模拟器当然是市场上准备 Java 认证的最佳产品。Whizlabs 也是商业 Java 考试模拟器的先驱之一，帮助 Java 开发人员超过 8 到 10 年。**
 
@@ -72,7 +72,7 @@ image_credit — Whizlabs
 
 **并且，如果你想支持的话，还可以在 Udemy 上查看我的 Java SE 认证测试，针对 [Java SE 8](https://www.udemy.com/course/java-foundations-exam-1z0-811-practice-tests-new/?referralCode=FE9DD7923503304B7EE3) 、 [Java SE 11](https://www.udemy.com/course/java-se-11-certification-exam-1z0-819-practice-tests/?referralCode=6A43D9FD2DD560081062) 、 [Spring](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 和 Java SE 17 认证。**
 
-## ****3。**[](https://enthuware.com/)**
+## ****3。**<https://enthuware.com/>**
 
 ****在我看来，Enthuware 考试模拟器是第二好的。我可以这么说，因为我在准备考试时也用过它。它也比 Whizlabs 便宜得多，大约 9 或 10 美元，非常便宜。****
 
@@ -127,11 +127,7 @@ image_credit — Whizlabs
 
 ****除了考试模拟器，你必须有一本好书或学习指南来准备任何像 OCAJP8 或 OCAJP8 这样的 Java 认证。市场上有很多好书，但我最感兴趣的是 Jeanne Boyarsky 和 Scott Selikoff 为 Java 8 编写的[学习指南。](https://www.amazon.com/dp/1118957407?tag=javamysqlanta-20)****
 
-****[](https://www.amazon.com/dp/1118957407?tag=javamysqlanta-20) [## OCA: Oracle 认证助理 Java SE 8 程序员 I 学习指南:考试 1Z0-808
-
-### OCA:Oracle Certified Associate Java SE 8 程序员 I 学习指南:考试 1z 0-808【Boyarsky，Jeanne，Scott Selikoff】关于…
-
-www.amazon.com](https://www.amazon.com/dp/1118957407?tag=javamysqlanta-20) 
+****<https://www.amazon.com/dp/1118957407?tag=javamysqlanta-20>  
 
 Jeanne 和 Scott 都知道通过 Java 认证需要什么。这本书表明，我强烈推荐这本书给任何准备 2023 年 Java SE 8 认证的 Java 程序员。
 
@@ -169,8 +165,4 @@ Jeanne 和 Scott 都知道通过 Java 认证需要什么。这本书表明，我
 
 ******附言:**如果您正在寻找为 Java SE 8 认证做准备的课程，那么 [Oracle Java 认证—通过准 1z 0–808 考试！从 Udemy 开始也是一个不错的地方。它解释了 OCAJP 8 考试所需的 Java 8 的新特性。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F)****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F) [## Oracle Java 认证(通过助理 1Z0-808 考试)
-
-### 你已经学了一些 Java，但还在努力争取面试机会，更别说找工作了。或者你陷入了低薪…
-
-udemy.com。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F)****
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F> ****

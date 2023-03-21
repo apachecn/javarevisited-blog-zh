@@ -94,19 +94,11 @@ Matplotlib 还附带了几个附加工具包，包括 3D 绘图工具、`axes_gr
 
 本课程是 Python 专门化 的 [**应用数据科学的一部分，Python 专门化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python)是 Coursera 中最受 Python 开发者欢迎的数据科学认证之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) [## 使用 Python 的应用数据科学
-
-### 获得对数据的新见解。学习应用数据科学方法和技术，并获得分析技能。的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python>  
 
 如果你需要认证，你可以直接以每月 39 美元的价格加入这个课程，或者以每月 399 美元的价格获得 [**Coursera plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它提供无限的认证和专业化访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 7. [ggplot2](https://ggplot2.tidyverse.org/)
 
@@ -124,11 +116,7 @@ ggplot2 也是一个成熟的库。它现在已经有 10 多年的历史了，�
 
 该课程由美国约翰·霍普金斯大学提供，也是 R 专业 [**数据可视化&仪表板**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-visualization-dashboarding-with-r) 的一部分。如果你想要一个数据科学和 R 方面的认证，你可以加入这个认证计划。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-visualization-dashboarding-with-r) [## 数据可视化&用 R
-
-### 约翰·霍普金斯大学的使命是教育学生，培养他们终身学习的能力
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-visualization-dashboarding-with-r) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-visualization-dashboarding-with-r>  
 
 ## 8. [D3.js](https://d3js.org/)
 
@@ -150,11 +138,7 @@ D3.js 代表数据驱动文档。这是一个基于数据操作文档的 JavaScr
 
 你可以单独参加这门课程，或者如果你喜欢教育平台和互动学习，那么你可以加入 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，就可以访问他们的 250 多门课程。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 # 学习数据可视化最好的方法是什么？
 
@@ -194,8 +178,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S. —** 如果您有兴趣了解有关数据可视化的更多信息，并寻找免费的在线课程来开始您的数据可视化之旅，那么您也可以查看 Udemy 上的 [**使用 Oracle 分析云的现代数据可视化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F) [## 免费数据可视化教程——使用 Oracle 分析云实现现代数据可视化
-
-### 嗨，很高兴你来了。我是一名经验丰富的技术营销专家，专注于大数据分析、数据…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F> 

@@ -121,8 +121,4 @@ Andrei Negaoie 的完整 python 开发者课程可能是教你从开始到高级
 
 **p . s .——**如果你更喜欢互动阅读和边做边学，而不是看书或看视频，那么你也可以看看[**CodeCademy Learn Python 3 course**](https://bit.ly/learnpython3codecademy)，这是一门边做边学 Python 的很棒的课程。这是他们职业套装的一部分，但值得学习。他们现在还提供 50%的 code CYBER21 优惠。
 
-[](https://bit.ly/learnpython3codecademy) [## 学习 Python 3 | Codecademy
-
-### Codecademy 是学习如何编码的最简单的方法。它是互动的，有趣的，你可以和你的朋友一起做。
-
-bit.ly](https://bit.ly/learnpython3codecademy)
+<https://bit.ly/learnpython3codecademy> 

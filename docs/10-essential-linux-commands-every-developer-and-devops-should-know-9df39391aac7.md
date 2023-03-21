@@ -10,7 +10,7 @@
 
 例如,`, cp -p`是我很晚才发现的一个选项，但自从我发现它以来，我一直在定期使用它，因为它保留了时间戳，我可以看到这个文件最初是何时创建的。
 
-我将在本帖中分享 10 个 Linux 命令示例[](https://javarevisited.blogspot.com/2020/08/10-examples-of-essential-linux-commands.html)***，我相信你会喜欢的，如果你已经知道它们，那么你很有可能在评论区与我们分享类似的内容。***
+我将在本帖中分享 10 个 Linux 命令示例<https://javarevisited.blogspot.com/2020/08/10-examples-of-essential-linux-commands.html>***，我相信你会喜欢的，如果你已经知道它们，那么你很有可能在评论区与我们分享类似的内容。***
 
 ***如果你在 Linux 主机上做过软件开发和支持，那么你可能会体验到 Linux 命令的威力。它们是运行服务器端应用程序和命令行的最重要的工具，掌握基本和高级 Linux 命令对成为更好的程序员和 IT 专业人员大有帮助。***
 
@@ -148,11 +148,7 @@ $ pwd -P
 
 *****顺便说一句，你需要一个 Pluralsight 会员才能观看本课程，或者，你可以使用他们的 [10 天免费试用](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来免费访问本课程。*****
 
-*****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)***** 
+*****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ***** 
 
 ## *****9.netstat -p(打印连接进程的进程 id)*****
 
@@ -214,8 +210,4 @@ done*****
 
 **附言——**如果您是 Linux 新手，并且正在寻找免费的在线培训课程来学习 Linux 中的基本命令和概念，那么我也建议您查看 Udemy 上的 [***学习 Linux 命令行:基本命令***](/javarevisited/7-best-linux-courses-for-developers-cloud-engineers-and-devops-in-2021-7415314087e1) 课程。它是完全免费的，超过 50，000 名学生注册了这门课程。你只需要一个免费的 Udemy 帐户就可以参加这个课程。*****
 
-*****[](https://javarevisited.blogspot.com/2021/06/5-websites-to-learn-linux-command-line.html) [## 免费学习 Linux 命令行的 5 个网站——最好的
-
-### 你可以使用这些网站从零开始学习 Linux 或者提高你的 Linux 技能，如果你已经在使用 Linux 但是没有…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/06/5-websites-to-learn-linux-command-line.html)*****
+*****<https://javarevisited.blogspot.com/2021/06/5-websites-to-learn-linux-command-line.html> *****

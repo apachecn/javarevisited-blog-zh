@@ -30,11 +30,7 @@
 
 如果你像我一样是一个视觉化的主动学习者，那么你也可以将这些书籍与在线课程结合起来，如[**《c++编程入门——从入门到超越》**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) ，它涵盖了你需要了解的关于 CPP 的一切，也提供了一个更加主动和视觉化的学习体验。这种书和课程的结合很好地在短时间内学习了新的东西。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) [## C++编程入门——从初学者到超越
-
-### 哪种编程语言通常被视为软件开发人员的荣誉徽章？C++哪种编程语言…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F>  
 
 # 2023 年初学者和有经验的开发人员学习 C 和 C++的十大书籍
 
@@ -70,27 +66,15 @@ K&R 涵盖了整个语言的规范，这对于其他不同语言的书籍来说�
 
 如果你需要一门网络课程来搭配这本书，我建议你在 Coursera 加入杜克大学的[**C 专业编程入门**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fc-programming) 。这是一个在几周内学习和掌握 C 编程的伟大课程集。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fc-programming) [## C 编程入门
-
-### 学习重要的编程基础。掌握解决复杂问题的编程技巧。这种专业化…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fc-programming) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fc-programming>  
 
 除此之外，Coursera 还为每个人提供了 [**编码:C 和 C++特殊化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcoding-for-everyone) 和 [**C++编程:这是一个实用的入门特殊化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fhands-on-cpp) ，非常适合学习 C++编码和开发
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fhands-on-cpp) [## C++编程:实践介绍
-
-### Codio 是一个实践学习平台，支持在计算和技术技能教育方面取得更好的成果，并用于…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fhands-on-cpp) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fhands-on-cpp>  
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[《c++程序设计语言(第四版)](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840?tag=javamysqlanta-20)
 
@@ -126,11 +110,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你需要一门高级课程来搭配这本书，可以看看约翰·珀塞尔的《学习高级 C++编程》 。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-advanced-c-programming%2F) [## 通过开发高级应用程序学习高级 C++编程
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-advanced-c-programming%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-advanced-c-programming%2F>  
 
 ## 6.[有效的 C++和更有效的 C++](https://www.amazon.com/Effective-Digital-Collection-Improve-Programming-ebook/dp/B008E30L9A?tag=javamysqlanta-20)
 
@@ -203,8 +183,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****P. S. —** 虽然这些书对于学习 C 和 C++都是非常好和完美的，但是如果对你来说越来越难，那么我也建议你参加一个像 [**开始 C++编程—从初学者到超越**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) 这样的课程，它涵盖了你需要知道的关于 CPP 的一切，并提供了一个更加积极和可视化的学习体验。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) [## C++编程入门——从初学者到超越
-
-### 哪种编程语言通常被视为软件开发人员的荣誉徽章？C++哪种编程语言…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F> **

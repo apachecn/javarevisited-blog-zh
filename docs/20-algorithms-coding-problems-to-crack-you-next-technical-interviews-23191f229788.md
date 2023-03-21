@@ -74,11 +74,7 @@
 
 而且，如果你真的想做得更好，你也可以查看这个[课程列表来破解你的编程工作面试](https://dev.to/javinpaul/10-data-structure-algorithms-sql-and-java-courses-to-crack-any-programming-job-interview-11f6)
 
-[](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) [## 程序员的 100+编码面试问题
-
-### 解决这些常见的编码问题，以便在下一次编程工作面试中表现出色。
-
-codeburst.io](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) 
+<https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7>  
 
 ## **5。二叉树的深度优先搜索算法是什么？**(解决方案)
 
@@ -100,11 +96,7 @@ codeburst.io](https://codeburst.io/100-coding-interview-questions-for-programmer
 
 *这个的时间复杂度是* `*O(n ^2)*` *这使得它对于大的数字集合不可用，但是对于小的数字集合却很好。*如果你想了解更多，你可以在 freeCodeCamp 上查看这些免费的[数据结构和算法课程](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)
 
-[](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [## 面向初学者的 10 大免费数据结构和算法课程——最好的
-
-### 算法和数据结构是计算机科学的两个最基本和最重要的课题，是计算机科学的基础
-
-medium.com](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) 
+</javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a>  
 
 ## **7。稳定排序算法和不稳定排序算法的区别？(** [**回答**](https://javarevisited.blogspot.com/2017/06/difference-between-stable-and-unstable-algorithm.html) **)**
 
@@ -256,24 +248,8 @@ a = a — b; //5`
 
 ****附言——**如果你正在准备技术面试，那么我也建议你通过 [**寻找编码面试:编码问题的模式**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 来学习 16 种有用的编码模式，如滑动窗口、两个指针、快慢指针、合并间隔、循环排序和 Top K 元素，它们可以帮助你解决许多常见的编码问题。**
 
-**[](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式——互动学习
-
-### 编码面试一天比一天难。几年前，我温习了关键数据结构并浏览了…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+**<https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 ## 来自媒体的其他数据结构和算法文章
 
-[](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [## 50+数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)**
+</hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>  </javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1> **

@@ -104,11 +104,7 @@ image_credit — Udemy
 
 总的来说，学习 Ansible 是一门很好的课程，但你需要一个 Pluralsight 会员才能进入这门课程，每年大约需要 299 美元。或者，您也可以报名参加 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，免费参加本课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[答:从零到生产就绪](https://www.educative.io/courses/ansible-zero-to-production-ready?affiliate_id=5073518643380224)【教育性】
 
@@ -131,11 +127,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 而且，如果你找到了教育平台和他们基于文本的互动课程，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 100 多门课程。它非常划算，非常适合准备编码面试和学习 Docker、Ansible、Kubernetes 等最新技术。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于**要深入学习 Ansible 的 7 大在线课程**。正如我所说的，Ansible 是一个很好的工具，特别是对于 DevOps 工程师来说。Ansible 是软件供应、配置管理和应用程序部署的领先工具之一，学习 Ansible 对您的职业生涯大有裨益。
 
@@ -161,8 +153,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你正在寻找一些免费课程来开始你的 DevOps 之旅，并学习像 Jenkins、Docker 和 Kubernetes 这样的基本工具，那么你应该看看这个为 DevOps 和程序员提供的 [**免费 Jenkins、Docker 和 Kubernetes 课程**](http://www.java67.com/2019/03/5-free-devops-courses-to-learn-jenkins.html) 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-jenkins-docker-and-kubernetes-for-devops-in-2020-best-of-lot-62a0541ffeb3) [## 2023 年学习 DevOps 的十大免费 Jenkins、Docker 和 Kubernetes 课程—最佳选择
-
-### 大家好，你们可能听说过 DevOps 以及它现在受到的所有关注。DevOps 是一种新现象…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-jenkins-docker-and-kubernetes-for-devops-in-2020-best-of-lot-62a0541ffeb3)
+</javarevisited/top-10-free-courses-to-learn-jenkins-docker-and-kubernetes-for-devops-in-2020-best-of-lot-62a0541ffeb3> 

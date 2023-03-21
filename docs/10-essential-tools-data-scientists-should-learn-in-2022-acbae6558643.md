@@ -151,8 +151,4 @@ RStudio 是 R 的集成开发环境(IDE ),有两种格式:RStudio Desktop 是常
 
 页（page 的缩写）如果你是数据科学、数据分析和机器学习领域的新手，并且需要资源来开始学习数据科学，那么你也可以查看 Coursera 和约翰霍普金斯大学的这些 [**最佳数据科学课程，这是 2023 年学习数据分析和数据科学的最佳平台之一。**](/javarevisited/11-best-coursera-certifications-and-courses-for-data-science-and-analysis-in-2021-65ce1ac810a5)
 
-[](https://javarevisited.blogspot.com/2021/05/best-johns-hopkins-courses-for-data-science-coursera.html) [## Coursera 和约翰霍普金斯大学 2023 年排名前五的数据科学课程和认证-最佳…
-
-### 你好，伙计们，如果你想在数据科学和机器学习领域开始职业生涯，并寻找最好的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/05/best-johns-hopkins-courses-for-data-science-coursera.html)
+<https://javarevisited.blogspot.com/2021/05/best-johns-hopkins-courses-for-data-science-coursera.html> 

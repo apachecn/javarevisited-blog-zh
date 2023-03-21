@@ -22,11 +22,7 @@
 
 顺便说一句，如果你不介意花几块钱学习像 Docker 这样有价值的东西，那么我也建议你看看 Udemy 上 Stephen Grider 的 [**Docker 和 Kubernetes:完整指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) 。这是一门真正的宝石课程，你可以在 Udemy flash sales 上以 10 美元的价格买到。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，那么这就是适合你的课程。CI+CD…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F>  
 
 正如我所说的，Docker 和容器是开发和交付应用程序和 IT 基础设施的全新方式，这里是我列出的一些前端开发人员可以用来学习 Docker 的免费课程。
 
@@ -48,11 +44,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 简而言之，这是开发人员和 [DevOps 工程师](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html)想要学习基础知识的最佳课程之一，比如 Docker 容器是什么以及如何在他们的环境中使用它们。
 
-[](https://www.udemy.com/course/docker-essentials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kmz4d9P2ivqQ_gi7jLWJMA) [## 免费 Docker 教程- Docker 精要
-
-### 本课程将带您踏上使用 Docker 生态系统的关键组件学习容器的美妙旅程。所有你…
-
-www.udemy.com](https://www.udemy.com/course/docker-essentials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kmz4d9P2ivqQ_gi7jLWJMA) 
+<https://www.udemy.com/course/docker-essentials/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kmz4d9P2ivqQ_gi7jLWJMA>  
 
 ## 2.[了解 Docker 并将其用于 Selenium 自动化](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-docker-performing-selenium-automation%2F)
 
@@ -64,11 +56,7 @@ www.udemy.com](https://www.udemy.com/course/docker-essentials/?LSNPUBID=JVFxdTr9
 
 **这里是免费参加本课程的链接**——[了解 Docker 并将其用于 Selenium Automation](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-docker-performing-selenium-automation%2F)
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-docker-performing-selenium-automation%2F) [## 免费硒测试框架教程-了解 Docker 和使用它的硒…
-
-### 理解 Docker 和使用它的硒自动化课程是以这样一种方式设计的，任何一个零…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-docker-performing-selenium-automation%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-docker-performing-selenium-automation%2F>  
 
 这三个部分是相互独立的，你可以并行学习或者来回切换。
 
@@ -106,11 +94,7 @@ Docker 和 containers 是开发和交付应用程序和 IT 基础设施的全新
 
 **这里是免费参加这个课程的链接**——[devo PS Essentials](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F) [## 免费 DevOps 教程- DevOps 精要
-
-### 你有没有想过 DevOps 是什么？您是否经常听到诸如“持续集成”、“构建自动化”等术语…
-
-Udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F>  
 
 ## 6.初学者码头工人
 
@@ -168,11 +152,7 @@ OpenShift 建立在 Docker、 [Kubernetes](/javarevisited/7-free-online-courses-
 
 我有年度会员资格，因为我必须一直学习很多新东西。即使你不是会员，只要签下他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 就可以免费获得这门课程，没有义务。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 这就是为前端开发人员提供的一些免费 Docker 容器课程。如果你正在开发一个移动应用或网络应用，这是一个基本技能。因此，我建议每个应用开发者在 2023 年学习 Docker。
 
@@ -202,8 +182,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 > **附:如果你不介意花几块钱学一些值得学的东西，那么斯蒂芬·格里德的《Docker 和 Kubernetes:完全指南》是我推荐的另一门课程。这不是免费的，如果你是一个非免费的课程，我也会得到报酬，但这是我在学习 Docker 时遇到的最好的课程之一。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，那么这就是适合你的课程。CI+CD…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F> **

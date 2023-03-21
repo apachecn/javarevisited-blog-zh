@@ -54,11 +54,7 @@ TCP/IP 和 UDP 等基本计算机网络协议的良好知识也将在编程工�
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加[**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 2. [TCP/IP 图解](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469/?tag=javamysqlanta-20)
 
@@ -76,11 +72,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你需要一些主动学习的在线课程，你也可以在 Udemy 上查看马克·尼尔森的 [**学习 TCP/IP——计算机网络基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-tcpip-computer-networking-fundamentals%2F) 课程。它很好地补充了这本书，将必要的信息压缩到 2 小时的课程中。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-tcpip-computer-networking-fundamentals%2F) [## 学习 TCP/IP -计算机网络基础知识
-
-### 我拥有计算机科学(IT)硕士学位，通过多年的学习，我了解到…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-tcpip-computer-networking-fundamentals%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-tcpip-computer-networking-fundamentals%2F>  
 
 ## 3.[与 TCP/IP 的网络互联](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X?tag=javamysqlanta-20)
 
@@ -90,7 +82,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [![](img/dbd8975c4fe90159d0361e7b58e9f105.png)](https://medium.com/javarevisited/7-best-linux-courses-for-developers-cloud-engineers-and-devops-in-2021-7415314087e1)
 
-## 4.[](https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224)****【课程】**软件工程师计算机网络探索**
+## 4.<https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224>****【课程】**软件工程师计算机网络探索**
 
 **顺便说一句，如果你真的想详细地学习计算机网络，并且需要一个互动的平台，那么我也建议你去看看 Educative 的 [**为软件工程师寻找计算机网络**](https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224) 课程，这是一个基于文本的互动平台，学习软件开发和计算机科学技能。**
 
@@ -100,19 +92,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **以下是加入本课程的链接— [**为软件工程师探索计算机网络**](https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224)**
 
-**[](https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224) [## 软件工程师的计算机网络探索——交互式学习
-
-### 今天开发应用程序的方式要求软件工程师对客户机-服务器有一个牢固的理解…
-
-www.educative.io](https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224) 
+**<https://www.educative.io/courses/grokking-computer-networking?affiliate_id=5073518643380224>  
 
 顺便说一句，你可以单独参加这个课程，也可以参加 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) (推荐)来访问他们的 250 多个高质量、基于文本的交互式课程，以学习编码面试、软件开发和技术的关键技能。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 5.[《TCP/IP 指南》:全面、图文并茂的互联网协议参考](https://www.amazon.com/TCP-Guide-Comprehensive-Illustrated-Protocols/dp/159327047X/?tag=javamysqlanta-20)
 
@@ -158,8 +142,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你完全是计算机网络初学者，或者想重温你的计算机技能，并寻找一门免费课程开始学习，那么你也可以查看 Udemy 上的 [**初学者网络概念**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-concepts-for-beginners%2F) 免费课程。完全免费。你需要做的就是创建一个免费的 Udemy 帐户来学习这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-concepts-for-beginners%2F) [## 免费 IT 网络基础教程-基本 IT 网络基础概念免费教程
-
-### 本课程是为任何想要了解网络技术的人设计的。你有没有想过什么…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-concepts-for-beginners%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetworking-concepts-for-beginners%2F> **

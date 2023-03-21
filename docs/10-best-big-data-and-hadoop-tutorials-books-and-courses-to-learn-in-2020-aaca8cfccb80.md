@@ -103,11 +103,7 @@ Lars Vogel 的另一个有趣的 Hadoop 教程。在本教程中，您将从零�
 
 顺便说一句，如果你觉得 Coursera 认证和在线课程有用，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个伟大的订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是学习 Apache Hadoop 的一些**最佳教程。我还包括了一些课程和书籍，因为它们提供了更全面的学习，而且大多数时候，是最好的起点。如果你有任何你认为应该在这个列表中的 Hadoop 课程，请随意留言。
 
@@ -129,8 +125,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****附言——**如果你正在寻找一门免费的 Udemy 课程来学习大数据和 Hadoop，那么你也可以看看这门绝对免费的 [**大数据和 Hadoop 基础课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F) 。你只需要一个 Udemy 帐户就可以加入这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F) [## 免费大数据教程-大数据和 Hadoop 基础
-
-### 我在 IT 行业有超过 7 年的经验。我曾与 CMMi 级公司合作，并提供…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F> **

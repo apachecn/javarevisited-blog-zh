@@ -28,11 +28,7 @@ Docker 的工作原理是一样的，但它携带的不是商品，而是软件�
 
 顺便说一下，如果你是一名 Java 开发人员，可以花 9.99 美元，那么 Stephen Grider 的 [**Docker 和 Kubernetes:The Complete Guide**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F)是一门很好的入门课程。它是专门为 Java 开发人员编写的。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，那么这就是适合你的课程。CI+CD…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F>  
 
 # 2023 年在线学习 Docker 的 5 门最佳免费课程
 
@@ -153,24 +149,8 @@ Docker 是你简历上的一个很好的工具，特别是如果你想在 DevOps
 
 ****P.S. —** 如果你只想从一门课程开始学习 DevOps，我觉得[用管道和 Docker](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-devops-ci-cd-with-jenkins-using-pipelines-and-docker%2F) 与 Jenkins 一起学习 DevOps: CI/CD 是最好的开始。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-devops-ci-cd-with-jenkins-using-pipelines-and-docker%2F) [## 使用管道和 Docker 与 Jenkins 一起学习 DevOps: CI/CD
-
-### 用 DevOps 的方式利用 Jenkins。通过使用 Jenkins Pipelines、Docker 和 Jenkins 作业 DSL 来自动化您的 Jenkins 作业
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-devops-ci-cd-with-jenkins-using-pipelines-and-docker%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-devops-ci-cd-with-jenkins-using-pipelines-and-docker%2F>  
 
 # 您可能喜欢的关于 DevOps 的其他媒体文章:
 
-[](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 完整的 DevOps 路线图
-
-### 成为前端或后端开发人员的图解指南，提供课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高级技术开发人员的下一步是什么？项目经理、技术架构师或开发人员工程师
-
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1)**
+</javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </hackernoon/the-2018-devops-roadmap-31588d8670cb>  </javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1> **

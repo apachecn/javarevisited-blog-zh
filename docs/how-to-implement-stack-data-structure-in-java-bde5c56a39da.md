@@ -4,7 +4,7 @@
 
 ## 用 Java 实现堆栈、队列实现
 
-> 最初发表于[](https://asyncq.com/how-to-implement-stack-data-structure-in-java)
+> 最初发表于<https://asyncq.com/how-to-implement-stack-data-structure-in-java>
 
 ## **介绍**
 

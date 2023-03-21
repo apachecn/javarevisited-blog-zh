@@ -22,11 +22,7 @@
 
 跟你说实话，人工智能是一个广阔的领域，没有多少在线课程可以给你在 AI 领域创业所需知道的所有实用知识。吴恩达 的《AI for Everyone》是为数不多的课程之一，它对人工智能进行了很好的概述，而不会让你感到无聊。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) [## 面向所有人的人工智能
-
-### 人工智能不仅仅是工程师的专利。如果你想让你的组织在使用人工智能方面变得更好，这是一门课程告诉…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone>  
 
 如果你已经决定参加这个课程，那就去参加吧，你不会后悔你的决定。它值得你花费时间和金钱。
 
@@ -80,11 +76,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 人工智能可以显著改善工作环境，也许可以去人类不能去的危险地方。这部分将会给你一个关于人工智能的现实的观点，人工智能的对抗性攻击，这个领域的一些不利使用，等等。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) [## 面向所有人的人工智能
-
-### 人工智能不仅仅是工程师的专利。如果你想让你的组织在使用人工智能方面变得更好，这是一门课程告诉…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone>  
 
 # 3.人民评论
 
@@ -100,11 +92,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 它每月花费大约 59 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
@@ -130,8 +118,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你正在寻找 2022 年的免费人工智能课程，那么你也可以看看我为初学者 **s** 提供的 [**免费人工智能课程列表。包含了从零开始学习深度学习、机器学习、人工智能的最佳免费课程。**](/javarevisited/10-free-deep-learning-courses-for-beginners-37b5de61f8dc)
 
-[](/javarevisited/10-free-machine-learning-courses-for-beginners-181f83b4c816) [## 2022 年 10 门免费机器学习课程供初学者加入
-
-### 从 Udemy、Coursera、freeCodeCamp 和……收集了学习机器学习的最佳免费在线课程
-
-medium.com](/javarevisited/10-free-machine-learning-courses-for-beginners-181f83b4c816)
+</javarevisited/10-free-machine-learning-courses-for-beginners-181f83b4c816> 

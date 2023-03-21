@@ -8,7 +8,7 @@
 
 image_credit — udemy
 
-如果你在 2023 年学习 AWS，并希望深入学习 AWS CloudFormation 服务，并寻找最好的在线培训课程，那么你来对地方了。之前，我已经分享了适合初学者的最佳 AWS 课程[](/javarevisited/5-best-aws-courses-for-beginners-and-experienced-developers-to-learn-in-2021-563212409fbd?source=rss-bb36d8439904------2&utm_source=dlvr.it&utm_medium=linkedin)**，今天我将分享深入学习 AWS CloudFormation 的最佳在线课程。**
+如果你在 2023 年学习 AWS，并希望深入学习 AWS CloudFormation 服务，并寻找最好的在线培训课程，那么你来对地方了。之前，我已经分享了适合初学者的最佳 AWS 课程</javarevisited/5-best-aws-courses-for-beginners-and-experienced-developers-to-learn-in-2021-563212409fbd?source=rss-bb36d8439904------2&utm_source=dlvr.it&utm_medium=linkedin>**，今天我将分享深入学习 AWS CloudFormation 的最佳在线课程。**
 
 **如果你不知道，亚马逊 *AWS CloudFormation 是 AWS 提供的一项服务，用于在一个地方管理你所有的应用程序资源。*如果您的应用程序使用许多服务，如 [Amazon EC2](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-amazon-aws-ec-2.html) 和 Amazon RDS 等等，因为分别管理它们会耗费您的时间，而且这将非常困难，尤其是对于复杂的应用程序基础架构。**
 
@@ -74,11 +74,7 @@ image_credit — udemy
 
 **顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **4.[自动气象站云形成—简化| YAML 实践](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-cloudformation-simplified-hands-on-learning%2F)**
 
@@ -130,11 +126,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **而且，如果你觉得教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问本课程，还可以访问他们的 100 多门课程。它非常划算，非常适合获得一些实践学习经验。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是为初学者和有经验的开发人员提供的学习 AWS CloudFormation 的最佳在线课程。如果你想深入学习 AWS CloudFormation，你可以选择几门课程组成这个列表，你会处于一个更好的位置。
 
@@ -162,8 +154,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你热衷于学习 AWS 并寻找免费的在线培训课程，那么你也可以在 Udemy 上查看 Linux Academy 的这个 [**AWS 基础知识**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F) 课程。这个课程是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F) [## 免费亚马逊 AWS 教程- AWS 精要(2019)
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F> **

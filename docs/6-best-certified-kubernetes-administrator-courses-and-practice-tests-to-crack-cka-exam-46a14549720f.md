@@ -57,11 +57,7 @@
 
 顺便说一句，如果您正在准备认证，请考虑参加 [**Whizlabs 订阅**](https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=) ，它提供对他们所有在线培训课程、动手实验室以及不同云和 DevOps 认证的模拟测试的全面访问，每年仅需 99 美元(现在有 50%的折扣)。我强烈推荐这个订阅计划，因为 Whizlabs 有最好的材料来准备 IT 认证。
 
-[](https://www.whizlabs.com/subscription/?sscid=51k5_zuly0) [## 最实惠的订阅计划- Whizlabs
-
-### 为了您的方便，我们提供最实惠的订购计划。立即注册，向前迈出一步，提升您的…
-
-www.whizlabs.com](https://www.whizlabs.com/subscription/?sscid=51k5_zuly0) 
+<https://www.whizlabs.com/subscription/?sscid=51k5_zuly0>  
 
 ## 3.[认证 Kubernetes 管理员 2023](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-kubernetes-administrator%2F)【Udemy 最佳课程】
 
@@ -116,11 +112,7 @@ www.whizlabs.com](https://www.whizlabs.com/subscription/?sscid=51k5_zuly0)
 
 顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6. [Kubernetes 大师课程|认证 Kubernetes 管理员](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-master-course-certified-kubernetes-administrator%2F)
 
@@ -160,8 +152,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你是 Kubernetes 新手，正在寻找免费课程，那么你也可以在 Udemy 上查看这个 [**Kubernetes:入门**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-getting-started%2F) 免费课程。这是完全免费的，你需要的只是一个免费的 Udemy 帐户来注册这个在线培训课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-getting-started%2F) [## 免费 Kubernetes 教程- Kubernetes:入门(2019)
-
-### 请考虑“在您评价和回顾”本课程之前:这只是一个入门课程，还有更多…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-getting-started%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-getting-started%2F> 

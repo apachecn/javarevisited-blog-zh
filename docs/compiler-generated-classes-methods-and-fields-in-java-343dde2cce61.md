@@ -265,8 +265,4 @@ class MyInt extends java.lang.Object implements java.lang.Comparable<MyInt>
 
 *有什么反馈，随时在*[*Twitter*](https://twitter.com/krossovochkin)*[*Facebook*](https://www.facebook.com/vasya.drobushkov)上联系我*
 
-*[](https://twitter.com/krossovochkin) [## 瓦西亚·德罗布什科夫
-
-### Vasya Drobushkov 的最新推文(@krossovochkin)。你想看到奇迹吗，孩子？成为…
-
-twitter.com](https://twitter.com/krossovochkin)*
+*<https://twitter.com/krossovochkin> *

@@ -20,13 +20,9 @@ Educative 最重要的好处是，它们消除了设置自己的开发环境的�
 
 Educative 也有一些最好的编码面试课程，如 [**探索系统设计面试**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 和 [**探索编码面试模式**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 学习编码面试系统设计的两个基本技能和破解编码问题的能力。
 
-他们也有负担得起的价格，并允许访问他们所有的 150 多个课程和未来的课程，只需[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**每月 14.9 美元(50%的折扣)。我向相信主动学习或准备编码面试的程序员和开发人员强烈推荐这一点。**
+他们也有负担得起的价格，并允许访问他们所有的 150 多个课程和未来的课程，只需<https://www.educative.io/subscription?affiliate_id=5073518643380224>**每月 14.9 美元(50%的折扣)。我向相信主动学习或准备编码面试的程序员和开发人员强烈推荐这一点。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 # 2023 年 20 个最佳免费教育在线编程和软件开发课程
 
@@ -158,11 +154,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **在这门互动课程中，您将通过文章、可视化、测验和[编码挑战](/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121)的组合，学习计算机科学算法入门，包括搜索、排序、递归和图论。用 Java、Python、C++或 Javascript 实现挑战。**
 
-**[](https://www.educative.io/collection/10370001/760001?authorName=Educative&affiliate_id=5073518643380224) [## 无算法交互式课程的可视化介绍
-
-### 学习介绍性的计算机科学算法，包括搜索，排序，递归，并通过图论…
-
-www.educative.io](https://www.educative.io/collection/10370001/760001?authorName=Educative&affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/10370001/760001?authorName=Educative&affiliate_id=5073518643380224> ** 
 
 ## **10.[Fahim ul Haq《从零开始学 C》](https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224)【免费互动课程】**
 
@@ -230,11 +222,7 @@ www.educative.io](https://www.educative.io/collection/10370001/760001?authorName
 
 **这个免费的 Flexbox 课程涵盖了你需要掌握的 CSS Flexbox 模型的所有基础和高级概念。你会在这个过程中学会布局一个响应式的音乐 App。**
 
-**[](https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know?affiliate_id=5073518643380224) [## 了解 Flexbox:您需要知道的一切-交互式学习
-
-### 本课程将涵盖所有你需要掌握的 CSS Flexbox 模型的基础和高级概念。你…
-
-www.educative.io](https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/courses/understanding-flexbox-everything-you-need-to-know?affiliate_id=5073518643380224> ** 
 
 ## **15.[从头开始学习 web 开发:超越语法](https://www.educative.io/collection/10370001/5686791109607424?affiliate_id=5073518643380224)**
 
@@ -246,11 +234,7 @@ www.educative.io](https://www.educative.io/courses/understanding-flexbox-everyth
 
 **在这个过程中，你将有机会制作功能模块，包括一个图像转盘和一个待办事项应用程序。不需要任何先验知识。**
 
-**[](https://www.educative.io/collection/10370001/5686791109607424?affiliate_id=5073518643380224) [## 从头开始学习 HTML、CSS 和 JavaScript 交互式学习
-
-### 在这个交互式 web 开发课程中，学习使用 HTML、CSS 和 JavaScript 编码和创建自己的网页…
-
-www.educative.io](https://www.educative.io/collection/10370001/5686791109607424?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/10370001/5686791109607424?affiliate_id=5073518643380224> ** 
 
 ## **16.使用 RamdaJS 的函数式编程模式！【免费】**
 
@@ -260,11 +244,7 @@ www.educative.io](https://www.educative.io/collection/10370001/5686791109607424?
 
 **在使用它们之前，您还将学习基本的函数式编程概念，如纯函数、currying 和无点风格。**
 
-**[](https://www.educative.io/collection/5070627052453888/5738600293466112?affiliate_id=5073518643380224) [## 用 RamdaJS 实现函数式编程模式！-免费互动课程
-
-### 我们知道函数式编程(FP)在过去的几年里势头强劲，尤其是在…
-
-www.educative.io](https://www.educative.io/collection/5070627052453888/5738600293466112?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/5070627052453888/5738600293466112?affiliate_id=5073518643380224> ** 
 
 ## **17.[垃圾收集算法快速入门](https://www.educative.io/collection/5701241594183680/1?authorName=Muhammad%20Umer%20Azad&affiliate_id=5073518643380224)【免费】**
 
@@ -272,11 +252,7 @@ www.educative.io](https://www.educative.io/collection/5070627052453888/573860029
 
 **本系列文章简要概述了不同的垃圾收集技术以及相关的权衡，如引用计数和标记清除等。**
 
-**[](https://www.educative.io/collection/5701241594183680/1?authorName=Muhammad%20Umer%20Azad&affiliate_id=5073518643380224) [## 垃圾收集算法快速入门-免费互动课程
-
-### 本系列文章简要概述了不同的垃圾收集技术及其利弊。我已经…
-
-www.educative.io](https://www.educative.io/collection/5701241594183680/1?authorName=Muhammad%20Umer%20Azad&affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/5701241594183680/1?authorName=Muhammad%20Umer%20Azad&affiliate_id=5073518643380224> ** 
 
 ## **18.[用 React & Redux](https://www.educative.io/collection/4888135733346304/5649050225344512?authorName=Matthew%20Choi&affiliate_id=5073518643380224) 构建特斯拉的电池续航里程计算器**
 
@@ -284,31 +260,19 @@ www.educative.io](https://www.educative.io/collection/5701241594183680/1?authorN
 
 **React.js 的基础知识是必需的，但除此之外，这个免费课程将带你了解构建每个组件所需的步骤，如何处理用户交互以及如何创建酷动画。**
 
-**[](https://www.educative.io/collection/4888135733346304/5649050225344512?authorName=Matthew%20Choi&affiliate_id=5073518643380224) [## 使用 React & Redux - Free 互动课程构建特斯拉电池续航里程计算器
-
-### 这个免费的互动课程旨在教导如何创建完整的应用程序使用反应和 Redux 通过建立…
-
-www.educative.io](https://www.educative.io/collection/4888135733346304/5649050225344512?authorName=Matthew%20Choi&affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/4888135733346304/5649050225344512?authorName=Matthew%20Choi&affiliate_id=5073518643380224> ** 
 
 ## **19.代码小时:用 Java 构建你的机器人世界**
 
 **在这个免费的教育课程中，你将在驾驶模拟机器人通过迷宫时学习编码的基础知识。本教程结束时，您将能够使用变量，使用称为方法的 Java 命令，生成随机数，并使用编码结构、循环来指示计算机解决重复性任务。**
 
-**[](https://www.educative.io/collection/13890001/5677350838599680?affiliate_id=5073518643380224) [## 代码小时:在 Java 自由互动课程中构建你的机器人世界
-
-### 在驾驶模拟机器人通过迷宫时学习编码的基础知识。本教程结束时，您将能够…
-
-www.educative.io](https://www.educative.io/collection/13890001/5677350838599680?affiliate_id=5073518643380224) 
+**<https://www.educative.io/collection/13890001/5677350838599680?affiliate_id=5073518643380224>  
 
 以上是 2023 年学习基本技术技能的最佳免费教育课程。你可以加入尝试这个新的在线学习平台。它很棒，因为它是基于文本的，比视频更快，并且允许您直接从浏览器运行代码，这意味着您可以在不安装任何软件和设置自己的环境的情况下开始编码，这对初学者来说通常是最困难的任务。
 
 而且，如果你喜欢教育平台和他们的探索课程，如 [*探索系统设计面试*](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) ，探索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 这个平台消除了这种痛苦，让学习变得更加愉快。
 
@@ -329,8 +293,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你正在寻找一个最佳教育课程的列表，那么你也可以看看我关于 [**10 个程序员最佳教育课程的帖子**](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html) ，里面有很多资源可以找到优质的免费编程资源，比如书籍和课程。*
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)**
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224> **

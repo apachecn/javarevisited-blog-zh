@@ -71,11 +71,7 @@ public EclipseCollectionsDeckOfCardsAsImmutableList()
 
 如果您想在这个改进之旅中帮助我们，请加入我们的开源贡献者社区。下面是一个很棒的博客，作者是一个决定走自己的路，并首次对 Eclipse 集合做出开源贡献的开发人员。
 
-[](https://mydeveloperplanet.com/2021/01/20/how-to-start-contributing-to-open-source/) [## 如何开始为开源做贡献
-
-### 每时每刻，为开源软件做贡献的想法都会出现在每个开发人员的脑海中。然而…
-
-mydeveloperplanet.com](https://mydeveloperplanet.com/2021/01/20/how-to-start-contributing-to-open-source/) 
+<https://mydeveloperplanet.com/2021/01/20/how-to-start-contributing-to-open-source/>  
 
 这个博客记录了一个开发者成为开源贡献者的历程。当其他开发人员开始或继续他们自己的旅程时，它可能是一个灵感和参考。
 
@@ -83,16 +79,4 @@ mydeveloperplanet.com](https://mydeveloperplanet.com/2021/01/20/how-to-start-con
 
 **你可能喜欢的其他 Java 文章**
 
-[](/javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4) [## 2021 年 Java 程序员应该学会的 11 件事
-
-### 作为一名 Java 开发人员和 Java 博客的作者，我经常收到来自世界各地的 Java 程序员的请求…
-
-medium.com](/javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4) [](/javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb) [## 每个 Java 开发人员都应该学习的 5 个基本框架
-
-### Spring、Hibernate、Spring Boot、Spring Securit 和 Spring Cloud 是最基本的 Java 框架。
-
-medium.com](/javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb) [](/javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab) [## 50 多个面向初学者和有经验的程序员的 Java 集合面试问题
-
-### Java 集合和泛型是 Java 面试的一个非常重要的话题。他们还提出了一些最困难的…
-
-medium.com](/javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab)
+</javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4>  </javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb>  </javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab> 

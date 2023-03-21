@@ -16,11 +16,7 @@ Power BI 是微软公司提供的一种工具，可以使用您的数据创建�
 
 顺便说一下，如果你想学习 Power BI 以开始你的数据分析职业生涯，那么我也建议你看看 Coursera 上的 [**谷歌数据分析专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics%23courses) ，这是最受欢迎的结构良好的数据分析认证之一，可以在 2023 年成为数据分析专业人员。超过 725，000 人已经加入。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics%23courses) [## 谷歌数据分析
-
-### 这是你通往数据分析职业的道路。在此计划中，您将学习像 Power BI 这样的热门技能，这些技能将让您…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics%23courses) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics%23courses>  
 
 # 2023 年学习微软 Power BI 的 7 门最佳在线课程
 
@@ -129,11 +125,7 @@ Power BI 使数据可视化变得非常简单，越来越多的公司使用 Powe
 
 这是这个列表中的另一门课程，它不是来自 Udemy，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing)才能进入这门课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个在线课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.[微软 Power BI [2023 版]全介绍](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerful-reports-and-dashboards-with-microsoft-powerbi%2F)
 
@@ -160,11 +152,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你需要一个现实世界的项目来学习微软 Power PI 那么你也可以在 Coursera 项目网上查看[**Power BI 桌面入门**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fpower-bi-desktop) 。这是 Coursera 推出的一项新服务，您可以通过 Power BI Desktop 分析信用卡违约数据来学习 Power BI。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fpower-bi-desktop) [## 开始使用 Power BI 台式机
-
-### 在 2 小时内完成这个指导项目。在这个 2 小时的基于项目的课程中，您将学习…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fpower-bi-desktop) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fpower-bi-desktop>  
 
 而且，如果你喜欢 Coursera 的课程，因为它们是由知名公司如**谷歌**、 **IBM** 、**亚马逊**和世界上最好的大学创建的，我建议你加入 Coursera 的年度订阅计划 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 。
 
@@ -192,8 +180,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **附言——**如果您热衷于学习微软 Power BI 工具，但正在寻找免费的在线培训课程，那么您也可以查看 Udemy 上的 [**了解 Power BI**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetting-to-know-power-bi%2F) 课程，开始您的 Microsoft Power BI 之旅。这是一门完全免费的课程，你只需要一个 Udemy 帐户就可以参加。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetting-to-know-power-bi%2F) [## 免费 Microsoft Power BI 教程-了解 Power BI
-
-### 创新的数据分析师和数字渠道优化专家，精通全渠道分析…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetting-to-know-power-bi%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetting-to-know-power-bi%2F> 

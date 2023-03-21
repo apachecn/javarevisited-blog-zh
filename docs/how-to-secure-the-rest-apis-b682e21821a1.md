@@ -115,11 +115,7 @@ public class SecurityFilter implements Filter {
     public void destroy() {}}
 ```
 
-[](https://www.java67.com/2018/02/3-books-and-courses-to-learn-restful-web-services-with-spring.html) [## 使用 Spring 和 Java 学习 RESTful Web 服务的 3 本书和课程
-
-### 大家好，如果你知道 Spring 框架，那么你很有可能听说过经典的 Spring…
-
-www.java67.com](https://www.java67.com/2018/02/3-books-and-courses-to-learn-restful-web-services-with-spring.html) 
+<https://www.java67.com/2018/02/3-books-and-courses-to-learn-restful-web-services-with-spring.html>  
 
 # **基本认证**
 
@@ -156,11 +152,7 @@ private String getClientPassword(final String authValue) {
 }
 ```
 
-[](https://javarevisited.blogspot.com/2018/01/how-http-basic-authentication-works-in.html) [## Http 基本认证在 Spring Security 中是如何工作的？
-
-### 在上一篇文章中，您已经学习了如何在基于 Spring 安全的 Java 中启用 Http 基本认证…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/01/how-http-basic-authentication-works-in.html) 
+<https://javarevisited.blogspot.com/2018/01/how-http-basic-authentication-works-in.html>  
 
 # **Oauth2**
 
@@ -212,12 +204,4 @@ oauth2
 
 我期待着反馈和评论。
 
-[](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) [## 前 5 名 RESTful Web 服务，为有经验的开发人员提供 Spring 和 Java 课程
-
-### 在上一篇文章中，我已经分享了一些用 Spring 框架学习微服务开发的课程，今天，我将…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) [](https://www.java67.com/2017/12/top-5-spring-security-online-training-courses.html) [## 面向 Java 开发人员的 5 大春季安全在线培训课程
-
-### 安全性是现代 web 应用程序最重要的方面之一，无论是 Java web 应用程序。NET，或者…
-
-www.java67.com](https://www.java67.com/2017/12/top-5-spring-security-online-training-courses.html)
+<https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY>  <https://www.java67.com/2017/12/top-5-spring-security-online-training-courses.html> 

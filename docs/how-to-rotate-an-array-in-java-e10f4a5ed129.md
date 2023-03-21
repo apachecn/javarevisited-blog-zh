@@ -118,18 +118,6 @@ A = [3, 4, 5, 1, 2]
 
 这个问题被许多科技公司如微软和亚马逊问到，如果 k 的值超过了数组的长度或者是负的，这个问题有时会变得非常困难。
 
-*原载于 2022 年 5 月 30 日 https://tekolio.com*[](https://tekolio.com/how-to-rotate-an-array-in-java/)**。**
+*原载于 2022 年 5 月 30 日 https://tekolio.com*<https://tekolio.com/how-to-rotate-an-array-in-java/>**。**
 
-*[](/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121) [## 20 多个数组编码问题和来自编程访谈的问题
-
-### 大家好，数组是最基本的数据结构，它将元素存储在连续的内存位置。它…
-
-medium.com](/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121) [](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30) [## 来自编程访谈的 20 多个二叉树编码问题
-
-### 大家好，我已经分享了很多关于编程面试的资源，比如书籍、课程和一些…
-
-medium.com](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30)*
+*</javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121>  </javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45>  </javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30> *

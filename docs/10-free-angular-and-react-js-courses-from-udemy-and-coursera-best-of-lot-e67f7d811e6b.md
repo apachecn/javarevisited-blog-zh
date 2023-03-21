@@ -22,15 +22,7 @@ Angular 开创了使用 [JavaScript](https://javarevisited.blogspot.com/2018/06/
 
 顺便说一句，如果你可以花几块钱学习 Angular 和 React 这样的技能，那么我强烈建议你在 Udemy 上看看 academy mind 的[**Angular——完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F) 和 Stephen Grider 的[**Modern React with Redux**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F)课程。它们只是学习 Angular 和在线反应的最佳材料。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F) [## 角度大师:完整课程
-
-### 掌握 Angular 10(以前的“Angular 2”)并使用 Angular.js 的继任者构建出色的反应式 web 应用程序
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F) [](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F) [## 现代反应与 Redux 培训课程
-
-### 课程上次更新为 React v16.6.3 和 Redux v4.0.1！所有内容都是全新的！更新包括以下方面的详细视频…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F>  <https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F>  
 
 # 2023 年 Web 开发人员学习的 10 大免费 Angular 和 React 课程和教程
 
@@ -211,10 +203,6 @@ React 是世界上最受欢迎的创建现代 web 用户界面的库之一。Rea
 
 **p . s .**——如果你是 web 开发世界的新手，想要学习所有的东西，Web 开发人员应该知道没有比柯尔特·斯蒂尔的 Web 开发人员训练营 更好的课程了。这将是一个网站开发者需要知道的所有技术。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到 web 开发者训练营，这是学习 Web 开发的唯一课程。有很多…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F>  
 
 如果你更喜欢书本而不是在线课程，或者想把马克斯的课程和书本结合起来，那么我强烈推荐你去看看内特·默里、@阿里·勒纳和卡洛斯·塔沃尔达的 [**ng-book**](https://gumroad.com/a/221148275/FlvVl) 。这是一本关于 Angular 11 的深入、完整、最新的书，受到 Angular 专家的强烈推荐。

@@ -102,8 +102,4 @@
 [2019 年要学习的 5 大 Java 框架](http://javarevisited.blogspot.sg/2018/04/top-5-java-frameworks-to-learn-in-2018_27.html)
 [每个 Java 开发者都应该知道的 10 个测试库](https://javarevisited.blogspot.sg/2018/01/10-unit-testing-and-integration-tools-for-java-programmers.html)
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> 

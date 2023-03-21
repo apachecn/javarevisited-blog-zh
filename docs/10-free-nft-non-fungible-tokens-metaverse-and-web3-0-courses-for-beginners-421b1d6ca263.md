@@ -237,8 +237,4 @@ NFT 可以充当简单的令牌或通信器。它与加密货币如[比特币](h
 
 ****附言——**如果你正在寻找一个 NFT 认证，不仅学习 NFT，还能获得 NFT 技能认证，那么我强烈推荐你去看看[**101 区块链**](https://shareasale.com/r.cfm?b=1696402&u=880419&m=105464&urllink=https%3A%2F%2Facademy%2E101blockchains%2Ecom%2Fcourses%2Fcertified%2Dnft%2Dprofessional&afftrack=) 认证的 NFT 专家(CNFTP)认证，这是 2022 年你可以在线获得的最全面的 NFT 认证之一。**
 
-**[](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html) [## 2022 年学习 NFT(不可替代代币)的 8 大课程-最佳选择
-
-### 你好伙计们，如果你想知道什么是 NFT 或不可替代的令牌，什么是 NFT 周围的嗡嗡声，并有问题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html)**
+**<https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html> **

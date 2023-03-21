@@ -95,7 +95,7 @@ static class Entry implements Map.Entry
 }
 ```
 
-1.  每当我们试图将任何键-值对放入 hashmap 时，Entry 类对象被实例化为键值，该对象将被存储在上述 Entry[](table)中。现在您一定想知道，上面创建的条目对象将存储在哪里(表中的确切位置)。答案是，通过调用 [hashcode()](https://javarevisited.blogspot.com/2011/02/how-to-write-equals-method-in-java.html) 方法为一个键计算出[哈希码](http://javarevisited.blogspot.sg/2013/08/10-equals-and-hashcode-interview.html)。这个 hashcode 用于计算上面 Entry[]表的索引。
+1.  每当我们试图将任何键-值对放入 hashmap 时，Entry 类对象被实例化为键值，该对象将被存储在上述 Entry<table>中。现在您一定想知道，上面创建的条目对象将存储在哪里(表中的确切位置)。答案是，通过调用 [hashcode()](https://javarevisited.blogspot.com/2011/02/how-to-write-equals-method-in-java.html) 方法为一个键计算出[哈希码](http://javarevisited.blogspot.sg/2013/08/10-equals-and-hashcode-interview.html)。这个 hashcode 用于计算上面 Entry[]表的索引。
 2.  现在，如果您在上图中看到数组索引 10，它有一个名为`HashMap$Entry`的条目对象。
 3.  我们在 hashmap 中放了 4 个键值，但它似乎只有 2 个！！！！这是因为如果两个对象有相同的 hashcode，它们将被存储在相同的索引中。现在的问题是如何做到的？它以 LinkedList 的形式存储对象(逻辑上)。
 

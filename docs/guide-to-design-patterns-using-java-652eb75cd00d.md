@@ -29,79 +29,39 @@ Erich Gamma、John Vlissides、Ralph Johnson 和 Richard Helm 在他们 1994 年
 
 1️⃣ **单例设计模式**
 
-[](/javarevisited/how-to-implement-singleton-design-pattern-using-java-410197d97af0) [## 如何用 Java 实现 Singleton 设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-singleton-design-pattern-using-java-410197d97af0) 
+</javarevisited/how-to-implement-singleton-design-pattern-using-java-410197d97af0>  
 
 2️⃣ **工厂设计模式**
 
-[](/javarevisited/how-to-implement-factory-design-pattern-using-java-478b58cb2ff3) [## 如何用 Java 实现工厂设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-factory-design-pattern-using-java-478b58cb2ff3) 
+</javarevisited/how-to-implement-factory-design-pattern-using-java-478b58cb2ff3>  
 
 3️⃣ **代理设计模式**
 
-[](/javarevisited/how-to-implement-proxy-design-pattern-using-java-719c06a0ae34) [## 如何用 Java 实现代理设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-proxy-design-pattern-using-java-719c06a0ae34) 
+</javarevisited/how-to-implement-proxy-design-pattern-using-java-719c06a0ae34>  
 
 4️⃣ **立面设计图案**
 
-[](/javarevisited/how-to-implement-facade-design-pattern-using-java-3901e21219a4) [## 如何用 Java 实现 Facade 设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-facade-design-pattern-using-java-3901e21219a4) 
+</javarevisited/how-to-implement-facade-design-pattern-using-java-3901e21219a4>  
 
 5️⃣ **适配器设计模式**
 
-[](/javarevisited/how-to-implement-adapter-design-pattern-using-java-31b2be897dd9) [## 如何用 Java 实现适配器设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-adapter-design-pattern-using-java-31b2be897dd9) 
+</javarevisited/how-to-implement-adapter-design-pattern-using-java-31b2be897dd9>  
 
 6️⃣ **访客设计模式**
 
-[](/javarevisited/how-to-implement-visitor-design-pattern-using-java-99b6fcdd48ef) [## 如何用 Java 实现访问者设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-visitor-design-pattern-using-java-99b6fcdd48ef) 
+</javarevisited/how-to-implement-visitor-design-pattern-using-java-99b6fcdd48ef>  
 
 7️⃣ **观察者设计模式**
 
-[](/javarevisited/how-to-implement-observer-design-pattern-using-java-fda89ff76b2c) [## 如何用 Java 实现观察者设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-observer-design-pattern-using-java-fda89ff76b2c) 
+</javarevisited/how-to-implement-observer-design-pattern-using-java-fda89ff76b2c>  
 
 8️⃣ **中介设计模式**
 
-[](/javarevisited/how-to-implement-mediator-design-pattern-using-java-2ab2c901291) [## 如何用 Java 实现 Mediator 设计模式？
-
-### 你好👋是洛汗·卡达姆😊
-
-medium.com](/javarevisited/how-to-implement-mediator-design-pattern-using-java-2ab2c901291) 
+</javarevisited/how-to-implement-mediator-design-pattern-using-java-2ab2c901291>  
 
 8️⃣D **设计图案课程**
 
-[](/javarevisited/7-best-courses-and-books-to-learn-design-patterns-in-javascript-5b0b30fa5c3) [## 2022 年学习 JavaScript 设计模式的 7 个最佳课程和书籍
-
-### 我最喜欢的使用 Udemy 的 JavaScript 编程语言学习设计模式的在线课程和书籍…
-
-medium.com](/javarevisited/7-best-courses-and-books-to-learn-design-patterns-in-javascript-5b0b30fa5c3) [](/javarevisited/5-best-javascript-design-pattern-courses-for-experienced-web-developers-7f1b152e782e) [## 面向有经验的 Web 开发人员的 5 门最佳 JavaScript 设计模式课程
-
-### 我最喜欢的 JavaScirpt 在线课程和资源，了解设计模式、可靠和干净的代码
-
-medium.com](/javarevisited/5-best-javascript-design-pattern-courses-for-experienced-web-developers-7f1b152e782e) 
+</javarevisited/7-best-courses-and-books-to-learn-design-patterns-in-javascript-5b0b30fa5c3>  </javarevisited/5-best-javascript-design-pattern-courses-for-experienced-web-developers-7f1b152e782e>  
 
 ## 🚀结论:-
 
@@ -109,10 +69,6 @@ medium.com](/javarevisited/5-best-javascript-design-pattern-courses-for-experien
 
 不要忘记看看我的网站，以了解更多关于我的信息
 
-[](https://kadamrohan.com/) [## 罗汉·拉温德拉·卡达姆
-
-### 来自印度孟买的全栈开发人员，拥有大约 3 年的软件开发经验。
-
-kadamrohan.com](https://kadamrohan.com/) ![](img/0f2615e6c2f4828c479469fb81d75612.png)
+<https://kadamrohan.com/>  ![](img/0f2615e6c2f4828c479469fb81d75612.png)
 
 谢谢观众们——罗汉·卡达姆

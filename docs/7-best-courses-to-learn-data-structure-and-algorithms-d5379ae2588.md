@@ -122,19 +122,11 @@ image _ credit—Trie(教育性)的一个例子
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级吸引人和有用的课程，如他的 [*Python Bootcamp 课程*](https://academy.zerotomastery.io/a/aff_yp0m7fjx/external?affcode=441520_zytgk2dn) 和他的 JavaScript Web 项目:20 个项目来建立你的作品集课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 750，000 多名学生的行列，学习受欢迎的技能，并在…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 虽然这是所有级别程序员的理想课程，尤其是 JavaScript 和 Web 开发人员。顺便说一下，如果你正在寻找一个好的 Java 编程/编码面试课程，那么你也可以查看 Tim Buchalaka 的[数据结构和算法:使用 Java 的深度探索](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F)。你可以用它从头开始，或者只是在去面试前复习一下知识。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 ## 7.[寻找编码面试:编码问题的模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)
 
@@ -159,11 +151,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 寻找课程对于准备面试来说非常棒，我推荐这三个关于教育的寻找课程，我指的是这一个，寻找系统设计面试[和面向对象设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)。
 
-[](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224) [## 探索面向对象的设计面试——互动学习
-
-### 面向对象设计一直是软件工程面试过程的关键部分。大多数的…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224>  
 
 以上就是 2023 年学习数据结构与算法的一些**最好的课程。我已经包括了 Java 和 Python 程序员的课程，但是正如我以前说过的，数据结构和算法是与语言无关的主题。一旦你知道一个特定的数据结构或算法是如何工作的，你就可以用你选择的任何编程语言来实现它。
 
@@ -185,16 +173,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/569220176
 感谢您阅读本文。如果你喜欢这些数据结构和算法课程，那么请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。
 **P. S.** —如果你正在寻找一些学习数据结构和算法的免费课程和书籍，那么你也可以在 Medium 上查看一下这个 [**免费数据结构课程**](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 和[书籍](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)的列表。
 
-[](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) [## 2023 年编码面试的 6 门最佳动态编程课程
-
-### 这些是从 Udemy，Educative 和 Coursera 学习动态编程的最佳课程，适用于…
-
-medium.com](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) [](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)
+</free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  </javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c>  <https://bytebytego.com?fpr=javarevisited> 

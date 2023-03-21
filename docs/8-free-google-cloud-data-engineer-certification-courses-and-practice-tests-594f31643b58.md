@@ -24,11 +24,7 @@ image_credit — Udemy
 
 顺便说一句，如果你需要一个全面的在线课程，那么我也强烈推荐你加入由 Dan Sullivan 教授的 [**谷歌云专业数据工程师:获得认证 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-professional-data-engineer-get-certified%2F) 课程，他在 Udemy 上撰写了谷歌官方认证文件。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-professional-data-engineer-get-certified%2F) [## 谷歌云专业数据工程师:2020 年获得认证
-
-### 对数据工程师的需求不断增长，认证数据工程师是一些薪酬最高的认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-professional-data-engineer-get-certified%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-professional-data-engineer-get-certified%2F>  
 
 此**在线课程不是免费的**，而是针对谷歌云认证的最全面的在线课程，为包括云数据工程师在内的所有四种谷歌云认证提供学习材料。
 
@@ -69,11 +65,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 但是为什么当参加审计专业的免费课程时，你将不会得到任何证书。如果你参加这个课程是为了获得 Coursera 证书，那么你需要注册参加这个专业或者参加一个订阅计划，比如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以提供超过 5000 个 Coursera 课程、项目和专业证书的无限制访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[谷歌云概念](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-google-cloud-concepts%2F)(免费 Udemy 课程)
 
@@ -124,11 +116,7 @@ Coursera 上也有这门课，不过这次比上一次更详细。该课程也�
 
 顺便说一句，如果你发现 Coursera 的课程很有用，因为它们是由世界各地的知名公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 6.[谷歌云基础 101:学习 GCP 的快速指南](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-fundamentals-101-a-quick-guide-to-learn-gcp%2F)
 
@@ -201,8 +189,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你需要更全面、更集中的在线认证课程，那么我也强烈推荐你参加 Udemy 上的 [**终极谷歌云认证:全包(4)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) 课程。这不是免费的，而是最全面的谷歌云认证在线课程，为包括云数据工程师在内的所有四种谷歌云认证提供学习材料。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) [## 终极谷歌云认证:一切尽在一个捆绑包中(4)
-
-### 嗨，云专家们，我们有 405，000 多名学生和 280，000 名独立学生获得了谷歌云平台认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F> 

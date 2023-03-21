@@ -4,7 +4,7 @@
 
 ## 使用 Java HttpClient 和 HttpUrlConnection 构建 Rest 客户端
 
-> 最初发表于[](https://asyncq.com/building-simple-http-client-in-java)
+> 最初发表于<https://asyncq.com/building-simple-http-client-in-java>
 
 **[![](img/53695acef7aedb1cb09602980f564d64.png)](https://javarevisited.blogspot.com/2022/04/difference-between-graphql-and-rest-api.html)**
 

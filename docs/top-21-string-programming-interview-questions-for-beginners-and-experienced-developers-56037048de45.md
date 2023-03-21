@@ -26,11 +26,7 @@ Btw，如果你没有[数据结构](https://www.java67.com/2019/07/top-10-online
 **5。** [**寻找编码面试:编码问题的模式**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)
 忘掉那几百个 Leetcode 问题吧。掌握这 15 个面试问题的基本模式，你就能应对面试中遇到的任何问题
 
-[](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式
-
-### 编码面试一天比一天难。几年前，我温习了关键数据结构并浏览了…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 # 如何解决基于字符串的编码问题
 
@@ -43,7 +39,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/567146485
 1.  如何将一个给定的字符串反转？( [**解**](http://www.java67.com/2016/06/how-to-reverse-string-in-place-in-java.html) **)**
 2.  如何从字符串中打印出重复的字符？( [**解**](http://java67.blogspot.sg/2014/03/how-to-find-duplicate-characters-in-String-Java-program.html) **)**
 3.  **如何检查两个字符串是否互为变位词？(** [**)解**](http://javarevisited.blogspot.sg/2013/03/Anagram-how-to-check-if-two-string-are-anagrams-example-tutorial.html) **)**
-4.  如何找到一个字符串的所有排列？([](http://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html)****)****
+4.  如何找到一个字符串的所有排列？(<http://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html>****)****
 5.  **如何使用递归来反转给定的字符串？( [**解**](http://javarevisited.blogspot.sg/2012/01/how-to-reverse-string-in-java-using.html) **)****
 6.  **如何检查一个字符串是否只包含数字？( [**解**](http://javarevisited.blogspot.sg/2012/10/regular-expression-example-in-java-to-check-String-number.html) **)****
 7.  **如何在给定的字符串中找到重复的字符？( [**解**](http://java67.blogspot.sg/2014/03/how-to-find-duplicate-characters-in-String-Java-program.html) **)****
@@ -76,11 +72,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/567146485
 4.  **[**钻研编码面试:编码题的模式**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)
     忘了那几百个 Leetcode 题吧。掌握这 15 个面试问题的基本模式，你就能应对面试中遇到的任何问题。我非常感谢[教育性](https://medium.com/u/85b9909ed1cf?source=post_page-----56037048de45--------------------------------)和[教育性团队](https://medium.com/u/163aa84775f6?source=post_page-----56037048de45--------------------------------)创造了这么棒的课程。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 这是一些最好的关于数据结构和算法的课程，你可以选择最适合你的课程。顺便说一句，如果你购买这些课程，我会收到付款
 

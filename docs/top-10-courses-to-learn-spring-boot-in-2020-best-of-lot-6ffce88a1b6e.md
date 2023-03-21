@@ -8,7 +8,7 @@
 
 之前我已经分享了一些学习 Spring Framework 的好书，包括 Spring Boot ( [见](http://www.java67.com/2016/12/5-spring-framework-books-for-java-programmers.html)，今天我将分享一些**最好的在线 Spring Boot 课程**，你可以自己加入学习 Spring Boot。
 
-过去，我非常喜欢从书本中学习，但是网络课程已经完全改变了这一点。现在，我更喜欢从网上课程开始，比如《Spring Boot 精要》[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-essentials%2F)**，然后再去读一本像《Spring Boot 在行动中》**[](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20)**这样的书，进行更全面的学习。******
+过去，我非常喜欢从书本中学习，但是网络课程已经完全改变了这一点。现在，我更喜欢从网上课程开始，比如《Spring Boot 精要》<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-essentials%2F>**，然后再去读一本像《Spring Boot 在行动中》**<https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20>**这样的书，进行更全面的学习。******
 
 ******不管怎样，在学习 Spring Boot 课程之前，让我们先复习一下什么是 Spring Boot 及其好处，以及为什么要学习它。******
 
@@ -100,11 +100,7 @@
 
 > *****链接加入课程:* [***学泉:认证类***](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)****
 
-****[](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习 Spring:认证类
-
-### 这门课的目的是让你从实际上没有春天的经验，到有一个真实的世界，坚实的把握…
-
-courses.baeldung.com](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 
+****<https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa>  
 
 顺便说一句，如果价格是阻止你参加本课程的原因，还有其他选择，如[**Spring:Master Class**](https://courses.baeldung.com/p/ls-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)费用比认证课程低得多，但显然涵盖的主题更少。**** 
 
@@ -146,11 +142,7 @@ courses.baeldung.com](https://courses.baeldung.com/p/ls-certification-class?utm_
 
 ****顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这个课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)**** 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial> **** 
 
 ## ****[**7。主微服务有 Spring Boot**和春云](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F)****
 
@@ -266,24 +258,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ******P. P. S.** —如果你需要一些免费的资源，你可以看看这个 [**免费 Spring Boot 课程**](http://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html) 的列表，开始你的旅程。****
 
-****[](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) 
+****</javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e>  
 
 ## 你可能喜欢的其他中等 Spring Boot 教程
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的 7 大课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [## 我最喜欢的 2023 年学习软件架构的课程——最好的
-
-### 这些是 2023 年学习软件架构并成为解决方案架构师的最佳课程
-
-medium.com](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)****
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d>  </javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9> ****

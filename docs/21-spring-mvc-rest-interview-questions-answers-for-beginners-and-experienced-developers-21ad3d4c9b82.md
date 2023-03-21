@@ -18,11 +18,7 @@ Spring 还为 RESTful Web 服务提供了定制的注释，如 **@RestController
 
 顺便说一下，如果你是 Spring MVC 和 Spring 框架的新手，那么我强烈推荐你加入一个好的、全面的 Spring 课程，比如这个 [**Spring 5:初学者到大师**](http://bit.ly/2ylC68g) 资源，首先学习基础知识。这将有助于你更好地回答这个问题，并在春季认证和面试中取得好成绩。
 
-[](http://bit.ly/2ylC68g) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-bit.ly](http://bit.ly/2ylC68g) 
+<http://bit.ly/2ylC68g>  
 
 # 十大 Spring MVC + REST Web 服务面试问题及答案
 
@@ -49,11 +45,7 @@ public class BookNotFoundException extends RuntimeException {// ...}
 
 如果你不熟悉 Spring MVC、Security 和 REST 的基本概念，我建议你在下一次求职面试之前，通过这些 [REST with Spring](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) 和 [Learn Spring Security](https://courses.baeldung.com/p/learn-spring-security-the-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 课程来积累一些经验。这两个课程是专门为您提供一些真实世界的经验而设计的，以增加您对 Spring MVC、REST 和 Spring Security 的知识和经验。
 
-[](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:大师课
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) 
+<http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa>  
 
 ## **2。@RequestMapping 注释是做什么的？** ( [回答](http://javarevisited.blogspot.sg/2017/06/how-spring-mvc-framework-works-web-flow.html#axzz55vF5ugU8))
 
@@ -71,11 +63,7 @@ public Book save(@RequestBody Book aBook) {
 
 类似地，您可以创建其他处理程序方法来生成 JSON 或 XML。如果你对这些注释还不熟悉，那么我建议你加入 Udemy 上的这个 [**Spring MVC For 初学者**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-mvc-tutorial-for-beginners-step-by-step%2F) 课程来学习基础知识。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-mvc-tutorial-for-beginners-step-by-step%2F) [## 初学者的 Spring MVC 用 25 个步骤构建 Java Web 应用程序
-
-### Ranga 是 AWS 认证解决方案架构师助理。我们在 DevOps、云上向 45 万名学习者教授 30 多门课程…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-mvc-tutorial-for-beginners-step-by-step%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-mvc-tutorial-for-beginners-step-by-step%2F>  
 
 ## **3。@Controller 是刻板印象吗？@RestController 是刻板印象吗？** ( [回答](http://javarevisited.blogspot.sg/2017/08/difference-between-restcontroller-and-controller-annotations-spring-mvc-rest.html))
 
@@ -127,11 +115,7 @@ public String helloWorld() {
 
 它支持带`@Controller`注释的类，这些类使用`@RequestMapping`将传入的请求映射到尚不熟悉 Spring 对 Java 配置支持的处理程序方法。Udemy 上的[春季大师班](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F)是一个不错的起点。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F) [## 学习 Spring 框架大师课教程
-
-### Ranga 是 AWS 认证解决方案架构师助理。我们在 DevOps、云上向 45 万名学习者教授 30 多门课程…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F>  
 
 ## **9。Spring REST 中的 HttpMessageConverter 是什么？**
 
@@ -141,11 +125,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 然后，它将尝试找到一个能够处理该特定内容类型的已注册的 [HTTPMessageConverter](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) ，并在将响应发送给客户端之前，使用它将响应转换成该格式。如果你是 Spring MVC 的新手，请看这个 [Spring 5:初学者到权威](http://bit.ly/2ylC68g)资源来学习基础知识。
 
-[](http://bit.ly/2ylC68g) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-bit.ly](http://bit.ly/2ylC68g) 
+<http://bit.ly/2ylC68g>  
 
 ## **10。如何创建 HttpMessageConverter 的自定义实现来支持新类型的请求/响应？**
 
@@ -157,21 +137,13 @@ bit.ly](http://bit.ly/2ylC68g)
 
 实际上是 Spring MVC 提供了所有有用的注释，像`@RestController`、`@ResponseCode`、`@ResponseBody`、`@RequestBody`和`@PathVariable`(参见 [REST with Spring](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) )。因此，您必须在 pom.xml 中使用适当的 Maven 条目
 
-[](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:大师课
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) 
+<http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa>  
 
 对于初学者和有经验的 Java JEE 开发人员来说，以上是一些常见的春季 MVC 面试问题。如果你要参加 Pivotal 的[弹簧认证](http://javarevisited.blogspot.sg/2017/06/how-to-prepare-for-spring-framework-certifications.html)，这些问题对于温习你关于弹簧座的知识也非常有用。
 
 如果你已经在为你的 Spring 开发者认证做准备，并且你从 Spring 认证的角度需要更多这样的问题，你会在 David Mayer 的 [**Core Spring 模拟器**](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 上找到很多关于这个主题的问题，这是目前通过 Spring 认证的最好的模拟器之一。祝你面试好运！
 
-[](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## VMware EDU-1202 模拟测试
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 你可能喜欢的其他 **Java 和 Spring 文章:**
 [Spring MVC 在 Java 内部是如何工作的？](https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html)
@@ -191,8 +163,4 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 **P. S. —** 如果你是 Spring 框架的新手，正在寻找一些免费的在线课程来学习 Spring 框架以及 Spring MVC 和 Spring Boot 之类的东西，那么你也可以看看这个为 Java 程序员提供的 [**免费 Spring 课程**](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html) 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) [## Java 开发人员学习 Spring 框架的 10 大免费课程
-
-### 大家好，我最近分享了很多资源，如书籍和课程，当我公布了我的最佳…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)
+</javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25> 

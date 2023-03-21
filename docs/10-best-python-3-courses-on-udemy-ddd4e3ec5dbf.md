@@ -145,7 +145,7 @@ K****
 
 ****并且，当我在 [*Udemy*](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9) 上发现这个同名的 Python 自动化课程时，我惊喜万分。由 Al Sweigart 创建的这个 Python 课程将教你如何使用 Python 来提高生产力。这是一门非常适合希望实现自动化的办公人员、学者和管理人员的课程。****
 
-****在这个 9.5 小时的课程中，您将学习如何以编程方式生成和更新 Excel 文件，抓取网站并获取信息，如您最喜欢的 Python 课程[](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19)*的免费 Udemy 代码，将文档解析为不同格式，甚至发送电子邮件。*****
+****在这个 9.5 小时的课程中，您将学习如何以编程方式生成和更新 Excel 文件，抓取网站并获取信息，如您最喜欢的 Python 课程</javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19>*的免费 Udemy 代码，将文档解析为不同格式，甚至发送电子邮件。*****
 
 *****超过 100 万学生加入了这个课程，它有超过 10 万个 4.7 评论，这使它成为 Udemy 上最好的 Python 课程之一。如果你想用 Python 学习自动化，我强烈推荐你这门 Python 课程。这对初学者和中级开发人员都很好。*****
 
@@ -179,17 +179,13 @@ K****
 
 *****如果你打算参加多门 Andrei 的课程来学习 Python 和 Web 开发，我强烈推荐去 ZTM 学院。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。*****
 
-*****[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+*****<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上就是 2023 年学习 Python 编程的**最佳 Udemy 课程**。这些都是高质量的课程，并且大多数都是基于项目的，在这里你将构建真实的项目来学习 Python。
 
 由于阅读、观看和聆听是一种被动的工作，我强烈建议你*参加一个基于项目的课程* e，在那里你的思维会积极地工作，你会更好更快，Udemy 有许多 Python 课程，其中的项目非常适合初学者
 
-你可以从这个列表中购买一到两个免费的 Python 课程[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)**，并坚持下去，事实上，如果你理解任何概念都有困难，就反复观看它们。您还可以向讲师和其他学习该课程的 Python 程序员提问，Udemy 提供了这种便利，您应该充分利用它。
+你可以从这个列表中购买一到两个免费的 Python 课程</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf>**，并坚持下去，事实上，如果你理解任何概念都有困难，就反复观看它们。您还可以向讲师和其他学习该课程的 Python 程序员提问，Udemy 提供了这种便利，您应该充分利用它。
 
 Python 也是一门很棒的学习编码的编程语言，对于当今世界的任何人来说都是一项很棒的技能。编码可以让你自动化事情，表达自己，也可以赚钱，无论是在家做自由职业者，还是在一家跨国的财富 500 强硅谷公司找一份工作。**
 
@@ -213,8 +209,4 @@ Python 也是一门很棒的学习编码的编程语言，对于当今世界的�
 
 ****p . s .**——如果你是 Python 编程新手，想更好地学习 Python，但正在寻找免费课程，那么不要担心。如果你赶时间，我建议你先从[**Python 编程入门**](http://bit.ly/2D5vvnV) 课程开始，它完全免费，你需要做的就是创建一个 Udemy 账户来注册这门课程。**
 
-**[](http://bit.ly/2D5vvnV) [## 免费 Python 教程——Python 编程介绍
-
-### Avinash Jain 目前是加州大学伯克利分校电气工程和计算机科学专业的大二学生。他是…
-
-bit.ly](http://bit.ly/2D5vvnV)*******
+**<http://bit.ly/2D5vvnV> *******

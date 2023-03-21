@@ -10,7 +10,7 @@ image_credit —教育性
 
 Java 程序员你好，如果你想深入学习 Spring 框架，找一些高级的 Spring 在线课程来学习像 Spring Boot、Spring Cloud、Spring Data JPA、Spring Security、Spring MVC 等东西，你来对地方了。
 
-前面我已经分享了学习[](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e?source=---------39------------------)**[**微服务**](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed)[**Hibernate**](/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b)**和**[**JPA**](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9)**的最佳课程，在这篇文章中，我将为有经验的 Java 开发人员分享最好最先进的 Spring 框架课程。****
+前面我已经分享了学习</javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e?source=---------39------------------>**[**微服务**](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed)[**Hibernate**](/javarevisited/top-5-hibernate-online-training-courses-for-beginners-and-advance-java-programmers-469460596b2b)**和**[**JPA**](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9)**的最佳课程，在这篇文章中，我将为有经验的 Java 开发人员分享最好最先进的 Spring 框架课程。****
 
 ****毫无疑问，Spring 框架可能是 Java 开发人员最重要的技能，但是仅仅了解 Spring 也是不够的。****
 
@@ -211,11 +211,7 @@ Java 程序员你好，如果你想深入学习 Spring 框架，找一些高级�
 
 ****顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每年 299 美元或每月 29 美元。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 这就是为有经验的 Java 开发人员提供的高级 Spring 框架课程。正如我所说，Spring 是 Java 程序员最重要的技能，如果你想在竞争中保持领先，你还需要努力用 Spring Boot、Spring Cloud、微服务、反应式 Spring 和测试 Spring Boot 应用来提升自己。
 
@@ -240,8 +236,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果你热衷于学习 Spring MVC 框架，成为一名全栈 Java 开发者，但正在寻找免费的在线课程，你也可以在 Udemy 上查看这个 [**Angular 和 Spring MVC 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-an-angular-and-spring-mvc-web-application%2F) 。已经完成了，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) [## Java 开发人员学习 Spring 框架的 10 大免费课程
-
-### 大家好，我最近分享了很多资源，如书籍和课程，当我公布了我的最佳…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)****
+</javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25> ****

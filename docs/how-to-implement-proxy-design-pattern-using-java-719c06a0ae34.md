@@ -141,13 +141,9 @@
 
 ## ⚡Where 找到工厂设计模式的代码库？
 
-Github 上的[](https://github.com/Rohan2596)
+Github 上的<https://github.com/Rohan2596>
 
-**[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/proxy) [## GitHub-rohan 2596/设计模式-模式/代理的示例
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/proxy) 
+**<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/proxy>  
 
 ## 📑结论:-
 
@@ -157,12 +153,4 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/pr
 
 ## 📚参考书目:-
 
-[](https://refactoring.guru/design-patterns/proxy) [## 代理人
-
-### 代理是一种结构设计模式，允许您为另一个对象提供替代或占位符。代理人…
-
-重构大师](https://refactoring.guru/design-patterns/proxy) [](https://en.wikipedia.org/wiki/Proxy_pattern) [## 代理模式-维基百科
-
-### 在计算机编程中，代理模式是一种软件设计模式。一个代理，在其最一般的形式，是一个类…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Proxy_pattern) ![](img/ff05d60d0936b92fea9333d67c815995.png)**
+<https://refactoring.guru/design-patterns/proxy>  <https://en.wikipedia.org/wiki/Proxy_pattern>  ![](img/ff05d60d0936b92fea9333d67c815995.png)**

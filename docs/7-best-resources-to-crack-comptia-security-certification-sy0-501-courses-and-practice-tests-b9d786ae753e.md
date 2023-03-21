@@ -96,11 +96,7 @@ Pluralsight 也有一些关于准备 CompTIA Security+考试不同主题的课�
 
 大约每月 29 美元或每年 299 美元，打了 14%的折扣。或者，您也可以通过使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来访问该课程，该课程提供 200 分钟的时间来访问他们所有的 7000 多门在线课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[CompTIA Security+(SY0–601)(400+问题)](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsecurity-601-exams%2F)
 
@@ -185,8 +181,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 如果您正在准备 CompTIA Security+认证(SY0–601)考试，并且需要一个免费的在线培训课程，那么您也可以在 Udemy 上查看 [**CompTIA Security+课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-security-virusesthreats-and-compromise-indicators%2F) 。这是免费的，它没有涵盖所有的主题，但这是一个开始准备的好课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-security-virusesthreats-and-compromise-indicators%2F) [## CompTIA Security+:病毒、威胁和危害指标
-
-### Anand Rao 是一名高级技术讲师和云顾问。他在大型企业工作了大约 15 年…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-security-virusesthreats-and-compromise-indicators%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-security-virusesthreats-and-compromise-indicators%2F> 

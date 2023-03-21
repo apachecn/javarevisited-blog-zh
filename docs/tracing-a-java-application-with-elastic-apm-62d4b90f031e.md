@@ -117,11 +117,11 @@ secret_token=
 
 执行`mvn clean`、`mvn install`在`target`文件夹下生成`jar`。
 
-**注意:**你需要在你的机器上安装`[maven](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89)` [](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89)(而 java dev 的笔记本电脑上没有`ant``maven``[gradle](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e)`)！😉)
+**注意:**你需要在你的机器上安装`[maven](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89)` </javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89>(而 java dev 的笔记本电脑上没有`ant``maven``[gradle](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e)`)！😉)
 
 启动应用程序:`java -jar target/javalin-student-1.0-snapshot.jar`
 
-您可以使用 REST 客户端如`[Postman](/javarevisited/7-best-courses-to-learn-postman-tool-for-web-service-and-api-testing-f225c138fa5a?source=---------13------------------)` [](/javarevisited/7-best-courses-to-learn-postman-tool-for-web-service-and-api-testing-f225c138fa5a?source=---------13------------------)或命令行工具如`[cURL](https://javarevisited.blogspot.com/2017/03/10-examples-of-curl-command-in-unix-and-Linux.html)` [](https://javarevisited.blogspot.com/2017/03/10-examples-of-curl-command-in-unix-and-Linux.html)来检查应用程序端点。
+您可以使用 REST 客户端如`[Postman](/javarevisited/7-best-courses-to-learn-postman-tool-for-web-service-and-api-testing-f225c138fa5a?source=---------13------------------)` </javarevisited/7-best-courses-to-learn-postman-tool-for-web-service-and-api-testing-f225c138fa5a?source=---------13------------------>或命令行工具如`[cURL](https://javarevisited.blogspot.com/2017/03/10-examples-of-curl-command-in-unix-and-Linux.html)` <https://javarevisited.blogspot.com/2017/03/10-examples-of-curl-command-in-unix-and-Linux.html>来检查应用程序端点。
 
 **创建:**
 

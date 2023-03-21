@@ -78,11 +78,7 @@
 
 顺便说一句，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来观看这个课程，费用大约为每月 29 美元或每年 299 美元，虽然这完全值得你的钱，但你也可以通过使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程，这允许 200 分钟免费访问他们关于最新技术和认证的所有 7000 个在线课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[完整的 Salesforce 高级管理员认证](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-salesforce-advanced-administrator-certification%2F)
 
@@ -171,8 +167,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果您是 Salesforce 世界的新手，并且正在寻找一个免费的课程来首先学习 Salesforce，那么我建议您加入这个免费的 Udemy 课程— [**以简单的步骤学习 SalesForce 并获得 Parikshith Red 和 Samata Chag 的认证**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F) 。您将从这个 3.5 小时的资源中获得良好的 Salesforce 知识，而且它是完全免费的。你只需要一个免费的 Udemy 帐户就可以在线学习这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F) [## 免费 Salesforce 教程-通过简单的步骤学习 Salesforce 并获得认证！
-
-### Parikshith 是一名 CRM 顾问和用户体验设计师。在亚利桑那州立大学完成学士学位后…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F> 

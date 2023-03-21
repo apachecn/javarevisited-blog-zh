@@ -64,15 +64,7 @@
 
 如果你愿意学习我写的其他设计模式，
 
-[](https://susithrj.medium.com/demystifying-singleton-design-pattern-in-java-96887744d40a) [## 揭开 Java 中单例设计模式的神秘面纱
-
-### 本文讨论了单件模式，许多人认为这是最常用的设计模式。
-
-susithrj.medium.com](https://susithrj.medium.com/demystifying-singleton-design-pattern-in-java-96887744d40a) [](/javarevisited/toned-down-code-complexity-using-facade-design-pattern-6f21d1e762d) [## 使用外观设计模式降低代码复杂性
-
-### 给出一个“表面/正面”使得代码简单明了，易于理解。
-
-medium.com](/javarevisited/toned-down-code-complexity-using-facade-design-pattern-6f21d1e762d) 
+<https://susithrj.medium.com/demystifying-singleton-design-pattern-in-java-96887744d40a>  </javarevisited/toned-down-code-complexity-using-facade-design-pattern-6f21d1e762d>  
 
 如果有什么我说得不对的地方，欢迎在下面评论！。*如果你喜欢这篇文章，点击👏下面这样更多的人可以看到它！请务必在*[***Medium***](/@susithrj)**或* [***我的博客***](https://susithrj.wordpress.com/)**上关注我，以便在有新文章发表时获得更新。***
 

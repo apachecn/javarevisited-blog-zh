@@ -16,7 +16,7 @@
 
 学习 JavaScript 的另一个原因是它支持一些最流行和强大的 web 开发框架，如 [Angular](http://www.java67.com/2018/01/top-5-free-angular-js-online-courses-for-web-developers.html) 、 [React](http://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html) 、 [Node JS](http://javarevisited.blogspot.sg/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) 和 [jQuery](http://www.java67.com/2018/04/top-5-free-jquery-courses-for-web-developers.html) 。要使用这些工具和框架，需要具备良好的 JavaScript 知识。这样你就能明白下面发生了什么。现在我们知道了 JavaScript 是多么重要，为什么你应该学习它，让我分享一些最好的在线课程，你可以开始你的 JavaScript 之旅，并最终成为它的主人。
 
-我是一个书迷，在过去，我甚至分享了一些我最喜欢的 JavaScript 书籍[](http://javarevisited.blogspot.sg/2017/02/top-5-javascript-books-to-learn-best-of-lot-must-read.html)*，但在过去的几年里，我发现在线培训课程最适合学习新技术或编程语言。
+我是一个书迷，在过去，我甚至分享了一些我最喜欢的 JavaScript 书籍<http://javarevisited.blogspot.sg/2017/02/top-5-javascript-books-to-learn-best-of-lot-must-read.html>*，但在过去的几年里，我发现在线培训课程最适合学习新技术或编程语言。
 
 主要原因是主动学习，尽管从书本中学习的热情仍然很高，有时你可能会在尝试做事时感到无聊和停滞不前，但通过在线课程，你可以看到它到底是如何完成的。我还发现，与流行书籍的作者相比，导师也更容易接近，这也是我建议开发人员先从课程开始，然后阅读书籍以获得更全面知识的另一个原因。*
 
@@ -70,11 +70,7 @@
 
 *如果你发现 Coursera 的课程很有用，因为它们是由知名公司如**谷歌**、 **IBM** 、**亚马逊**和世界上最好的大学创建的，我建议你加入 Coursera 的年度订阅计划 [**Coursera Plus**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 。*
 
-*[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+*<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。* 
 
@@ -122,13 +118,9 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *[![](img/a04efe6b16c5671689cf01feeeb15c93.png)](https://academy.zerotomastery.io/a/aff_szrvh5nm/external?affcode=441520_zytgk2dn)*
 
-*顺便说一句，Andrei Neagoie 还推出了自己的在线门户网站，[](https://academy.zerotomastery.io?affcode=441520_zytgk2dn&product_id=FRIENDS10)**【ZTM 学院】，在这里你只需订阅一次就可以获得他的所有 Python、JavaScript、Deno 和其他技术课程。他们还为 Javarevisited 的读者提供 24%的折扣，点击[这里](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)享受折扣。***
+*顺便说一句，Andrei Neagoie 还推出了自己的在线门户网站，<https://academy.zerotomastery.io?affcode=441520_zytgk2dn&product_id=FRIENDS10>**【ZTM 学院】，在这里你只需订阅一次就可以获得他的所有 Python、JavaScript、Deno 和其他技术课程。他们还为 Javarevisited 的读者提供 24%的折扣，点击[这里](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)享受折扣。***
 
-***[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)*** 
+***<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn> *** 
 
 ## ***7. [JavaScript:入门](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjavascript-getting-started) (Pluralsight)***
 
@@ -154,11 +146,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 ***或者，您也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费访问本课程。***
 
-***[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn?source=---------10----------------------------) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn?source=---------10----------------------------)*** 
+***<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn?source=---------10----------------------------> *** 
 
 ## ***[8。Javascript30 —免费](https://javascript30.com/)***
 
@@ -168,11 +156,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 讲师— [韦斯·博斯](https://medium.com/u/86a55cd7983b?source=post_page-----af5ed0801645--------------------------------)***
 
-***[](https://javascript30.com/) [## JavaScript 30
-
-### 用香草 JS 在 30 天内用 30 个教程构建 30 个东西
-
-javascript30.com](https://javascript30.com/)*** 
+***<https://javascript30.com/> *** 
 
 ## ***9.[学习 JavaScript——初学者全教程](https://www.youtube.com/watch?v=PkZNo7MFNFg) (YouTube)***
 
@@ -297,8 +281,4 @@ javascript30.com](https://javascript30.com/)***
 
 *****P. S.** —如果你是 JavaScript 世界的新手，渴望学习这一有用的技能，但又在寻找更多免费的选择，比如免费的 JavaScript 课程，那么你也可以在 Udemy 上查看这个 [**JavaScript 基础知识**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。***
 
-***[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F) [## 免费 JavaScript 教程- Javascript 基础
-
-### 劳伦斯·图尔顿是一名网页开发和平面设计师，擅长 HTML、CSS、jQuery、UI 和 UX 设计。他有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F)***
+***<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F> ***

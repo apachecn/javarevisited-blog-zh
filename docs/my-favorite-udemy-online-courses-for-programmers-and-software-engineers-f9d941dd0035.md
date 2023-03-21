@@ -217,11 +217,7 @@ Andrei Negaoie 是一位经验丰富的讲师，他很好地解释了每一种�
 
 顺便说一句，如果你喜欢安德烈的教学风格，你可能想去看看他的 [**ZTM 学院**](https://academy.zerotomastery.io/a/aff_fvgz1fnn/external?affcode=441520_zytgk2dn) 在那里你只需每月支付 39 美元的会员费就可以学习他的所有课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 这就是关于程序员和开发人员的最佳 Udemy 课程和认证的全部内容。这些是 Udemy 学习热门和热门技能的畅销书，如 [Java](https://javarevisited.blogspot.com/2020/04/top-5-courses-to-become-full-stack-java-developer-with-Angular-and-Reactjs.html#axzz6Nq9yk7Sc) 、 [Python](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) 、 [Web 开发](https://dev.to/javinpaul/top-6-courses-to-learn-web-development-best-of-lot-2fae)、 [C++](/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e) 、 [AWS](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) 、[数据科学和机器学习](/javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f)、 [Node.js](/javarevisited/7-free-courses-to-learn-node-js-in-2020-2f1dd6722b49?source=---------10------------------) 、 [Angular](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) 、 [Reactjs](/javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f?source=extreme_main_feed----d3a191ac6ed-----5-1--------------------561c2dc6_a2b4_41e0_b7be_1d97edbf631c--8) 、 [Golang](/javarevisited/7-online-courses-to-learn-golang-or-go-programming-languages-in-2020-f599a25cf14a) 、[如果你想在技术和编程领域发展事业。
 
@@ -244,8 +240,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 如果你正在寻找面向程序员和开发人员的[免费 Udemy 课程](/javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b)，那么你也可以查看我之前列出的[前 20 名 Udemy 免费课程](/javarevisited/100-free-programming-and-web-development-courses-on-udemy-free-resource-center-3f8415eb5e6f)你可以在线加入。该列表与此列表非常相似，但有免费课程。
 
-[](/javarevisited/100-free-programming-and-web-development-courses-on-udemy-free-resource-center-3f8415eb5e6f) [## 2023 年成为网络开发者的 20 大免费 Udemy 课程
-
-### 呆在家里，保持安全，并通过免费 Udemy 课程的精选列表免费培养技能。
-
-medium.com](/javarevisited/100-free-programming-and-web-development-courses-on-udemy-free-resource-center-3f8415eb5e6f)
+</javarevisited/100-free-programming-and-web-development-courses-on-udemy-free-resource-center-3f8415eb5e6f> 

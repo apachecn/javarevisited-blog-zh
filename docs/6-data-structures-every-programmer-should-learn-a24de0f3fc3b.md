@@ -123,8 +123,4 @@ Java 集合 API 提供了一些集合的实现，比如 [HashSet、TreeSet 和 L
 
 **P. S.** —如果你正在寻找一些免费的算法课程来提高你对数据结构和算法的理解，那么你也应该查看 Udemy 上的[**Java 初学者数据结构**](http://bit.ly/2hhloDL) 课程。这是免费的，你只需要一个 Udemy 帐户就可以参加这个课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) [## 算法，第一部分
-
-### 这门课程涵盖了每个严肃的程序员需要知道的关于算法和数据的基本信息…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1> 

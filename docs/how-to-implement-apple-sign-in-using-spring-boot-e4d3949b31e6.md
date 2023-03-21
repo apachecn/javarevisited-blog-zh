@@ -14,11 +14,7 @@
 
 ## **第一步:**创建使用服务的苹果开发者账户。
 
-[](https://developer.apple.com/) [## 苹果开发者
-
-### 现在是开发苹果平台的最佳时机。
-
-developer.apple.com](https://developer.apple.com/) 
+<https://developer.apple.com/>  
 
 ## **第二步:**成功创建后，苹果开发者。
 
@@ -31,11 +27,7 @@ developer.apple.com](https://developer.apple.com/)
 
 ## 步骤 3:使用 Spring initializer 创建一个 Spring Boot 项目。
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成的 spring boot 项目正好是你快速启动所需要的！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## 依赖性:-
 

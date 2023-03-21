@@ -124,19 +124,11 @@ b. While **incrementing *j*** we are including ***A[j]*** from our range and whi
 
 ****莫的算法在竞技编程中会很有用。你可以在 [codechef](https://www.codechef.com/tags/problems/mos-algorithm) ，SPOJ，codeforces 等上面找到莫算法的练习题。其中一个著名的问题是**DQUERY**from**SPOJ******
 
-****[](https://www.spoj.com/problems/DQUERY/) [## SPOJ.com 问题查询
-
-### đọcđềđẹp hơn ở: https://code forces . com/group/flvn 1 sc 504/contest/274490/problem/o 给定 n 个数序列 a 1，a…
-
-www.spoj.com](https://www.spoj.com/problems/DQUERY/) 
+****<https://www.spoj.com/problems/DQUERY/>  
 
 你可以在下面的 Github 网址中找到上述问题的解决方案
 
-[](https://github.com/ganeshkumarm1/DSAlgo/tree/master/src/com/dsalgo/Algorithms/MOAlgorithm/DistinctVowels) [## ganeshkumarm1/DSAlgo
-
-### 在 GitHub 上创建一个帐户，为 ganeshkumarm1/DSAlgo 开发做出贡献。
-
-github.com](https://github.com/ganeshkumarm1/DSAlgo/tree/master/src/com/dsalgo/Algorithms/MOAlgorithm/DistinctVowels) 
+<https://github.com/ganeshkumarm1/DSAlgo/tree/master/src/com/dsalgo/Algorithms/MOAlgorithm/DistinctVowels>  
 
 # 谢谢你🤘
 

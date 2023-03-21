@@ -52,8 +52,4 @@ NFT 使用区块链来确定艺术的真实性。它使你能够区分原始对�
 
 **你可能喜欢的其他文章:**
 
-[](/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0) [## 2021 年初学者学习的 10 个最佳区块链课程和认证
-
-### 这些是从 Udemy、Pluralsight、Coursera、101 等网站学习区块链编程的最佳在线课程…
-
-medium.com](/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0)
+</javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0> 

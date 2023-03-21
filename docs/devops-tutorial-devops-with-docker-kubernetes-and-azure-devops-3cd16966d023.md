@@ -169,11 +169,7 @@ DevOps 是什么？和敏捷有什么不同？有哪些流行的 DevOps 工具�
 
 是时候用一个新的软件开发术语了。DevOps。Btw，如果你想了解更多关于微服务的知识，那么你也可以看看这些课程[用 Spring Boot 和 Spring Cloud](https://javarevisited.blogspot.com/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html) 学习 Java 中的微服务:
 
-[](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的前 5 门课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) 
+</javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d>  
 
 # DevOps 的出现
 
@@ -421,11 +417,7 @@ Docker 和 Kubernetes 让 DevOps 变得简单。
 
 如果你想了解更多关于 Docker 和 Kubernetes 的知识，你也可以看看这个课程列表。
 
-[](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) [## 2020 年学习 Docker 和 Kubernetes 的 5 大课程-最佳课程
-
-### 伙计们，你们好吗？你有望实现今年的目标吗？我相信你在…的时候已经有了目标
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) 
+<https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html>  
 
 # 重要的 DevOps 指标
 

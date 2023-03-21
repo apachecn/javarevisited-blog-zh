@@ -120,8 +120,4 @@ Docker 于 2013 年由 Solomon Hykes 首次推出。它是最受欢迎的 [DevOp
 
 **附言——**如果你更喜欢在线课程而不是书本，或者只是想主动学习，那么我也推荐你去看看 Udemy 网站上 Maximillian Scwarzmuller 的 [**Docker & Kubernetes:实用指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F) 课程。这是学习 Docker 和 Kubernetes 的最好和最新的课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F) [## Docker & Kubernetes:实用指南
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F> 

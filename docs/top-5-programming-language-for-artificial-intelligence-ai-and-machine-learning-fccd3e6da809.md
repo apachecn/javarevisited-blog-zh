@@ -22,11 +22,7 @@
 
 如果你是一个完全的人工智能初学者，那么我也建议你首先通过吴恩达的经典 [**人工智能为每个人**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) 课程来学习人工智能的基础知识，并大致了解什么是人工智能以及它能为你和你的业务做什么。在 Coursera 上学习人工智能是一个很棒的课程，适合来自不同领域和技术的人。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) [## 面向所有人的人工智能
-
-### 人工智能不仅仅是工程师的专利。如果你想让你的组织在使用人工智能方面变得更好，这是一门课程告诉…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone>  
 
 # 5 人工智能开发的最佳编程语言
 
@@ -127,10 +123,6 @@ C++ 是软件开发者中广泛使用的编程语言。C++是一种高级面向�
 
 **感谢您迄今为止阅读这篇文章。如果你喜欢请分享。如果你有任何其他对人工智能很好的编程语言，或者有语言支持，人工智能和机器学习的库和生态系统，那么请分享。**
 
-**如果你是一个完全的人工智能初学者，那么我也建议你首先通过吴恩达的经典的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone)**人工智能课程来学习人工智能的基础知识，并大致了解什么是人工智能以及它能为你和你的企业做什么。在 Coursera 上学习人工智能是一个很棒的课程，适合来自不同领域和技术的人。****
+**如果你是一个完全的人工智能初学者，那么我也建议你首先通过吴恩达的经典的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone>**人工智能课程来学习人工智能的基础知识，并大致了解什么是人工智能以及它能为你和你的企业做什么。在 Coursera 上学习人工智能是一个很棒的课程，适合来自不同领域和技术的人。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone) [## 面向所有人的人工智能
-
-### 人工智能不仅仅是工程师的专利。如果你想让你的组织在使用人工智能方面变得更好，这是一门课程告诉…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone)****
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fai-for-everyone> ****

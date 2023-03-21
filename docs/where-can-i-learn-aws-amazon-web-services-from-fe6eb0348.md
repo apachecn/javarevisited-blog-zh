@@ -48,18 +48,6 @@
 
 ## 您可能感兴趣的其他 AWS 文章
 
-[](/javarevisited/top-5-aws-training-courses-to-crack-amazon-web-service-solutions-architect-associate-certification-3f4affa8f660) [## 我最喜欢的 2020 年 AWS 解决方案架构师助理认证课程
-
-### 大家好，你们在准备 AWS 认证解决方案架构师助理考试吗？或者你想成为亚马逊网站…
-
-medium.com](/javarevisited/top-5-aws-training-courses-to-crack-amazon-web-service-solutions-architect-associate-certification-3f4affa8f660) [](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 2020 年学习 Docker、Kubernetes 和 AWS 的 15 大在线课程
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) 
+</javarevisited/top-5-aws-training-courses-to-crack-amazon-web-service-solutions-architect-associate-certification-3f4affa8f660>  </javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d>  
 
 注意:我在亚马逊工作，但我所有的文章都反映了我自己的观点。

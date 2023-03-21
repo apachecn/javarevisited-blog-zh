@@ -117,8 +117,4 @@ Peopleware 是另一个关于项目管理的永恒经典。如果你猜对了，
 
 **附言——**如果你正在准备项目管理专业认证(PMP)，并且需要一些资源来准备和深入学习项目管理，那么我强烈推荐你去看看 Udemy 上的 [**实用项目管理课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeply-practical-project-management%2F) 。对于新晋升的项目经理和管理数十个项目的经验丰富的项目经理来说，这都是一门很棒的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeply-practical-project-management%2F) [## 深度实践项目管理(获得 16 PDUs)
-
-### 最后，一个在线课程，由一位经验丰富的老手教授项目管理的“如何”。-卡琳·布拉姆这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeply-practical-project-management%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeply-practical-project-management%2F> 

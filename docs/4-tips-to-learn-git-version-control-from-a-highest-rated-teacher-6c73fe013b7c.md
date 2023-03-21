@@ -4,7 +4,7 @@
 
 那么我是谁？
 
-我叫安娜，我在 www.techjourneywithanna.com 的[](https://www.udemy.com/course/git-learning-journey/?referralCode=3FA102A7FD43300B5BC2)**和我自己的平台[**上教 Git(版本控制)！**](http://www.techjourneywithanna.com!)**
+我叫安娜，我在 www.techjourneywithanna.com 的<https://www.udemy.com/course/git-learning-journey/?referralCode=3FA102A7FD43300B5BC2>**和我自己的平台[**上教 Git(版本控制)！**](http://www.techjourneywithanna.com!)**
 
 ****[![](img/66e4d03d147dd4851defbaa0ae1b8a9b.png)](http://bit.ly/git-learning-journey)****
 

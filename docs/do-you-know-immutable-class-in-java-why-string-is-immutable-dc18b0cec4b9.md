@@ -137,16 +137,4 @@ Java 中的字符串池
 
 ***你可能喜欢看下面的面试问题:***
 
-[](/@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc) [## 字符串池在 Java 中是什么意思？
-
-### 了解 Java 中的字符串池，以及如何在字符串池中存储和检索对象。
-
-medium.com](/@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc) [](https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5) [## String、StringBuilder 和 StringBuffer:完整指南
-
-### 了解 java 中的文本/字符串操作类，如何以及何时使用它们。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5) [](https://levelup.gitconnected.com/working-of-tostring-and-comparing-concat-and-append-f688a5f8433c) [## 处理 toString 并比较 Concat、“+”和 append
-
-### 如何以及何时在 java 应用程序中使用 toString 方法。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/working-of-tostring-and-comparing-concat-and-append-f688a5f8433c)
+</@basecs101/what-does-string-pool-mean-in-java-996f0554e1dc>  <https://levelup.gitconnected.com/string-stringbuilder-and-stringbuffer-a-complete-guide-5ddd083a2ad5>  <https://levelup.gitconnected.com/working-of-tostring-and-comparing-concat-and-append-f688a5f8433c> 

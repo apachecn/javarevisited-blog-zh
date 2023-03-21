@@ -18,11 +18,7 @@
 
 至于成为**谷歌云数据工程师**的额外奖励，你有可能获得超过 11.7 万美元的平均年薪。费率可能会有所不同，这取决于你在数据工程方面拥有多少经验，因为数据工程最好是通过大量实践来学习。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgcp-data-engineering) [## 准备谷歌云认证:云数据工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgcp-data-engineering) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgcp-data-engineering>  
 
 # 2023 年加入的 7 门最佳谷歌云专业数据工程师课程
 
@@ -64,11 +60,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你喜欢看书，亚马逊上也有这本书，你可以在这里买到这本书。
 
-[](https://www.amazon.com/Official-Google-Certified-Professional-Engineer-ebook/dp/B086Q6V6G6?tag=javamysqlanta-20) [## 官方谷歌云认证专业数据工程师学习指南
-
-### 亚马逊网站:官方谷歌云认证专业数据工程师学习指南电子书:沙利文，丹:Kindle 商店
-
-www.amazon.com](https://www.amazon.com/Official-Google-Certified-Professional-Engineer-ebook/dp/B086Q6V6G6?tag=javamysqlanta-20) 
+<https://www.amazon.com/Official-Google-Certified-Professional-Engineer-ebook/dp/B086Q6V6G6?tag=javamysqlanta-20>  
 
 ## 3.[拥有谷歌云专业证书的数据工程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgcp-data-engineering)【Coursera】
 
@@ -84,11 +76,7 @@ www.amazon.com](https://www.amazon.com/Official-Google-Certified-Professional-En
 
 它每年花费大约 399 美元，但它完全值得你花这笔钱，因为你可以获得无限的证书，而且非常划算。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[谷歌云上的数据工程](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fdata-engineering-on-google-cloud-platform) [ [Pluralsight](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fdata-engineering-on-google-cloud-platform) ]
 
@@ -104,11 +92,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 plur sight 会员才能观看这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)，但 plur sight 也提供了一个 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，你可以用它来观看这个课程，但在试用结束后，如果你想继续，你必须每月支付 29 美元的费用。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-data-engineer-cloud-architect%2F) [## GCP:谷歌云平台:数据工程师、云架构师
-
-### GCP 课程为您提供了掌握成为云架构师所需概念的工具。GCP 是一个大…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-data-engineer-cloud-architect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-data-engineer-cloud-architect%2F>  
 
 ## 5. [GCP:谷歌云平台:数据工程师、云架构师](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-data-engineer-cloud-architect%2F)
 
@@ -173,8 +157,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 **P. S.** —除了学习这些 GCP 云工程师助理课程之外，您还可以查看考试指南或参加[**实践考试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certified-professional-data-engineer-pr-tests-k%2F) ，这将有助于您在准备过程中确定并专注于主要领域。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certified-professional-data-engineer-pr-tests-k%2F) [## 谷歌云认证专业数据工程师:Pr。试验
-
-### 专业数据工程师通过收集、转换和发布数据来实现数据驱动的决策。一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certified-professional-data-engineer-pr-tests-k%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certified-professional-data-engineer-pr-tests-k%2F> 

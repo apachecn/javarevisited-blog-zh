@@ -208,4 +208,4 @@
 
 Java 被用于各种项目:从移动应用程序到企业解决方案。我试图列出我的公司开发的最杰出的 Java 项目。它们在领域、复杂性和细节上都有所不同。但是所有这些项目都以一种成功的方式。
 
-*原载于 2020 年 6 月 18 日 https://www.intexsoft.com*[](https://intexsoft.com/blog/java-projects-developed-by-intexsoft/)**。**
+*原载于 2020 年 6 月 18 日 https://www.intexsoft.com*<https://intexsoft.com/blog/java-projects-developed-by-intexsoft/>**。**

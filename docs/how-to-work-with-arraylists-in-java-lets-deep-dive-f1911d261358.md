@@ -59,7 +59,7 @@ ArrayList 比固定大小的标准数组用得更多。如果你是一个有竞�
 *现在，让我们深入挖掘，逐一理解每个部分:-*
 
 *   *`**list**`—[引用变量](https://www.java67.com/2016/01/difference-between-list-and-arraylist-variable-in-java.html)，用于指向由`ArrayList`类构成的对象。*
-*   *`**ArrayList<Integer>**` —这里，`ArrayList`的意思是，引用变量`list`所指向的对象是由名为`ArrayList`的类制成的，或者属于该类。简单来说，`[ArrayList](https://javarevisited.blogspot.com/2012/01/how-to-sort-arraylist-in-java-example.html)` [](https://javarevisited.blogspot.com/2012/01/how-to-sort-arraylist-in-java-example.html)就是引用变量`list`的数据类型。*
+*   *`**ArrayList<Integer>**` —这里，`ArrayList`的意思是，引用变量`list`所指向的对象是由名为`ArrayList`的类制成的，或者属于该类。简单来说，`[ArrayList](https://javarevisited.blogspot.com/2012/01/how-to-sort-arraylist-in-java-example.html)` <https://javarevisited.blogspot.com/2012/01/how-to-sort-arraylist-in-java-example.html>就是引用变量`list`的数据类型。*
 *   *`**<Integer>**` —这是一个**泛型**，用于指定该数组列表只能存储`Integer`数据类型的值。如果你不知道什么是泛型，我将在接下来的文章中讨论这个问题。
     还有一点值得一提的是，我们不能在泛型里面包含类似 ***int*** ， ***char*** ， ***boolean*** 这样的原语数据类型。我们只能包含 ***包装类*** 像**整数**。我们可以使用或指定**字符串**，因为它不是原始数据类型。
     如果我们不包含泛型，程序仍然会运行，但是，在需要的时候使用泛型是一个好习惯。*
@@ -142,11 +142,7 @@ System.out.println(list); // [15, 98, 35, 47, 72]*
 
 *你可以看看我以前写的关于 Java 的文章*
 
-*[](/javarevisited/what-is-the-scope-of-a-variable-in-java-lets-deep-dive-c2a9ca566d1) [## Java 中变量的作用域是什么？让我们深潜吧
-
-### 详细了解方法范围、块范围和所有其他概念
-
-medium.com](/javarevisited/what-is-the-scope-of-a-variable-in-java-lets-deep-dive-c2a9ca566d1) 
+*</javarevisited/what-is-the-scope-of-a-variable-in-java-lets-deep-dive-c2a9ca566d1>  
 
 请关注**Medium**Medium**上的**me，获取更多关于 **Java** 的此类文章，我将从头开始讲述一个主题，并通过一步一步地解释所有核心概念来更深入地探讨这个主题。****
 

@@ -66,11 +66,7 @@ Dart 由丹麦软件工程师 Lars Bak 开发，他也是谷歌 Chrome 的 V8 Ja
 
 而且，如果你发现教育平台和他们的互动课程很有用(特别是他们的 [Grokking Interview](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 课程)，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 130 多门课程，每月只需 19 美元(50%折扣)。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 4. [Dart:完全开发者指南](https://academy.zerotomastery.io/p/learn-dart?affcode=441520_zytgk2dn)【ZTM 学院】
 
@@ -95,11 +91,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费大约 29 美元，但也提供了许多超级吸引人和有用的课程，如他的 Python 课程和 JavaScript Web 项目:构建你的作品集课程的 20 个项目。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 5..[飞镖—初学者课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdart-beginners-course%2F)【我的课程】
 
@@ -139,7 +131,7 @@ Flutter 是谷歌的移动 UI 框架，用于在 [iOS](/javarevisited/top-5-onli
 
 这就是为什么在你开始使用 Flutter 开发跨平台原生移动应用之前，你需要学习 Dart。这也是我列出的每个移动开发者都应该学习的 10 件事情中的顶级技能之一，其中还包括 Flutter 和其他一些对应用开发者来说很重要的技术。
 
-如果你想学习 Android 应用程序开发，但又想找一些免费的东西，那么我也建议你看看 2023 年为程序员和移动开发者提供的这些免费 Android 课程[](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html)**。
+如果你想学习 Android 应用程序开发，但又想找一些免费的东西，那么我也建议你看看 2023 年为程序员和移动开发者提供的这些免费 Android 课程<https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html>**。
 
 其他**您可能喜欢探索的有用编程资源****
 
@@ -159,8 +151,4 @@ Flutter 是谷歌的移动 UI 框架，用于在 [iOS](/javarevisited/top-5-onli
 
 **p . s . s .**——除了 Dart，如果你也想学习 Flutter，我也建议你去看看由 Angela Yu 教授的 [**带 Dart 的完整的 Flutter 开发训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fflutter-bootcamp-with-dart%2F) 课程，她是著名的训练营导师之一，现在在 Udemy 上在线授课。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fflutter-bootcamp-with-dart%2F) [## 包含 Dart 的完整 2023 颤振开发训练营
-
-### 欢迎参加 Dart 的完整 Flutter 应用程序开发训练营，Dart 是与 Google Flutter 合作创建的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fflutter-bootcamp-with-dart%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fflutter-bootcamp-with-dart%2F> **

@@ -22,11 +22,7 @@ Java 平台模块系统大概是大多数开发者在想到 Java 9 的时候都�
 
 该课程由 [**完整 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 讲师 Tim Buchalaka 打造，是深入学习 Java 的最佳课程之一。
 
-[](https://www.udemy.com/whats-new-in-java-9/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Wk9z7PCarheUGGtMyhW82g) [## Java 9 的新特性——模块和更多！Udemy
-
-### 通过了解 Java 9 的新特性，如模块、JShell、进程等，改善您的职业前景。
-
-www.udemy.com](https://www.udemy.com/whats-new-in-java-9/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Wk9z7PCarheUGGtMyhW82g) 
+<https://www.udemy.com/whats-new-in-java-9/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Wk9z7PCarheUGGtMyhW82g>  
 
 ## [**2。Java 9 在 Pluralsight** 上的新特性](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new)
 
@@ -44,11 +40,7 @@ www.udemy.com](https://www.udemy.com/whats-new-in-java-9/?LSNPUBID=JVFxdTr9V80&r
 
 比如你刚开始编程，选择 [Java 9](https://hackernoon.com/top-10-java-9-tutorials-and-courses-best-of-lot-must-read-9a25c511a573) 开始，这是你应该加入的课程。
 
-[](https://www.udemy.com/the-complete-java-9-masterclass-beginner-to-expert/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-OwvUcZ.J_os9tqTdqjUyDw&LSNPUBID=JVFxdTr9V80) [## Java 大师班-初学者到专家指南| Udemy
-
-### 更新了新的 Java 9 特性========加入 8，000 多名学生的行列，他们正在享受并从……
-
-www.udemy.com](https://www.udemy.com/the-complete-java-9-masterclass-beginner-to-expert/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-OwvUcZ.J_os9tqTdqjUyDw&LSNPUBID=JVFxdTr9V80) 
+<https://www.udemy.com/the-complete-java-9-masterclass-beginner-to-expert/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-OwvUcZ.J_os9tqTdqjUyDw&LSNPUBID=JVFxdTr9V80>  
 
 ## [**4。用 Java 9 学习 JShell 循序渐进**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjshell-tutorial-for-beginners-with-java-9%2F)
 
@@ -58,11 +50,7 @@ JShell 是 Java 9 中的一个新特性，它允许您快速、轻松地运行�
 
 良好的 JShell 知识将帮助你在探索[Java API](https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html)和[库](https://dev.to/javinpaul/10-frameworks-java-and-web-developers-can-learn-in-2019-17ke)时变得更加高效。
 
-[](https://www.udemy.com/jshell-tutorial-for-beginners-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BeKSJN8j27tPtPUfu8m9Gw&LSNPUBID=JVFxdTr9V80) [## 用 Java 学习 JShell 循序渐进| Udemy
-
-### master JShell——Java 9 最重要的新特性
-
-www.udemy.com](https://www.udemy.com/jshell-tutorial-for-beginners-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BeKSJN8j27tPtPUfu8m9Gw&LSNPUBID=JVFxdTr9V80) 
+<https://www.udemy.com/jshell-tutorial-for-beginners-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-BeKSJN8j27tPtPUfu8m9Gw&LSNPUBID=JVFxdTr9V80>  
 
 ## [**5。Java 9 模块化:先看**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-modularity-first-look)
 
@@ -78,11 +66,7 @@ Packt publishing ( [Packt](https://medium.com/u/8ef58ed680e6?source=post_page---
 
 它首先介绍函数式编程，然后教你如何使用 [Spring](https://javarevisited.blogspot.com/2016/12/top-5-spring-and-hibernate-training-courses-java-jee-programmers.html) 、 [Jersey](https://javarevisited.blogspot.com/2017/02/difference-between-jax-rs-restlet-jersey-apache-cfx-RESTEasy.html) 和 [Java 9](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-help-you-learn-java-8-and-java-9-a7615c8644ab) 特性构建一个 [RESTful web 服务](https://dev.to/javinpaul/why-spring-mvc-is-best-for-creating-restful-web-services-in-java-358p)。
 
-[](https://www.udemy.com/learning-path-java-9-programming-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1VULnZxuoZLdFJGVihhjlQ&LSNPUBID=JVFxdTr9V80) [## 学习路径:Java 9:用 Java 9 编程| Udemy
-
-### 如果你是一个希望根据行业标准保持更新的程序员，那么这个学习路径是为…
-
-www.udemy.com](https://www.udemy.com/learning-path-java-9-programming-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1VULnZxuoZLdFJGVihhjlQ&LSNPUBID=JVFxdTr9V80) 
+<https://www.udemy.com/learning-path-java-9-programming-with-java-9/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1VULnZxuoZLdFJGVihhjlQ&LSNPUBID=JVFxdTr9V80>  
 
 以上就是从头开始学习 Java 9 的一些**最佳课程**。这些课程不仅很好地概述了 JDK 9 的基本特性，还展示了一些真实世界的例子，展示了如何使用 JDK 9 的特性，比如构建 RESTful web 服务。
 
@@ -103,8 +87,4 @@ www.udemy.com](https://www.udemy.com/learning-path-java-9-programming-with-java-
 
 **附言**。—如果你是一个初学者，刚开始学 Java，那么 [**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) ，深入学习 Java 最好的、最新的在线课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> 

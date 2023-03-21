@@ -54,11 +54,7 @@
 
 强烈推荐休息加春训的[大师班](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa)，获取生产工作所需的完整知识。他的课程中也有一些免费的课程，你可以在购买课程之前获取。那会让你对加入他的大师班能得到什么有一个很好的想法。
 
-[](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:大师课
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) 
+<http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa>  
 
 ## 3.[弹簧微服务在行动](https://www.amazon.com/Spring-Microservices-Action-John-Carnell/dp/1617293989?tag=javamysqlanta-20)
 
@@ -72,11 +68,7 @@ Spring 微服务实践教你如何使用 Java 和 Spring 平台构建基于微�
 
 还有，说到学习 Java 和 Spring 内部的微服务，我强烈推荐 Udemy 的[**Spring Boot 主微服务和 Spring Cloud**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 课程。这是一门学习 Java 微服务开发的绝佳课程，超过 77，000 名学生信赖这门课程。
 
-[](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [## 2023 年 Spring Boot 和 Spring Cloud 的 10 个最佳 Java 微服务课程
-
-### 我最喜欢的学习 Java 微服务的在线课程使用 Spring Boot 和 Spring Cloud 面向初学者 2023 年从…
-
-medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) 
+</javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed>  
 
 ## 4.[与 Spring Boot 一起掌握 Java Web 服务和 RESTful API](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F)
 
@@ -136,8 +128,4 @@ medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-a
 
 **p . s .**——如果你是 Spring 和 Spring Boot 的新手，并且想以专注于代码和有指导的方式学习它们，你还可以看看尤金·帕拉斯基夫的新的 [**Learn Spring:认证类**](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) ，它以有指导的、专注于代码的方式从头开始教授 Spring 5 和 Spring Boot 2。**
 
-**[](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习 Spring:认证类
-
-### 这门课的目的是让你从实际上没有春天的经验，到有一个真实的世界，坚实的把握…
-
-courses.baeldung.com](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)**
+**<https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa> **

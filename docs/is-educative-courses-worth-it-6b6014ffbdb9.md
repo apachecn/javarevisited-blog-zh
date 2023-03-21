@@ -12,11 +12,7 @@
 
 在线教育是这个时代的新趋势，如果你想被大公司聘用或学习大学所需的高技能，你可以说仅仅依靠你的大学学位是不够的。许多在线平台利用这种趋势来生活，其中一个叫做 [**教育性**](https://www.educative.io?affiliate_id=5073518643380224) 。
 
-[](https://www.educative.io/?affiliate_id=5073518643380224) [## 教育性:软件开发人员的互动课程
-
-### 工程经理和高管无论您是在组建新团队还是扩充现有团队，我们都将提供帮助…
-
-www.educative.io](https://www.educative.io/?affiliate_id=5073518643380224) 
+<https://www.educative.io/?affiliate_id=5073518643380224>  
 
 ## 1.什么是教育性？
 
@@ -64,19 +60,11 @@ Educative 是一家盈利性公司，提供与编程和软件开发相关的课�
 
 **5.1。**[**python for Programmers**](https://www.educative.io/path/python-for-programmers?affiliate_id=5073518643380224)**:**这是一门学习 Python 语言的优秀入门课程，Python 语言是现在许多工作中很好的抢手技能之一，你可以用这种语言创建无尽的项目。
 
-[](https://www.educative.io/path/python-for-programmers?affiliate_id=5073518643380224) [## 面向程序员的 Python 交互式学习
-
-### Python 是开发人员和数据科学家最喜欢的编程语言，因为它直观的语法和先进的…
-
-www.educative.io](https://www.educative.io/path/python-for-programmers?affiliate_id=5073518643380224) 
+<https://www.educative.io/path/python-for-programmers?affiliate_id=5073518643380224>  
 
 **5.2。** [**开始飘起**](https://www.educative.io/courses/beginning-flutter-android-mobile-app-development) **:** 这是一个基于 dart 语言的框架，可以开发混合移动应用，这意味着你可以创建一个代码并提取运行在 iOS & Android 上的移动应用。
 
-[](https://www.educative.io/courses/beginning-flutter-android-mobile-app-development?affiliate_id=5073518643380224) [## 初战告捷:Android 移动应用程序开发——互动学习
-
-### Flutter 是谷歌的移动 UI 框架，用于在 iOS 和 Android 上制作高质量的原生界面。这个…
-
-www.educative.io](https://www.educative.io/courses/beginning-flutter-android-mobile-app-development?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/beginning-flutter-android-mobile-app-development?affiliate_id=5073518643380224>  
 
 **5。3** [**摸索式动态编程**](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
 
@@ -84,21 +72,13 @@ www.educative.io](https://www.educative.io/courses/beginning-flutter-android-mob
 
 与许多其他资源不同，本课程不只是让您记住解决方案，它还教会您基本的模式和您应该采取的方法，以便您可以解决将来可能遇到的任何与 DP 相关的问题。
 
-[](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) [## 探索编码面试的动态编程模式——交互式学习
-
-### 事实是，动态编程(DP)问题可能是编码面试中最令人生畏的问题。即使当…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224>  
 
 ## 5.教育性定价
 
 大多数教育课程都是付费的，但是你可以有一个免费的帐户，可以有限地使用他们的课程和其他好处。Educative 有像[**Educative unlimited**](https://www.educative.io/subscription?affiliate_id=5073518643380224)这样的计划，按月收费或按年收费，如果你按年付费，每个月大约需要 19.99 美元，按月收费的话，每个月大约需要 35 美元，这比其他选择要贵得多。
 
-[](https://www.educative.io/unlimited?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我想表达我的无限感激，让您的多功能教育平台可用和访问。我…
-
-www.educative.io](https://www.educative.io/unlimited?affiliate_id=5073518643380224) 
+<https://www.educative.io/unlimited?affiliate_id=5073518643380224>  
 
 你也可以**一次性支付两年，**这将花费你每月 8.97 美元左右，两年的账单为 215 美元，如果你想长期使用这个平台，这比其他两个计划要好。价格有时可能会根据您看到它的日期而变化，也许他们会在一些特定的日子进行销售，以销售更多的课程。
 
@@ -118,8 +98,4 @@ www.educative.io](https://www.educative.io/unlimited?affiliate_id=50735186433802
 
 他们还提供 [**7 天免费试用**](https://www.educative.io/trial?affiliate_id=5073518643380224) ，这是检查课程和平台的好方法，我强烈推荐给你。这是免费的，你有机会检查他们最令人惊讶的课程。
 
-[](https://www.educative.io/trial?affiliate_id=5073518643380224) [## 教育免费试用:加速你的职业生涯
-
-### 提升你的编码技能。不再被动学习。交互式浏览器环境让您参与并测试…
-
-www.educative.io](https://www.educative.io/trial?affiliate_id=5073518643380224)
+<https://www.educative.io/trial?affiliate_id=5073518643380224> 

@@ -8,13 +8,9 @@
 
 您知道，掌握 OOPs 概念需要实时实现和丰富的经验。 ***但好消息是，y*** *ou* 现在可以很快获得对 oops 概念的不可思议的命令，这本书 [**OOP 概念助推器**](https://www.amazon.in/OOP-Concepts-Booster-Coding-Skills/dp/1647336805?tag=javamysqlanta-20) 是有史以来第一次写的。
 
-[](https://www.amazon.in/OOP-Concepts-Booster-Coding-Skills/dp/1647336805?tag=javamysqlanta-20) [## OOP 概念助推器:让你的编码技能更上一层楼
+<https://www.amazon.in/OOP-Concepts-Booster-Coding-Skills/dp/1647336805?tag=javamysqlanta-20>  
 
-### 是时候提升你的编程技能了！苹果、微软和脸书等巨头的一个共同点是…
-
-www .亚马逊. in](https://www.amazon.in/OOP-Concepts-Booster-Coding-Skills/dp/1647336805?tag=javamysqlanta-20) 
-
-掌握 OOPs 组件不仅仅是学习什么是[](https://www.java67.com/2016/03/top-21-java-inheritance-interview-Questions-Answer-Programming.html)**[**多态性**](https://javarevisited.blogspot.com/2011/08/what-is-polymorphism-in-java-example.html)[**接口**](https://javarevisited.blogspot.com/2012/04/10-points-on-interface-in-java-with.html) ，抽象类等等。而是理解它们的用途，并在应用程序中正确利用它们来构建高质量的软件。事实上，对 OOPs 组件有一个清晰的了解。**
+掌握 OOPs 组件不仅仅是学习什么是<https://www.java67.com/2016/03/top-21-java-inheritance-interview-Questions-Answer-Programming.html>**[**多态性**](https://javarevisited.blogspot.com/2011/08/what-is-polymorphism-in-java-example.html)[**接口**](https://javarevisited.blogspot.com/2012/04/10-points-on-interface-in-java-with.html) ，抽象类等等。而是理解它们的用途，并在应用程序中正确利用它们来构建高质量的软件。事实上，对 OOPs 组件有一个清晰的了解。**
 
 ****这里有一些代码可以试着检查你的等级:****
 
@@ -80,12 +76,4 @@ www .亚马逊. in](https://www.amazon.in/OOP-Concepts-Booster-Coding-Skills/dp/
 
 **你的时间很宝贵。**
 
-**[](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [## 2022 年你可以学到的 10 个 OOP 设计原则
-
-### 想要写出更好、更可靠的代码，能够经受住生产中时间的考验吗？这些设计原则会有所帮助。
-
-medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) [## 面向程序员的 5 门免费面向对象编程在线课程
-
-### 成为 DevOps 工程师的图解指南，包含相关课程的链接
-
-medium.com](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)**
+**</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>  </swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73> **

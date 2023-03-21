@@ -169,8 +169,4 @@ Eclipse 集合有三个原始的`String`适配器— `CharAdapter`、`CodePointA
 7 最佳数据结构与算法初学者课程
 [50+数据结构与算法面试题](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2> 

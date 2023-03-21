@@ -12,11 +12,7 @@ Eclipse 集合中我最喜欢的方法
 
 Eclipse Collections 有一个功能非常丰富的 API。如果您曾经希望 Java 集合可以做一些更“像集合”的事情，Eclipse 集合可能有一个方法可以做到这一点。下面的博客给出了 Eclipse Collections API 上可用方法的思维导图。
 
-[](/oracledevs/visualizing-eclipse-collections-646dad9533a9) [## 可视化 Eclipse 集合
-
-### 使用 mind 对 Eclipse 集合中的 API、接口、工厂、静态实用程序和适配器进行可视化概述…
-
-medium.com](/oracledevs/visualizing-eclipse-collections-646dad9533a9) 
+</oracledevs/visualizing-eclipse-collections-646dad9533a9>  
 
 # 可视化结果
 
@@ -60,11 +56,7 @@ medium.com](/oracledevs/visualizing-eclipse-collections-646dad9533a9)
 
 如果您想知道为什么 Eclipse Collections 在工厂类上既有`with`又有`of`方法，下面的博客会详细解释。
 
-[](/javarevisited/preposition-preference-1f1c709b098b) [## 介词偏好
-
-### 怎么了？一个介词。
-
-medium.com](/javarevisited/preposition-preference-1f1c709b098b) 
+</javarevisited/preposition-preference-1f1c709b098b>  
 
 # 比 EC 更熟悉 Java 流？
 
@@ -72,21 +64,13 @@ José Paumard 已经发布了一组使用 Java 流代替 Eclipse 集合的方法
 
 下面的文章还可以帮助您利用 Java 流知识来学习 Eclipse Collections API。
 
-[](https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections/) [## 重构 Eclipse 集合:让您的 Java 流更精简、更有效、更干净
-
-### Eclipse Collections 是一个高性能的 Java 集合框架，为本地 JDK 增加了丰富的功能…
-
-www.infoq.com](https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections/) 
+<https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections/>  
 
 # 想自己尝试这些方法吗？
 
 这个博客已经发展成为五个 Eclipse 代码集之一。
 
-[](https://github.com/eclipse/eclipse-collections-kata/tree/master/top-methods-kata) [## eclipse/eclipse-集合-kata
-
-### Tops 方法形是一个简单的代码形，带有一组测试，开发人员可以完成这些测试来快速熟悉…
-
-github.com](https://github.com/eclipse/eclipse-collections-kata/tree/master/top-methods-kata) 
+<https://github.com/eclipse/eclipse-collections-kata/tree/master/top-methods-kata>  
 
 在 GitHub 上查看开放源代码[Eclipse Collections Kata repo](https://github.com/eclipse/eclipse-collections-kata)，并在 Top25MethodsTest 中尝试这些方法。
 

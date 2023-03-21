@@ -26,11 +26,7 @@ GCP 或谷歌云平台在公共云计算领域的进入时间稍晚，但在过�
 
 嗯，没有比参加 Coursera 和 Udemy 上最好的 Google Cloud 在线课程更好的学习 Google Cloud 的方法了，这些课程是由 Google Cloud 自己提供的*像 Coursera 上的 [**用 Google Cloud Platform Specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeveloping-apps-gcp)**开发应用程序。***
 
-***[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeveloping-apps-gcp) [## 使用谷歌云开发应用程序
-
-### 在 Google Cloud 上设计、开发和部署应用。构建安全、可扩展的智能云原生应用。在…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeveloping-apps-gcp) 
+***<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeveloping-apps-gcp>  
 
 你也可以利用这些课程来准备谷歌云助理和专业认证，如[谷歌云助理云工程师](https://javarevisited.blogspot.com/2020/05/top-5-course-to-crack-google-cloud-associate-cloud-engineer-certification-exam.html)和[谷歌云专业云架构师](https://javarevisited.blogspot.com/2020/07/top-5-courses-to-become-google-cloud-professional-architect.html)、 [GCP 专业数据工程师](https://javarevisited.blogspot.com/2020/06/top-5-course-to-crack-google-cloud-professional-data-engineer-certification.html)和[谷歌云开发人员](https://www.java67.com/2020/09/5-free-courses-to-pass-google-cloud-developer-certification.html?utm_source=dlvr.it&utm_medium=facebook)。
 
@@ -72,11 +68,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ***顺便说一下，除了单独加入这些课程和专业，你还可以加入 Coursera Plu 的订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。***
 
-***[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)*** 
+***<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> *** 
 
 ## ***3.[破解 Google 协理云工程师认证](https://www.educative.io/courses/google-cloud-assoc-certification?affiliate_id=5073518643380224)***
 
@@ -110,11 +102,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ***顺便说一句，这个课程需要 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)。如果你已经是 Pluralsight 会员，那么这是一个关于 GCP 的很好的入门课程。如果你没有会员资格，那么你可以订阅，费用大约为每月 29 美元或每年 299 美元**(目前仅为 179 美元，40%折扣**)，或者通过签署他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **来免费参加这门课程。*****
 
-***[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+***<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 虽然这门课程对初学者来说很好，但考虑到技术变化的速度，它有点过时了 [Lynn Langit](https://medium.com/u/8945742012d2?source=post_page-----169093a3771a--------------------------------) 也在 LinkedIn Learning 上创建了 [GCP 基础知识](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgoogle-cloud-platform-for-enterprise-essential-training)、 [GCP 企业基础知识](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgoogle-cloud-platform-for-enterprise-essential-training)和 [GCP 机器学习基础知识](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fgoogle-cloud-platform-for-machine-learning-essential-training)课程，你也可以查看一下。LinkedInLearning 提供 1 个月的免费学习，因此有足够的时间免费查看这些课程。
 
@@ -139,13 +127,9 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 ***[![](img/717093dd612ce492570edc7f3160f2b1.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning-tensorflow-gcp)***
 
-***顺便说一句，如果你觉得 Coursera 课程和专业很有用，那么你也应该加入 Coursera Plus[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。*****
+***顺便说一句，如果你觉得 Coursera 课程和专业很有用，那么你也应该加入 Coursera Plus<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。*****
 
-*****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)***** 
+*****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ***** 
 
 ## *****6.[谷歌云平台(GCP)初学者基础](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F)*****
 
@@ -153,11 +137,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *******这里是加入本课程的链接**——[谷歌云平台(GCP)初学者基础](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F)*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F) [## 谷歌云平台(GCP)初学者基础
-
-### Janakiram 是一名执业架构师、分析师和顾问，专注于新兴基础设施技术。他…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F)***** 
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F> ***** 
 
 ## *****7.[面向自动气象站专业人员的谷歌云平台——学习 GCP](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-for-aws-professionals%2F)*****
 
@@ -173,11 +153,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *******以下是参加本课程的链接—** [面向 AWS 专业人员的谷歌云平台](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-for-aws-professionals%2F)*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-for-aws-professionals%2F) [## 面向自动气象站专业人员的谷歌云平台——学习 GCP
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-for-aws-professionals%2F) 
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-for-aws-professionals%2F>  
 
 以上是学习谷歌云平台或 GCP 的一些最佳课程。我还加入了一些课程，为谷歌认证助理云工程师认证做准备，这是学习谷歌云平台和获得技能证书的另一个好方法。一些你可以放入简历和 LinkedIn 个人资料的东西。
 
@@ -204,8 +180,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 感谢您阅读本文。如果你喜欢这篇文章，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)*****
+</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> *****

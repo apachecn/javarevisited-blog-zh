@@ -24,11 +24,7 @@
 
 顺便说一句，如果你能花几块钱在值得学习的东西上，那么你也应该看看 Colt_Steele 的 Web 开发人员训练营课程。这是我最喜欢的课程之一，也是学习 web 开发需要的唯一课程——HTML、CSS、JS、Node 等等！
 
-[](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) [## 2023 年成为全栈 Java 程序员的 10 门最佳在线课程
-
-### 以上是 Udemy 学习全栈 web 最好的 Java+Spring Boot+Angular+react js+Kubernetes 课程…
-
-medium.com](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) 
+</javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868>  
 
 # 学习使用 HTML 和 CSS 进行 Web 开发的 10 大在线课程
 
@@ -107,11 +103,7 @@ medium.com](/javarevisited/10-best-java-full-stack-web-development-courses-to-jo
 
 它介绍了 simpleGame.js 引擎，向您展示了该引擎是如何工作的，并介绍了一个免费的在线游戏开发工具。关于游戏编程的更多信息，请看我的另一门课。
 
-[](http://bit.ly/2Mrxk04) [## 免费游戏开发基础教程- HTML5 简单游戏编程准备
-
-### 我的 HTML5 游戏开发课程的 HTML，CSS 和 JavaScript 的免费概述。-免费课程
-
-bit.ly](http://bit.ly/2Mrxk04) 
+<http://bit.ly/2Mrxk04>  
 
 ## 7.[html 5 的完整入门教程](http://bit.ly/2Oh70WN)
 
@@ -124,11 +116,7 @@ bit.ly](http://bit.ly/2Mrxk04)
 *   Web 开发初学者
 *   希望掌握最新 HTML5 标准的中级学习者
 
-[](http://bit.ly/2Oh70WN) [## 免费的 HTML5 教程——一个完整的 HTML5 入门教程
-
-### 注意:本课程的背景音乐由 Exist Strategy 慷慨提供。访问他们的乐队营网页，展示你的…
-
-bit.ly](http://bit.ly/2Oh70WN) 
+<http://bit.ly/2Oh70WN>  
 
 ## 8.[2 小时 HTML](https://www.youtube.com/watch?v=pQN-pnXPaVg)【FreeCodecamp 免费课程】
 
@@ -157,11 +145,7 @@ bit.ly](http://bit.ly/2Oh70WN)
 
 这里是加入这个免费课程的链接— [HTML & CSS:构建一个仪表板](http://bit.ly/2D0M8hd)
 
-[](http://bit.ly/2D0M8hd) [## 免费 CSS 教程- HTML & CSS:建立一个仪表板
-
-### 课程评级是根据单个学生的评级和各种其他信号计算的，如评级年龄和…
-
-bit.ly](http://bit.ly/2D0M8hd) 
+<http://bit.ly/2D0M8hd>  
 
 ## 10.[从零开始学习 HTML5 和 CSS3](https://www.youtube.com/watch?v=mU6anWqZJcc)—全程
 
@@ -186,11 +170,7 @@ HTML 和 CSS 是从事网络开发的必备技能。HTML 是一种用于开发�
 顺便说一句，如果你喜欢 Codecademy 平台，那么你也可以加入 CodeCademy PRO，这是一个面向程序员的订阅计划。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 以上是关于免费使用 HTML 和 CSS 学习 web 开发的一些最好的课程。即使你知道 HTML 和 CSS，这些免费资源也是更新知识和填补空白的好方法。Web 开发是一项重要的技能，在这个创业的时代，我认为每个程序员都应该知道如何自己创建一个网站或移动应用程序。
 
@@ -211,8 +191,4 @@ bit.ly](https://bit.ly/codecademypro)
 
 如果你能花几块钱在值得学习的东西上，那么你也应该去看看 Colt_Steele 的 Web 开发者训练营课程。这是我最喜欢的课程之一，也是学习 web 开发需要的唯一课程——HTML、CSS、JS、Node 等等！
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到全新版本的 web 开发者训练营，Udemy 最受欢迎的 Web 开发课程。这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F> 

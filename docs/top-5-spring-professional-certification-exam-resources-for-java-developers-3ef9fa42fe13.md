@@ -14,11 +14,7 @@
 
 它允许程序员按照自己的节奏准备，而且也不是很贵。你所需要的只是一本[学习指南](http://javarevisited.blogspot.sg/2017/06/2-books-to-prepare-for-spring-certification-exam.html#axzz4jK9IIH4S)和一个[春季模拟考试模拟器](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)。
 
-[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践考试和春季专业实践考试
-
-### 春季专业实践考试和春季专业实践考试:真正的春季专业…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 即使你可以使用 [Spring 框架书籍](http://javarevisited.blogspot.sg/2013/03/5-good-books-to-learn-spring-framework-mvc-java-programmer.html)来准备认证，学习指南也是非常必要的。学习指南比一般的书籍有很多好处，比如它们专注于认证考试。它们完全涵盖所有主题，并有针对主题的评估问题。从考试的角度来看，他们在突出关键概念方面也做得很好。如果你想在[春季认证](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)上取得好成绩，你必须为你的准备选择一个学习指南和一门课程，你会在这篇文章中找到大量优秀的资源。
 
@@ -120,8 +116,4 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 **P.S.** —如果你是一名经验丰富的 Java 开发人员，并且使用 Spring 框架 3 到 5 年，并且希望获得技能认证，我建议你去参加[大卫·梅耶尔的**在线 Spring 模拟测试**](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)**；这是一个免费的测试。如果你能考到 80%以上，那么你就准备好真正的考试了。**
 
-[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践考试和春季专业实践考试
-
-### 更新了春季专业实践考试和春季专业实践考试:真正的春季专业…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)
+<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate> 

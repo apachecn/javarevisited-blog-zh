@@ -44,11 +44,7 @@
 
 如果您想了解更多关于 IntelliJ IDEA 调试特性的信息，请随意阅读这篇关于在 IDEA 中调试最佳实践的文章。
 
-[](/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8) [## IntelliJ IDEA 调试最佳实践
-
-### 改进调试过程的 IDE 调试功能和实践
-
-medium.com](/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8) 
+</swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8>  
 
 **4。重命名**
 
@@ -102,11 +98,7 @@ IDE 允许您回滚本地更改。自上次提交以来对选定文件所做的�
 
 如果你想了解更多关于在 IntelliJ IDEA 中使用 git 的信息，请阅读这篇关于几乎所有 IDEA git 特性的文章:
 
-[](/swlh/intellij-idea-git-features-7fff92ffa6b5) [## IntelliJ IDEA git 特性
-
-### 或者如何在不访问 GitHub 和打开控制台的情况下使用 git
-
-medium.com](/swlh/intellij-idea-git-features-7fff92ffa6b5) 
+</swlh/intellij-idea-git-features-7fff92ffa6b5>  
 
 **8。在路径**中查找
 
@@ -142,8 +134,4 @@ medium.com](/swlh/intellij-idea-git-features-7fff92ffa6b5)
 
 此外，如果您想了解更多关于 IntelliJIDEA 的知识，您也可以查看这些在线课程:
 
-[](https://itnext.io/top-5-intellijidea-and-android-studio-courses-for-java-and-android-programmers-afcc27309b60) [## 面向 Java 和 Android 程序员的 5 大 IntelliJIDEA 和 Android Studio 课程
-
-### 毫无疑问，IntelliJ IDEA 是 Java 开发的最佳 IDE 之一，即使 Eclipse 可能仍然会被使用…
-
-itnext.io](https://itnext.io/top-5-intellijidea-and-android-studio-courses-for-java-and-android-programmers-afcc27309b60)
+<https://itnext.io/top-5-intellijidea-and-android-studio-courses-for-java-and-android-programmers-afcc27309b60> 

@@ -72,11 +72,7 @@ NGINX 实际上被认为是最强大、最高效、最安全的 web 服务器，
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 29.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 17000 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 18，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.[Nginx 简介](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnginx-crash-course%2F)【Udemy】
 
@@ -154,8 +150,4 @@ Nginx 由 Igor Syosev 创建，于 2004 年 10 月首次发布。Nginx 是作为
 
 **附言——**如果你正在寻找免费的 NGINX 课程开始学习，那么你也可以在 Udemy 上的 Linux 免费课程 中查看这个 [**Web 服务器负载平衡。在本课程中，您将学习 Nginx 负载平衡，并在 Linux (CentOS)中为您的 web 服务器和应用程序配置 HTTP 负载平衡。这个课程是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffree-web-server-load-balance-in-linux%2F)
 
-[](https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-nginx-in-depth.html) [## 2023 年深入学习 Nginx 的 5 大课程——最佳课程
-
-### Nginx 的主要优势在于规模下的性能优化，正因为如此，它的性能往往优于…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-nginx-in-depth.html)
+<https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-nginx-in-depth.html> 

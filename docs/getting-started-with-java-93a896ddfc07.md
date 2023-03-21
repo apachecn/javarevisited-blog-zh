@@ -43,15 +43,7 @@ class Tutorial{
 
 下面的网站将帮助你了解进行下一步所需的基本语法和理论。我建议对条件、循环、数据类型、方法等有一个基本的了解。
 
-[](https://www.tutorialspoint.com/java/index.htm) [## Java 教程
-
-### Java 是一种高级编程语言，最初由 Sun Microsystems 开发，于 1995 年发布。Java 运行在一个…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/java/index.htm) [](https://www.w3schools.com/java/default.asp) [## Java 教程
-
-### Java 是一种编程语言。Java 被用来开发移动应用、网络应用、桌面应用、游戏等等。开始…
-
-www.w3schools.com](https://www.w3schools.com/java/default.asp) 
+<https://www.tutorialspoint.com/java/index.htm>  <https://www.w3schools.com/java/default.asp>  
 
 # **第二步:开始编码**
 
@@ -98,11 +90,7 @@ https://beginnersbook.com/2013/04/oops-concepts/
 
 举个例子:你可以通过安装 Android Studio 开始开发 Android 应用。添加一个好的资源让你开始。
 
-[](https://www.tutorialspoint.com/android/index.htm) [## Android 教程
-
-### Android 是基于 Linux 的开源操作系统，适用于智能手机和平板电脑等移动设备…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/android/index.htm) 
+<https://www.tutorialspoint.com/android/index.htm>  
 
 # 第五步:读书:
 
@@ -116,15 +104,7 @@ www.tutorialspoint.com](https://www.tutorialspoint.com/android/index.htm)
 
 这里还有一些
 
-[](/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72) [## 2020 年 Java 开发人员应该阅读的 21 本书
-
-### 大家好，如果你是 Java 开发人员，想知道在 2020 年剩下的时间里读些什么，那么你已经来到了…
-
-medium.com](/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72) [](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [## 我最喜欢的深入学习 Java 的书籍——必读
-
-### 大家好，今天是在线课程的世界。每个人都在谈论从在线培训、Youtube 学习…
-
-medium.com](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) 
+</javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72>  </javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99>  
 
 ## 结论:
 

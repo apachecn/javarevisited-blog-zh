@@ -24,16 +24,4 @@ JavaFX 为此提供了更好的代码。另一方面，我不得不重复我自�
 
 ## 您可能喜欢的其他文章:
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [## 我最喜欢的 2020 年学习软件架构的课程——最好的
-
-### 这些是 2020 年学习软件架构并成为解决方案架构师的最佳课程
-
-medium.com](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  </javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9> 

@@ -43,11 +43,7 @@ Spring Professional 认证考试，也称为 Vmware Certified Spring Professiona
 
 但是好的一面是你不需要写代码，这意味着时间足够解决这些问题。他们主要测试你的核心概念。如果你练习得很好，并解决了一些练习题，如我在 UdemyT3 上的春季认证课程中给出的问题，那么你将在真正的考试中处于良好的状态。
 
-[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 2023 年春季专业认证考试 VMware EDU-1202
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 
+<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E>  
 
 # 面向 Java 开发人员的 8 门最佳 Spring 认证课程和实践测试
 
@@ -77,11 +73,7 @@ www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-qu
 
 如果你真的想通过 Spring 专业认证，我也建议你参加其他 Spring 课程模块，比如 Spring 专业认证[第二部分](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-professional-certification-exam-tutorial-module-02%2F)，3、4、5。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-professional-certification-exam-tutorial-module-02%2F) [## 春季专业认证考试教程-模块 02
-
-### 面向方面编程
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-professional-certification-exam-tutorial-module-02%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-professional-certification-exam-tutorial-module-02%2F>  
 
 现在，我们来看一些 2023 年春季认证的免费模拟测试。
 
@@ -156,11 +148,7 @@ Whizlabs 以高质量的练习题和考试模拟器而闻名，我过去也曾�
 
 **要深入准备 REST 和 Spring Security，建议你去查一下同道博主 Eugen Paraschive 的 [**学 Spring Security:认证类**](https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 和 [**REST 用 Spring 认证类**](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) 课程；两者都很优秀，不仅仅是证书，而是专业工作所需的全部经验和知识。**
 
-**[](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:认证课程
-
-### 用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了 API 的构建和保护…
-
-courses.baeldung.com。](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa)** 
+**<http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa> ** 
 
 ## **5.Vojtech Ruzicka 的 Spring 4.2 问题集( [200 个问题](https://github.com/vojtechruz/spring-web-cert-notes-4.2/raw/master/Spring%20Web%20Certification.apkg))【免费】**
 
@@ -180,11 +168,7 @@ courses.baeldung.com。](http://courses.baeldung.com/p/rest-with-spring-the-cert
 
 **我还在 Udemy 上分享了我春季认证课程中的 50 多个免费问题。你不仅可以用这些问题来检查你的知识，还可以学习有用的概念，如果你喜欢这些问题，你还可以在 Udemy 上购买全长测试**
 
-**[](https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html?m=1) [## 50 道免费春季专业认证练习题及答案[VMWARE EDU-1202 考试]
-
-### 5 个完整长度的模拟测试 250 多个问题及答案和解释终身访问 30 天退款保证…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html?m=1)** 
+**<https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html?m=1> ** 
 
 ## **7.[春季职业认证实务考试模块 01 -08](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-professional-certification-practice-tests-module-04%2F)**
 
@@ -230,8 +214,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/05/50-free-s
 
 ****p . s .**——如果你是一名使用 Spring 框架 3 到 5 年的经验丰富的 Java 开发人员，并希望获得技能认证，我建议你去参加 [**大卫·梅尔的在线 Spring 模拟测试**](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)**；这是一个在线测试。如果你能考到 80%以上，那么你就准备好真正的考试了。****
 
-**[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com。](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)**
+**<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate> **

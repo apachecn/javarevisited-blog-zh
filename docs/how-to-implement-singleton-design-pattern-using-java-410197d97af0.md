@@ -79,11 +79,7 @@ Singleton 是创造性设计模式家族的一部分，它让我们确保一个�
 
 在下面的例子中，代码可以在 Github 上找到。相同的链接下面的结帐
 
-[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/singleton) [## GitHub-rohan 2596/设计模式-模式/单例中的示例
-
-### 在 GitHub 上创建一个帐户，为 rohan 2596/设计模式示例开发做出贡献。
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/singleton) 
+<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/singleton>  
 
 ## 结论:-
 
@@ -93,14 +89,6 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/si
 
 ## 参考书目:-
 
-[](https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/) [## 最终学习设计模式的 5 个理由
-
-### 如果你只是顺便遇到了设计模式，简而言之，它们是通用的面向对象解决方案…
-
-www.oreilly.com](https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/) [](https://refactoring.guru/design-patterns/singleton) [## 一个
-
-### Singleton 是一种创造性的设计模式，它让您确保一个类只有一个实例，同时提供一个…
-
-重构大师](https://refactoring.guru/design-patterns/singleton) ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
+<https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/>  <https://refactoring.guru/design-patterns/singleton>  ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
 
 谢谢观众们——罗汉·卡达姆

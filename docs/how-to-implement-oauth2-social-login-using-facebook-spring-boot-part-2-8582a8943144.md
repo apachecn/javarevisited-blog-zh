@@ -14,19 +14,11 @@
 
 在实现第 2 部分之前。我请求进入第 1 部分— **看看如何使用脸书实现 OAuth2 社交登录**
 
-[](/@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-part-1-e7995f30774e) [## 如何使用脸书实现 OAuth2 社交登录—第 1 部分
-
-### 你好，我是罗汉·卡达姆
-
-medium.com](/@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-part-1-e7995f30774e) 
+</@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-part-1-e7995f30774e>  
 
 ## **步骤 1:** 使用 Spring 初始化器创建一个 Spring Boot 项目。
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成的 spring boot 项目正好是你快速启动所需要的！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## **步骤 2:** 在您的项目 pom.xml 中添加以下依赖项
 

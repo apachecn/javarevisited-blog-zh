@@ -43,27 +43,15 @@ Apache Camel 多播模式借用了相同的术语，它同时将消息路由到�
 
 从下面的链接查看关于**多播模式的更多信息**
 
- [## Apache Camel 帮助您集成 300 多个不同的系统！
-
-### 多播 EIP 允许将相同的消息路由到多个端点，并以不同的方式处理它们。的…
-
-camel.apache.org](https://camel.apache.org/components/next/eips/multicast-eip.html) 
+  
 
 在直接进入实现之前，不要忘记看看如何使用 Apache Camel 编写第一条路线？从下面的链接
 
-[](https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a) [## 阿帕奇骆驼🦒:如何写第一条路线？
-
-### 你好，我是罗汉·卡达姆😊,
-
-rohankadam965.medium.com](https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a) 
+<https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a>  
 
 ## 步骤 1:如何使用 Spring Initializr 创建项目？
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成一个 spring boot 项目，其中包含您快速启动所需的内容！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## 步骤 2:项目中包括哪些依赖项？
 
@@ -113,18 +101,6 @@ public class MultiCastPatternRoute extends RouteBuilder {
 
 ## ⚡Bibliography
 
-[](https://camel.apache.org/) [## 主页
-
-### Camel 支持 Gregor Hohpe 和 Bobby Woolf 的优秀著作中的大多数企业集成模式，并且…
-
-camel.apache.org](https://camel.apache.org/) [](/javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f) [## 如何使用 Apache Camel 实现异常处理？
-
-### 你好，🖐，我自己，罗汉·拉温德拉·卡达姆
-
-medium.com](/javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f) [](/javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab) [## 如何使用 Apache Camel 消费公共 API？
-
-### Hello🖐我自己 Rohan Ravindra Kadam，全栈开发者
-
-medium.com](/javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab) ![](img/8952bc045d848312bfba126ae001248a.png)
+<https://camel.apache.org/>  </javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f>  </javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab>  ![](img/8952bc045d848312bfba126ae001248a.png)
 
 谢谢观众们— [罗汉·拉温德拉·卡达姆](https://medium.com/u/a1b33b7cda75?source=post_page-----8626518b8044--------------------------------)

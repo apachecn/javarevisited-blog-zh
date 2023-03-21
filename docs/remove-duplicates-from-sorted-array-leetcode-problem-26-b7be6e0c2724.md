@@ -93,7 +93,7 @@ Judge will only compare 2 elements from out modified input array.i.e nums = [1,2
 
 ## 奖金
 
-*   如果你想升级你的编码面试游戏，你绝对应该看看这个畅销课程[](https://click.linksynergy.com/link?id=FAaRt1BJn8w&offerid=1060092.1419186&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-deep-dive-using-java%2F)*(这是 Java 语言)*
+*   如果你想升级你的编码面试游戏，你绝对应该看看这个畅销课程<https://click.linksynergy.com/link?id=FAaRt1BJn8w&offerid=1060092.1419186&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>*(这是 Java 语言)*
 
 *Leetcoding 快乐！*
 

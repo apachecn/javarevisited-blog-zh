@@ -6,7 +6,7 @@
 
 [![](img/5967136df1827cfd5c6c737e5a6bedfe.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer)
 
-大家好，如果你想在 2023 年成为一名人工智能工程师，并寻找最好的资源，如在线课程、书籍和教程，那么你来对地方了。之前我已经分享了适合初学者的[](/javarevisited/7-best-courses-to-learn-artificial-intelligence-in-2020-26d59d62f6fe)**最佳 AI 课程，今天我将回顾 Coursera 的最佳 AI 课程之一和认证，IBM 提供的 [*AI 工程专业证书*](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer) 。**
+大家好，如果你想在 2023 年成为一名人工智能工程师，并寻找最好的资源，如在线课程、书籍和教程，那么你来对地方了。之前我已经分享了适合初学者的</javarevisited/7-best-courses-to-learn-artificial-intelligence-in-2020-26d59d62f6fe>**最佳 AI 课程，今天我将回顾 Coursera 的最佳 AI 课程之一和认证，IBM 提供的 [*AI 工程专业证书*](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fai-engineer) 。**
 
 **这是一个课程集，将教你基本的人工智能概念，工具和过程，并让你开始你的人工智能生涯。**
 
@@ -119,8 +119,4 @@
 
 ****P. S.** —如果你正在寻找最好的 Udemy 在线课程来学习 Python 上的数据科学，你也可以查看[**人工智能 A-Z:学习如何构建一个 AI (Udemy)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fartificial-intelligence-az%2F) **。Udemy 上有最好的人工智能初学者课程。****
 
-**[](https://becominghuman.ai/5-best-artificial-intelligence-courses-for-beginners-in-2020-38db08617b12) [## 2023 年最适合初学者的 5 门人工智能课程
-
-### 大家好，如果你是一名初级 Python 开发者，并且正在寻找学习人工智能的最佳课程…
-
-becominghuman.ai](https://becominghuman.ai/5-best-artificial-intelligence-courses-for-beginners-in-2020-38db08617b12)**
+**<https://becominghuman.ai/5-best-artificial-intelligence-courses-for-beginners-in-2020-38db08617b12> **

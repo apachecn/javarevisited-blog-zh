@@ -92,11 +92,7 @@ User.class
 
 ## ⚡Where 为**中介**设计模式寻找代码库？
 
-[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/mediator) [## GitHub-rohan 2596/设计-模式-模式/中介的示例
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/mediator) 
+<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/mediator>  
 
 ## ⚡Conclusion:-
 
@@ -104,18 +100,10 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/me
 
 不要忘记看看我的网站，以了解更多关于我的信息
 
- [## 罗汉·拉温德拉·卡达姆
-
-### 来自印度孟买的全栈开发人员，拥有大约 3 年的软件开发经验。
-
-kadamrohan.com](https://kadamrohan.com/) 
+  
 
 ## 📚参考书目:-
 
-[](https://refactoring.guru/design-patterns/mediator) [## 调解人
-
-### 也被称为中介，控制器调解人是一个行为设计模式，让您减少混乱…
-
-重构大师](https://refactoring.guru/design-patterns/mediator) ![](img/0f2615e6c2f4828c479469fb81d75612.png)
+<https://refactoring.guru/design-patterns/mediator>  ![](img/0f2615e6c2f4828c479469fb81d75612.png)
 
 谢谢观众们——罗汉·卡达姆

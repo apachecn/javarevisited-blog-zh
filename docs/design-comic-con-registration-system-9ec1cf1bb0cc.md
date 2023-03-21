@@ -8,19 +8,7 @@ Marjan Blan | @marjanblan 在 [Unsplash](https://unsplash.com?utm_source=medium&
 
 通过这篇文章，我们将学习如何设计一个后端架构，帮助用户注册活动。过去，我们已经讨论过系统设计概念。我们将在这里使用这些概念，我们将学习更多的新概念。在继续之前，请先看看这些文章。
 
-[](/javarevisited/deep-dive-into-elastic-search-702e501762b) [## 弹性搜索简介
-
-### 什么是弹性搜索，它是如何工作的，有什么用途？
-
-medium.com](/javarevisited/deep-dive-into-elastic-search-702e501762b) [](/nerd-for-tech/what-is-a-load-balancer-9af0517551dc) [## 什么是负载平衡器？
-
-### 本文研究了系统设计中的一个重要课题，负载平衡器。让我们自己熟悉…
-
-medium.com](/nerd-for-tech/what-is-a-load-balancer-9af0517551dc) [](/codex/caching-overview-cf9afaaedcff) [## 缓存概述
-
-### 什么是缓存，它是如何工作的？
-
-medium.com](/codex/caching-overview-cf9afaaedcff) 
+</javarevisited/deep-dive-into-elastic-search-702e501762b>  </nerd-for-tech/what-is-a-load-balancer-9af0517551dc>  </codex/caching-overview-cf9afaaedcff>  
 
 ## 问题陈述
 

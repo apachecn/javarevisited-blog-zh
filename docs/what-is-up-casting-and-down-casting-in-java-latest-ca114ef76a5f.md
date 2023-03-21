@@ -50,7 +50,7 @@ Syntax for down casting : Child c = (Child)p;
 
 > 例如，如果我们有两个类，比如说`**Machine**` 和`**Laptop**` ，它们扩展了`**Machine**` 类。现在对于上抛来说，每台笔记本电脑都将是一台机器，但是对于下抛来说，每台机器可能都不是笔记本电脑，因为可能有一些机器可以是`**Printer**`、`**Mobile**`、**、**等。
 > 
-> **因此向下转换并不总是安全的，我们在进行向下转换之前显式地写类名。**这样它就不会在编译时给出错误，但如果父类引用没有指向适当的子类，它可能会在运行时抛出`[**ClassCastExcpetion**](https://javarevisited.blogspot.com/2012/12/how-to-solve-javalangclasscastexception-java.html)` [](https://javarevisited.blogspot.com/2012/12/how-to-solve-javalangclasscastexception-java.html)。
+> **因此向下转换并不总是安全的，我们在进行向下转换之前显式地写类名。**这样它就不会在编译时给出错误，但如果父类引用没有指向适当的子类，它可能会在运行时抛出`[**ClassCastExcpetion**](https://javarevisited.blogspot.com/2012/12/how-to-solve-javalangclasscastexception-java.html)` <https://javarevisited.blogspot.com/2012/12/how-to-solve-javalangclasscastexception-java.html>。
 
 让我们看下面的例子来理解这一点:
 
@@ -113,16 +113,4 @@ at com.vikram.Main.main(Main.java:38)
 
 ## ***你可能喜欢阅读下面的博客，了解常见的 java 面试概念和问题。***
 
-[](/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091) [## 你知道 Java 中的嵌套类和内部类吗？
-
-### 什么，为什么，如何:你需要知道的一切。
-
-medium.com](/@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091) [](/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115) [## 你知道 Oop 中的紧耦合和松耦合吗？
-
-### 你的下一个面试问题可能是关于面向对象的范例。
-
-medium.com](/@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115) [](/@basecs101/confused-with-enum-here-is-an-article-to-clear-it-latest-e39d88fe7c66) [## 与 Enum 混淆？这里有一篇文章来澄清一下。
-
-### 关于 ENUM 你必须知道的一切。
-
-medium.com](/@basecs101/confused-with-enum-here-is-an-article-to-clear-it-latest-e39d88fe7c66)
+</@basecs101/do-you-know-nested-and-inner-classes-in-java-latest-b270e0988091>  </@basecs101/do-you-know-the-tight-and-loose-coupling-in-the-oop-latest-b03f8e600115>  </@basecs101/confused-with-enum-here-is-an-article-to-clear-it-latest-e39d88fe7c66> 

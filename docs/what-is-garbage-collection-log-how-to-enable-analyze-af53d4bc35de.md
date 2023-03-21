@@ -51,4 +51,4 @@ GC 日志包含丰富的信息，但是理解 GC 日志并不容易。没有足�
 
 感谢您阅读本文。如果你喜欢这些工具，请与你在脸书的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-*原载于 2018 年 12 月 1 日 https://medium.com*[](/@RamLakshmanan/what-is-garbage-collection-log-how-to-enable-analyze-29cb8cec9820)**。**
+*原载于 2018 年 12 月 1 日 https://medium.com*</@RamLakshmanan/what-is-garbage-collection-log-how-to-enable-analyze-29cb8cec9820>**。**

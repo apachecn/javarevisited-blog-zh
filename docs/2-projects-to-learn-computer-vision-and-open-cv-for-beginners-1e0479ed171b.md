@@ -20,11 +20,7 @@
 
 它还支持机器学习(ML)的模型执行。你可以在我之前的关于初学者和中级开发者的最佳 OpenCV 课程的文章中了解更多。
 
-[](https://becominghuman.ai/5-best-free-opencv-and-computer-vision-courses-for-beginners-77c31812290f) [## 面向初学者的 5 门最佳免费 OpenCV 和计算机视觉课程
-
-### 2022 年我最喜欢的学习 Open CV 和计算机视觉的免费在线课程
-
-becominghuman.ai](https://becominghuman.ai/5-best-free-opencv-and-computer-vision-courses-for-beginners-77c31812290f) 
+<https://becominghuman.ai/5-best-free-opencv-and-computer-vision-courses-for-beginners-77c31812290f>  
 
 # 2022 年学习计算机视觉和 OpenCV 的 2 个最佳项目
 
@@ -82,8 +78,4 @@ becominghuman.ai](https://becominghuman.ai/5-best-free-opencv-and-computer-visio
 
 **P. S.** —如果你已经了解了 Open CV 的基础知识，并且正在寻找一门全面的课程来将你的 OpenCV 技能提升到一个新的水平，那么我强烈推荐你查看 UDemy 上 SuperDataScience 团队的这个 [**深度学习和计算机视觉 A-Z: OpenCV、SSD 和 GANs**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-vision-a-z%2F) 。这是一个深入学习 OpenCV 的很好的课程，你可以在 Udemy sale 上花 9.9 美元得到它
 
-[](/javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5) [## 2022 年要学的 5 大深度学习和神经网络课程
-
-### 大家好，如果你想学习深度学习和神经网络，并寻找最好的在线课程，那么你有…
-
-medium.com](/javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5)
+</javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5> 

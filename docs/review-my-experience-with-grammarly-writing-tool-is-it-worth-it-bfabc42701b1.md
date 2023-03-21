@@ -10,7 +10,7 @@ image_credit —语法上
 
 大家好，如果你打算购买 Grammarly premium，但不确定它是否值得，那么你来对地方了。在这篇文章中，我将分享我使用[**Grammarly Premium**](https://shareasale.com/r.cfm?b=864277&u=880419&m=26748&urllink=&afftrack=)**的经历——这是一个强大的写作工具，适用于博客作者**，程序员，作家，学生，以及任何想要写出没有语法和拼写错误的正确英语的人。
 
-这是一篇非正式但真实的评论，因为我从过去几年开始一直使用[](https://shareasale.com/r.cfm?b=864277&u=880419&m=26748&urllink=&afftrack=)**，从 2019 年到 2023 年，我已经使用 Grammarly Premium 写了 1500 多篇文章。**
+这是一篇非正式但真实的评论，因为我从过去几年开始一直使用<https://shareasale.com/r.cfm?b=864277&u=880419&m=26748&urllink=&afftrack=>**，从 2019 年到 2023 年，我已经使用 Grammarly Premium 写了 1500 多篇文章。**
 
 **在这篇语法评论中，我将概述 Grammarly 的主要优势，包括免费和高级版本，并帮助您决定是否应该使用[***Grammarly***](https://shareasale.com/r.cfm?b=864277&u=880419&m=26748&urllink=&afftrack=)进行写作。**
 
@@ -120,8 +120,4 @@ image_credit —语法上
 
 **P. S.** 上加入我的行列——如果你经常使用 Grammarly，我建议升级到他们的 [**高级版**](https://shareasale.com/r.cfm?b=224178&u=880419&m=26748&urllink=&afftrack=) ，这将使你的文章更具可读性，并提高他们在搜索引擎中的排名，因为读者会花更多时间阅读你的文章。**
 
-**[](https://javarevisited.blogspot.com/2019/07/why-every-blogger-should-use-grammarly.html) [## 【点评】——2023 年语法上值得吗？博客作者和作家的语法评论[更新]
-
-### 大家好，今天，我将分享我对 Grammarly 的评论——它是博客作者的一个强大的写作工具…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/why-every-blogger-should-use-grammarly.html)**
+**<https://javarevisited.blogspot.com/2019/07/why-every-blogger-should-use-grammarly.html> **

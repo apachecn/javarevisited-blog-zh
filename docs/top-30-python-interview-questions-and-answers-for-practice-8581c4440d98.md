@@ -341,8 +341,4 @@ range()是最流行的生成器函数之一。如果需要，还可以通过用 
 
 **p . s .**——如果你是 Python 编程的新手，并且正在寻找一门免费的 Python 课程，以一种更结构化和更实用的方式学习 Python，那么你也可以查看 Udemy 上的这门[**Python 编程简介【免费】**](http://bit.ly/2D5vvnV) 课程。这个课程是完全免费的，已经有超过 60 万人加入了这个课程。
 
-[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 初学者在线学习的 15 门最佳免费 Python 课程
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
+</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf> 

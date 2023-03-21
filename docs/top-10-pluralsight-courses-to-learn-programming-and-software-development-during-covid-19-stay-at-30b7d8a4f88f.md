@@ -155,19 +155,11 @@ Apache Spark 是流行的大数据框架之一，也是我打算在 2023 年探�
 
 顺便说一句，你需要一个 [**多重视野会员**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能进入这个课程。每月订阅费用约为 29 美元，但也可以访问 500 多个课程，这是值得的。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 但是，如果您没有会员资格，您仍然可以通过注册 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来访问该课程，该课程免费提供 200 分钟的观看时间，没有任何承诺。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 如果你需要一些免费资源来补充你的学习， 这里有更多的**免费在线课程**您可能想探索一下
 [5 门免费课程学习 Git 和 Github](http://javarevisited.blogspot.sg/2018/01/5-free-git-courses-for-programmers-to-learn-online.html#axzz568Oo1Jao)

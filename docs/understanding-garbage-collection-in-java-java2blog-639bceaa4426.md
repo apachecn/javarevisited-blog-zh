@@ -103,8 +103,4 @@ JVM 为年轻一代和老一代提供了几种算法。有 3 种算法
 *   [Java 线程示例](https://java2blog.com/java-thread-example/)
 *   [字符串编码面试问题](https://hackernoon.com/20-string-coding-interview-questions-for-programmers-6b6735b6d31c)
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> 

@@ -117,11 +117,7 @@ DeliveryByTruck.class
 
 [Github 上的****](https://github.com/Rohan2596)
 
-**[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/facade) [## GitHub-rohan 2596/设计模式-模式/外观示例
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/facade) 
+**<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/facade>  
 
 ## ⚡Conclusion:-
 
@@ -131,10 +127,6 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/fa
 
 ## 📚参考书目:-
 
-[](https://refactoring.guru/design-patterns/facade) [## 外表
-
-### facade 是一种结构设计模式，它提供了一个简化的库、框架或任何其他……
-
-重构。领袖](https://refactoring.guru/design-patterns/facade) ![](img/3487c32cba761c873ea8d732eb36fe9e.png)
+<https://refactoring.guru/design-patterns/facade>  ![](img/3487c32cba761c873ea8d732eb36fe9e.png)
 
 谢谢观众们——罗汉·卡达姆**

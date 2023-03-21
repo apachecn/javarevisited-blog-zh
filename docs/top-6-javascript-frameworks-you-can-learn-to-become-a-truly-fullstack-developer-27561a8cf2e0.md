@@ -113,8 +113,4 @@ Bootstrap 支持[响应式网页设计](https://www.java67.com/2020/08/top-5-cou
 
 ****p . s .**——如果你是 JavaScript 世界的新手，渴望学习这一有用的技能，但正在寻找更多免费的选择，如免费的 JavaScript 课程，那么你也可以在 Udemy 上查看这个 [**JavaScript 基础知识**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F) [## 免费 JavaScript 教程- Javascript 基础
-
-### 劳伦斯·图尔顿是一名网页开发和平面设计师，擅长 HTML、CSS、jQuery、UI 和 UX 设计。他有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-essentials%2F> **

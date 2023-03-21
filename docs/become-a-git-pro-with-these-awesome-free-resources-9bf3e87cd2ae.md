@@ -18,11 +18,7 @@
 
 这里有很好的资源，可以帮助你达到 git 的下一个水平。
 
-[](https://verbosemode.dev/membership) [## 通过我的推荐链接- Mirco 加入媒体
-
-### 对技术感兴趣吗？订阅 Medium！你的会员费直接支持我和其他作家你…
-
-verbosemode.dev](https://verbosemode.dev/membership) 
+<https://verbosemode.dev/membership>  
 
 ## 一般资源
 

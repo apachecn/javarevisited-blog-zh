@@ -10,7 +10,7 @@
 
 这里有一个**完整的 2021 年前端开发路线图，有 15 个以上的免费资源**，来启动你的职业生涯，并开始货币化你的开发技能。
 
-你将从编程的**基础**开始，学习什么是变量以及数据是如何存储的。然后，您将转向**构建您的第一个网页**，添加一些与[](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645)**JavaScript 的交互，并使用 [**CSS**](/javarevisited/10-best-css-online-courses-for-beginners-and-experienced-developers-54aa2e8c0253) 进行样式化。**
+你将从编程的**基础**开始，学习什么是变量以及数据是如何存储的。然后，您将转向**构建您的第一个网页**，添加一些与</javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645>**JavaScript 的交互，并使用 [**CSS**](/javarevisited/10-best-css-online-courses-for-beginners-and-experienced-developers-54aa2e8c0253) 进行样式化。**
 
 **在这个路线图结束时，您将能够使用最新的 [**JavaScript 框架**](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4) **和** [**CSS 预处理程序**](/javarevisited/top-5-advanced-css-courses-to-learn-flexbox-grid-and-sass-da8e37b09b1d?source=---------8------------------) 完整地创建一个中小型前端应用程序，但是要注意:**
 
@@ -22,7 +22,7 @@
 
 **![](img/9e200420c770a0b9b75e117f9a5e4845.png)**
 
-**在 JavaScript 和**前端框架**之前，你需要掌握计算机科学基础[](/javarevisited/8-best-computer-science-courses-for-beginners-to-learn-online-696379aa4e96)**。****
+**在 JavaScript 和**前端框架**之前，你需要掌握计算机科学基础</javarevisited/8-best-computer-science-courses-for-beginners-to-learn-online-696379aa4e96>**。****
 
 ****学习什么是函数，你的代码是如何被解释的，以及数据是如何被处理的，这将极大地加快你对[编程语言](/javarevisited/top-5-programming-languages-for-web-development-in-2021-f6fd4f564eb6)的理解，同时**为你的 web 开发之旅**打下基础。****
 
@@ -37,7 +37,7 @@
 
 ****你必须与**API**通信，处理、发送和接收数据:*最好做好准备。*****
 
-****[](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/)****——**[**web 开发新人入门**](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/) **。********
+****<https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/>****——**[**web 开发新人入门**](https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c/) **。********
 
 # ****3.学习 HTML 和 CSS****
 
@@ -154,7 +154,7 @@
 
 ****虽然**普通 JavaScript** 能够创建**完全工作的前端**，**它不可扩展**并且不能给你带来那些现成的工具，比如框架和库:****
 
-*   ****[](/javarevisited/10-free-vue-js-nuxt-js-online-courses-for-beginners-in-2021-a347ea2ad144)****，********
+*   ****</javarevisited/10-free-vue-js-nuxt-js-online-courses-for-beginners-in-2021-a347ea2ad144>****，********
 *   ****[**反应过来**](/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2?source=---------36----------------------------)****
 *   ********[**身材苗条**](/javarevisited/5-best-svelet-js-courses-for-beginners-in-2021-fadf0c4e2bab) **，**********
 
@@ -226,20 +226,4 @@
 
 ****您可能喜欢的其他**开发者路线图文章******
 
-****[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [## 2021 年 Fullstack Web 开发者路线图[更新]
-
-### 2021 年成为网页开发者的图解指南，并附有相关课程的链接
-
-medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 2021 年开发运维路线图
-
-### 2021 年成为 DevOps 工程师的图解指南及课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) [## 2021 React JS 开发者路线图
-
-### 成为 React 开发人员的图解指南，提供相关课程的链接
-
-medium.com](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56)****
+****</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e>  </hackernoon/the-2018-devops-roadmap-31588d8670cb>  </javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56> ****

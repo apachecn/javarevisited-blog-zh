@@ -496,8 +496,4 @@ Swagger 既支持契约优先方法，也支持代码优先方法。
 7.  [学习 React JS 框架的 5 门免费课程](http://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html)
 8.  [2020 年学习 Web 开发的五大课程](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

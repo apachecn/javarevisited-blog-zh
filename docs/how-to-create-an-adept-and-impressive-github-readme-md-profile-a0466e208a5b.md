@@ -40,7 +40,7 @@
 
 ## 徽章
 
-*你可以在这里找到*[](https://github.com/Ileriayo/markdown-badges)
+*你可以在这里找到*<https://github.com/Ileriayo/markdown-badges>
 
 *例如:对于 LinkedIn 徽章，请键入 this，*不要忘记键入您的 LinkedIn URL* 来代替`{your-linkedin-url}`，对其他人也是如此。*
 
@@ -62,11 +62,11 @@
 *   ***代码、注释、文件的行数标记:**统计代码、文件和注释的行数。要使用它，你必须用你的`*Github Username*` *替换`{username}`，用你的`*Github repository*` *替换`{repository}`，用你的`*code*` *或* `*comment*` *或* `*blanks*` *替换* `{type}`。***
 *   片段看起来像这样-
 
-> ！[](https://tokei . RS/B1/github/username/repository？类别=类型)
+> ！<https://tokei . RS/B1/github/username/repository？类别=类型>
 
 例如，你应该有这样的东西
 
-！[]([https://tokei . RS/B1/github/born 69 confused/leet code _ Solutions？类别=代码](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code)
+！<[https://tokei . RS/B1/github/born 69 confused/leet code _ Solutions？类别=代码](https://tokei.rs/b1/github/born69confused/LeetCode_Solutions?category=code>
 
 ![](img/c6452c412f5d81533513896ca252111d.png)
 
@@ -74,7 +74,7 @@
 
 # GitHub 自述文件统计
 
-*你可以在这里找到*[](https://github.com/anuraghazra/github-readme-stats)
+*你可以在这里找到*<https://github.com/anuraghazra/github-readme-stats>
 
 *这将生成您的`GitHub`档案的总体统计数据。要使用它，你必须用你的`*Github Username*` *替换`{username}`。**
 

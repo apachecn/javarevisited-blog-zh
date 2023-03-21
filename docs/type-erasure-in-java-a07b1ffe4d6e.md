@@ -100,16 +100,4 @@ SampleChild 类— → putItem(Integer)方法
 
 ## 参考
 
-[](https://www.baeldung.com/java-type-erasure) [## Java 中的类型擦除解释| Baeldung
-
-### 在这篇简短的文章中，我们将讨论 Java 泛型中一个重要机制的基础知识，称为类型擦除…
-
-www.baeldung.com](https://www.baeldung.com/java-type-erasure) [](https://www.geeksforgeeks.org/type-erasure-java/) [## Java 中的类型擦除- GeeksforGeeks
-
-### 先决条件:泛型泛型概念是在 Java 语言中引入的，用于在编译时提供更严格的类型检查…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/type-erasure-java/) [](https://www.tutorialspoint.com/java_generics/java_generics_type_erasure.htm) [## Java 泛型类型擦除
-
-### 泛型用于在编译时进行更严格的类型检查，并提供泛型编程。要实现通用…
-
-www.tutorialspoint.com](https://www.tutorialspoint.com/java_generics/java_generics_type_erasure.htm)
+<https://www.baeldung.com/java-type-erasure>  <https://www.geeksforgeeks.org/type-erasure-java/>  <https://www.tutorialspoint.com/java_generics/java_generics_type_erasure.htm> 

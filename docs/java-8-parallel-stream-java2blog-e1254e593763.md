@@ -109,14 +109,6 @@ long sum=data.stream()
 5.  [从零开始学习 Java 8 的 5 本书](http://javarevisited.blogspot.sg/2016/10/best-books-to-learn-java-8.html)
 6.  [学习 Java 8 及更高版本的 5 门免费课程](https://javarevisited.blogspot.com/2018/08/top-5-free-java-8-and-9-courses-for-programmers.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2021 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2021 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 *原载于 2019 年 4 月 23 日*[*https://java2blog.com*](https://java2blog.com/java-8-parallel-stream/)*。*

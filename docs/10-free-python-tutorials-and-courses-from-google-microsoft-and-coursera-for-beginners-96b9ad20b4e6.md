@@ -26,11 +26,7 @@ Python 已经激励了许多人学习编码，并且还在继续激励着他们�
 
 顺便说一句，如果你不介意花几美元学习像 Python 这样有价值和有用的东西，那么我也建议你在 Udemy 上看看乔希·波尔蒂利亚的 [**完整的 Python 3 训练营**](http://bit.ly/complete-python3-bootcamp) 。你将会以一种更加结构化的方式快速学习 Python，你可以在 Udemy 的特卖上花 10 美元购买这门课程。
 
-[](http://bit.ly/complete-python3-bootcamp) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/complete-python3-bootcamp) 
+<http://bit.ly/complete-python3-bootcamp>  
 
 # 初学者学习 Python 编程的十大网站
 
@@ -48,11 +44,7 @@ bit.ly](http://bit.ly/complete-python3-bootcamp)
 
 这份材料最棒的地方在于，在 Youtube 上可以看到讲座视频。因此，你不需要任何其他帐户。它还教你建立自己的 [Python 开发环境](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)，这确实会产生最初的挑战，但从长远来看是很棒的。
 
-[](https://developers.google.com/edu/python/) [## 谷歌的 Python 课| Python 教育|谷歌开发者
-
-### 欢迎来到谷歌的 Python 课程——这是一门免费课程，面向有一点编程经验的人，他们…
-
-developers.google.com](https://developers.google.com/edu/python/) 
+<https://developers.google.com/edu/python/>  
 
 ## 2.乌德米
 
@@ -60,25 +52,17 @@ Udemy 是最受欢迎的在线课程平台之一，它可能拥有地球上最�
 
 与 [**CodeCademy**](https://bit.ly/codecademypro) 不同的是，你不需要任何订阅，只需要创建一个免费账号，然后就可以报名参加免费的 Python 课程。大多数讲师在首次推出课程时都保持免费，这样他们就可以获得一些关注、评论和社会证明。
 
-但是，也有完全免费的高质量 Python 课程，如针对初学者的[](http://bit.ly/2D5vvnV)**和[**Python**](http://bit.ly/2CTK36X)。你可以加入他们学习 Python 3。下面是一些我最喜欢的深入学习 Python 的免费课。**
+但是，也有完全免费的高质量 Python 课程，如针对初学者的<http://bit.ly/2D5vvnV>**和[**Python**](http://bit.ly/2CTK36X)。你可以加入他们学习 Python 3。下面是一些我最喜欢的深入学习 Python 的免费课。**
 
 ****这里是报名链接—**[Python 编程入门](http://bit.ly/2D5vvnV)**
 
-**[](http://bit.ly/2D5vvnV) [## 免费 Python 教程——Python 编程介绍
-
-### Avinash Jain 目前是加州大学伯克利分校电气工程和计算机科学专业的大二学生。他是…
-
-bit.ly](http://bit.ly/2D5vvnV) 
+**<http://bit.ly/2D5vvnV>  
 
 Udemy 的优点是你可以向专家学习，但它不像 Codecademy 那样具有互动性。不过，如果你喜欢从视频中学习，没有比 Udemy 更好的地方了。
 
 如果你能负担得起一些钱，你也可以在他们的 flash 销售中以 10 美元的一次性价格获得很棒的训练营式课程，如 [**完整的 Python 3 训练营**](http://bit.ly/complete-python3-bootcamp) 。
 
-[](http://bit.ly/complete-python3-bootcamp) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/complete-python3-bootcamp) 
+<http://bit.ly/complete-python3-bootcamp>  
 
 ## 3.代码集
 
@@ -112,11 +96,7 @@ bit.ly](http://bit.ly/complete-python3-bootcamp)
 
 顺便说一句，如果你喜欢这个平台，那么他们也有一些付费的 Python 课程值得一试，比如迈克尔·德里斯科尔的《Python 101:交互式学习如何用 Python 3 编程》。
 
-[](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224) [## Python 101:交互式学习如何用 Python 3 编程
-
-### 欢迎学习 Python 101！我创建这个课程是为了帮助你学习 Python 3。我的目的是让你熟悉…
-
-www.educative.io](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224>  
 
 ## 5.Coursera
 
@@ -143,11 +123,7 @@ www.educative.io](https://www.educative.io/courses/python-101-interactively-lear
 
 您还可以加入 Coursera Plus 的[，这是 Coursera 的一项订阅计划，让您可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 6.微软[edX]
 
@@ -232,7 +208,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 [![](img/86c2c3dc3f675c98a94424cd97cd0ad5.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fintroduction-scripting-in-python)
 
-如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。**
+如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。**
 
 **[![](img/402c7100ecb6b0731e7b5350d6311e41.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**
 
@@ -246,11 +222,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****这里是了解更多** — [Python 核心和高级](http://bit.ly/2Mi553A)的链接**
 
-**[](http://bit.ly/2Mi553A) [## 免费 Python 教程- Python 核心和高级
-
-### Bharath Thippireddy 是一名企业家、软件架构师和公共演说家，他在……
-
-bit.ly](http://bit.ly/2Mi553A) 
+**<http://bit.ly/2Mi553A>  
 
 以上就是一些可以免费学习 Python 的**网站**。这些都是很棒的资源，你可以选择你喜欢的。你不需要参加所有的课程，那将是荒谬和费时的。相反，选择一个最适合你的学习方式。
 
@@ -279,8 +251,4 @@ bit.ly](http://bit.ly/2Mi553A)
 
 **p . s .**——如果你现在只想做一件事来启动你的 Python 编程之旅，就去参加 Udemy 上何塞·马西亚尔·波尔蒂利亚的 [**完整的 Python 3 训练营**](http://bit.ly/complete-python3-bootcamp) 课程吧。你会很快学会 Python，永远不会后悔你的决定。
 
-[](http://bit.ly/complete-python3-bootcamp) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/complete-python3-bootcamp)****
+<http://bit.ly/complete-python3-bootcamp> ****

@@ -26,11 +26,7 @@
 
 顺便说一句，如果你在这里是因为你想在你的职业生涯中成为一名解决方案架构师或软件架构师，那么我也推荐你去看看由 Mark Farraghar 在 Udemy 上开设的 [**如何成为一名杰出的解决方案架构师**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 课程，这是一门出色的课程，学习你将软件架构技能提升到一个新水平所需的所有软硬技能。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) [## 成为解决方案架构师:架构课程
-
-### 您是 IT 项目团队中的开发人员、首席开发人员还是解决方案架构师？你想学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F>  
 
 ## 通过阅读《清洁建筑》一书，你会学到什么？
 
@@ -116,8 +112,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 那么，你还在等什么？去 [**买干净的建筑**](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?tag=javamysqlanta-20) 吧，这是一本好书，钱花得值。
 
-[](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?tag=javamysqlanta-20) [## 干净的架构:软件结构和设计的工匠指南
-
-### 干净的架构:软件结构和设计的工匠指南(罗伯特 c .马丁系列)
-
-www.amazon.com](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?tag=javamysqlanta-20)
+<https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?tag=javamysqlanta-20> 

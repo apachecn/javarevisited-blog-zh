@@ -34,6 +34,6 @@
 
 *   [贾文保罗](https://medium.com/u/bb36d8439904?source=post_page-----e2dfd66364b5--------------------------------)https://javinpaul.medium.com/subscribe
 *   https://dariux1988.medium.com/subscribe
-*   [约翰·瑟洛夫斯基](https://medium.com/u/390a59d672a2?source=post_page-----e2dfd66364b5--------------------------------)https://medium.com/@johnythecoder/subscribe[](/@johnythecoder/subscribe)
+*   [约翰·瑟洛夫斯基](https://medium.com/u/390a59d672a2?source=post_page-----e2dfd66364b5--------------------------------)https://medium.com/@johnythecoder/subscribe</@johnythecoder/subscribe>
 *   [德米特里琴科](https://medium.com/u/b2ed152fefdb?source=post_page-----e2dfd66364b5--------------------------------)https://medium.com/@dtimchenko/subscribe
 *   维克拉姆·古普塔 https://vikramguptavit.medium.com/subscribe

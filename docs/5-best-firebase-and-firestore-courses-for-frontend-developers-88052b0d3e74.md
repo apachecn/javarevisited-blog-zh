@@ -64,11 +64,7 @@ Firebase 最棒的一点是，它由 Google 拥有和支持，并且可以在 [G
 
 他们还提供 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 无需任何承诺，这是一个很好的方式，不仅可以免费使用这门课程，还可以在加入 Pluralsight 之前检查课程的质量。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3.[iOS 版 Firebase Firestore](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevslopes-firestore-ios%2F)
 
@@ -98,11 +94,7 @@ Educative 还为您提供了购买本课程或获得 [**Educative 订阅**](http
 
 如果你在不断地学习，订阅选项会给你更多的钱，而且很容易加入你想要的课程，而不是每次一个一个地购买。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 5. [Firebase & Firestore 大师班](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffirebase-course%2F)
 
@@ -152,10 +144,6 @@ Reed Barger 的“用 React、Redux 和 Firebase 构建一个 Slack 聊天应用
 
 感谢您阅读本文。如果你发现这些最好的 Firebase 在线课程对初学者有用，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-**【p . s .】**—如果你正在寻找学习 iOS 和 Swift 编程语言的最佳免费在线课程，那么你也可以看看我为程序员和开发人员提供的免费 iOS 和 Swift 课程清单[](https://javarevisited.blogspot.com/2018/11/5-free-ios-app-development-courses-for.html)**。你也可以在 iOS 移动应用中使用 Firestore。**
+**【p . s .】**—如果你正在寻找学习 iOS 和 Swift 编程语言的最佳免费在线课程，那么你也可以看看我为程序员和开发人员提供的免费 iOS 和 Swift 课程清单<https://javarevisited.blogspot.com/2018/11/5-free-ios-app-development-courses-for.html>**。你也可以在 iOS 移动应用中使用 Firestore。**
 
-**[](/javarevisited/my-favorite-free-courses-to-learn-ios-app-development-f172e7d3ba5d) [## 我最喜欢的学习 iOS 应用开发的免费课程
-
-### 如果你想学习 iOS 应用程序开发，例如为苹果的 iOS 设备开发游戏和应用程序，比如…
-
-medium.com](/javarevisited/my-favorite-free-courses-to-learn-ios-app-development-f172e7d3ba5d)**
+**</javarevisited/my-favorite-free-courses-to-learn-ios-app-development-f172e7d3ba5d> **

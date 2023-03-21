@@ -127,8 +127,4 @@
 
 如果你正在准备雅思考试，但正在寻找免费的资源，比如免费的在线课程，那么你也可以看看 [**雅思热门提示**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fielts-top-tips%2F) (免费课程)，这对任何准备 2023 年雅思考试的人来说都是一个很好的资源。
 
-[](https://javarevisited.blogspot.com/2021/10/top-5-online-courses-to-crack-ielts-in.html) [## 2023 年雅思考试前五名在线课程-最佳选择
-
-### 国际英语语言测试系统，俗称雅思，是最受欢迎的英语语言测试…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/10/top-5-online-courses-to-crack-ielts-in.html)
+<https://javarevisited.blogspot.com/2021/10/top-5-online-courses-to-crack-ielts-in.html> 

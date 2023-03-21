@@ -85,11 +85,7 @@ React Native 为在移动设备上开发应用程序提供了一个出色的解�
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们的 7000 多门最受欢迎的课程、专业、专业证书和指导项目
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[React Native——实用指南](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-native-the-practical-guide%2F)【Udemy】
 
@@ -123,11 +119,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 29 美元，但也提供了许多超级吸引人和有用的课程，如他的 [Python 课程](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn)和 [JavaScript Web 项目:20 个项目来建立你的投资组合](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 5. [CS50 的 React Native 移动应用开发](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fcs50s-mobile-app-development-with-react-native)【edX】
 
@@ -157,11 +149,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 他们还提供了 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 而没有任何承诺，这不仅是免费访问这门课程的好方法，也是在加入@Pluralsight 之前检查课程质量的好方法。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.[使用 React Native 开发多平台移动应用](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react)【Coursera】
 
@@ -186,11 +174,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 8.[使用 Express.js 后端构建全栈 React 原生应用](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-full-stack-react-native-apps-with-expressjs-backend%2F)
 
@@ -250,11 +234,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 这门课程是免费加入的，我强烈建议 React 本地初学者参加，但是，如果你喜欢 CodeCademy 平台，那么你也可以加入 [**CodeCademy PRO**](https://bit.ly/codecademypro) ，这是一种高级订阅，按年计划每月花费约 15.99 美元，提供所有 Codecademy 内容、课程、测验和项目的访问权限。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 11.[全栈反应原生](https://gumroad.com/a/397309043)
 
@@ -272,11 +252,7 @@ bit.ly](https://bit.ly/codecademypro)
 
 你也可以在这里下载[的免费章节](https://gumroad.com/a/397309043)来了解你将在这本书里得到什么。
 
-[](https://gumroad.com/a/397309043) [## 全栈反应本机
-
-### 最新的，深入的，完整的指南反应原生。使用 JavaScript 创建漂亮的移动应用程序并作出反应。
-
-gumroad.com](https://gumroad.com/a/397309043) 
+<https://gumroad.com/a/397309043>  
 
 ## 总结课程
 
@@ -306,16 +282,4 @@ React Native 是一个优秀的[框架](http://javarevisited.blogspot.sg/2018/01
 
 ## 您可能喜欢的其他媒体文章:
 
-[](/hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4) [## 我最喜欢的 Java 程序员学习 Android 的在线培训课程——最好的
-
-### Java 非常幸运，Android 把它作为编程语言。这为…打开了一扇机会之门
-
-medium.com](/hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4) [](/javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78) [## 我最喜欢的学习 Flutter 移动应用程序开发的课程——最好的和免费的
-
-### 2023 年学习 Flutter 的最佳和少数免费课程的精选列表
-
-medium.com](/javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78) [](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) [## 我最喜欢的免费 JavaScript 教程和初学者课程
-
-### 大家好，我们很幸运生活在一个科技的世界里，在这里你可以获得很多资源，比如免费的…
-
-medium.com](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2)
+</hackernoon/top-5-courses-to-learn-android-for-java-programmers-667e03d995b4>  </javarevisited/my-favorite-flutter-and-dart-programming-courses-for-beginners-9e8355710d78>  </javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2> 

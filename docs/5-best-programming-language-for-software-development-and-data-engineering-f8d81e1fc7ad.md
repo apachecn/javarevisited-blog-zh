@@ -116,11 +116,7 @@ JavaScript 实际上是一种脚本语言，最常用于使网页具有交互性
 
 顺便说一下，当谈到参加这个课程时，你有两个选择，你可以单独参加这个课程，每个月花费大约 39 美元进行专业化，你也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 每年花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera 和编程文章**
 
@@ -147,8 +143,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找最好的 Coursera 职业证书来开始你的职业生涯，你也可以看看我列出的 23 个最好的 Coursera 职业证书，在 2023 年加入 。包含了最好的 Coursera 课程，学习 Java、Python、数据分析、机器学习、Git，以及其他软件开发所需的必备技能。
 
-[](/javarevisited/is-googles-data-analytics-professional-certificate-on-coursera-worth-it-review-38f99663f891) [## 回顾—2023 年谷歌在 Coursera 上的数据分析专业证书值得吗？
-
-### 我回顾了谷歌在 Coursera 上广受欢迎的数据分析专业证书，看看它是否真的值得…
-
-medium.com](/javarevisited/is-googles-data-analytics-professional-certificate-on-coursera-worth-it-review-38f99663f891)
+</javarevisited/is-googles-data-analytics-professional-certificate-on-coursera-worth-it-review-38f99663f891> 

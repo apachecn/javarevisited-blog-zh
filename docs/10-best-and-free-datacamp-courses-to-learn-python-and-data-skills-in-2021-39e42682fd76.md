@@ -205,8 +205,4 @@ DataCamp 使用 [sci-kit-learn](https://javarevisited.blogspot.com/2021/10/top-5
 
 **P. S. —** 如果你正在寻找一个免费的 Datacamp 课程来学习数据科学，我建议你查看一下[**Data Science for every one**](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fcourses%2Fdata-science-for-everyone)，这是一个来自 Datacamp 的免费课程，它提供了关于数据科学的介绍，没有任何令人头痛的编码问题。非常适合 2023 年想要学习数据科学的初学者和有经验的人
 
-[](/javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b) [## 2023 年为初学者提供的 10 门免费数据科学在线课程
-
-### Udemy、Coursera、Datacamp、freeCodeCamp 和……为初学者收集的最佳免费数据科学在线课程
-
-medium.com](/javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b)
+</javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b> 

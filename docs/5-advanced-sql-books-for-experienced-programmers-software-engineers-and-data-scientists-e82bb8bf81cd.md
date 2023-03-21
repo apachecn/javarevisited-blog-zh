@@ -38,11 +38,7 @@ SQL 是任何程序的[必备技能之一](/javarevisited/11-essential-skills-to
 
 而且，如果你更喜欢在线课程，你可以将这本书与何塞·波尔蒂利亚在 Udemy 上的 [**完整的 SQL Bootcamp**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) 课程结合起来，这样可以两全其美。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) [## 用于数据操作和分析的完整 SQL 训练营
-
-### 您将学习如何使用最受欢迎的技能之一- PostgreSQL 来读写复杂的数据库查询
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F>  
 
 ## [2。Markus Winand 解释了 SQL 性能](http://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/?tag=javamysqlanta-20)
 
@@ -60,11 +56,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 此外，如果你需要一门在线课程来配合这本书，那么我推荐你查看 Udemy 上的 [**Oracle SQL 性能调优大师班 20232**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F) 课程。它非常适合从事 Oracle 数据库工作的开发人员和数据库管理员。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F) [## 高级 Oracle SQL 性能调优大师班 2019
-
-### 嗨，欢迎来到我们的课程。代码之星学院是一个平台和社区，教授 SQL & PL/SQL 开发，SQL…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F>  
 
 ## 3. [SQL For Smarties，第五版:高级 SQL 编程](https://www.amazon.com/Joe-Celkos-SQL-Smarties-Fifth/dp/0128007613/?tag=javamysqlanta-20)
 
@@ -80,11 +72,7 @@ Joe Celko 的 SQL for Smarties，第四版:高级 SQL 编程(数据管理系统�
 
 每个以编写 SQL 查询为生的程序员都会在 SQL 中找到对聪明人有用的东西。如果你需要更多的练习，Udemy 上的 [**棒球数据库查询与 SQL**](http://bit.ly/2CUTGC7) 免费 SQL 查询课程提供了很好的查询练习。
 
-[](http://bit.ly/2CUTGC7) [## 免费 SQL 教程-用 SQL 和 dplyr 进行棒球数据库查询
-
-### 查尔斯·雷德蒙博士是伦敦大学汤姆·里奇智力研究和信息科学学院的教授。
-
-bit.ly](http://bit.ly/2CUTGC7) 
+<http://bit.ly/2CUTGC7>  
 
 ## 4.[Peter Gulutzan 和 Trudy Pelzer 的 SQL 性能调优](https://www.amazon.com/SQL-Performance-Tuning-Peter-Gulutzan/dp/0201791692?tag=javamysqlanta-20)
 
@@ -100,11 +88,7 @@ bit.ly](http://bit.ly/2CUTGC7)
 
 本质上，这就是你将在本书中学到的东西。你也可以把这本书和 Udemy 的[**Oracle SQL Performance Tuning master class 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F)结合使用，Udemy 是这本书的好伙伴。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F) [## 高级 Oracle SQL 性能调优大师班 2019
-
-### 嗨，欢迎来到我们的课程。代码之星学院是一个平台和社区，教授 SQL & PL/SQL 开发，SQL…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-performance-tuning-masterclass%2F>  
 
 顺便说一句，如果你对学习 SQL 的好处有任何疑问，因为你是 Java 或 web 开发人员，让我非常明确地告诉你，今天每个人都想要一个完整的开发人员，也就是说，一个万事通，至少精通一项技能。认识到这一点很重要，因为作为一名 Java 开发人员。我几乎没有参与过任何只做 Java 相关工作的项目。它总是混合了各种技术，如 [Linux](http://javarevisited.blogspot.sg/2016/06/10-example-of-lsof-command-in-unix-linux.html) 、 [XML](http://javarevisited.blogspot.sg/2013/01/10-xml-interview-questions-and-answers.html) 、 [SQL](http://javarevisited.blogspot.sg/2017/02/top-6-sql-query-interview-questions-and-answers.html) 、 [Java](https://javarevisited.blogspot.sg/2017/11/top-5-free-java-courses-for-beginners.html#axzz4zuIICRs9) ，以及用其他语言和技术开发的其他应用程序，如 [C++](https://dev.to/javinpaul/top-10-courses-to-learn-c-in-depth-best-of-lot-1k7) 。
 
@@ -134,19 +118,11 @@ SQL 最大的好处是，它是一种非常稳定的技术，作为一种编程�
 
 **真正掌握 SQL 是一门很牛逼的课程。与其他 Coursera 课程一样，它也是免费审核的，这意味着你可以免费学习，但该课程也是数据科学专业 [**学习 SQL 基础知识**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Flearn-sql-basics-data-science) **和**的一部分，如果你需要 Coursera 证书以显示在你的 LinkedIn 个人资料或简历中，你需要付费。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsql-for-data-science) [## 用于数据科学的 SQL
-
-### 随着数据收集呈指数级增长，对熟练使用数据和与数据交互的人员的需求也在增长…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsql-for-data-science) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsql-for-data-science>  
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是学习高级 SQL 编程的最佳书籍。如果您在项目中使用 SQL，正在学习 SQL，或者已经在 SQL 领域工作了几年，那么您可以阅读这些书籍，将您的 SQL 技能提升到一个新的水平。
 
@@ -171,8 +147,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 另外，如果你喜欢从在线课程中学习，那么你可以将这些高级 SQL 书籍与何塞·波尔蒂利亚在 Udemy 网站上的 [**完整的 SQL 训练营**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) 课程结合起来，这样可以两全其美。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) [## 用于数据操作和分析的完整 SQL 训练营
-
-### 您将学习如何使用最受欢迎的技能之一 PostgreSQL 来读写复杂的数据库查询
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F> **

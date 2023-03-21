@@ -58,11 +58,7 @@
 
 在本课程中，作者收集了这些大公司提出的 50 个最重要、最受欢迎的面试问题，我将一步步地解释这些问题，帮助你准确理解如何解决这些问题。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fleetcode-in-python-50-algorithms-coding-interview-questions%2F) [## Python 中的 LeetCode:编码面试问题的 50 种算法
-
-### 为你的软件工程编码面试做准备？这是适合你的地方。最想了解…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fleetcode-in-python-50-algorithms-coding-interview-questions%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fleetcode-in-python-50-algorithms-coding-interview-questions%2F>  
 
 而且，如果你觉得这 20 道题还不够，还需要多加练习，那么你还可以看看这份 [**30 道阵题**](http://javarevisited.blogspot.sg/2015/06/top-20-array-interview-questions-and-answers.html) 的清单。
 
@@ -121,16 +117,8 @@ Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ## p . s——如果你需要一些免费资源，你可以查看这个[免费数据结构与算法课程](http://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)的列表，开始你的准备工作。
 
-[](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) 
+</free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  
 
 而且，如果你也想学习系统设计，那么 [**ByteByteGo**](https://bytebytego.com?fpr=javarevisited) 是我的发现，它是学习基本系统设计概念和架构的一个很好的平台。
 
-[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)
+<https://bytebytego.com?fpr=javarevisited> 

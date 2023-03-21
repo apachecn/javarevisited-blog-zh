@@ -26,11 +26,7 @@ image_credit — Coursera 机器学习数学
 
 顺便说一句，如果你刚刚开始学习数据科学，那么我建议你参加一个更一般但更全面的课程，如 Udemy 网站上由基里尔·叶列缅科教授的 [**数据科学 A-Z:现实生活中的数据科学**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F) 课程。这是开始数据科学之旅的最佳方式。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F) [## 数据科学 A-Z:包括现实生活中的数据科学练习
-
-### 我的名字是基里尔·叶列缅科，我非常高兴你能读到这封信！专业上，我是数据科学的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F>  
 
 # 2023 年学习数据科学统计和数学的前五门课程
 
@@ -64,11 +60,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这些顶级的数据科学课程都包含在**[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)中，这是一个年度订阅，提供超过 3000 门课程、专业、专业证书和指导项目的访问权限。如果你计划参加多个 Coursera 课程，那么我强烈建议你加入 Coursera Plus。更多细节可以看[这里](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 # **3.[成为概率统计大师](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fstatistics-probability%2F)**
 
@@ -104,13 +96,9 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一句，你需要一个 [Pluralsight 会员](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html)才能进入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。这更像是软件开发人员的网飞，因为学习是我们工作的重要组成部分，Pluralsight 会员资格是在竞争中保持领先的一个很好的方式。
 
-他们还提供了一个[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**的 10 天免费试用期，无需任何承诺，这是一个很好的方式，不仅可以免费参加这个课程，还可以在加入 Pluralsight 之前检查课程的质量。****
+他们还提供了一个<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**的 10 天免费试用期，无需任何承诺，这是一个很好的方式，不仅可以免费参加这个课程，还可以在加入 Pluralsight 之前检查课程的质量。****
 
-****[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+****<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是关于数据科学和机器学习中学习统计学、数学和概率的一些**最佳在线课程。这些领域的良好知识对分析和理解[大数据](/javarevisited/top-10-courses-to-learn-big-data-and-hadoop-best-of-lot-23ef8691633f)大有帮助，这是你工作的一部分。**
 
@@ -135,8 +123,4 @@ T5 其他**文章程序员和数据科学家**可能喜欢
 
 **P.S. —** 如果你渴望了解更多关于数据科学和机器学习的知识，并且此时此刻只想做一件事，那就去参加 Udemy 网站上由基里尔·叶列缅科教授的 [**数据科学 A-Z:现实生活中的数据科学**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F) 课程吧。你不会后悔你的决定。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F) [## 数据科学 A-Z:包括现实生活中的数据科学练习
-
-### 我的名字是基里尔·叶列缅科，我非常高兴你能读到这封信！专业上，我是数据科学的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F)****
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdatascience%2F> ****

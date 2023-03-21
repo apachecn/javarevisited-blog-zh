@@ -52,11 +52,7 @@ image_Credit — Figma
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[学习 fig ma【Udemy 最佳课程】](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-figma%2F)
 
@@ -84,11 +80,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[2023 年全网&手机设计师:UI/UX、Figma、+more](https://academy.zerotomastery.io/p/complete-web-and-mobile-designer?affcode=441520_zytgk2dn)
 
@@ -104,11 +96,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://zerotomastery.io/academy?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费约 39 美元，但也提供了许多超级吸引人和有用的课程，如他的 Python 和 JavaScript 课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://zerotomastery.io/academy?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 老实说，有很多奇妙的资源，包括免费的...事实上，安德烈概述了他的整个旅程…
-
-zerotomastery.io](https://zerotomastery.io/academy?affcode=441520_zytgk2dn) 
+<https://zerotomastery.io/academy?affcode=441520_zytgk2dn>  
 
 ## 6.[完整的网页设计:从 Figma 到 Webflow 再到自由职业者](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffreelance-web-design-from-design-to-development-to-making-money%2F)
 
@@ -143,8 +131,4 @@ zerotomastery.io](https://zerotomastery.io/academy?affcode=441520_zytgk2dn)
 
 **P.S.** —如果你正在寻找一个免费的在线培训课程来学习 Figma，那么你也可以在 Udemy 上查看这个 [**学习用于 UI UX 设计的 Figma(带一个设计项目)【免费】**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-figma-ui-ux-design-project%2F) 课程。这门课程是完全免费的，你只需要一个 Udemy 账号就可以加入这门课程，用一门完美的设计课程学习 Figma。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-figma-ui-ux-design-project%2F) [## 免费 Figma 教程-学习界面 UX 设计的 Figma(有一个设计项目)
-
-### 我是一名高级 UI/UX 设计师和顾问，拥有超过 8 年的财富 500 强、大型企业…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-figma-ui-ux-design-project%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-figma-ui-ux-design-project%2F> 

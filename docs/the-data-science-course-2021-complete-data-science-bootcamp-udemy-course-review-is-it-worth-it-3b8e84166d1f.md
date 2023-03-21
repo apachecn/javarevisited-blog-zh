@@ -20,11 +20,7 @@ image_credit — Udemy
 
 有很多课程可以帮助你学习数据科学，但并不是所有的课程都是好的，并教会你在这个领域开始职业生涯所需的一切，我发现了一门课程， [**数据科学课程 2023:完整的数据科学训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) ，它将帮助你学习开始职业生涯所需的所有必要技能。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) [## 数据科学培训课程:数据科学家训练营
-
-### 数据科学家是本世纪最适合蓬勃发展的职业之一。它是数字化的，面向编程的，并且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F>  
 
 # Udemy 课程回顾—数据科学课程 2023:完整的数据科学训练营—值得吗？
 
@@ -113,8 +109,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P. S. —** 如果你更喜欢 Coursera 的课程，那么你也可以去看看约翰霍普金斯大学的 [**数据科学专业**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science) ，在 2023 年开始你的数据科学职业生涯。这是初学者和有经验的开发人员最喜欢的数据科学资源之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science) [## 数据科学
-
-### 约翰·霍普金斯大学的使命是教育学生，培养他们终身学习的能力
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science> 

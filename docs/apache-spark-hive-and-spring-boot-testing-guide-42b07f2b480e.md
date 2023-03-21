@@ -54,7 +54,7 @@ Apache Spark 架构
 
 流程类似于 [Java Stream API](https://www.java67.com/2014/04/java-8-stream-examples-and-tutorial.html) 。不同之处在于，每个 lambda 表达式都在 workers 上执行。因此，Spark 将代码传输到远程机器，执行计算，并返回获得的结果。如果我们拥有足够数量的工作线程，我们可以继续处理以 TB 甚至 zettabytes 计算的数据量。
 
-> *Apache Spark*[](/javarevisited/5-free-courses-to-learn-apache-spark-in-2020-bdff2d60c800)**将代码交付给数据的方法有一些缺点。我们到了发展阶段再讨论。**
+> *Apache Spark*</javarevisited/5-free-courses-to-learn-apache-spark-in-2020-bdff2d60c800>**将代码交付给数据的方法有一些缺点。我们到了发展阶段再讨论。**
 
 *另一个重要的方面是*懒惰*。就像 [Stream API 一样，](/javarevisited/7-best-java-tutorials-and-books-to-learn-lambda-expression-and-stream-api-and-other-features-3083e6038e14) Apache Spark 直到终端操作调用时才开始任何计算。在这种情况下，`reduceByKey`就是其中之一。rest 操作构建管道规则，但不触发任何东西。*
 
@@ -284,7 +284,7 @@ stored as textfile*
 
 *SparkIntegrationTestSuite*
 
-*在`[SpringBootTest](https://javarevisited.blogspot.com/2021/12/what-is-springboottest-annotation-in.html)` [](https://javarevisited.blogspot.com/2021/12/what-is-springboottest-annotation-in.html)中，我们列出了测试运行期间使用的所有 beans。*
+*在`[SpringBootTest](https://javarevisited.blogspot.com/2021/12/what-is-springboottest-annotation-in.html)` <https://javarevisited.blogspot.com/2021/12/what-is-springboottest-annotation-in.html>中，我们列出了测试运行期间使用的所有 beans。*
 
 > *`*TestAerospikeFacade*` *只是 Java Aerospike 客户端的一个薄薄的包装，用于测试目的。它的实现相当简单，但是你可以通过* [*这个链接*](https://github.com/SimonHarmonicMinor/apache-spark-integration-testing-example/blob/master/src/test/java/com/mts/metric/spark/testutils/facade/TestAerospikeFacade.java) *查看源代码。**
 
@@ -304,7 +304,7 @@ stored as textfile*
 
 *如果一切都调整正确，测试将会通过。*
 
-> **整个测试源可通过*[](https://github.com/SimonHarmonicMinor/apache-spark-integration-testing-example/blob/master/src/test/java/com/mts/metric/spark/service/SubscriberIdEnricherServiceIntegrationTest.java)**这个环节获得。***
+> **整个测试源可通过*<https://github.com/SimonHarmonicMinor/apache-spark-integration-testing-example/blob/master/src/test/java/com/mts/metric/spark/service/SubscriberIdEnricherServiceIntegrationTest.java>**这个环节获得。***
 
 **![](img/0c0ffe2f282a4b0fc701031993053436.png)**
 

@@ -34,19 +34,11 @@ Pivotal ( *被 VMWare* 收购)的可爱员工认为他们可以帮助这个部�
 
 如果你曾经在一个托管平台上使用过一个应用程序(比如 CloudFoundry )，你会以某种方式使用构建包，甚至可能没有意识到这一点！由于最近对这些处理方式的更新，它与平台分离，并产生了一种新的类型，称为云原生构建包(*CNBP*)——正如其名称所示，编写一次，在任何地方运行。
 
- [## 云本机构建包文档
-
-### 与 Dockerfiles 相比，Buildpacks 为构建应用程序提供了更高层次的抽象。具体来说，构建包…
-
-buildpacks.io](https://buildpacks.io/) 
+  
 
 Spring 2.3 中更具体的构建包— Paketo
 
-[](https://paketo.io/) [## 帕克托建筑包
-
-### 模块化构建包，用 Go 编写。Paketo Buildpacks 为应用程序提供语言运行时支持。他们利用…
-
-paketo.io](https://paketo.io/) 
+<https://paketo.io/>  
 
 ## 生成命令
 

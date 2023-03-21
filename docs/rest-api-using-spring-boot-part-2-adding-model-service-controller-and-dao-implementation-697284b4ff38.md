@@ -362,8 +362,4 @@ public class TransactionRestController {
 
 ******请继续关注第 3 部分，讨论为编写的代码编写单元测试。******
 
-**[](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)**
+**</javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e> **

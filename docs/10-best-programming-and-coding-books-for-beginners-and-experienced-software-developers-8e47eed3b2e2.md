@@ -42,11 +42,7 @@
 
 如果你需要一门课程来配合这本书，Udemy 上的 [**用 Java 清理代码:学习简单设计，重构& TDD**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) 课程是一个很好的伴侣。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) [## 用 Java 清理代码:学习简单的设计、重构和 TDD
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F>  
 
 ## 2.实用程序员:从熟练工到大师(第二版)
 
@@ -66,11 +62,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 顺便说一下，扎实的原则知识对于编写干净的代码至关重要，这本书会教你，但是如果你需要更多的实践，你也可以加入 Udemy 上的[扎实的原则:介绍软件架构和设计](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F) 课程。它很好地补充了这本书。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F) [## 坚实的原则:介绍软件架构和设计
-
-### 在获得计算机科学的工程学位后，我在 20 世纪 90 年代踏上了 IT 潮流，天哪…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F>  
 
 ## 4.[头部优先设计模式](https://www.java67.com/2016/10/top-5-object-oriented-analysis-and-design-patterns-book-java.html)
 
@@ -100,11 +92,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你愿意，你也可以把这本书和 Udemy 的这个[干净代码课程](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F)结合起来。它来自我最喜欢的导师之一，来自 AcadMind 的 Maximilian Schwarzmuller，它教你如何用 Javascript 编写干净的代码。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F) [## 干净的代码
-
-### 作为一名开发人员，您应该能够编写有效的代码——当然！不幸的是，很多开发人员写得不好…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F>  
 
 ## 7.罗伯特·马丁的《敏捷软件开发》
 
@@ -126,11 +114,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 为了更好更快地学习，你也可以将这本书与 Udemy 上 Woldek Karkowoski 的简单步骤(Java) 课程中解释的 [**重构金字塔结合起来。**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F)
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F) [## 用简单的步骤解释重构金字塔(Java)
-
-### 我叫沃德克·克拉科夫斯基。我是一名独立的技术培训师，团队教师，也是一名开发人员-以提高我的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F>  
 
 这是一个很棒的在线课程，有重构代码使之更好的实例。没有比看着一个人拿着一个可用的遗留代码并把它变得更好更好的学习方法了。
 
@@ -146,7 +130,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 这是一门基于文本的交互式课程，允许您直接从浏览器练习编码。本课程将教你如何设计流行的网站，以及如何设计经典的设计问题，如停车场、设计象棋游戏等。
 
-你可以单独参加这门课程，也可以以每月 14.9 美元的价格订阅[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**，以获得他们 250 多门基于文本的互动课程。**
+你可以单独参加这门课程，也可以以每月 14.9 美元的价格订阅<https://www.educative.io/subscription?affiliate_id=5073518643380224>**，以获得他们 250 多门基于文本的互动课程。**
 
 ## **10.[卓有成效的工程师](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107?tag=javamysqlanta-20)**
 
@@ -182,8 +166,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **P. S.** —如果你是编程世界的新手，那么我建议你从 Python 开始你的旅程，Python 是编程世界最流行的语言之一。如果你需要推荐，我强烈推荐由何塞·波尔蒂利亚在 Udemy 上完成的 Python 3 训练营 课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F> **

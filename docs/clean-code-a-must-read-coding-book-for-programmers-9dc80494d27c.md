@@ -26,21 +26,13 @@ image_credit — Pushkar
 
 你们中的一些人可能会说，干净的代码到底是什么？如果一个代码可以运行，那么它就足够了。其实不是。当我们过去在计算机科学实验室编写程序时，我们都会想到我们的教育项目和我们的学期实践考试，但现实世界是完全不同的，在这里你可以学到编写干净代码的艺术。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fclean-code%2F) [## C#开发人员:学习编写干净代码的艺术
-
-### 如今，任何人都可以编写代码。但是如果你想得到一份中级或高级 C#开发人员的工作，你必须…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fclean-code%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fclean-code%2F>  
 
 其中一个原因是因为它不是一次性代码，它将比您预期的时间更长。例如，投资银行中的一些定价系统仍然在大型机中运行，而大型机已经有 40-50 年的历史了。如果一个代码不干净，它会使公司陷入困境，并降低其通过提供尖端解决方案保持竞争力的能力。既然一个代码在他的大部分生命周期中都需要维护，它必须允许你维护和扩展，这就是干净代码所做的。
 
 重构也很容易，这是另一种编写干净代码的技术。如果你想了解更多关于重构的知识，我建议你加入 Udemy 上的 [**重构金字塔(Java)——逐步清理代码**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F) 课程，这是一门非常实用的学习 Java 重构技术的课程，如果你需要更多的选择，你也可以查看这个面向 Java 开发人员的最佳重构课程列表。
 
-[](/javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006) [## 学习重构和提高 Java 编码技能的 7 门最佳课程
-
-### 我最喜欢的在线课程学习重构和最佳实践，以提高您的编码技能，并成为一个更好的…
-
-medium.com](/javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006) 
+</javarevisited/7-best-courses-to-learn-refactoring-and-clean-coding-in-java-47bea3c67006>  
 
 # 干净的代码值得一读吗？《干净代码手册》回顾
 
@@ -77,11 +69,7 @@ Clean Code book 结构良好，分为**三个主要部分**。第一部分讲述
 
 注册 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 即可获得绝对免费；允许你观看 200 分钟的任何课程。反正 Pluralsight 到处都是这样的宝石，它的月会员是每个程序员都应该考虑拥有的。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是对**“干净代码:敏捷软件工艺手册”**的回顾，这是任何想要写出更好代码的开发人员、软件工程师、项目经理、团队领导或系统分析师的必读书籍之一。所以，如果你这时只想做一件事，就去 [**读干净代码**](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20) 。你花的每一分钱，每一秒都是值得的。
 
@@ -102,8 +90,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **P. S.** —如果你正在寻找学习设计模式以编写干净代码的在线课程，那么我也建议你看看 Udemy 上 Dmitri Nestruk 的[**Java 设计模式**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) 课程。它将极大地提高您对用 Java 编写健壮且易于维护的面向对象代码的理解。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) [## 面向工程师、设计师和架构师的 Java 设计模式
-
-### 本课程从实用的角度全面概述了 Java 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F> 

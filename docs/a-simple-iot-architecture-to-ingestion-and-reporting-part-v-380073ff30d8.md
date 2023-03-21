@@ -6,4 +6,4 @@
 
 # 语境
 
-在我们关于[物联网](/javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-in-2020-best-of-lot-8517aa9fc838)架构师的系列文章的第五部分中，我们将涵盖架构中最复杂的服务之一，即**规则服务**。为了解决这个服务的问题，我选择使用一种不同的架构方法。在这个具体的服务中，我选择了使用少量的[](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1)****(领域驱动设计)和**六边形架构**使用大量的**测试自动化(单元测试— TDD)** ，同时没有忘记[](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31)**…******
+在我们关于[物联网](/javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-in-2020-best-of-lot-8517aa9fc838)架构师的系列文章的第五部分中，我们将涵盖架构中最复杂的服务之一，即**规则服务**。为了解决这个服务的问题，我选择使用一种不同的架构方法。在这个具体的服务中，我选择了使用少量的<https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_1>****(领域驱动设计)和**六边形架构**使用大量的**测试自动化(单元测试— TDD)** ，同时没有忘记</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>**…******

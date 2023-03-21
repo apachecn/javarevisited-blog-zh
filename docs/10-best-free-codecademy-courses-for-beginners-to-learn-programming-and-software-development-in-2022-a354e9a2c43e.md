@@ -18,11 +18,7 @@
 
 尽管如此，一个名为 [**Codecademy**](https://bit.ly/codecademyhome) 的网站上有很多由专家创建的与 IT 和编程相关的课程，其中一些课程可以免费入门。本文将向你展示 10 门免费课程，帮助你开始学习新技能。
 
-[](https://bit.ly/codecademyhome) [## 免费学习编码| Codecademy
-
-### 我们在美国东部时间晚上 9 点到 10 点进行网站维护。如果您遇到加载问题，请刷新页面。点…
-
-bit.ly](https://bit.ly/codecademyhome) 
+<https://bit.ly/codecademyhome>  
 
 # 初学者学习编程的 10 个最佳免费 CodeCademy 课程
 
@@ -152,11 +148,7 @@ Kotlin 是一种由 JetBrains 开发的表达性编程语言和开源语言，�
 
 顺便说一句，如果你喜欢 CodeCademy 平台，那么你也可以加入[**CodeCademy PRO**](https://bit.ly/codecademypro)，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 CodeCademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:Pro | Codecademy
-
-### 文件锁图标通过独家课程、测验和额外练习内容了解更多信息。体验图标构建真实…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 有时他们还提供年度计划 40%的折扣，所以这是开始你编程生涯的最佳时机。您可以使用 code **GETHIRED** 获得 CodeCademy pro 订阅的 40%折扣，或者您可以单击嵌入了代码的链接。如果你是学生，你也可以以 35%的价格获得 CodeCademy PRO。
 
@@ -185,8 +177,4 @@ bit.ly](https://bit.ly/codecademypro)
 
 **P. S. —** 如果你还在寻找更多的资源，你也可以看看我关于 [**21 个免费学习代码的网站**](https://hackernoon.com/21-websites-to-learn-programming-for-free-5101c1ddf0c) 的帖子，里面有很多资源可以找到书籍、课程之类的优质免费编程资源。
 
-[](https://www.java67.com/2018/06/21-websites-to-learn-how-to-code-for.html) [## 2023 年免费学习编码和开发的 21 大网站——最佳选择
-
-### 大家好，如果你想从头开始学习编码，并寻找一些免费的在线培训网站或有人…
-
-www.java67.com](https://www.java67.com/2018/06/21-websites-to-learn-how-to-code-for.html)
+<https://www.java67.com/2018/06/21-websites-to-learn-how-to-code-for.html> 

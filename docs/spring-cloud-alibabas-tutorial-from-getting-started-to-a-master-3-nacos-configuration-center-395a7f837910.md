@@ -23,11 +23,7 @@
 *   登录 Nacos 控制台，添加三个不同的环境，dev / test / prod，对应:开发环境/测试环境/生产环境
 *   不熟悉控制台，看教程:
 
- [## 中等
-
-### 编辑描述
-
-medium.com](/@xuezhongyu01/954598300a01) [![](img/7bfdd29de19782b9dad640cc9c57e6cc.png)](https://www.java67.com/2021/01/spring-cloud-interview-questions-with-answers-java.html)
+  [![](img/7bfdd29de19782b9dad640cc9c57e6cc.png)](https://www.java67.com/2021/01/spring-cloud-interview-questions-with-answers-java.html)
 
 ## 代码演示
 
@@ -79,20 +75,8 @@ bootstrap.yaml2.bak
 
 关于这种用法的更多信息(不同环境的配置用法):
 
-[](/javarevisited/spring-cloud-alibaba-from-fresh-to-profession-tutorial-2-quick-integration-configuration-1aecb16bae5d) [## 春云阿里巴巴从入门到精通教程(二)——Nacos 服务注册…
-
-### 项目中的快速集成配置中心 Nacos 服务注册发现功能
-
-medium.com](/javarevisited/spring-cloud-alibaba-from-fresh-to-profession-tutorial-2-quick-integration-configuration-1aecb16bae5d) 
+</javarevisited/spring-cloud-alibaba-from-fresh-to-profession-tutorial-2-quick-integration-configuration-1aecb16bae5d>  
 
 不再重复
 
-[](/javarevisited/5-best-courses-to-learn-spring-cloud-and-microservices-1ddea1af7012) [## 2022 年 5 个最佳春季云和微服务课程、教程和培训班
-
-### 大家好，如果你正在学习 Spring Cloud 以开发基于云的 Java 微服务，并且正在寻找一些好的…
-
-medium.com](/javarevisited/5-best-courses-to-learn-spring-cloud-and-microservices-1ddea1af7012) [](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [## 2022 年 Spring Boot 和 Spring Cloud 的 11 个最佳 Java 微服务课程
-
-### 我最喜欢的在线课程 2022 年用 Spring Boot 和 Spring Cloud 为初学者学习 Java 微服务从…
-
-medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed)
+</javarevisited/5-best-courses-to-learn-spring-cloud-and-microservices-1ddea1af7012>  </javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed> 

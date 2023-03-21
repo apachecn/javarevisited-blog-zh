@@ -30,11 +30,7 @@ image_credit —教育性
 
 顺便说一句，如果你热衷于使用 Spring Boto 和 Spring Cloud 进行微服务开发，那么我强烈推荐 Udemy 上的 [**大师微服务与 Spring Boot 和 Spring Cloud 课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 。这不是免费的，但是很实惠，你可以在 Udemy 上花 10 美元买到。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想知道关于…的大肆宣传吗
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F>  
 
 # 2023 年 Java 开发者学习的 7 门最佳免费 Spring Boot 和反应式微服务课程
 
@@ -136,11 +132,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 你也应该对谷歌云平台有大致的了解，如果你是 GCP 的新手，你也可以查看这些[免费的谷歌云平台课程](/javarevisited/7-free-courses-to-learn-google-cloud-platform-for-beginners-cbb260fbd8e4)来学习 GCP 的基础知识。
 
-[](/javarevisited/8-free-google-cloud-data-engineer-certification-courses-and-practice-tests-594f31643b58) [## 8 门免费的谷歌云数据工程师认证课程和实践测试
-
-### 这些是来自 Udemy、Coursera 和其他网站的谷歌云数据工程师认证的最佳免费在线课程
-
-medium.com](/javarevisited/8-free-google-cloud-data-engineer-certification-courses-and-practice-tests-594f31643b58) 
+</javarevisited/8-free-google-cloud-data-engineer-certification-courses-and-practice-tests-594f31643b58>  
 
 ## 6.微服务全课程—4 小时学会微服务[免费]
 
@@ -162,13 +154,9 @@ medium.com](/javarevisited/8-free-google-cloud-data-engineer-certification-cours
 
 总的来说，这是一门在微服务内外都值得学习的课程，我向有经验的 Java 开发人员和任何想学习微服务的人强烈推荐这门免费课程。你可以在 Youtube 或者这里看。
 
-此外，如果您正在寻找现场培训课程，那么您也可以查看来自 Edureka 的[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fmicroservices-architecture-training&LSNSUBSITE=LSNSUBSITE)**微服务认证培训，这不是免费的，但却是深入学习微服务的最佳方式之一。**
+此外，如果您正在寻找现场培训课程，那么您也可以查看来自 Edureka 的<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fmicroservices-architecture-training&LSNSUBSITE=LSNSUBSITE>**微服务认证培训，这不是免费的，但却是深入学习微服务的最佳方式之一。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fmicroservices-architecture-training&LSNSUBSITE=LSNSUBSITE) [## 微服务培训|微服务认证| Edureka
-
-### 学习目标:这个模块让你深入了解领域驱动设计，这种方法叫做大泥球…
-
-edureka.co](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fmicroservices-architecture-training&LSNSUBSITE=LSNSUBSITE)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fmicroservices-architecture-training&LSNSUBSITE=LSNSUBSITE> ** 
 
 ## **7.[用 Spring Boot 和春云打造 Java 微服务](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-java-microservices-with-spring-boot-and-spring-cloud%2F)**
 
@@ -218,8 +206,4 @@ edureka.co](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl
 
 ****P. S.** —如果你想使用 Spring Boto 和 Spring Cloud 学习微服务开发，那么我强烈推荐你在 Udemy 上查看 Ranga 的 [**Master 微服务与 Spring Boot 和 Spring Cloud 课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 。这不是免费的，但是很实惠，你可以在 Udemy 上花 10 美元买到。超过 9 万名 Java 程序员已经从中受益。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想知道关于…的大肆宣传吗
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F)**
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F> **

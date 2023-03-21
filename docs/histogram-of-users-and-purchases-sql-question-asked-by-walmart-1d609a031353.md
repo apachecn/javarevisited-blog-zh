@@ -4,7 +4,7 @@
 
 ## 解决沃尔玛提出的 SQL 问题
 
-> 最初发表于[](https://asyncq.com/histogram-of-users-and-purchases-sql-question-asked-by-walmart)
+> 最初发表于<https://asyncq.com/histogram-of-users-and-purchases-sql-question-asked-by-walmart>
 
 **![](img/bf91d41aa7f561f2b67277efe6bf8b65.png)**
 

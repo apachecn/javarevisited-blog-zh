@@ -18,11 +18,7 @@ image_credit — Udemy
 
 顺便说一句，如果你能花几块钱上一门优秀的课程，那么我也建议你加入柯尔特·斯蒂尔 的 [**Web 开发者训练营。这是从零开始学习 web 开发的最全面和最好的课程之一，你将在一个地方学到 Web 开发人员需要的一切。它也很实惠，在 Udemy 上只需 10 美元就能买到。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到全新版本的 web 开发者训练营，Udemy 最受欢迎的 Web 开发课程。这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F>  
 
 # 2023 年学习 Web 开发的 10 个最佳免费在线课程
 
@@ -237,11 +233,7 @@ Vue.js 是 web 开发人员的另一个领先框架，如果你碰巧选择了 V
 
 顺便说一句，Educative 是一个很好的平台，如果你发现他们的互动课程很有用，那么你也可以获得 [**Educative 订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 150 多门课程，每月只需 14.9 美元。它非常划算，非常适合准备编码面试
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于初学者学习 web 开发的一些最好的免费在线课程。即使你知道 HTML 和 CSS，这些免费资源也是更新知识和填补学习空白的好方法。
 
@@ -270,8 +262,4 @@ Web 开发是一项重要的技能，而在创业时代，我认为每个程序�
 
 **p . s .**——同样，如果你能花几块钱学习像网页开发这样有价值的技能，那么我也推荐你去看看 Udemy 网站上 Andrei Negaoie 的[**2023 年完整网页开发者:零到精通**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 课程。这是一个学习编码并在 2023 年成为 Web 开发人员的伟大课程，有 HTML，CSS，JavaScript，React，Node.js，机器学习&更多！
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) [## 2023 年的完全网络开发者:零到精通
-
-### 刚刚更新为 2023 年！通过学习最受欢迎的技能，成为一名全面的网络开发人员！这是其中一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F> 

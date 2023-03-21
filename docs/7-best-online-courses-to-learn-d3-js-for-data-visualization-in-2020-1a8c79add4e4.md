@@ -86,11 +86,7 @@ D3 非常灵活地加载不同来源的数据，并帮助您进行独特的可�
 
 这种单一订阅让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**职业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书**。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Finformation-visualization) [## 信息可视化
-
-### 纽约大学是全球领先的学术、教学和研究机构。总部位于纽约市…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Finformation-visualization) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Finformation-visualization>  
 
 ## 4.[学习 CodeCademy 上的 D3 课程](https://www.pntra.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-d3)
 
@@ -124,15 +120,11 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **[![](img/43e69ce25aaa18a8769b13746c93d60e.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-d3js-for-data-visualization%2F)**
 
-**唯一的问题是，你需要一个[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)****会员**才能进入这门课程，费用大约是每月 29 美元或每年 299 美元。他们还提供为期两天的 33%的折扣，这意味着你只需花 199 美元就可以订阅一年。****
+**唯一的问题是，你需要一个<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>****会员**才能进入这门课程，费用大约是每月 29 美元或每年 299 美元。他们还提供为期两天的 33%的折扣，这意味着你只需花 199 美元就可以订阅一年。****
 
 ****这绝对物有所值，因为你可以在他们的网站上获得 7000 多门技术和非技术课程，我相信每个开发者都应该拥有这种会员资格。以防万一，如果你还没有准备好，他们还提供一个 [**10 天的免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 足以免费进入这个课程。****
 
-****[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**** 
+****<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> **** 
 
 ## ****7. [D3 提示和技巧:交互式数据可视化](https://www.educative.io/courses/d3-tips-data-visualization?affiliate_id=5073518643380224)[教育性]****
 
@@ -150,11 +142,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 ****而且，如果你觉得教育平台和他们的互动课程有用，你还可以获得一个 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 210 多门课程，每月只需**$ 14.9**。它非常划算，非常适合获得一些实践学习经验。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****8.[用 D3.js 学习数据可视化](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-data-visualization-with-d3-js)【LinkedIn 学习】****
 
@@ -176,7 +164,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ## ****9. [**Fullstack D3 和数据可视化**](https://gumroad.com/a/137262195) **【学习 D3.js 的最佳书籍】******
 
-****如果你喜欢阅读课程之外的书籍，你也可以看看这本很棒的书，深入学习 D3.js。本书由 Newline 创作，他是《full stack React[](https://gumroad.com/a/221148275/LNUti)**和 [**ng-book:完整的 Angular Guide**](https://gumroad.com/a/221148275/FlvVl) 的作者，这两本书是 Javascript 开发人员学习 React 和 Angular 的最佳资源。******
+****如果你喜欢阅读课程之外的书籍，你也可以看看这本很棒的书，深入学习 D3.js。本书由 Newline 创作，他是《full stack React<https://gumroad.com/a/221148275/LNUti>**和 [**ng-book:完整的 Angular Guide**](https://gumroad.com/a/221148275/FlvVl) 的作者，这两本书是 Javascript 开发人员学习 React 和 Angular 的最佳资源。******
 
 *****Fullstack D3* 课程是 D3 的完整指南。通过展示每个步骤的几十个代码示例，您将通过在这个自定进度的在线课程暨书中创建可视化来获得对数据的新见解。****
 
@@ -188,11 +176,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****如果你喜欢，你也可以在亚马逊 Kindle 上购买这本书，这里有链接到 [**Fullstack D3 和数据可视化**](https://www.amazon.com/Fullstack-Data-Visualization-beautiful-visualizations-ebook/dp/B07ZHS5L22?tag=javamysqlanta-20) **到**用 D3 构建漂亮的数据可视化。****
 
-****[](https://www.amazon.com/Fullstack-Data-Visualization-beautiful-visualizations-ebook/dp/B07ZHS5L22?tag=javamysqlanta-20) [## Fullstack D3 和数据可视化:用 D3 构建漂亮的数据可视化
-
-### Amazon.com: Fullstack D3 和数据可视化:用 D3 构建漂亮的数据可视化
-
-www.amazon.com](https://www.amazon.com/Fullstack-Data-Visualization-beautiful-visualizations-ebook/dp/B07ZHS5L22?tag=javamysqlanta-20)**** 
+****<https://www.amazon.com/Fullstack-Data-Visualization-beautiful-visualizations-ebook/dp/B07ZHS5L22?tag=javamysqlanta-20> **** 
 
 ## ****10.[学习并理解用于数据可视化的 D3 . js](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-d3js-for-data-visualization%2F)【Udemy】****
 
@@ -238,8 +222,4 @@ www.amazon.com](https://www.amazon.com/Fullstack-Data-Visualization-beautiful-vi
 
 ******附言**。—如果你热衷于学习 D3.js 用于 JavaScript 中的数据可视化，但在寻找免费的培训课程，你也可以在 Udemy 上查看这个 [**如何用 D3.js**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-make-a-pie-chart-with-d3js%2F) 制作饼状图的课程。完全免费，已经有超过 2.5K 的人加入了这个课程。你只需要一个免费的 Udemy 帐户就可以参加这个课程。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-make-a-pie-chart-with-d3js%2F) [## 免费 D3.js 教程——如何用 D3.js 制作饼状图
-
-### 我是一名全栈 web 开发人员，也是一名音乐作曲家。我有使用以下技术的经验:JavaScript…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-make-a-pie-chart-with-d3js%2F)****
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-make-a-pie-chart-with-d3js%2F> ****

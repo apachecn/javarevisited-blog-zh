@@ -132,8 +132,4 @@ MongoDB 是一个文档数据库。图形数据库用于存储关于网络的信
 
 **P. S.** —如果你对学习 NoSQL 技术感兴趣，特别是 MongoDB，但正在寻找一个免费的在线培训课程，那么我强烈推荐你在 Udemy 上查看— [**MongoDB Essentials —了解 Mongo DB**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F) 课程的基础知识。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://www.java67.com/2020/10/5-free-mongo-db-courses-for-programmers.html) [## 2023 年 5 大免费 MongoDB 和 NoSQL 课程供初学者学习——最好的
-
-### 如果你想在 2023 年学习最受欢迎的 NoSQL 数据库之一 MongoDB，s 和正在寻找免费资源，如…
-
-www.java67.com](https://www.java67.com/2020/10/5-free-mongo-db-courses-for-programmers.html)
+<https://www.java67.com/2020/10/5-free-mongo-db-courses-for-programmers.html> 

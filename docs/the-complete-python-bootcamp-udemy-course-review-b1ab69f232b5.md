@@ -28,11 +28,7 @@ Python 是一种高级语言，由一个名叫 Guido Van Rossum 荷兰人于 198
 
 本文将与您讨论一个名为 [**的精彩在线课程，它是由何塞·波尔蒂利亚在 Udemy 上创建的 2023 年完整 python 训练营课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) ，教您从头开始学习 python，您将会看到我对该课程的评论，这样您就可以决定学习该课程还是选择另一门 Python 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上针对 Python 编程语言的最全面、最直接的课程！你是否…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F>  
 
 # Udemy 课程回顾—2023 年完整 Python 训练营从零到英雄
 
@@ -116,8 +112,4 @@ Python 已经统治了世界上几乎每一个行业，人们将这种语言用�
 
 **P. S. —** 如果你喜欢互动阅读和边做边学，而不是阅读书籍或观看视频，那么你也可以看看 Educative 上的 [**Python 101 课程**](http://bit.ly/2OgKdKH) ，这是一个互动学习平台，允许你在浏览器上运行 Python 代码。这是一门通过实践来学习 Python 的很棒的课程，尤其是对初学者来说。
 
-[](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224) [## Python 101:交互式学习如何用 Python 3 编程-交互式学习
-
-### 欢迎学习 Python 101！我创建这个课程是为了帮助你学习 Python 3。我的目的是让你熟悉…
-
-www.educative.io](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224)
+<https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224> 

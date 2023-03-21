@@ -160,11 +160,7 @@
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2023 年商业、金融和创业方面的**最佳 Coursera 课程。这些几乎是主要大学提供的最好的课程和专业，用来学习金融业务，开始把你的想法变成一个组织，以及召集你的活动和筹集资金。**
 
@@ -190,8 +186,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你正在寻找 Udemy 的最佳商业课程，那么我强烈推荐由 Chris Haroun 教授的一门课程:屡获殊荣的商学院教授课程，从创业到首次公开募股，学习你需要了解的所有商业知识。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fan-entire-mba-in-1-courseaward-winning-business-school-prof%2F) [## 一个完整的工商管理硕士在线速成班
-
-### 据 BUSINESS INSIDER 报道:“获得 MBA 学位从未如此简单。哈龙是评价最高的教授之一…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fan-entire-mba-in-1-courseaward-winning-business-school-prof%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fan-entire-mba-in-1-courseaward-winning-business-school-prof%2F> 

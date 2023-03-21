@@ -24,11 +24,7 @@ image_credit —教育性
 
 顺便说一句，如果你不介意花点钱学习像 JavaScript 这样有价值的东西，那么我也建议你查看[**2023 年完整 JavaScript 课程:构建真正的项目！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 课程由 Jonas Schmedtmann 在 Udemy 上开设。2023 年学习 JavaScript 的动手指南。它不是免费的，但完全物有所值，而且价格也非常实惠，在 Udemy 上只需 10 美元就能买到。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### “很棒的课程。Jonas 解释了 javascript 中的核心概念，这些概念在其他课程中通常会被忽略。还有…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F>  
 
 # 2023 年学习 JavaScript 的 12 个最佳免费在线课程
 
@@ -62,11 +58,7 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如**谷歌**、 **IBM** 、**亚马逊**和世界上最好的大学创建的，我建议你加入 Coursera 的年度订阅计划[、 **Coursera Plus** 、T21。](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单一订阅让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**职业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。
 
@@ -88,11 +80,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 你可以免费注册这门课程，但如果你喜欢充分利用这个平台，我建议你购买一个 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月 17 美元(现在**打五折**)，对于需要不断学习的程序员和软件工程师来说完全值得。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## [4。CS50 用 Python 和 JavaScript 的 Web 编程](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fcs50s-web-programming-with-python-and-javascript)【edX 免费】
 
@@ -120,11 +108,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 简而言之，这是一门从头开始学习 JavaScript 的好课程。顺便说一下，这并不是完全免费的。您需要 Pluralsight 会员资格才能学习本课程，但如果您没有月度或年度会员资格，无需担心。您仍可通过注册 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **进入本课程。**
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对于个人
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[高级面向对象的 JavaScript 和 ES6](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-and-object-oriented-javascript%2F)
 
@@ -226,11 +210,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **顺便说一句，如果你喜欢 CodeCademy 平台，那么你也可以加入 CodeCademy PRO ，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 CodeCademy 的内容、课程、测验和项目。**
 
-**[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:Pro | Codecademy
-
-### 文件锁图标通过独家课程、测验和额外练习内容了解更多信息。体验图标构建真实…
-
-bit.ly](https://bit.ly/codecademypro) 
+**<https://bit.ly/codecademypro>  
 
 以上是关于在线学习 JavaScript 的一些**免费课程**。这些免费课程让你可以在办公室和家里舒适地学习 JavaScript。你不需要去任何地方，你也可以按照自己的节奏学习。你不需要遵循任何特定的时间表。顺便说一句，有一点需要注意的是，Udemy 上的一些免费 JavaScript 课程将来可能会变成付费课程，所以在加入之前一定要核实一下。我的建议是现在注册，当他们免费的时候，即使你没有时间学习 JavaScript。一旦你加入了他们，他们将终身免费，你可以在有时间或优先级改变时开始学习。这样你就不会后悔错过了那些免费的课程。
 
@@ -263,18 +243,10 @@ bit.ly](https://bit.ly/codecademypro)
 
 如果你喜欢这篇文章，那么请考虑在 medium 上关注我( [javinpaul](https://medium.com/u/bb36d8439904?source=post_page-----aa35874c9a32--------------------------------) )。如果你想得到每一个新帖子的通知，别忘了在 Twitter 上关注**[**javarevited**](https://twitter.com/javarevisited)！**** 
 
-******p . s .**——如果你也在寻找一些免费的资源来开始你的 web 开发生涯，那么你也可以看看这个为程序员提供的免费 Web 开发课程[](http://www.java67.com/2018/03/top-5-free-courses-to-learn-web-development.html)**的列表。******
+******p . s .**——如果你也在寻找一些免费的资源来开始你的 web 开发生涯，那么你也可以看看这个为程序员提供的免费 Web 开发课程<http://www.java67.com/2018/03/top-5-free-courses-to-learn-web-development.html>**的列表。******
 
-******[](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97) [## 学习 HTML 5、CSS 3 和 Web 开发的 10 大免费课程
-
-### 大家好，我已经分享了很多关于各种技术和编程语言的免费在线课程和书籍…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97) 
+******</javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97>  
 
 **P.P.S. —** 如果你不介意花点钱学习像 JavaScript 这样有价值的东西，那么我也建议你去看看[**2023 年完整的 JavaScript 课程:构建真正的项目！由 Jonas Schmedtmann 在 Udemy 上开设的课程。2023 年学习 JavaScript 的动手指南。它不是免费的，但完全物有所值，而且价格也非常实惠，在 Udemy 上只需 10 美元就能买到。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### “很棒的课程。Jonas 解释了 javascript 中的核心概念，这些概念在其他课程中通常会被忽略。还有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F)******
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F> ******

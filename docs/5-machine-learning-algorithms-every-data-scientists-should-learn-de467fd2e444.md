@@ -107,8 +107,4 @@ K-means 是一种聚类算法，它是一组使用无监督学习技术来学习
 
 **p . s .**——如果你决心在机器学习领域发展事业，并寻找最好的在线课程来提升你的技能，那么我强烈推荐你在 Udemy 上查看由基里尔·叶列缅科教授的 [**机器学习 A-Z-动手 Python**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F) 课程。这是在线学习机器学习最受欢迎和最全面的课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F) [## 机器学习 A-Z(数据科学课程中的 Python & R)
-
-### 对机器学习领域感兴趣？那么这道菜就是为你准备的！这个课程是由两个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachinelearning%2F> 

@@ -26,11 +26,7 @@ image_credit — Coursera
 
 如果你有兴趣参加这个课程，请继续关注这篇评论，如果你已经下定决心，那么就去 Coursera 上参加[**Google IT Automation with Python Professional Certificate**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation)**，你不会后悔的。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) [## 用 Python 实现谷歌 IT 自动化
-
-### 学习像 Python、Git 和 it 自动化这样的热门技能来推进你的职业生涯
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation>  
 
 # Google 在 Coursera 上有 Python 专业认证的 IT 自动化值得吗？
 
@@ -63,61 +59,37 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **为了开始编写可以自动完成日常任务的程序，你必须首先学习 python，这门课就是关于。从 [python 编程语言](/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)的基础开始，如果你是初学者，不需要任何编程经验，你也可以通过创建一些真实世界的程序等获得一些实践经验。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-crash-course%3Fspecialization%3Dgoogle-it-automation) [## Python 速成班
-
-### 这个课程的目的是教你的基础，以编写简单的程序在 Python 中使用最常见的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-crash-course%3Fspecialization%3Dgoogle-it-automation)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-crash-course%3Fspecialization%3Dgoogle-it-automation> ** 
 
 ## **2.2.[使用 Python 与操作系统交互](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-operating-system%3Fspecialization%3Dgoogle-it-automation)**
 
 **本章将深入介绍 python，尤其是自动化任务和与计算机操作系统上的文件交互。您还将了解到[正则表达式](/javarevisited/7-best-regular-expression-courses-for-developers-to-learn-in-2021-9b8cb37bb3a5)，它是您的 python 语言中内置的一个有用的工具，使这个过程变得非常容易。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-operating-system%3Fspecialization%3Dgoogle-it-automation) [## 使用 Python 与操作系统交互
-
-### 本课程结束时，您将能够在计算机操作系统上操作文件和进程。你会…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-operating-system%3Fspecialization%3Dgoogle-it-automation)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-operating-system%3Fspecialization%3Dgoogle-it-automation> ** 
 
 ## **2.3.[Git 和 GitHub 简介](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github)**
 
 **本课程将向您展示如何使用 [Git](/javarevisited/7-best-courses-to-learn-gitlab-for-developers-and-devops-engineers-10d4de4ae206) 来跟踪您的代码和配置文件，Git 是一个流行的版本控制工具，并且在一个名为 Github 的服务中设置一个帐户，这样您就可以创建您的第一个存储库来存储您的配置和代码，以及本课程中的许多其他内容。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github) [## Git 和 GitHub 简介
-
-### 在本课程中，您将学习如何使用跟踪工具跟踪不同版本的代码和配置文件
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github> ** 
 
 ## **2.4.[故障排除和调试技巧](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ftroubleshooting-debugging-techniques%3Fspecialization%3Dgoogle-it-automation)**
 
 **在本课程中，您将学习到一些工具，您将需要这些工具来立即解决您在 IT 工作中发现的实际问题。您还将了解一些应对代码中最常见陷阱的策略和方法。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ftroubleshooting-debugging-techniques%3Fspecialization%3Dgoogle-it-automation) [## 故障排除和调试技术
-
-### 在本课程中，我们将为您提供快速识别和解决您可能遇到的现实问题的工具…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ftroubleshooting-debugging-techniques%3Fspecialization%3Dgoogle-it-automation)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ftroubleshooting-debugging-techniques%3Fspecialization%3Dgoogle-it-automation> ** 
 
 ## ****2.5。** [**配置管理和云端**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconfiguration-management-cloud)**
 
 **您将学习如何为一组计算机执行自动化，以及部署一组计算机并保持它们更新的过程等等。你既要管理办公室里运行的电脑，也要管理云电脑。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconfiguration-management-cloud) [## 配置管理和云
-
-### 在本课程中，您将学习如何应用自动化来管理计算机群。您将了解如何实现自动化…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconfiguration-management-cloud)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconfiguration-management-cloud> ** 
 
 ## **2.6.[用 Python 自动化现实世界的任务](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fautomating-real-world-tasks-python)**
 
 **这最后一门课程将教您如何通过使用一些模块和库(如 python image library (PIL ))处理图像来扩展 python 代码的功能，并学习如何与网络外部的世界进行通信，如使用 API 等。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fautomating-real-world-tasks-python) [## 用 Python 自动化现实世界的任务
-
-### 在最后一门课程中，我们将把你到目前为止所学的概念联系起来。你将处理现实世界…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fautomating-real-world-tasks-python)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fautomating-real-world-tasks-python> ** 
 
 ## **3.《人民评论》**
 
@@ -133,11 +105,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一句，如果你打算加入多个 Coursera 认证，那么你应该参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，它可以让你无限制地访问他们最受欢迎的课程、专业证书和指导项目。它每月花费大约 59 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 如果你认为你要在这上面花一段时间，或者如果你想参加多门课程，那么获得 [Coursera Plus 订阅](/javarevisited/is-coursera-plus-worth-it-review-7df4915cd326) n 会更便宜，因为它涵盖了大多数课程的订阅费用，除了[IBM professional certificate](/javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587)s，我不知道为什么，但这些在 Coursera Plus 上不可用。
 
@@ -169,8 +137,4 @@ Coursera 的专业证书最好的一点是，它们是由著名的科技公司�
 
 如果你是 Udemy 的粉丝，正在寻找 2022 年最好的 Udemy 课程，那么你也可以看看我列出的 [**程序员和软件开发人员最好的 Udemy 课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 。它包含了最好的 Udemy 课程，学习 Java、Python、Git 以及其他软件开发所需的基本技能
 
-[](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19) [## 2022 年面向有经验开发者的 10 大高级 Python 编程课程
-
-### 这些是 Udemy、Coursera、Pluralsight 等网站提供的掌握 Python 编程的最好、最高级的 Python 课程…
-
-medium.com](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19)**
+</javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19> **

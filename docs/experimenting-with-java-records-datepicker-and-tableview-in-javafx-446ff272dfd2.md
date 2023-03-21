@@ -12,11 +12,7 @@
 
 在我的 Java ToDoList 的第一次迭代中，我使用了 JavaFX `ListView`组件。在第一次迭代中，我只是在 ToDo 列表中保存了一个字符串`List`。你可以在下面的博客中看到我第一次迭代的结果。
 
-[](https://donraab.medium.com/my-first-javafx-application-ee70a1d48cb3) [## 我的第一个 JavaFX 应用程序
-
-### 通过在 IntelliJ 中构建简单的 TodoList 应用程序来学习 JavaFX
-
-donraab.medium.com](https://donraab.medium.com/my-first-javafx-application-ee70a1d48cb3) 
+<https://donraab.medium.com/my-first-javafx-application-ee70a1d48cb3>  
 
 我决定让我的待办事项列表按日期记录待办事项。所以我需要在我的待办事项列表中保留一些比字符串更复杂的东西。
 

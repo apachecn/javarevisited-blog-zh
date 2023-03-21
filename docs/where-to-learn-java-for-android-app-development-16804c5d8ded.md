@@ -63,11 +63,7 @@ com.companyname.appname
 
 如果你需要课程，也可以看看这个[面向 Java 开发者](https://javarevisited.blogspot.com/2017/12/top-5-android-online-training-courses-for-Java-developers.html)的 Android 培训课程列表。
 
-[](https://javarevisited.blogspot.com/2017/12/top-5-android-online-training-courses-for-Java-developers.html) [## 面向 Java 开发人员的 5 大 Android 在线培训课程——最佳选择
-
-### Java 非常幸运，Android 把它作为编程语言。这为…打开了一扇机会之门
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/12/top-5-android-online-training-courses-for-Java-developers.html) 
+<https://javarevisited.blogspot.com/2017/12/top-5-android-online-training-courses-for-Java-developers.html>  
 
 # 实践是至关重要的
 
@@ -81,11 +77,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/12/top-5-and
 
 [**Java re visited**](https://javarevisited.blogspot.com/)**——这是一个巨大的网站，有很好的文章、课程和有趣的问题要解决。每天用大量有用的教程和实践任务练习 Java。它还有一个 [Java 开发者路线图](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)来指导你。**
 
-**[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) 
+**<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  
 
 [**CodeGym**](https://codegym.cc/) 。我一发现 CodeGym。我想，“这正是我梦寐以求的。”网站每天都充满了提高技能的任务。我觉得每个层次大概有 1000 个问题。
 
@@ -124,8 +116,4 @@ Reddit 还有至少三个大型社区，比如 [/r/learnprogramming](https://www
 
 **P . S**。 —如果你是从 Java 开发者的角度寻找一些有用的技术来学习，也可以查看[**2020 年 Java 程序员应该学什么**](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 。
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83)**
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83> **

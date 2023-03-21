@@ -50,11 +50,7 @@
 
 此外，如果你喜欢安德烈·尼戈亚的课程，那么你也可以订阅他的 [**ZTM 学院**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 课程，在那里你每月只需花费 29 美元就可以获得他目前和未来的所有课程。你可以用我的代码**好友 10** 打九折。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 3. [20 个使用普通 JavaScript 的 Web 项目](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-projects-with-vanilla-javascript%2F)
 
@@ -166,11 +162,7 @@ Andrei Negaoie 是今年另一位引起我注意的教练。参加过他的 Pyth
 
 顺便说一句，如果你喜欢安德烈的课程，那么你也可以加入他的[**Zero to Mastery Academy**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)，在那里你只需订阅一次就可以获得他的所有课程。每月花费大约 39 美元，但绝对值得。您现在还可以使用优惠券代码 **FRIENDS10 获得 10%的折扣**。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 12.[用 Lambdas & Streams](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 学习 Java 函数式编程
 
@@ -246,8 +238,4 @@ Kubernetes 将运行和管理您的容器化应用程序。如果你想学习如
 
 如果你正在从 plur sight 和 Educative 等其他网站上寻找最好的在线课程，那么你也可以看看这份清单:面向开发者的 [**最佳 plur sight 课程**](/javarevisited/top-10-pluralsight-courses-to-learn-programming-and-software-development-during-covid-19-stay-at-30b7d8a4f88f) 和面向编码面试的 [**最佳 Educative 课程**](/javarevisited/11-best-educative-courses-for-coding-interviews-and-software-development-339ad82fee50) ，这两份清单都包含一些你会喜欢的瑰宝。
 
-[](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html) [## 学习编程和软件开发的十大 Educative.io 课程——最好的
-
-### 大家好，今天，我要介绍一个新的在线学习平台，叫做 Educative，一个基于文本的，交互式的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html)
+<https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html> 

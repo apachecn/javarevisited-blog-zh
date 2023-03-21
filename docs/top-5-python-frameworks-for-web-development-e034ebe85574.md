@@ -24,11 +24,7 @@ Web 开发从来都不容易，因为你必须实现许多功能，如认证、�
 
 顺便说一句，如果你不了解 Python 或者刚开始以用 Python 开发 Web 应用为目的编码，我建议你去看看 Udemy 上的](https://javarevisited.blogspot.com/2019/01/10-web-development-frameworks-fullstack-developer-should-learn.html) [**完整的 Python Bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F) 课程，这是学习 Python 编程联盟最受欢迎和最全面的课程之一。
 
-[](/javarevisited/top-10-courses-to-learn-python-for-web-development-in-2020-best-of-lot-efe11fb6d212) [## 初学者学习 Python 进行 Web 开发的 10 大课程——最好的
-
-### Udemy、Pluralsight、Coursera 和 FreeCodecamp 提供的学习 Python 的最佳 Python 和 Django 在线课程…
-
-medium.com](/javarevisited/top-10-courses-to-learn-python-for-web-development-in-2020-best-of-lot-efe11fb6d212) 
+</javarevisited/top-10-courses-to-learn-python-for-web-development-in-2020-best-of-lot-efe11fb6d212>  
 
 # 2023 年 Web 开发的 5 个最佳 Python 框架
 
@@ -107,8 +103,4 @@ Web2py 是另一个流行的、可伸缩的、开源的全栈 Python 框架。We
 
 **P. S. —** 如果您是 Python 世界的新手，并且想在探索这些框架和寻找一些免费的东西开始之前学习 Python 编程语言，那么您也可以查看这个列表中的 [**10 门免费 Python 课程**](https://javarevisited.blogspot.com/2018/12/10-free-python-courses-for-programmers.html) 来深入学习 Python。
 
-[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 2023 年初学者在线学习的 15 门最佳免费 Python 课程
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
+</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf> 

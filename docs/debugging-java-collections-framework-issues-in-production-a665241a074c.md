@@ -4,7 +4,7 @@
 
 ![](img/f105d8832c1a7206c671a0d9dc74950e.png)
 
-当 Java 集合框架作为 Java 2 (JDK 1.2)的一部分被引入时，它是一个巨大的飞跃。多亏了包含的集合类，我们终于超越了`[Vector](http://javarevisited.blogspot.sg/2011/09/difference-vector-vs-arraylist-in-java.html)` [](http://javarevisited.blogspot.sg/2011/09/difference-vector-vs-arraylist-in-java.html)和`[Hashtable](https://javarevisited.blogspot.com/2012/01/java-hashtable-example-tutorial-code.html)`的限制，获得了更加成熟和通用的解决方案。随着流和函数概念在 Java 8 中的引入，这个框架把一切都带到了一个新的层次。
+当 Java 集合框架作为 Java 2 (JDK 1.2)的一部分被引入时，它是一个巨大的飞跃。多亏了包含的集合类，我们终于超越了`[Vector](http://javarevisited.blogspot.sg/2011/09/difference-vector-vs-arraylist-in-java.html)` <http://javarevisited.blogspot.sg/2011/09/difference-vector-vs-arraylist-in-java.html>和`[Hashtable](https://javarevisited.blogspot.com/2012/01/java-hashtable-example-tutorial-code.html)`的限制，获得了更加成熟和通用的解决方案。随着流和函数概念在 Java 8 中的引入，这个框架把一切都带到了一个新的层次。
 
 框架的核心原则之一是对接口进行编码。因此，您可以使用列表接口或集合接口，而不是具体的实现。这是一项伟大的工程，但是它使得调试 Java 集合更加具有挑战性。
 

@@ -78,11 +78,7 @@ Gradle 是最新最棒的 Java 构建工具，在构建 Java 项目和管理依�
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 179 美元(现在有 40%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [10 天免费通行证](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[行动中的梯度](https://www.amazon.com/Gradle-Action-Benjamin-Muschko/dp/1617291307?tag=javamysqlanta-20)
 
@@ -134,8 +130,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果您是一名经验丰富的 Java 开发人员，并且正在寻找一些课程来开始您的 DevOps 之旅并学习 Jenkins、Maven 和 Gradle 等基本工具，那么您还可以查看[**DevOps:CI/CD with Jenkins、Maven 和 Gradle**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F) 以与 Jenkins 和 Gradle 一起构建持续集成、交付和 devo PS 管道。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F) [## DevOps:与 Jenkins pipelines、Maven 和 Gradle 的 CI/CD
-
-### 这个在线 DevOps 课程将教你如何建立一个复杂的持续集成和持续交付…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F> 

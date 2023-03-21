@@ -16,11 +16,7 @@ Svelte 可以成为[react . js](/javarevisited/top-10-free-courses-to-learn-reac
 
 对了，如果你赶时间的话，那么我建议你从 AcadMind 的[**svelte . js——完全指南(含 Sapper.js)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsveltejs-the-complete-guide%2F) 课程开始。是 2023 年学苗条最好的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsveltejs-the-complete-guide%2F) [## Svelte.js -完整指南(包括 Sapper.js)
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsveltejs-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsveltejs-the-complete-guide%2F>  
 
 # JavaScript 中的 Svelte 或 Svelte.js 是什么？
 
@@ -92,11 +88,7 @@ Svelte.js 或 Svelte，另一个用于构建基于组件的 UI 的 JavaScript �
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.苗条速成班(免费代码营)
 
@@ -156,8 +148,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果你是 JavaScript 新手，我建议你先掌握 JavaScript 基础知识和 ES6 和 ES7 中介绍的新概念，然后再学习框架。如果你需要资源，我强烈推荐 Udemy 上 Jonas Schmedtmann 的 [**完整 JavaScript 课程:构建真实项目**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) ，这是学习 JavaScript 的最新实践课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### 2020 年 10 月从零开始完全重建(65 小时视频)***“球场建造得非常非常好。超级深入…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F> 

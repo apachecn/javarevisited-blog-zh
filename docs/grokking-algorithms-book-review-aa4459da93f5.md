@@ -72,25 +72,13 @@ Aditya 在编程和美术方面的背景确实创造了一个很好的融合，�
 
 **顺便说一句，如果你想探索比本书中给出的更多的数据结构和算法，我还建议看看 Robert Harvick 的 [**算法和数据结构，这是 Pluralsight 的一门在线课程。**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1)**
 
-**[](https://www.pluralsight.com/courses/ads-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) [## 算法和数据结构-第 1 部分
-
-### 看看日常应用中使用的核心数据结构和算法。
-
-www.pluralsight.com](https://www.pluralsight.com/courses/ads-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) [](https://www.pluralsight.com/courses/ads2?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) [## 算法和数据结构-第二部分
-
-### 看看日常应用中使用的高级数据结构和算法。
-
-www.pluralsight.com](https://www.pluralsight.com/courses/ads2?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) 
+**<https://www.pluralsight.com/courses/ads-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2>  <https://www.pluralsight.com/courses/ads2?clickid=yo33dNx7GXIOyjqxhLyTY0btUklypV2jAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2>  
 
 顺便说一句，你需要 Pluralsight 会员资格才能阅读这些每月花费 29 美元或每年花费 299 美元的书籍(实际上我是在他们每季度举办的减价活动中花 199 美元买的)。
 
 即使你没有会员资格，你也可以通过使用他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问该课程，该课程允许 200 小时访问他们的所有在线课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 老实说，这本书传达了它所说的内容，但是一旦你开始喜欢一本书，你就会开始对它有更多的期待，希望 Aditya 会注意到它，第二版会比第一版更全面一些。
 
@@ -102,7 +90,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 它关于数组和链表的章节是我读过的最好的章节之一，我强烈推荐所有的程序，尤其是那些刚刚开始职业生涯的人去读它。它也不贵，值得花每一分钱。
 
-所以，如果你现在只想做一件事，就去阅读 Aditya Bhargava 的[](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/?tag=javamysqlanta-20)**搜索算法，非常感谢和赞扬你写了这么棒的书，让这个主题变得更加有趣和可读。**
+所以，如果你现在只想做一件事，就去阅读 Aditya Bhargava 的<https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/?tag=javamysqlanta-20>**搜索算法，非常感谢和赞扬你写了这么棒的书，让这个主题变得更加有趣和可读。**
 
 **您可能喜欢的其他 P **编程文章和资源****
 
@@ -120,8 +108,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 > **如果你更喜欢在线课程而不是书本，或者想要两全其美，那么你也可以在阅读这本书的同时查看 [**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 的深度探索。这将帮助你更好地学习这些关键技能。**
 
-**[](/javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0) [## 面向 Java 开发人员的 10 大数据结构和算法课程
-
-### 这些是学习 Java 中数据结构和算法的最好的在线课程，包含免费和付费…
-
-medium.com](/javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0)****
+**</javarevisited/top-10-data-structure-and-algorithms-courses-for-java-developers-25161ee2edc0> ****

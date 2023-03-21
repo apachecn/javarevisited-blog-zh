@@ -16,11 +16,7 @@
 
 如果您不熟悉这些概念，那么我强烈建议您首先学习一门全面的数据结构和算法课程，如[**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 深入学习，该课程详细解释了基本的数据结构。它也非常实惠，因为你可以在不时发生的疯狂的 Udemy 销售上只花 9.9 美元购买这门课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 # 20+基于二叉树的面试编码问题
 
@@ -31,7 +27,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 3.  **如何在没有递归的情况下，按前序遍历给定的二叉树？(** [**解**](http://www.java67.com/2016/07/binary-tree-preorder-traversal-in-java-without-recursion.html) **)**
 4.  如何在给定的二叉树中进行有序遍历？( [**解**](http://www.java67.com/2016/08/binary-tree-inorder-traversal-in-java.html) **)**
 5.  **如何在没有递归的情况下使用 inorder 遍历打印给定二叉树的所有节点？(** [**)解**](http://www.java67.com/2016/08/binary-tree-inorder-traversal-in-java.html) **)**
-6.  **如何实现后序遍历算法？(**[](http://www.java67.com/2016/10/binary-tree-post-order-traversal-in.html)****)****
+6.  **如何实现后序遍历算法？(**<http://www.java67.com/2016/10/binary-tree-post-order-traversal-in.html>****)****
 7.  ****后序遍历如何在没有递归的情况下遍历二叉树？(** [**解**](http://www.java67.com/2017/05/binary-tree-post-order-traversal-in-java-without-recursion.html) **)****
 8.  **二叉查找树的所有叶子是如何印刷的？( [**解**](http://www.java67.com/2016/09/how-to-print-all-leaf-nodes-of-binary-tree-in-java.html) **)****
 9.  ****如何统计给定二叉树中的叶节点数？(** [**解**](http://javarevisited.blogspot.sg/2016/12/how-to-count-number-of-leaf-nodes-in-java-recursive-iterative-algorithm.html) **)****
@@ -47,7 +43,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 19.  ****写一个 Java 程序连接二叉树的同一级节点？【解决方案】****
 20.  ****什么是 Trie 数据结构？(回答)****
 21.  ****二叉树和 Trie 有什么区别？(答案)****
-22.  ****如何检查给定的二叉树是否是 BST？(**[](https://javarevisited.blogspot.com/2021/12/how-to-check-if-tree-is-binary-search.html)****)******
+22.  ****如何检查给定的二叉树是否是 BST？(**<https://javarevisited.blogspot.com/2021/12/how-to-check-if-tree-is-binary-search.html>****)******
 23.  ******如何计算给定二叉树中的叶节点数(** [**解**](https://javarevisited.blogspot.com/2016/12/how-to-count-number-of-leaf-nodes-in-java-recursive-iterative-algorithm.html) **)******
 24.  ******如何用 Java 打印给定二叉树的叶节点？(** [**解**](https://javarevisited.blogspot.com/2016/09/how-to-print-all-leaf-nodes-of-binary-tree-in-java.html) **)******
 25.  ******如何检查给定的节点在二叉树中是否存在？(** [**解**](https://www.java67.com/2022/02/how-to-check-if-node-exists-in-binary-tree-in-java.html) **)******
@@ -87,11 +83,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 [Java 中的数据结构:面试复习者](https://www.educative.io/collection/5642554087309312/5724822843686912?affiliate_id=5073518643380224)
 [钻研编码面试的动态编程模式](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)****
 
-****[](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式——互动学习
-
-### 编码面试一天比一天难。几年前，我温习了关键数据结构并浏览了…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+****<https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 ## 结束语
 
@@ -101,10 +93,6 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/567146485
 
 ## p . s——如果你需要一些免费资源，可以查看这个[免费数据结构与算法课程](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a?source=collection_home---4------0-----------------------)列表，开始准备。
 
-[](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/) [## 我最喜欢的深入学习数据结构和算法的免费课程
+<https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/>  
 
-### 数据结构和算法对程序员来说是一些最基本的主题，无论是找工作…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)****
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>****

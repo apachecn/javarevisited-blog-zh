@@ -143,8 +143,4 @@
 
 **如果你正在寻找 2023 年学习系统设计的最佳在线课程，那么我也建议你去看看 Udemy 上 Frank Kane 的[掌握系统设计面试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F)课程。弗兰克是一名前招聘经理，知道如何才能在 2023 年通过那些大型 FAANG 公司的系统设计面试。或者，您也可以加入 Alex Yu 的 [***系统设计面试—知情者指南***](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) 和 ByteByteGo，进行完整的系统设计面试准备。**
 
-**[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)**
+**<https://bytebytego.com?fpr=javarevisited> **

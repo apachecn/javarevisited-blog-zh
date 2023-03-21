@@ -42,15 +42,7 @@ Apache Spark 是一个快速的内存数据处理引擎，具有优雅和丰富�
 
 顺便说一句，如果你需要更多的选项来探索 Spark 与其他编程语言，如 Scala 和 Python，那么 [Frank Kane](https://medium.com/u/a34f6d8b7618?source=post_page-----9a3e20437c8c--------------------------------) 的 [**Apache Spark 与 Scala——动手处理大数据！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) 和 [**用 Apache Spark 和 Python 驯服大数据——动手！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F) 课程绝对值得一看。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F) [## 用 Apache Spark 和 Python 驯服大数据——动手！
-
-### 新的！针对 Spark 3 进行了更新，增加了动手练习，更加注重数据帧和结构化流。“大…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F) [](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) [## 使用 Scala 学习 Apache Spark 3:大数据实践！
-
-### “大数据”分析是一个热门和非常有价值的技能-本课程将教你最热门的技术在大…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F>  <https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F>  
 
 ## 3.[阿帕奇蜂巢](https://hive.apache.org/)
 
@@ -113,8 +105,4 @@ Apache Storm 对于**实时流处理**就像 Hadoop 对于**批处理**一样。
 
 **P.S. —** 如果你想在 2023 年成为一名全栈开发人员，并且正在寻找全栈开发人员应该学习的最佳 Java 框架，那么我建议你参加 Udemy 网站上 Ranga Karnam 的 [**Go Java 全栈和 React**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) 课程。2023 年成为全栈 Java 开发者是很棒的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) [## 与 Spring Boot 一起使用 Java 全栈并做出反应
-
-### Ranga 是 AWS 认证解决方案架构师助理、AWS 认证开发人员助理和 AWS 认证云…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F> 

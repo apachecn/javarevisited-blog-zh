@@ -119,11 +119,7 @@ image_credit —领英的 Bash Learning
 
 此外，如果您发现教育平台和他们的互动课程很有用，那么您还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元(47%的折扣)即可访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 7. [Bash Shell 脚本初学者教程](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbash-shell-scripting-tutorial-for-beginners%2F)
 
@@ -161,8 +157,4 @@ Linux 有许多 shell，如 Bourne shell (sh)、C shell (cash)、Korn shell (ksh
 
 **附言——**如果你正在寻找一些免费的在线课程来开始你的 Linux shell 脚本之旅，那么不要难过。我之前也分享了一些 [**学习 Linux**](https://www.java67.com/2019/04/top-5-free-course-to-learn-bash-shell-scripting-linux.html)bash 脚本的最佳免费课程，你也可以去看看。底线是，学习 shell 脚本来成为一个更有价值的程序员。
 
-[](/javarevisited/6-free-courses-to-learn-bash-shell-scripting-in-linux-and-unix-a50461ecd4fe) [## 学习 Linux 和 UNIX 中 bash shell 脚本的 6 门免费课程
-
-### 大家好，虽然 Linux 命令的重要性众所周知，但许多程序员不知道如何…
-
-medium.com](/javarevisited/6-free-courses-to-learn-bash-shell-scripting-in-linux-and-unix-a50461ecd4fe)
+</javarevisited/6-free-courses-to-learn-bash-shell-scripting-in-linux-and-unix-a50461ecd4fe> 

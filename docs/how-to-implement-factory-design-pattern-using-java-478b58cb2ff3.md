@@ -117,11 +117,7 @@
 
 [Github 上的](https://github.com/Rohan2596)
 
-**[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/factory) [## GitHub-rohan 2596/设计模式-模式/工厂示例
-
-### 在 GitHub 上创建一个帐户，为 rohan 2596/设计模式示例开发做出贡献。
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/factory) 
+**<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/factory>  
 
 ## 结论:-
 
@@ -131,14 +127,6 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/fa
 
 ## 📚参考书目:-
 
-[](https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/) [## 最终学习设计模式的 5 个理由
-
-### 如果你只是顺便遇到了设计模式，简而言之，它们是通用的面向对象解决方案…
-
-www.oreilly.com](https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/) [](https://refactoring.guru/design-patterns/factory-method) [## 工厂方法
-
-### 也称为:虚拟构造器工厂方法是一种创造性的设计模式，它为…
-
-重构大师](https://refactoring.guru/design-patterns/factory-method) ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
+<https://www.oreilly.com/content/5-reasons-to-finally-learn-design-patterns/>  <https://refactoring.guru/design-patterns/factory-method>  ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
 
 谢谢观众们——罗汉·卡达姆**

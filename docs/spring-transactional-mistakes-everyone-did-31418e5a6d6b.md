@@ -86,18 +86,6 @@ ChainedTransactionManager 是声明多个数据源的一种方式，在这种方
 
 你可能喜欢的其他 **Java 和 Spring 文章** **和资源**
 
-[](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9) [## 面向 Java 开发人员的 5 门最佳 Spring Data JPA 深度课程
+</javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9>  </javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c>  <https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html>  
 
-### 我最喜欢的学习 Spring Data JPA 的在线课程，适合初学者和有经验的 Java 程序员
-
-thmedium.com](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9) [](/javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c) [## 面向 Java 程序员的 12 门高级 Spring 框架课程
-
-### 我最喜欢的高级 Spring 框架课程，适合 Java 程序员学习 Spring Boot，Hibernate，Spring Cloud…
-
-medium.com](/javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c) [](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html) [## 面向 Java 开发人员的 20 大 Spring Boot 面试问题及答案
-
-### Java 开发人员好，毫无疑问，Spring Boot 现在是开发 Java 应用程序的标准方式，使用…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>

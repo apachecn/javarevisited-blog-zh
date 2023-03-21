@@ -22,11 +22,7 @@
 
 顺便说一句，如果你对游戏开发感兴趣，想学习 Java 开发者最大的移动平台 Android 平台，那么我建议你加入 Udemy 上的 [**完整的 Android 开发者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) 。这是一个基于项目的实践在线培训课程，您将从零开始学习构建 23 个 Android 应用。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) [## 构建 Android 应用程序:完整的 Android 奥利奥课程
-
-### 通过构建包括 Twitter、Instagram 和超级马里奥在内的真实应用程序，使用 Android 8.0 Oreo 学习 Android 应用程序开发…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F>  
 
 # 6 本适合初学者的最佳 Android 和 Java 游戏开发书籍
 
@@ -96,11 +92,7 @@ David Brackeen、Bret Barker 和 Lawrence Vanhelsuwe 的《Java 开发游戏》�
 
 你可以以开发游戏为生，但如果你没有这样做，你也可以学习一些这样的书来提高你的编程和编码意识。以我的经验，开发游戏是学习编程和编码的最好方法。你们中的一些人可能想知道用 Java 编写的游戏移植到 T2 的 iOS 和 iPad 有多容易。尽管 Java 是独立于平台的，据我所知，iOS 上没有 [JVM](http://javarevisited.blogspot.sg/2011/12/jre-jvm-jdk-jit-in-java-programming.html) 。您需要将 Java 代码转换成 Objective-C，以便将您的 Java 游戏移植到 iOS 上，在 iPhones 和 iPads 上运行。有一些工具可以帮助你做到这一点，但我想这将是相当多的工作，特别是如果你在用 Java 设计游戏时没有记住 iOS 移植，但如果你使用 LibGDX，你不必实际移植它，只需添加后端，如果你想学习使用 LibGDX 开发 Java 游戏，那么使用 Java 的完整 LibGDX 游戏课程是一个很好的开始。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-games-development%2F) [## 2023 年完整的 Java 游戏开发课程
-
-### 从零开始开发有趣的游戏来学习 JAVA。本课程是为所有渴望学习 JAVA 的人开设的。游戏…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-games-development%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-games-development%2F>  
 
 其他**书籍和课程推荐**面向程序员的
 [完整的 Java 开发者路线图](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
@@ -118,8 +110,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **P. S.** —如果你想为大众开发游戏，那么没有比 Android 和 iOS 更好的平台了，如果你正在寻找从 Android 和 iOS 开始的免费课程，我建议你浏览一下这个列表，为初学者提供的 [**免费 Android 课程**](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html) 和 [**免费 iOS 课程**](https://javarevisited.blogspot.com/2018/11/5-free-ios-app-development-courses-for.html) 。
 
-[](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675) [## 2023 年 5 门免费安卓 App 开发课程，供初学者学习
-
-### 这些是免费学习 Android 与 Java 和 Kotlin 的最佳免费课程
-
-medium.com](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675)
+</javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675> 

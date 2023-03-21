@@ -83,11 +83,7 @@ Java 的未来非常有希望，这种新的工作方式将使我们的生活更
 
 我希望你喜欢这篇文章中介绍的所有资源！如果你想了解更多，你还可以探索这些我最喜欢的 [**免费课程来深入学习 Java**](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  
 
 # 推荐阅读
 

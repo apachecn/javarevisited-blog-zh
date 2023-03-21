@@ -18,11 +18,7 @@
 
 根据美国劳工统计局的报告，到 2028 年，软件开发就业市场预计将增长 21%。你打赌它会投射到世界其他地方。如果您需要更多学习 Java 的理由，请查看这篇文章:
 
-[](https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html) [## 学习 Java 编程语言的 10 个理由以及为什么 Java 是最好的
-
-### 经常收到邮件问我该不该学 Java 编程或者为什么学 Java 好，以后会找工作吗…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html) 
+<https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html>  
 
 # 你将与现实世界中的应用程序进行项目合作
 
@@ -38,11 +34,7 @@ Java 不是创建游戏的首选语言，如 [C++](https://javarevisited.blogspo
 
 如果你真的通过了，你将获得一次技术面试，在那里你可以展示你的 Java 能力。对于经验有限的开发人员来说，他们很可能会关注您的基本 Java 知识和解决问题的技能。让我们回顾一下您可能会有疑问的几个主题。
 
-[](https://javarevisited.blogspot.com/2017/01/how-to-prepare-for-java-interviews.html) [## 2020 年 Java 编程面试怎么破解？主题、课程、书籍和问题
-
-### Java 面试与传统的科技巨头和基于产品的编程面试有些不同…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/01/how-to-prepare-for-java-interviews.html) 
+<https://javarevisited.blogspot.com/2017/01/how-to-prepare-for-java-interviews.html>  
 
 # 编写和运行 Java 应用程序所需的技术
 
@@ -127,8 +119,4 @@ OOP ，对象，集合，如何声明一个方法，甚至一个 Java 程序的�
 
 **混合来源，但在研究和实践之间保持适当的平衡。当然，祝你在追逐自己的目标时好运:)**
 
-**[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)**
+**<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> **

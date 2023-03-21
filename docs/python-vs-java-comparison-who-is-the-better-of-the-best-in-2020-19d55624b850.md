@@ -30,11 +30,7 @@
 
 这里有一些 2020 年学习 Python 的有用资源
 
-[](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 10 大 Python 课程、教程和认证——最好的
-
-### 7 门能让你立刻学会编码的最好课程
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 
+</better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>  
 
 # Java 语言(一种计算机语言，尤用于创建网站)
 
@@ -49,11 +45,7 @@ medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lo
 
 而且，如果你想学 Java，这里有一些 2020 年学 Java 的免费资源
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  
 
 # Python 与 Java:相似之处
 
@@ -111,12 +103,4 @@ medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
 *   【Java 程序员在 2020 年应该学习的 10 件事
 *   [2020 年 10 门免费 Python 课程](https://javarevisited.blogspot.com/2018/12/10-free-python-courses-for-programmers.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 Java 开发人员路线图
-
-### 大家好，首先，我祝你们 2020 年新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 前 10 大 Python 课程、教程和认证—最佳实践
-
-### 7 门最好的课程会让你在短时间内完成编码
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  </better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec> 

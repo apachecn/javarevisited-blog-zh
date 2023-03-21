@@ -4,7 +4,7 @@
 
 ## 对 Java 8 可选用法的理解
 
-> 最初发表于[](https://asyncq.com/how-to-use-optional-in-java)
+> 最初发表于<https://asyncq.com/how-to-use-optional-in-java>
 
 **![](img/5518da25abdd95dccf79485d0c0fcd4c.png)**
 

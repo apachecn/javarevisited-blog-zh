@@ -91,11 +91,7 @@ Kyle 也是一位反应非常迅速的培训师，如果您有任何疑问，可
 
 而且，如果你觉得 Coursera 的课程和证书很有用，那么你也应该加入 Coursera Plus 课程，这是 Coursera 的一个订阅计划，它为你提供**无限制访问**他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[比尔·凯勒曼的 Excel 2019 要点](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fexcel-2019-essentials)【plural sight】
 
@@ -114,11 +110,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用是每月 29 美元或每年 299 美元(14%的折扣)。或者，你也可以参加他们的 [**10 天免费试训**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4. [Microsoft Excel —高级 Excel 公式&函数](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fexcel-for-analysts%2F)
 
@@ -223,11 +215,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级有趣和有用的课程。您还可以使用我的代码**好友 10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上就是 2023 年学习微软 Excel 的一些**最佳在线课程。微软 Excel 是任何 IT 专业人士最重要的工具之一。**
 
@@ -255,8 +243,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 **附言**——如果你热衷于学习微软 Excel，但正在寻找*免费在线培训课程*，那么你也可以在 Udemy 上查看这个 [**对初学者有用的 Excel**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuseful-excel-for-beginners%2F)。它完全免费，受到超过 283，000 名学生的信任。它有超过 9.5 小时的内容，就像任何其他付费课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuseful-excel-for-beginners%2F) [## 免费 Excel 教程-对初学者有用的 Excel
-
-### 我，Dinesh Natarajan Mohan，自 2001 年以来一直从事 Microsoft Excel 工作。我的专业是报道领域…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuseful-excel-for-beginners%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuseful-excel-for-beginners%2F> 

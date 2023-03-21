@@ -43,12 +43,4 @@
 
 *请在评论中告诉我你的想法。你怎么看待这个特点？你认为成功的团队还有其他重要的特征吗？如果你喜欢这篇文章，请给我一些掌声，并关注更多有趣的内容。*
 
-*[](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [## 2022 年 Java 程序员和架构师可以学习的 25 项基本技能
-
-### Java 开发人员可以在 2022 年学习的 22 项基本技术技能，以进一步改善他们的形象，并成为…
-
-medium.com](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)*
+*</javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491>  </javarevisited/the-java-programmer-roadmap-f9db163ef2c2> *

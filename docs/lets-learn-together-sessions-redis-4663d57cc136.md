@@ -24,11 +24,7 @@ Redis 实验室的创始人 Yiftach Shoolman(左)和 Ofer Bengal(右)。
 
 **有许多客户端可以与不同的语言一起使用 Redis，如**[**Java**](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2)**[**node . js**](/javarevisited/7-free-courses-to-learn-node-js-in-2020-2f1dd6722b49?source=---------10------------------)**[**C**](/javarevisited/9-free-c-programming-courses-for-beginners-2486dff74065)**[**C #**](/javarevisited/5-best-c-c-sharp-programming-courses-for-beginners-in-2020-494f7afc7a5c)**[**Swift**](/javarevisited/7-free-courses-to-learn-swift-programming-language-in-2020-f40ac9d3ee53?source=---------7------------------)**，**您可以通过下面的链接找到 Redis 客户备选方案和 Redis 社区推荐的客户:********
 
-****[](https://redis.io/clients) [## 雷迪斯
-
-### 快速和轻型 Redis 客户端库扩展 Hiredis:线程安全，写复制，自动重新连接，同步池…
-
-redis.io](https://redis.io/clients) 
+****<https://redis.io/clients>  
 
 **Redis 支持许多基于键值的数据结构，如** [**哈希**](https://www.java67.com/2013/02/10-examples-of-hashmap-in-java-programming-tutorial.html) **，** [**集合**](https://javarevisited.blogspot.com/2012/06/hashset-in-java-10-examples-programs.html) **，** [**排序集合**](https://javarevisited.blogspot.com/2012/11/difference-between-treeset-hashset-vs-linkedhashset-java.html#axzz6hX6XfwBD) **，** [列表](https://www.java67.com/2012/07/how-to-iterate-loop-traverse-list-java.html) **。**此外，Redis 支持发布/订阅消息代理，其中发布的消息被分配给通道，而不知道连接的订户。连接到相关频道的订户接收发布的消息。
 
@@ -54,11 +50,7 @@ Redis 在许多不同的部门和领域用于不同的目的。使用 Redis 的�
 
 **Redis 有序集合数据结构是游戏开发者开发实时排行榜**功能的首选解决方案。许多流行的游戏开发公司，如 Roblox 和 Jelly Button Games 等，以及领先的游戏直播公司，如 Twitch，都使用 Redis 作为他们的内存数据存储需求。您可以通过以下链接获得游戏行业 Redis 实验室的详细文档和解决方案:
 
-[](https://redislabs.com/redis-enterprise/industries/gaming/) [## 用于游戏开发的 Redis 企业数据库| Redis 实验室
-
-### Redis 广泛用于游戏应用程序，通过排行榜对多人游戏中的玩家进行排名…
-
-redislabs.com](https://redislabs.com/redis-enterprise/industries/gaming/) 
+<https://redislabs.com/redis-enterprise/industries/gaming/>  
 
 除了这些用例之外，您还可以为许多域选择 Redis，以提高应用程序的可伸缩性和性能。
 **让我们看看，Redis 是如何提供这一点的？**
@@ -92,11 +84,7 @@ redislabs.com](https://redislabs.com/redis-enterprise/industries/gaming/)
 
 首先，你必须从 [Redis.io 下载页面](https://redis.io/download)下载稳定的 Redis 版本。这个下载页面只适用于 [Unix](/javarevisited/6-free-courses-to-learn-bash-shell-scripting-in-linux-and-unix-a50461ecd4fe) 或 [Linux](/javarevisited/7-best-linux-courses-for-developers-cloud-engineers-and-devops-in-2021-7415314087e1) 分布式计算机。如果你想在 Windows 机器上安装 Redis，你可以使用下面的微软档案页面链接。
 
-[](https://github.com/MicrosoftArchive/redis/releases) [## microsoftarchive/redis
-
-### 今天就创建您的免费 GitHub 帐户，订阅这个新版本库，并与 50…
-
-github.com](https://github.com/MicrosoftArchive/redis/releases) 
+<https://github.com/MicrosoftArchive/redis/releases>  
 
 redis 安装完成后，您可以安装 redis-cli 包来管理您的 Redis 集群，并在您的 Redis 服务器上进行查询。要安装 redis-cli，您可以使用以下 npm 命令:
 
@@ -131,11 +119,7 @@ hmget student_id name
 
 Redis 提供了一系列非常好的命令来管理您的数据。您可以通过以下 Redis 文档链接获得完整的命令列表:
 
-[](https://redis.io/commands) [## 命令参考- Redis
-
-### 命令信息命令名[命令名...]获取特定 Redis 命令详细信息的数组
-
-redis.io](https://redis.io/commands) 
+<https://redis.io/commands>  
 
 # 如何用 Java 使用 Redis？
 
@@ -290,19 +274,11 @@ activeRedisMode= standalone
 
 要创建一个独立的 Redis 服务器，转到 **/usr/local/etc** 文件夹并执行 **redis-server** 命令。对于 sentinel Redis 模式，您可以遵循以下 Redis 文档页面上的说明:
 
-[](https://redis.io/topics/sentinel) [## Redis 哨兵文件
-
-### Redis Sentinel 为 Redis 提供了高可用性。实际上，这意味着使用 Sentinel 您可以创建一个…
-
-redis.io](https://redis.io/topics/sentinel) 
+<https://redis.io/topics/sentinel>  
 
 要创建包含 6 个集群节点的 Redis 集群，可以遵循 Redis 页面上的集群文档:
 
-[](https://redis.io/topics/cluster-tutorial) [## Redis 集群教程- Redis
-
-### 这份文件是一个温和的介绍 Redis 集群，这并没有使用难以理解的概念…
-
-redis.io](https://redis.io/topics/cluster-tutorial) 
+<https://redis.io/topics/cluster-tutorial>  
 
 对于我的演示项目，我创建了一个简单的名为 Student 的 POJO 类。我想用 Redis " **hash"** 对象存储 Redis 中的所有学生，我还需要用基本的 CRUD 操作管理学生。为此，我们创建了一个名为“ **RedisCacheManager”的单一接口。**我们向管理器类添加了以下功能:
 

@@ -59,11 +59,7 @@
 
 *如果你需要一些关于解决内存和 CPU 问题的指导，我建议你也看看理查德·沃伯顿的 [**理解和解决 Java 内存问题**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-understanding-solving-memory-problems) 课程和马特·格林克罗夫特在 Udemy 上的 [**Java 应用程序性能和内存管理**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F) 。*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F) [## Java 应用程序性能和内存管理
-
-### 了解如何调优 JVM 并做出良好的编码选择，以确保您的应用程序以最佳方式运行。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F)* 
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F> * 
 
 ## *3.头先 Java*
 
@@ -95,13 +91,9 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *关于这本书的一个好消息是新版本针对 [Java SE 8](https://javarevisited.blogspot.com/2018/08/top-5-java-8-courses-to-learn-online.html) 进行了更新，它将教你如何使用 Java 8 的特性开发经典的 GOF 设计模式，比如 [lambda 表达式](https://javarevisited.blogspot.com/2014/02/10-example-of-lambda-expressions-in-java8.html#axzz5b2nmYJFN)和[流](http://www.java67.com/2018/10/java-8-stream-and-functional-programming-interview-questions-answers.html)。*
 
-*而且，如果你正在寻找一门关于 GOF 或面向对象设计模式的课程，我建议你去看看 Udemy 上 Dmitri Nestruk 的 Java 设计模式库[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library)****和**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)**，这是我迄今为止参加过的关于设计模式的最好的两门课程。*****
+*而且，如果你正在寻找一门关于 GOF 或面向对象设计模式的课程，我建议你去看看 Udemy 上 Dmitri Nestruk 的 Java 设计模式库<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library>****和**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F>**，这是我迄今为止参加过的关于设计模式的最好的两门课程。*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) [## 面向工程师、设计师和架构师的 Java 设计模式
-
-### 本课程从实用的角度全面概述了 Java 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)***** 
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F> ***** 
 
 ## *****5.有效的 Java*****
 
@@ -139,11 +131,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *****顺便说一句，如果你觉得这本书很难理解，这是显而易见的，因为并发本身就是一个很难理解的话题，那么我建议你看一下[**Java Concurrency in Practice Bundle**](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8)，这是一门由 Java 冠军和 Java 讲师[Heinz m . Kabutz](https://medium.com/u/5fa0d71fdac?source=post_page-----9c4468aeec99--------------------------------)博士开设的在线课程，它不仅能帮助你更好地理解概念。这个课程有点贵，但完全值得。*****
 
-*****[](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) [## 实践捆绑包中的 Java 并发
-
-### 我有多长时间可以参加全付费课程？终身访问听起来怎么样？注册后，你有无限的…
-
-learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8)***** 
+*****<https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8> ***** 
 
 ## *****7.Java 泛型和集合*****
 
@@ -201,11 +189,7 @@ learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurr
 
 *****而且，如果你需要一个在线培训课程来搭配这本书，我会推荐 Udemy 上 Sujith George 的 [**坚实的原则:介绍软件架构&设计课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F) 。它将教你如何使用坚实的原则，用面向对象的语言(如 Java)编写干净的、设计良好的代码*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F) [## 坚实的原则:介绍软件架构和设计
-
-### 任何人都可以编码。但是专业软件工程师和业余程序员的区别在于设计得有多好…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F)***** 
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsolid-design%2F> ***** 
 
 ## *****11.Java SE 8 适合真正没有耐心的人*****
 
@@ -239,11 +223,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *****我是 Udemy 课程 的特别粉丝，因为它们非常实惠，并且以很小的金额提供很多价值，但是你可以自由选择你想要的课程。*****
 
-*****[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+*****</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 在一天结束的时候，你应该从使用这里提到的资源中获得足够的知识和经验。
 
@@ -253,8 +233,4 @@ medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c
 
 再次祝您的 Java 开发之旅一切顺利，非常感谢所有作者写了这么棒的书。这些*顶级 Java 编程书籍*是一些学习 Java 的最佳书籍— —我甚至可以说其中一些是有史以来出版的最好的 Java 书籍。
 
-***p . s .***——如果你更喜欢在线课程而不是书本，这里有一份为有抱负的 Java 程序员准备的[最佳 Java 课程清单](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)***** *****[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-媒介](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)*****
+***p . s .***——如果你更喜欢在线课程而不是书本，这里有一份为有抱负的 Java 程序员准备的[最佳 Java 课程清单](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)***** *****</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> *****

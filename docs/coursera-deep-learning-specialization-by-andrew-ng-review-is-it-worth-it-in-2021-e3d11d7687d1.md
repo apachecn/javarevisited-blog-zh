@@ -24,11 +24,7 @@ Coursera 上的 [**深度学习专业化**](https://coursera.pxf.io/c/3294490/11
 
 如果你是一名软件工程师或 python 用户，并且你也想涉足这个行业并进入人工智能领域，我会向你推荐在 Coursera 上参加一个名为 [**深度学习专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) 的大规模在线课程，其中包含五个小课程，作为初学者教你这项技术的基础。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) [## 深度学习
-
-### 从 deeplearning.ai 学习深度学习，如果你想打入人工智能(ai)，这个专精…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning>  
 
 本文将从多个方面向您展示深度学习专业化审查，如讲师的声誉和专业化内部涵盖的主题以及人们在完成计划后的审查。
 
@@ -54,11 +50,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **超过 100 万人加入了这一令人敬畏的课程，这是质量的证明。这简直是深入学习神经网络的绝佳课程。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning) [## 神经网络和深度学习
-
-### 在深度学习专业化的第一门课程中，你将学习神经网络的基本概念和…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fneural-networks-deep-learning> ** 
 
 ## **2.2 [改进深度神经网络](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdeep-neural-network)**
 
@@ -66,11 +58,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **超过 412，000 人注册了这门课程，在近 60，000 名候选人中，它的平均评分为 4.9 分，令人难以置信；这太神奇了。我看过很多课程，但从没见过这样的。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdeep-neural-network) [## 改进深度神经网络:超参数调整、正则化和优化
-
-### 在深度学习专业化的第二个课程中，您将打开深度学习黑盒来了解…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdeep-neural-network)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdeep-neural-network> ** 
 
 ## **2.3 [构建机器学习项目](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-projects)**
 
@@ -78,11 +66,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **谈到社会证明，超过 34 万名学生加入了这门课程，47 万名候选人对这门课程的平均评分为 4.8，这也是一个惊人的数字。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-projects) [## 构建机器学习项目
-
-### 在深度学习专业化的第三个课程中，您将学习如何建立一个成功的机器学习…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-projects)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning-projects> ** 
 
 ## **2.4 [卷积神经网络](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconvolutional-neural-networks)**
 
@@ -90,11 +74,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **超过 376，000 名学生参加了这一课程，这也是罕见的脚，它有超过 39，000 名参与者的平均评分为 4.9。就评分而言，这可能是关于卷积神经网络的最佳课程。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconvolutional-neural-networks) [## 卷积神经网络
-
-### 在深度学习专业化的第四门课程中，你将了解计算机视觉是如何进化的，以及…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconvolutional-neural-networks)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconvolutional-neural-networks> ** 
 
 ## **2.5 [序列模型](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnlp-sequence-models)**
 
@@ -102,11 +82,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **说到社会证明，这门课也有惊人的收视率和评论。超过 302 人加入了这门课程，26K 名参与者对它的平均评分为 4.2 分，这是非常出色的。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnlp-sequence-models) [## 序列模型
-
-### 深度学习专业化是一个基础计划，将帮助您了解能力、挑战…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnlp-sequence-models)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnlp-sequence-models> ** 
 
 ## **3.人员评论**
 
@@ -152,8 +128,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****p . s .**——而且，如果你正在寻找用 Python 学习数据科学的最佳 Udemy 在线课程，你也可以在 Udemy 上查看基里尔·叶列缅科和他的 SuperDataScience 团队的 [**深度学习 A-Z:动手操作人工神经网络**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeeplearning%2F) 。他们在 Udemy 上有最好的深度学习在线课程。**
 
-**[](/javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5) [## 要学习的 5 大深度学习和神经网络课程
-
-### 大家好，如果你想学习深度学习和神经网络，并寻找最好的在线课程，那么你有…
-
-medium.com](/javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5)**
+**</javarevisited/top-5-advanced-deep-learning-and-neural-network-courses-to-learn-in-2020-a273f5eddca5> **

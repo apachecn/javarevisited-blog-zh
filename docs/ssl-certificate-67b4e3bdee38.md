@@ -58,11 +58,7 @@ Github 公钥证书
 
 查看这个帖子以了解更多关于钥匙的信息，
 
-[](https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec) [## 探索 Java 密钥库和密钥
-
-### 通过代码
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec) 
+<https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec>  
 
 > 准备好 SSL 的步骤
 
@@ -78,11 +74,7 @@ suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/exploring-java-keys
 
 检查此选项，以便在没有 CA 的情况下进行签名，
 
-[](https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327) [## 自签名证书
-
-### 本地主机
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327) 
+<https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327>  
 
 > 模拟本地步骤
 

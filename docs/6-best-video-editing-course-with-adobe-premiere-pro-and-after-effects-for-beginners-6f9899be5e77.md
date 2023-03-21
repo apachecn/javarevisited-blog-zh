@@ -104,11 +104,7 @@ image_credit — udemy
 
 我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpremiere-pro-cc-essential-graphics) [## Premiere Pro CC 基本显卡
-
-### 课程概述大家好。我的名字是凯尔西·布兰南，欢迎来到我的课程，Premiere Pro CC 基本图形…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpremiere-pro-cc-essential-graphics) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpremiere-pro-cc-essential-graphics>  
 
 ## 6.[Adobe Premiere Pro CC:Adobe Premiere Pro 中的视频编辑](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadobe-premiere-pro-cc-2017-video-editing%2F)【Udemy】
 
@@ -152,8 +148,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你正在寻找一些免费的视频编辑课程，那么你也可以看看这个 [**如何编辑你的视频**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fudemy-insights-editing-your-videos%2F) ，这是一个免费的官方 Udemy 课程，对于学习视频编辑课程来说很棒。超过 1000，000 名学生从这门免费课程中受益，您必须了解视频编辑的基本知识。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fudemy-insights-editing-your-videos%2F) [## 免费在线课程创建教程-如何编辑你的视频:官方 Udemy 课程
-
-### 你想学习一些简单而有效的方法来让你的 Udemy 课程吸引学生吗？你知道吗…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fudemy-insights-editing-your-videos%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fudemy-insights-editing-your-videos%2F> 

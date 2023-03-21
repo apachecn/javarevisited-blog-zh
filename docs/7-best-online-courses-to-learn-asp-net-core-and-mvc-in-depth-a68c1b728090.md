@@ -118,11 +118,7 @@ ASP.NET 可以说是构建在。NET 框架。您可以使用 ASP.NET 创建动�
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费进入这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.[利用 ASP.NET 核心开发应用](https://www.educative.io/courses/developing-applications-with-asp-net-core?affiliate_id=5073518643380224)【教育课程】
 
@@ -140,11 +136,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 210 多门课程，每月仅需 14.9 美元。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 8.[先进的 ASP.NET 酷睿 3.1 MVC](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-aspnet-core-3-advanced%2F)
 
@@ -183,8 +175,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 如果你正在寻找一门免费课程来启动你的 ASP。网游然后你还可以在 Udemy 上查看一下[**ASP.NET 零点:与 ASP.NET 核心的开发&棱角**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faspnet-zero-aspnet-core-angular%2F) 。这是一个完全免费的课程，你所需要做的就是创建一个 Udemy 帐户来注册课程，然后你就完成了。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faspnet-zero-aspnet-core-angular%2F) [## 免费 ASP.NET 核心教程-ASP.NET 零:发展与 ASP.NET 核心&角
-
-### 我们正在开发开源和商业软件开发工具。我们最著名的产品是 AspNet 样板文件…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faspnet-zero-aspnet-core-angular%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faspnet-zero-aspnet-core-angular%2F> 

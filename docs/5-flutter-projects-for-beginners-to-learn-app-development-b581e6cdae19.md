@@ -18,11 +18,7 @@
 
 顺便说一下，如果你刚刚开始学习 Flutter，那么我也建议你首先从一门全面的课程开始，以了解 Flutter 的语法和语义，这将在项目开发过程中对你有很大的帮助，如果你需要资源，那么没有比 Maximillian Schwarzmuller 和 AcadMind 的[**Flutter&Dart-The Complete Guide【2023 Edition】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-dart-to-build-ios-android-apps%2F)课程更好的课程了。这个长达 42 小时的课程包含了你在 2023 年成为一名 Flutter 应用开发者所需学习的一切。
 
-[](https://javarevisited.blogspot.com/2020/01/top-5-courses-to-learn-dart-programming.html) [## 2023 年面向初学者的前 5 名飞镖和飞镖在线课程-最佳
-
-### 一个关于 Java，编程，算法，数据结构，SQL，Linux，数据库，面试问题，以及我个人…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/01/top-5-courses-to-learn-dart-programming.html) 
+<https://javarevisited.blogspot.com/2020/01/top-5-courses-to-learn-dart-programming.html>  
 
 # 2023 年初学者的 8 个最佳颤振项目创意
 
@@ -141,8 +137,4 @@ image_credit —于安琪
 
 **p . s .**——如果你正在寻找学习 Android 应用程序开发，但正在寻找一些免费的东西，那么我也建议你看看这些 2023 年为程序员和移动开发者提供的 [**免费 Android 课程**](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html) 。
 
-[](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675) [## 2023 年 5 门免费安卓 App 开发课程，供初学者学习
-
-### 这些是免费学习 Android 与 Java 和 Kotlin 的最佳免费课程
-
-medium.com](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675)
+</javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675> 

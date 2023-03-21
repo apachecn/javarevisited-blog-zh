@@ -4,7 +4,7 @@
 
 ## 构建 Java API 以提供追随者和订阅者计数
 
-> 最初发表于[](https://asyncq.com/how-to-build-social-stats-api-with-java)
+> 最初发表于<https://asyncq.com/how-to-build-social-stats-api-with-java>
 
 **![](img/4d4b6261b7df6db514a38d2693a86a71.png)**
 

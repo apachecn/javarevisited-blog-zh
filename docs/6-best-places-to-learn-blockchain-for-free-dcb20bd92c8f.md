@@ -78,11 +78,7 @@ Coursera 是一个经过精心挑选的在线学习平台。学生可以通过�
 
 顺便说一句，如果你喜欢 Coursera 课程和认证，那么你也可以参加[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是一个**订阅计划，提供超过 7000 门课程、专业认证和知名大学公司的专业认证。它每年花费大约 399 美元，绝对是你自我升级的最佳投资。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.LinkedIn 学习
 
@@ -94,7 +90,7 @@ LinkedIn Learning 是一个类似于 Udemy 的平台，它允许教师提交他�
 
 因为只有在他们教授和交付给学生的主题方面具有先验知识的个人才被允许在 LinkedIn 学习平台上创建和发布课程，所以任何人都可以不受限制地在该网站上创建和发布课程。
 
-职业社交网站 LinkedIn 也提供了一个极具竞争力的计划，让程序员和开发人员以每月 19.99 美元的价格访问超过 16，000 门课程，他们还提供一个月的免费试用[](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)**，这对不断学习新技能的程序员和开发人员来说是理想的。**
+职业社交网站 LinkedIn 也提供了一个极具竞争力的计划，让程序员和开发人员以每月 19.99 美元的价格访问超过 16，000 门课程，他们还提供一个月的免费试用<http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts>**，这对不断学习新技能的程序员和开发人员来说是理想的。**
 
 ## **LinkedIn 课程**
 
@@ -152,11 +148,7 @@ LinkedIn Learning 是一个类似于 Udemy 的平台，它允许教师提交他�
 
 **你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费查看这些区块链课程中的任何一门。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 这就是 2022 年初学者学习区块链的最佳地点。榜单包括 2022 年最佳网站、在线平台和免费学习区块链的地方。它总结了我们对学习区块链的最佳区块链课程和认证的详细讨论。
 
@@ -184,8 +176,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果你认真学习区块链技术并寻找最好的区块链认证，那么 Coursera 上的这个 [**区块链认证**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) 是最好的资源。我的许多学生和读者都选了这门课，反馈非常好。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain) [## 区块链
-
-### 利用下一个前沿技术进行创新。了解区块链如何引领去中心化的范式转变…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain)**
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fblockchain> **

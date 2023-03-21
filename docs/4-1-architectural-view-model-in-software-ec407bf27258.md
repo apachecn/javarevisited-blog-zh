@@ -76,16 +76,4 @@ Philippe Kruchten:4+1 建筑视图模型的发明者(图片来源:[https://twitt
 
 ## 您可能喜欢的其他软件架构师文章和资源
 
-[](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [## 我最喜欢的 2021 年学习软件架构的课程——最好的
-
-### 这些是 2020 年学习软件架构并成为解决方案架构师的最佳课程
-
-medium.com](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html) [## 十大微服务设计模式和原则-示例
-
-### 让我们看看微服务架构构建的原则。1.可扩展性 2。灵活性 3…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html) [](/javarevisited/5-best-software-architecture-books-for-experienced-java-developers-1267d05a6b1d) [## 面向有经验的 Java 开发人员的 5 本最佳软件架构书籍
-
-### 我最喜欢的软件书籍和课程有经验的 Java 程序员可以阅读并加入成为软件架构师或…
-
-medium.com](/javarevisited/5-best-software-architecture-books-for-experienced-java-developers-1267d05a6b1d)
+</javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9>  <https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html>  </javarevisited/5-best-software-architecture-books-for-experienced-java-developers-1267d05a6b1d> 

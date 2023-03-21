@@ -24,11 +24,7 @@
 
 在这种情况下，你应该参加一个很好的课程，比如由 Robert Harvick **撰写的关于 Pluralsight 的 [**算法和数据结构第一部分和第二部分，或者关于 Educative 的**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1)[**Java 中的数据结构:面试复习**](https://bit.ly/2LqXu2n) 课程，以更新你的 DS 和算法技能。**
 
-[](https://www.educative.io/collection/5642554087309312/5724822843686912?affiliate_id=5073518643380224) [## 用 Java 编写面试代码的数据结构——交互式学习
-
-### 数据结构是计算机科学的基础之一，也是每个程序中的重要决策…
-
-www.educative.io](https://www.educative.io/collection/5642554087309312/5724822843686912?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5642554087309312/5724822843686912?affiliate_id=5073518643380224>  
 
 # 50 大数据结构、算法和编码面试问题
 
@@ -48,7 +44,7 @@ www.educative.io](https://www.educative.io/collection/5642554087309312/572482284
 
 1.  **如何在给定的 1 到 100 的整数数组中找到缺失的数字？(** [**解**](http://javarevisited.blogspot.com/2014/11/how-to-find-missing-number-on-integer-array-java.html) **)**
 2.  **如何在给定的整数数组中找到重复的数字？(** [**)解**](http://javarevisited.blogspot.com/2014/01/how-to-remove-duplicates-from-array-java-without-collection-API.html) **)**
-3.  **如何在一个未排序的整数数组中找到最大和最小的数？(**[](http://java67.blogspot.com/2014/02/how-to-find-largest-and-smallest-number-array-in-java.html)****)****
+3.  **如何在一个未排序的整数数组中找到最大和最小的数？(**<http://java67.blogspot.com/2014/02/how-to-find-largest-and-smallest-number-array-in-java.html>****)****
 4.  ****如何求一个整数数组的和等于给定数的所有对？(** [**解**](http://javarevisited.blogspot.com/2014/08/how-to-find-all-pairs-in-array-of-integers-whose-sum-equal-given-number-java.html) **)****
 5.  ****如果一个数组中包含多个重复的数字，如何找到重复的数字？(** [**解**](http://javarevisited.blogspot.com/2014/03/3-ways-to-find-first-non-repeated-character-String-programming-problem.html) **)****
 6.  ****在 Java 中如何从给定的数组中删除重复项？(** [**解**](http://javarevisited.blogspot.com/2014/01/how-to-remove-duplicates-from-array-java-without-collection-API.html) **)****
@@ -65,11 +61,7 @@ www.educative.io](https://www.educative.io/collection/5642554087309312/572482284
 
 **顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 29 美元，但是也提供了许多超级吸引人和有用的课程，比如这个 [*JavaScript Web 项目:20 个项目来建立你的作品集*](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn) 课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。**
 
-**[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+**<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 而且，如果你觉得 10 道题不够，你需要更多的练习，那么你也可以看看这个 [**30 道数组题**](http://javarevisited.blogspot.sg/2015/06/top-20-array-interview-questions-and-answers.html) 的列表。** 
 
@@ -98,7 +90,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 3.  **如何反转一个链表？( [**解**](http://www.java67.com/2016/07/how-to-reverse-singly-linked-list-in-java-example.html) **)****
 4.  **如何在没有递归的情况下反转一个单链表？( [**解**](http://javarevisited.blogspot.sg/2017/03/how-to-reverse-linked-list-in-java-using-iteration-and-recursion.html) **)****
 5.  ****未排序链表中的重复节点是如何去除的？(** [**)解**](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) **)****
-6.  ****如何求单链表的长度？(**[](http://javarevisited.blogspot.sg/2016/05/how-do-you-find-length-of-singly-linked.html)****)******
+6.  ****如何求单链表的长度？(**<http://javarevisited.blogspot.sg/2016/05/how-do-you-find-length-of-singly-linked.html>****)******
 7.  ******如何在单链表中找到倒数第三个节点？(** [**解**](http://javarevisited.blogspot.sg/2016/07/how-to-find-3rd-element-from-end-in-linked-list-java.html) **)******
 8.  ******如何用 Stack 求两个链表的和？(** [**解**](https://www.geeksforgeeks.org/sum-of-two-linked-lists/) **)******
 
@@ -129,7 +121,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 7.  ******如何统计给定字符串中元音和辅音的个数？(** [**解**](http://java67.blogspot.sg/2013/11/how-to-count-vowels-and-consonants-in-Java-String-word.html) **)******
 8.  ****如何计算一个给定字符在字符串中的出现次数？( [**解**](http://javarevisited.blogspot.sg/2012/12/how-to-count-occurrence-of-character-in-String.html) **)******
 9.  ****如何找到一个字符串的所有排列？( [**)解**](http://javarevisited.blogspot.com/2015/08/how-to-find-all-permutations-of-string-java-example.html) **)******
-10.  ******如何在不使用任何库方法的情况下，对给定句子中的单词进行逆序？(**[](http://java67.blogspot.com/2015/06/how-to-reverse-words-in-string-java.html)****)********
+10.  ******如何在不使用任何库方法的情况下，对给定句子中的单词进行逆序？(**<http://java67.blogspot.com/2015/06/how-to-reverse-words-in-string-java.html>****)********
 11.  ****如何检查两个弦是否是彼此的旋转？( [**解**](http://www.java67.com/2017/07/string-rotation-in-java-write-program.html) **)******
 12.  ****如何检查给定的字符串是否是回文？( [**解**](http://java67.blogspot.com/2015/06/how-to-check-is-string-is-palindrome-in.html) **)******
 
@@ -160,7 +152,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 5.  ******如何在没有递归的情况下使用 inorder 遍历打印给定二叉树的所有节点？(** [**解**](http://www.java67.com/2016/08/binary-tree-inorder-traversal-in-java.html) **)******
 6.  ****如何实现一个后序遍历算法？( [**解**](http://www.java67.com/2016/10/binary-tree-post-order-traversal-in.html) **)******
 7.  ******后序遍历如何在没有递归的情况下遍历二叉树？(** [**)解**](http://www.java67.com/2017/05/binary-tree-post-order-traversal-in-java-without-recursion.html) **)******
-8.  ******二叉查找树的所有叶子是如何印刷的？(**[](http://www.java67.com/2016/09/how-to-print-all-leaf-nodes-of-binary-tree-in-java.html)****)********
+8.  ******二叉查找树的所有叶子是如何印刷的？(**<http://www.java67.com/2016/09/how-to-print-all-leaf-nodes-of-binary-tree-in-java.html>****)********
 9.  ****如何计算给定二叉树中的叶节点数？( [**解**](http://javarevisited.blogspot.sg/2016/12/how-to-count-number-of-leaf-nodes-in-java-recursive-iterative-algorithm.html) **)******
 10.  ****如何在给定的数组中执行二分搜索法？( [**解**](http://javarevisited.blogspot.sg/2015/10/how-to-implement-binary-search-tree-in-java-example.html#axzz4wnEtnNB3) **)******
 
@@ -174,11 +166,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 ****如果你喜欢教育性课程，那么你应该选择 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，其年度计划的费用约为**14.9 美元/月，我发现这非常划算，因为个别课程的价格为 79 美元或 49 美元，这意味着只需几门课程的费用，你就可以访问他们的 100 多门课程。******
 
-******[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+******<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 如果你需要更多的推荐，这里是我列出的有用的[数据结构算法书籍](http://javarevisited.blogspot.sg/2015/07/5-data-structure-and-algorithm-books-best-must-read.html)和[课程](http://javarevisited.blogspot.sg/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)开始。****** 
 
@@ -194,12 +182,12 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 4.  ******合并排序算法是如何实现的？(** [**解**](http://www.java67.com/2018/03/mergesort-in-java-algorithm-example-and.html) **)******
 5.  ****如何实现桶排序算法？( [**解**](http://javarevisited.blogspot.sg/2017/01/bucket-sort-in-java-with-example.html) **)******
 6.  ******如何实现计数排序算法？(** [**)解**](http://www.java67.com/2017/06/counting-sort-in-java-example.html) **)******
-7.  ******基数排序算法是如何实现的？(**[](http://www.java67.com/2018/03/how-to-implement-radix-sort-in-java.html)****)********
+7.  ******基数排序算法是如何实现的？(**<http://www.java67.com/2018/03/how-to-implement-radix-sort-in-java.html>****)********
 8.  ****如何在不使用第三个变量的情况下交换两个数？( [**解**](http://www.java67.com/2015/08/how-to-swap-two-integers-without-using.html) **)******
 9.  ******如何检查两个矩形是否互相重叠？(** [**解**](http://javarevisited.blogspot.sg/2016/10/how-to-check-if-two-rectangle-overlap-in-java-algorithm.html) **)******
 10.  ******如何设计自动售货机？(** [**解**](http://javarevisited.blogspot.sg/2016/06/design-vending-machine-in-java.html) **)******
 
-****如果你需要更多这样的编码问题，你可以从《破解代码访谈》[](http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20)****、by**[**Gayle Laakmann McDowell**](https://medium.com/u/e21bc4f4525e?source=post_page-----b4b1ac61f5b0--------------------------------)**等书籍中得到帮助，其中介绍了 **189+编程问题和解决方案。**短时间内准备编程求职面试的好书。********
+****如果你需要更多这样的编码问题，你可以从《破解代码访谈》<http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/?tag=javamysqlanta-20>****、by**[**Gayle Laakmann McDowell**](https://medium.com/u/e21bc4f4525e?source=post_page-----b4b1ac61f5b0--------------------------------)**等书籍中得到帮助，其中介绍了 **189+编程问题和解决方案。**短时间内准备编程求职面试的好书。********
 
 ****[![](img/0add47831f3bf292fdccea194d91ccfd.png)](http://aax-us-east.amazon-adsystem.com/x/c/QuhHaeRrsd80BG0IiqyFrgYAAAFl_JIabgEAAAFKAeqwsDE/https://assoc-redirect.amazon.com/g/r/http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/ref=as_at?creativeASIN=0984782850&linkCode=w61&imprToken=sZlAAD8zOQmLLiMyJ-pBEw&slotNum=2&tag=javamysqlanta-20)****
 
@@ -245,18 +233,6 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ******其他关于** [**中的文章**](https://medium.com/u/504c7870fdb6?source=post_page-----b657a195aa07----------------------) **你可能喜欢:******
 
-****[](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [## 面向初学者的 10 大免费数据结构和算法课程——最好的
+****</javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a>  </javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1>  </javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c>  
 
-### 算法和数据结构是计算机科学的两个最基本和最重要的课题，是计算机科学的基础
-
-medium.com](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) [## 编码面试的 6 门最佳动态编程课程
-
-### 这些是从 Udemy，Educative 和 Coursera 学习动态编程的最佳课程，适用于…
-
-medium.com](/javarevisited/6-best-dynamic-programming-courses-for-coding-interviews-14744060923c) 
-
-如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。您可以在 这里**加入介质**[](/@somasharma_81597/membership)****
+如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。您可以在 这里**加入介质**</@somasharma_81597/membership>****

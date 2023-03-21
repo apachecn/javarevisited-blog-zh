@@ -295,12 +295,4 @@ Spring Boot 的微服务
 
 感谢您阅读本文。如果你喜欢这些高级 Spring Boot、Docker、AWS、Fullstack Java 开发者课程，那么请在你最喜欢的平台(脸书、Twitter 或 LinkedIn)上分享。如果您有任何问题或反馈，请留言。
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  <https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

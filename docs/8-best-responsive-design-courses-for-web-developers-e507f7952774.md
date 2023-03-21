@@ -20,11 +20,7 @@ image_credit — udemy
 
 顺便说一句，如果你刚刚开始 web 开发，那么我也建议你去参加由安吉拉·于 举办的[**2023 Web 开发训练营，这是 2023 年学习 Web 开发的最佳课程之一。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F)
 
-[](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232) [## 2023 年成为 FullStack Web 开发人员的 10 大在线课程[更新]
-
-### 大家好，如果你想学习 Web 开发或在 2020 年成为一名全栈 Web 开发人员，那么你已经来到了…
-
-medium.com](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232) 
+</javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232>  
 
 # 2023 年 8 门最佳初学网页设计课程
 
@@ -68,11 +64,7 @@ medium.com](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-devel
 
 完成这门课程大约需要 19 个小时。顺便说一句，如果你觉得 Coursera 的课程有用，那么我建议你 [**加入 Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[微软的高级 CSS 概念](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fadvanced-css-concepts)【edX 最佳课程】
 
@@ -120,11 +112,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 刚刚通过#思科 DEVASC 200-901 考试！考试很难，但这是一次很棒的经历。我很高兴能成为……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 7.[学习响应式设计](https://www.pntrac.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-responsive-design)【代码学院】
 
@@ -141,11 +129,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 顺便说一句，你需要一个 [**CodeCademy PRO**](https://bit.ly/codecademypro) 才能加入这个课程。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 8.[响应式网页设计——建立 RWD 网站](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresponsive-web-design-2-0-complete-guide%2F) (4 个实时项目)
 
@@ -183,8 +167,4 @@ bit.ly](https://bit.ly/codecademypro)
 
 **p . s .**——如果你热衷于学习网页设计，但正在寻找免费的在线培训课程来启动你的学习，那么你必须看看这个 [**为网页开发者设计的网页:创建漂亮的网站！**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)Udemy 上的课程**。**这个课程完全免费，完全没有资源和电子书。你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) [## 免费网页设计教程-网页开发人员的网页设计:建立美丽的网站！
-
-### 重要提示:这门课的内容也包含在我的另一门关于网页设计和开发的课程中
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F> 

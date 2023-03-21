@@ -20,11 +20,7 @@
 
 这些是最好的在线课程，来自像 Udemy T1、T2、plural sight T3、T4、自由代码营 T5、T6、CodeCademy T7、T8、Educative T9 和 Coursera T11 这样的网站，你可以加入这些课程来学习 CSS，这是成为一名网页设计师和网页开发者的必备技能之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design) [## 面向所有人的网页设计:网页开发和编码基础
-
-### 学习设计和创建网站。使用 HTML5、CSS3 和 JavaScript 构建一个响应迅速且可访问的 web 组合…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design>  
 
 # 2023 年学习 CSS 3 和网页设计引导的 10 个最佳在线课程
 
@@ -63,11 +59,7 @@ HTML 和 CSS 的基础知识。
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[用 CSS 设计网站样式](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fstyling-websites-css) [Pluralsight]
 
@@ -90,11 +82,7 @@ Pluralsight 发布了一些深入学习 CSS 的新课程。他们有一系列 1 
 
 顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[前端面试 CSS](https://www.educative.io/courses/css-for-front-end-interviews?affiliate_id=5073518643380224)【教育性】
 
@@ -112,11 +100,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你发现教育平台和他们的搜索课程，如[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，搜索面向对象编程面试，前端面试等，那么考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 5.[通过 CodeCademy 学习 CSS](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-css)
 
@@ -133,11 +117,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 顺便说一句，你需要一个 [**CodeCademy PRO**](https://bit.ly/codecademypro) 才能加入这个课程。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### Codecademy Pro 已经帮助数百万学习者提升了职业生涯并学习了新技能。免费试用，开始您的…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 6.先进的 CSS 和 Sass: Flexbox、网格、动画等等！
 
@@ -246,8 +226,4 @@ CSS 是巨大的，大多数学生很快就学会了 CSS 基础知识。因此�
 
 **P. S.** —如果你渴望学习 CSS 并成为一名网页设计师，但正在寻找免费的在线培训班或课程来开始你的旅程，那么你也可以在 Udemy 上查看这个 [**HTML5 和 CSS3 基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml5-fundamentals-for-beginners%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml5-fundamentals-for-beginners%2F) [## 免费 CSS 教程- HTML5 和 CSS3 基础
-
-### 在技术领域，保持领先总是一项挑战。在去年的一个方面…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml5-fundamentals-for-beginners%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhtml5-fundamentals-for-beginners%2F> 

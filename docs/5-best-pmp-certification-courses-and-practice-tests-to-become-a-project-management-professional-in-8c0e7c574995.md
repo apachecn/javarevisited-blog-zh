@@ -20,11 +20,7 @@ PMP 是**项目管理专业人员**的简称，由项目管理协会(PMI)提供�
 
 在这篇文章中，我将分享一些*破解 PMP 认证*的最佳课程，它们与 [**PMBOK 指南第六版**](https://www.amazon.com/Project-Management-Knowledge-PMBOK-Sixth/dp/1628251840/?tag=javamysqlanta-20) 和最新的 PMI 标准保持一致。它们还涵盖了项目管理领域的最新最佳实践。*
 
-[](https://www.amazon.com/Project-Management-Knowledge-PMBOK-Sixth/dp/1628251840/?tag=javamysqlanta-20) [## 项目管理知识体系指南(PMBOK 指南)-第六版
-
-### 亚马逊网站:项目管理知识体系指南(PMBOK 指南)-第六版(9781628251845):项目…
-
-www.amazon.com](https://www.amazon.com/Project-Management-Knowledge-PMBOK-Sixth/dp/1628251840/?tag=javamysqlanta-20) 
+<https://www.amazon.com/Project-Management-Knowledge-PMBOK-Sixth/dp/1628251840/?tag=javamysqlanta-20>  
 
 # 通过 2023 年 PMP 项目管理认证考试的 10 个最佳在线课程和练习题
 
@@ -64,11 +60,7 @@ Joseph Philips 本人是 PMP，ITIL，PMI-ACP，和 Project+ CTT+认证。简而
 
 来自 [Pluralsight](https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html) ，所以很有可能你已经有了会员资格，但是如果没有，那就去办一个吧，这是完全值得的，因为学习对于程序员和 It 专业人员来说是必不可少的。或者，你也可以使用他们的 [**10 天免费旅行**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3. [PMP 35 小时在线培训，由 PMExprto 提供](https://academy.pmexperto.com/courses/5083-pmp-35-contact-hours-online-training?affcode=qtphgxvt)
 
@@ -100,11 +92,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 他们还有一个 [**PMP 考试模拟器**](https://academy.pmexperto.com/courses/5149-pmp-exam-simulator?affcode=qtphgxvt) 有 1000 多道+题，不限试，还更新了 2021 年最新考试变化。您可以参加本课程的模拟测试，以便更好地准备 PMP 认证。也可以用我的代码**好友 10** 打九折。
 
-[](https://academy.pmexperto.com/courses/5149-pmp-exam-simulator?affcode=qtphgxvt) [## 课程
-
-### 模拟器会让你真正感受到 PMP 考试。它的设计类似于实际的 PMP 考试。它的问题…
-
-academy.pmexperto.com](https://academy.pmexperto.com/courses/5149-pmp-exam-simulator?affcode=qtphgxvt) 
+<https://academy.pmexperto.com/courses/5149-pmp-exam-simulator?affcode=qtphgxvt>  
 
 ## 4. [PMP 考前准备-项目管理专业全员培训](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpmp-training-for-pmp-certification-pmp-exam%2F)
 
@@ -243,10 +231,6 @@ PMP 考试转储对于了解 PMP 认证考试非常有用。这些是以前考�
 
 **附言——**如果你渴望成为一名项目管理专家，但正在寻找一门免费的在线 PMP 课程来开始你的准备，那么你可以查看 Udemy 上的 [**项目管理专家(PMP)考试简介**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fproject-management-professional-pmp-intro%2F) 课程。这个课程是完全免费的，你只需要一个免费的账号就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fproject-management-professional-pmp-intro%2F) [## 免费 PMP 教程-项目管理专业(PMP)考试简介
-
-### 英语。贝哈斯·阿尔·萨瓦迪，PMP，PMI-ACP，PMI-RMP，信息技术和商业管理公司 BRIDGE Consulting Co 的创始人
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fproject-management-professional-pmp-intro%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fproject-management-professional-pmp-intro%2F>  
 
 非常感谢你到目前为止的阅读。如果您发现这些在线培训课程对准备 PMP 项目管理认证有用，那么请与您的朋友和同事分享。如果您有任何问题或反馈，请留言。

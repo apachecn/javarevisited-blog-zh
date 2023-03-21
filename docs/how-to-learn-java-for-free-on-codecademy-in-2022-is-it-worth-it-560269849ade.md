@@ -48,21 +48,13 @@
 
 **他们也有许多 Java 程序的免费课程，你可以参加。甚至他们的付费课程也非常便宜，我在他们不时进行的 Udemy 销售上以每门课程 10 美元的价格买了很多。您也可以在 [**5 个网站上阅读我的文章，在线学习 Java**](http://javarevisited.blogspot.com/2015/06/2-websites-to-learn-coding-in-java-online-free.html)。它为您提供了更多免费在线学习 Java 的资源。**
 
-**[](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2023 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) 
+**</javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2>  
 
 互联网上有很多关于 Java 的免费信息，就像你可以在线阅读或下载 PDF 格式的关于 Java 的免费书籍[一样，其中也包括用 Java 思考。有几个 Java 论坛](http://java67.blogspot.com/2013/11/10-free-java-programing-books-download-PDF-HTML.html)，你可以在那里发表你的疑问并寻求帮助。
 
 那都是家伙。对于所有想学习 Java 的人来说，这是一个好消息。你现在可以去 CodeCademy[**创建你的免费账户**](https://bit.ly/codecademyhome) 并开始学习 Java。由于书籍是学习的重要组成部分，您也可以购买 Head First Java 第二版来进一步促进您的学习。
 
-[](https://bit.ly/codecademyhome) [## 免费学习编码| CodeCademy
-
-### 借助高级见解和定制升级您的团队训练|尝试团队+互动、动手学习…
-
-bit.ly](https://bit.ly/codecademyhome) 
+<https://bit.ly/codecademyhome>  
 
 您可能喜欢的其他免费 Java 编程资源
 
@@ -85,8 +77,4 @@ bit.ly](https://bit.ly/codecademyhome)
 
 **P.S.** —如果你不介意投资一些钱来学习像 Java 这样有价值的技能，那么你可能也想看看这个关于学习 Java 编程的 [**10 门最佳课程的列表**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 。我精心挑选了最好的 Java 课程，让你深入学习所有核心的 Java 概念。
 
-[](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html) [## 2023 年供初学者在线学习的 5 大 Java 编程课程——最好的
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)**
+<https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html> **

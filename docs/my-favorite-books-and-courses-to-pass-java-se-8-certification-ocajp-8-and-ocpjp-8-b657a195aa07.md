@@ -22,13 +22,9 @@ Java 认证将为你提供知识，并让你比其他申请同一份 Java 开发
 
 成功通过 1z 0–808 和 1z 0–809 等 Java 8 认证的一个重要步骤是选择一个针对 [OCAJP8](http://javarevisited.blogspot.sg/2015/07/good-time-to-become-java-certified-programmer-discount.html) 的学习指南和一个针对 OCPJP8 的学习指南。学习指南不仅全面涵盖了考试主题，还提供了与每个主题相关的考试提示。
 
-如果你对 90%的分数感到满意，那么一本学习指南就足够了，前提是你还要有一个好的考试模拟器，比如[](http://shareasale.com/r.cfm?b=1130600&u=880419&m=43514&urllink=&afftrack=)**[**Enthuware**](https://javarevisited.blogspot.com/2017/07/entuware-or-whizlabs-which-exam-simulator-best-for-java-certification.html)[Udemy](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-oca%2F)，或者大卫·梅尔的在线 [**认证问题**](http://bit.ly/2uymzB1) 。**
+如果你对 90%的分数感到满意，那么一本学习指南就足够了，前提是你还要有一个好的考试模拟器，比如<http://shareasale.com/r.cfm?b=1130600&u=880419&m=43514&urllink=&afftrack=>**[**Enthuware**](https://javarevisited.blogspot.com/2017/07/entuware-or-whizlabs-which-exam-simulator-best-for-java-certification.html)[Udemy](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-oca%2F)，或者大卫·梅尔的在线 [**认证问题**](http://bit.ly/2uymzB1) 。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-oca%2F) [## Java 认证:OCA (1Z0-808)考试模拟[2023]
-
-### 模拟试题已经帮助 271 名学生通过了 OCA 认证(1Z0-808)考试…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-oca%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-oca%2F>  
 
 学习指南、在线课程和模拟考试的结合是在有限的时间内破解任何 Java 认证的最佳方式。
 
@@ -108,16 +104,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ****您可能喜欢的其他媒体文章:****
 
-**[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年学习 Java 的 10 大课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员接下来会做什么？项目经理、技术架构师或 DevOps 工程师
-
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1)**
+**</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1> **

@@ -68,11 +68,7 @@ Nathan 在互联网安全领域拥有超过 25 年的经验，参与过价值数
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全物有所值，因为你可以获得**无限证书。**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[完整的网络安全训练营:零到精通](https://academy.zerotomastery.io/a/aff_swq47xdd/external?affcode=441520_zytgk2dn)
 
@@ -92,11 +88,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [***ZTM 会员***](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。您还可以使用优惠券代码 FRIENDS10 获得本课程或您选择的任何订阅的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 4.[完整的网络安全课程:网络安全！](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnetwork-security-course%2F)
 
@@ -140,11 +132,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 顺便说一句，如果你喜欢在 CodeCademy 平台上学习，那么考虑加入他们的 [**CodeCademy Pro 会员资格**](https://bit.ly/codecademypro) ，该会员资格的年费约为每月 15.99 美元，提供所有 Codecademy 内容、课程、测验和项目的访问权限。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 7.[网络安全绝对初学者指南 2023—第 1 部分](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-absolute-beginners-guide-to-information-cyber-security%2F)
 
@@ -210,11 +198,7 @@ bit.ly](https://bit.ly/codecademypro)
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级吸引人和有用的课程和职业道路。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/p/learn-penetration-testing?affcode=441520_zytgk2dn) [## 学习渗透测试。成为一名虫子赏金猎人。赚取$$$。
-
-### 我们向您保证，这是您能找到的最全面、最新的渗透测试课程…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/learn-penetration-testing?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/learn-penetration-testing?affcode=441520_zytgk2dn>  
 
 以上是 2023 年学习网络安全的一些**最佳课程。正如我所说，公司，无论是大公司还是小公司，都非常关注互联网安全，也花费了大量的预算。**
 
@@ -245,8 +229,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/learn-penetration-t
 
 **附注——如果**你想学习网络安全和信息安全，但正在寻找免费的在线课程，那么你也可以在 Udemy 上查看这个免费的网络安全课程: [**初学者网络安全课程——01 级**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F) 。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F) [## 免费网络安全教程-学习网络安全教程:初学者课程
-
-### 我们是一家新时代网络安全公司。作为一个组织，我们的目标是提供信息安全服务和…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F> 

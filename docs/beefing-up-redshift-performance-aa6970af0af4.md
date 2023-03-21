@@ -104,7 +104,7 @@ Amazon Redshift 允许用户定义多达 8 个队列，总共有多达 50 个插
 
 编写性能查询的一些技巧:
 
-*   如果可能，请远离`[UNION](https://www.java67.com/2014/09/difference-between-union-vs-union-all-in-SQL.html)` [](https://www.java67.com/2014/09/difference-between-union-vs-union-all-in-SQL.html)。
+*   如果可能，请远离`[UNION](https://www.java67.com/2014/09/difference-between-union-vs-union-all-in-SQL.html)` <https://www.java67.com/2014/09/difference-between-union-vs-union-all-in-SQL.html>。
 *   尽可能指定多级条件句。
 *   利用`[EXPLAIN](https://www.periscopedata.com/blog/explain-and-other-tools-for-query-optimization.html)`了解查询执行计划和成本。
 

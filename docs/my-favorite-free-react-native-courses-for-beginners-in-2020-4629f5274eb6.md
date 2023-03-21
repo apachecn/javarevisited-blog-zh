@@ -20,11 +20,7 @@ React Native 允许您使用 JavaScript 创建[跨平台应用](/javarevisited/t
 
 这个 38 小时的课程将教你所有你需要学习的关于 React Native 的知识，包括 Hooks。它不是免费的，但是完全值得你花时间和金钱。我花了 10 美元买了这门课，现在还在看。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F) [## 完整的 React Native + Hooks 课程[2023 版]
-
-### 了解 React Native v0.62.2 的钩子、上下文和 React 导航。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F>  
 
 # 2023 年学习 React Native 的 8 门最佳免费在线课程
 
@@ -197,8 +193,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你想深入学习 React Native 并寻找更全面的在线课程，那么我也推荐你去看看 Stephen Grider 的 React Native 指南。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F) [## 完整的 React Native + Hooks 课程[2023 版]
-
-### 了解 React Native v0.62.2 的钩子、上下文和 React 导航。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-react-native-and-redux-course%2F> 

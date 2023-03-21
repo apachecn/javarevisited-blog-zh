@@ -108,11 +108,7 @@ WordPress 是创建网站最简单的方法之一。它也是网页设计者和�
 
 顺便说一句，如果你觉得 Coursera 课程有用，因为它们是由谷歌和 IB 等知名公司创建的，由世界各地的知名大学提供，我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是关于初学者和有经验的开发者学习 WordPress 的最佳在线课程。我们已经看到，WordPress 是一个非常强大的工具，可以在对编程或网页设计一无所知的情况下创建一个网站。这是对这个世界的一个很好的介绍，它允许我们免费创建任何类型的页面。如果你一直想创建一个网页，却不知道如何创建，或者从哪里开始，现在你可以开始创建你一直想要的东西了。选择你喜欢的课程，并开始创建你的精彩网页！
 
@@ -141,8 +137,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你热衷于学习 WordPress 并寻找免费的在线培训课程，那么你也可以在 Udemy 上查看这个免费课程— [**如何使用 WordPress 创建一个网站(一步一步)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-create-a-website-using-wordpress-step-by-step%2F) 。这是掌握 WordPress 的一个很好的课程，而且完全免费。你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-create-a-website-using-wordpress-step-by-step%2F) [## 免费 WordPress 教程-如何使用 WordPress 创建一个网站(一步一步)
-
-### 我是一个 30 岁的自学网页设计师和教师，来自爱尔兰北部！我的爱好包括，网页设计…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-create-a-website-using-wordpress-step-by-step%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-create-a-website-using-wordpress-step-by-step%2F> 

@@ -14,11 +14,7 @@
 
 那么没有比 [**Coursera 平台**](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 更好的学习地方了。大公司和大学开设课程，提供给人们免费使用。尽管如此，你还是需要付费才能获得认证。该平台中最好的课程之一是由 IBM 公司为在 IT 行业工作的人提供的，并在现实生活中应用它们。
 
-[](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) [## Coursera |学位、证书和免费在线课程
-
-### 在网上课程中学习新的工作技能，这些技能来自行业领导者，如 Google、IBM 和 Meta。借助 top…推进您的职业发展
-
-coursera.pxf.io](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 
+<https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F>  
 
 # 2023 年 IBM 在 Coursera 上的 5 个最佳数据和云认证
 
@@ -88,11 +84,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Python 和** **Coursera 文章**
 
@@ -119,8 +111,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你正在寻找学习 Python 和数据科学的最佳 Udemy 课程，那么我强烈推荐你加入 Udemy 上何塞·波尔蒂利亚的 [**完整 Python 训练营:从零到英雄**](http://bit.ly/2BY5LJC) 课程。这是最受欢迎的 Python 课程，已经有超过 100 万的学生学习了这门课程。它也很实惠，在 Udemy 上只需 10 美元就能买到
 
-[](https://javarevisited.blogspot.com/2020/10/the-complete-python-bootcamp-go-from-zero-to-hero-udemy-course-review.html) [## Udemy 的 2022 年完整 Python 训练营从零到英雄在 Python 评论
-
-### 如今有了各种各样的编程语言，如果你想学习哪种语言就变得很难选择了
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/10/the-complete-python-bootcamp-go-from-zero-to-hero-udemy-course-review.html)
+<https://javarevisited.blogspot.com/2020/10/the-complete-python-bootcamp-go-from-zero-to-hero-udemy-course-review.html> 

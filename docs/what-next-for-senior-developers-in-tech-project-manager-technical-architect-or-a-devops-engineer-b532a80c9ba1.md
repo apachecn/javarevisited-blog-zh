@@ -58,11 +58,7 @@
 
 我还分享了，[2023 年 DevOps 开发者路线图](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html)，这是 2023 年成为 DevOps 工程师的综合资源之一。
 
-[](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html) [## 2023 DevOps 开发人员路线图——成为 DevOps 工程师的指南
-
-### DevOps 目前非常热门，我认识的大多数朋友、同事和高级开发人员都在努力工作…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html) 
+<https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html>  
 
 ## 3.Scrum 大师
 
@@ -72,11 +68,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/09/the-2018-
 
 如果你对你的项目和业务领域有很好的经验，那么你也可以成为 Scrum 大师！但如果你不熟悉敏捷，建议你上 [**敏捷速成班:敏捷项目管理；敏捷交付**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-crash-course%2F) 让自己熟悉 Sprint、Scrum、看板和其他敏捷方法和工具。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-crash-course%2F) [## 敏捷速成班:敏捷项目管理；敏捷交付
-
-### 独家]双学位，徽章和社区。完成本课程后，您将获得 2 张证书
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-crash-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-crash-course%2F>  
 
 你可以学习一些基本的 Scrum 技能或者获得一个 Scrum 认证来进一步提高你的机会。
 
@@ -96,7 +88,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 分析师参与业务系统或 IT 系统的设计或修改。分析师与业务涉众和主题专家互动，以便理解他们的问题和需求。
 
-分析师还收集文档并分析业务需求和要求。如果你是商业分析新手，不知道你的角色是什么，我建议你看一下商业分析基础[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbusiness-analysis-ba%2F)****s**，这是关于这个主题的较好的课程之一。**
+分析师还收集文档并分析业务需求和要求。如果你是商业分析新手，不知道你的角色是什么，我建议你看一下商业分析基础<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbusiness-analysis-ba%2F>****s**，这是关于这个主题的较好的课程之一。**
 
 **我向有抱负的业务分析师和将业务分析作为工作一部分的开发人员强烈推荐这门课程。**
 
@@ -127,7 +119,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 [5 个框架 Java 开发者应该学习的 5 门课程](http://javarevisited.blogspot.sg/2018/04/top-5-java-frameworks-to-learn-in-2018_27.html)
 [学习 Java 中的大数据和 Apache Spark](http://javarevisited.blogspot.sg/2017/12/top-5-courses-to-learn-big-data-and.html)
 [10 门课程学习 Java 开发者的 devo PS](https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html)
-[](http://www.java67.com/2018/02/10-books-java-developers-should-read-in.html)
+<http://www.java67.com/2018/02/10-books-java-developers-should-read-in.html>
 [Java 开发人员在日常工作中使用的 10 个工具](http://javarevisited.blogspot.sg/2017/03/10-tools-used-by-java-programming-Developers.html#axzz55lrMRnNC)
 [成为更好的 Java 开发人员的 10 个技巧](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html)**
 
@@ -135,16 +127,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ## **您可能喜欢的其他媒体文章:**
 
-**[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc) [## 2023 年工作和未来需要学习的 10 种最佳编程语言
-
-### 这些都是最好的编程语言，为软件开发，未来，并得到一份工作，在技术与相关…
-
-medium.com](/javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc) [](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904) [## 这些是薪酬最高的技术工作，程序员可以提高他们的薪酬
-
-### 以及获得这些工作所需技能的资源链接
-
-medium.com](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904)**
+**</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc>  </javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904> **

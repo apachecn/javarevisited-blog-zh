@@ -6,7 +6,7 @@
 
 你好👋我是罗汉·卡达姆😊
 
-今天，云正在成为任何软件开发的标准。我们在编程周期的每个方面都使用了云，无论是将我们的代码上传到 Github 或 Gitlab，还是使用 Google Drive 或 Dropbox 或上传我们的个人文件。在本文中，我们将了解如何使用[](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e)**实现文件**上传到 Azure Blob。****
+今天，云正在成为任何软件开发的标准。我们在编程周期的每个方面都使用了云，无论是将我们的代码上传到 Github 或 Gitlab，还是使用 Google Drive 或 Dropbox 或上传我们的个人文件。在本文中，我们将了解如何使用</javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e>**实现文件**上传到 Azure Blob。****
 
 **[![](img/296d49c3a0c4d16bfa77d57326b26a31.png)](https://javarevisited.blogspot.com/2020/05/top-20-spring-boot-interview-questions-answers.html)
 
@@ -32,11 +32,7 @@
 
 ## **第一步:如何生成 Spring Boot 项目？**
 
-**[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成的 spring boot 项目正好是你快速启动所需要的！
-
-start.spring.io](https://start.spring.io/) 
+**<https://start.spring.io/>  
 
 ## 步骤 2:我应该包括哪些依赖项？
 
@@ -100,10 +96,6 @@ azure blob read 文件
 
 ## 参考书目:-
 
-[](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-storage) [## 如何将 Spring Boot 入门版用于 Azure 存储
-
-### 本文将带您使用 Spring Initializr 创建一个定制应用程序，然后添加 Azure 存储…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-storage) ![](img/0d8ba0bb6c76c8909aa5000db0cedfc9.png)
+<https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-storage>  ![](img/0d8ba0bb6c76c8909aa5000db0cedfc9.png)
 
 谢谢观众们——罗汉·卡达姆**

@@ -16,7 +16,7 @@
 
 在当今世界，学习新技能已经成为你职业和生活中至关重要的事情，它让你有能力和智慧更快地理解并轻松解决许多生活问题，并帮助你的大脑获得分析思维技能等。
 
-正因如此，许多平台如[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F)**[**plural sight**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)[**Coursera**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2F)[**edX**](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=)[CodeCademy](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fcatalog)[Linkedin Learning](http://linkedin-learning.pxf.io/c/1193463/449670/8005)等应运而生，帮助学生每天在网上与导师联系并获得新技能。**
+正因如此，许多平台如<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F>**[**plural sight**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)[**Coursera**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2F)[**edX**](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=)[CodeCademy](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fcatalog)[Linkedin Learning](http://linkedin-learning.pxf.io/c/1193463/449670/8005)等应运而生，帮助学生每天在网上与导师联系并获得新技能。**
 
 **这真的很重要，因为你不需要浪费那么多时间和金钱去上大学，并让每个人都可以访问它，我将在今天的文章中与你讨论的一些最好的平台是 Udemy 和教育。io**
 
@@ -44,19 +44,11 @@
 
 **该平台有许多著名的课程可以学习，如 [**探索系统设计面试**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) ，这是为你参加数据库和微服务等系统设计面试做准备的最佳课程之一。**
 
-**[](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 这个由设计大师们开设的课程已经帮助了 6 万多名用户破解了他们的系统设计面试(SDI)。系统设计…
-
-www.educative.io](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) 
+**<https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224>  
 
 除此之外，还有另一门课程叫做 [**探索编码面试**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 帮助你解决编码面试中的问题，比如在代码中找到模式并修复它们，以及你将在平台中探索的许多其他课程。
 
-[](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式——互动学习
-
-### 更新:这个课程已经帮助 3 万多名用户在顶级公司找到了工作，包括谷歌、脸书、亚马逊和…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 与为学生提供视频课程的 [Udemy](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F) 不同，educative.io 只允许**基于文本的课程**，因为他们认为阅读比观看视频要快得多，好的一点是该平台还允许在在线环境中运行代码，这样你就不必下载任何额外的软件来开始学习。
 
@@ -87,11 +79,7 @@ Udemy 课程数量比 Educative 多，超过 12 万门课程，而 Educative 有
 
 如果你想学习 Python、Java、Web 开发、React 或 Spring Framework，你可以随时查看这些课程。如果你需要更多选择，我在这里分享了更多 [best Udemy 课程](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9)。
 
-[](https://javarevisited.blogspot.com/2020/11/top-10-udemy-courses-you-can-buy-in.html#axzz6fMfranXP) [## 2023 年 Python 和 Web 开发的 10 大 Udemy 课程——最好的
-
-### 大家好，Udemy 是最受欢迎的在线学习平台之一，它以销售而闻名，你可以花 200 美元买一个…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/11/top-10-udemy-courses-you-can-buy-in.html#axzz6fMfranXP) 
+<https://javarevisited.blogspot.com/2020/11/top-10-udemy-courses-you-can-buy-in.html#axzz6fMfranXP>  
 
 ## **2。文字 vs 视频**
 
@@ -118,11 +106,7 @@ Udemy 是关于视频课程的，他们也有练习测试，就像我在 Udemy �
 
 另一方面，教育性的课程更加打磨，尤其是他们的 [*Grokking 面试课程*](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) ，是准备编码面试的最佳资源。
 
-[](https://www.educative.io/courses/grokking-adv-system-design-intvw?affiliate_id=5073518643380224) [## 探索高级系统设计面试——互动学习
-
-### 系统设计问题越来越成为软件工程面试中不可或缺的一部分。对于学长…
-
-www.educative.io](https://www.educative.io/courses/grokking-adv-system-design-intvw?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/grokking-adv-system-design-intvw?affiliate_id=5073518643380224>  
 
 ## **4。学习经历**
 
@@ -130,11 +114,7 @@ Udemy 提供了一种视觉化的学习体验，这很棒，许多初学者都�
 
 由于初学者经常努力建立自己的开发环境，并在跟随指导者时犯错误，我认为在你的浏览器上运行代码的能力使[教育性](https://www.educative.io/courses/machine-learning-system-design?affiliate_id=5073518643380224)成为初学者更好的学习平台。
 
-[](https://www.educative.io/courses/system-design-interview-doordash?affiliate_id=5073518643380224) [## 系统设计面试:免门槛互动课程
-
-### 本课程通过对 DoorDash(一个准备好的食物递送系统)的案例研究，为你的系统设计面试做准备
-
-www.educative.io](https://www.educative.io/courses/system-design-interview-doordash?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/system-design-interview-doordash?affiliate_id=5073518643380224>  
 
 ## **5。定价**
 
@@ -169,8 +149,4 @@ Udemy 的 USP 是你可以花 9.9 美元买到 200 美元的课程，这在其�
 
 **附言——**如果你正在寻找免费的在线课程来学习新的技术技能，那么你也可以看看这个 [**免费教育课程**](https://javarevisited.blogspot.com/2020/01/top-10-free-interactive-online-courses.html) 的列表，你可以用它们来学习 Python、Java、JavaScript、Ruby、PHP 和其他热门编程语言。
 
-[](/javarevisited/20-free-educative-courses-for-programmers-and-software-engineers-a7135028350c) [## 2023 年为程序员和软件工程师提供 20 多门免费教育课程
-
-### 我最喜欢的免费的基于文本的编程和软件开发课程
-
-medium.com](/javarevisited/20-free-educative-courses-for-programmers-and-software-engineers-a7135028350c)**
+</javarevisited/20-free-educative-courses-for-programmers-and-software-engineers-a7135028350c> **

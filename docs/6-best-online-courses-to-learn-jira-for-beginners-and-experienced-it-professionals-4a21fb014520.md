@@ -76,11 +76,7 @@ JIRA 是 Atlassian 公司提供的一款用于问题和 bug 跟踪的综合软�
 
 顺便说一下，你需要一个 [Pluralsight 订阅](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来观看这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。如果你还没有 Pluralsight 会员资格，那么我强烈建议你注册一个，因为它可以通过他们庞大的在线课程库极大地促进你的学习。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **免费观看本课程。**
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[敏捷与亚特兰蒂斯 JIRA](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fagile-atlassian-jira) 【最佳 Coursera 课程】
 
@@ -100,11 +96,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 3000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制地访问 90%以上的课程、指导项目…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.[完整的 JIRA 敏捷项目管理课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-jira-agile-project-management-course%2F)
 
@@ -158,8 +150,4 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 **p . s .**——如果你热衷于学习 JIRA，但在寻找免费的在线课程，那么你也可以看看这个 [**适合初学者的 JIRA——在你的 Udemy 项目课程中有效地使用 JIRA**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fatlassian-jira-for-beginners%2F)。在这个 2 小时的免费课程中，您将学习如何在任何项目中有效地使用 Atlassian JIRA 工具。这是完全免费的，你只需要一个 Udemy 帐户就可以注册这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fatlassian-jira-for-beginners%2F) [## 免费 JIRA 教程- JIRA 初学者-在你的项目中有效地使用 JIRA
-
-### Manish 是一位经验丰富的测试专家，在软件测试和测试自动化方面有 14 年以上的经验。他有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fatlassian-jira-for-beginners%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fatlassian-jira-for-beginners%2F> 

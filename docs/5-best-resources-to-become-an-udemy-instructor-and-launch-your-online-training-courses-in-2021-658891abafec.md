@@ -18,11 +18,7 @@
 
 我也有目的地选择了激励性的课程。例如，这个列表中的第一个课程来自一位创作者，[菲尔·艾伯](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fphilipebiner2%2F)，他已经在 Udemy 赚了超过 100 万美元，也许更多。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fphilipebiner2%2F) [## Phil Ebiner |顶级讲师，200 多万学生| Udemy
-
-### 我来教你脱颖而出的必备技巧。无论是个人激情还是商业追求…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fphilipebiner2%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fphilipebiner2%2F>  
 
 他友好地分享了他在其他地方的数据和收入，如 [Teachable](http://sendmeto.teachable.com/lgrZW) 、[thinkfic](http://try.thinkific.com/javinpaul8817)、 [Podia](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) 、Skillshare、StackSocial 等。这种信息分享非常有激励性，但请注意，没有多少人能做到这一点。
 
@@ -121,8 +117,4 @@ Dan 是一名全职在线课程讲师，在本次培训中，他将向您展示�
 
 **P. S. -** Teachable 和 Udemy 并不是唯一可以托管和销售在线课程的平台。还有更多选项，如[**thinkfic**](http://try.thinkific.com/javinpaul8817)， [**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) ， [Teachable](https://sendmeto.teachable.com/lgrZW) ，Kajabi，Skillshare 等等。你甚至可以将你的课程发布到多个平台上，从而两全其美。
 
-[](http://try.thinkific.com/javinpaul8817) [## 利用排名第一的在线课程平台:Thinkific 创建、营销和销售
-
-### 获得推广业务、销售课程和…所需的所有营销工具、集成和支付选项
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817)
+<http://try.thinkific.com/javinpaul8817> 

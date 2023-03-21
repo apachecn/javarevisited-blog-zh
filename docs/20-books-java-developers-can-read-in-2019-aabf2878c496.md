@@ -184,16 +184,8 @@ SQL 是我最喜欢的技术，我总是在寻找一本关于 SQL 的有趣的�
 
 如果你喜欢在线课程，这里列出了一些最好的 Java 课程，有免费的也有付费的，我已经在这篇文章中分享过了:
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  
 
 而且，
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

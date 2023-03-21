@@ -102,11 +102,7 @@ image_credit — R 编程:面向数据科学的高级 R 分析
 
 而且，如果你找到一个教育平台和他们的搜索课程，如 [**搜索机器学习面试**](https://www.educative.io/courses/grokking-the-machine-learning-interview?affiliate_id=5073518643380224) ，那么考虑获得 [***教育订阅***](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/courses/grokking-the-machine-learning-interview?affiliate_id=5073518643380224) [## 探索机器学习面试——互动学习
-
-### 系统设计是任何 ML 面试的重要组成部分。能够有效地解决开放式机器…
-
-www.educative.io](https://www.educative.io/courses/grokking-the-machine-learning-interview?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/grokking-the-machine-learning-interview?affiliate_id=5073518643380224>  
 
 ## 5.[数据科学:来自哈佛大学的 R 基础知识](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fdata-science-r-basics)
 
@@ -143,11 +139,7 @@ Rafael Irizarry 教授的这门课程旨在为 R 打下基础，并学习如何�
 
 而且，如果你发现 Coursera 认证有用，那么你也应该加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，它为你提供**无限制访问**他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 7.[Sandeep Kumar 使用 R 进行数据分析的统计](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fstatistics-using-r%2F)【Udemy】
 
@@ -259,8 +251,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .——**如果你热衷于学习 R 编程，但正在寻找一个免费的在线培训课程，那么你也可以看看这个[**R 课程免费介绍**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-r%2F) 。这个 10 小时的课程将使用 140+练习题以互动的方式教你 R 编程。这个课程最大的好处是它是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-r%2F) [## 免费 R 教程-R 介绍
-
-### 更新:截至 2018 年 11 月 22 日，该课程现已免费！非常感谢所有我现有的学生，他们使…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-r%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-r%2F> 

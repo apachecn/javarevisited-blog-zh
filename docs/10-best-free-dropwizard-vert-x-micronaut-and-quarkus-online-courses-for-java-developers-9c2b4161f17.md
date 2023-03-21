@@ -14,11 +14,7 @@
 
 顺便说一句，如果你是一个 Spring boot 粉丝，如果你想使用 Spring Boot 和 Spring Cloud 学习微服务开发，那么我强烈推荐你在 Udemy 上查看 Ranga Karnam 的[**Master micro services with Spring Boot 和 Spring Cloud 课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 。这是我最喜欢的为 Java 开发人员学习微服务的课程，非常实用和循序渐进的方法使学习变得容易。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想知道关于…的大肆宣传吗
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F>  
 
 这些是你可以获得的最好的在线课程和教程，以学习这些用于构建云原生应用的现代 [Java 框架](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651)和 [*微服务*](https://javarevisited.blogspot.com/2019/09/top-5-courses-to-learn-soa-service-oriented-architecture-microservices.html) 。
 
@@ -143,11 +139,7 @@ Quarkus 据说是一个超音速亚原子 Java 工具包。但这意味着什么
 
 我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.[micro naut 简介【免费课程](https://www.youtube.com/watch?v=RtjSqRZ_md4)
 
@@ -218,8 +210,4 @@ Quarkus 是另一个有前途的 Java 框架。据预测，这将是 2023 年的
 
 **P. S.** —如果你想用 Spring Boot 和 Spring Cloud 学习微服务开发，那么我强烈推荐你去 Udemy 上看看 Ranga 的 [**Master 微服务与 Spring Boot 和 Spring Cloud 课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 。这是学习 Java 微服务的 Spring Boot 和 Spring Cloud 的最佳实践课程之一。超过 9 万人已经从中受益。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想知道关于…的大肆宣传吗
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F> 

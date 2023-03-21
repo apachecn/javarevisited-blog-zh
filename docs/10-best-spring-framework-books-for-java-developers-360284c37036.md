@@ -178,8 +178,4 @@
 
 **如果你想深入学习如何使用 Spring MVC 开发 RESTful Web 服务，我建议你参加由欧根·帕拉斯基夫教授的 [**REST with Spring 认证课程**](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) 。用 Spring MVC 学习 REST 最好的课程之一。**
 
-**[](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:认证课程
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa)**
+**<http://courses.baeldung.com/p/rest-with-spring-the-certification-class?affcode=22136_bkwjs9xa> **

@@ -24,11 +24,7 @@
 
 在通常的生产环境中，有成百上千个容器专用于各种[微服务](https://javarevisited.blogspot.com/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html)。因此，管理它们不是一项简单的任务。他们需要更新、版本控制、健康检查、扩展和更多的功能。这就是需要一个 ***【容器编制器】*** 的地方。如果你想了解更多关于容器的知识，你也可以查看这些[最佳课程，为开发者学习 Docker 和 Kubernetes](https://dev.to/javinpaul/top-10-courses-to-learn-docker-and-kubernetes-for-programmers-4lg0) 。
 
-[](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) [## 2020 年学习 Docker 和 Kubernetes 的 5 大课程-最佳课程
-
-### 伙计们，你们好吗？你有望实现今年的目标吗？我相信你在…的时候已经有了目标
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) 
+<https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html>  
 
 # 容器编排器及其角色
 
@@ -48,11 +44,7 @@ Kubernetes 诞生于 Google，是他们管理容器的内部技术之一。它�
 
 如果你想学习 Kubernetes 和 Docker，那么 [**Docker 和 Kubernetes:完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) 是最好的开始。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，那么这就是适合你的课程。CI+CD…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F>  
 
 # 为什么 Kubernetes 胜过其他管弦乐队
 
@@ -172,11 +164,7 @@ Kubernetes 中有 5 种服务可供我们根据自己的目的进行选择:(来�
 
 好吧！理论说够了。让我们把手弄脏吧😉。如果你想了解更多，请查看面向绝对初学者的 Kubernetes 动手课程，这绝对是一种享受。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-kubernetes%2F) [## Kubernetes 的绝对初学者-动手
-
-### “这是迄今为止 Udemy 上最好的 Kubernetes 课程”-学生证明学习 Kubernetes 对任何…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-kubernetes%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-kubernetes%2F>  
 
 # 实践 Springboot 和 Google Kubernetes 引擎
 
@@ -404,4 +392,4 @@ gcloud container clusters delete [CLUSTER NAME]--zone=us-central1-b
 > [完整的 DevOps 路线图](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 > [10 门免费课程学习 Maven、Jenkins 和 Docker](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
 
-如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**[](/@somasharma_81597/membership)
+如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**</@somasharma_81597/membership>

@@ -24,12 +24,4 @@
 
 编写高性能代码一点也不容易！这只是漫长旅程的开始。我会分享我的经验，并帮助你也这样做。举例——也许它们只是简单的例子，但即便如此，你也很难在其他地方找到这样的提示。继续学习，再见！
 
-[](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2022 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [](/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a) [## 面向程序员的十大 Java 书籍——一直都很棒
-
-### 从核心 Java 到最佳实践，从单元测试到 Spring……
-
-medium.com](/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
+</javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2>  </swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a> 

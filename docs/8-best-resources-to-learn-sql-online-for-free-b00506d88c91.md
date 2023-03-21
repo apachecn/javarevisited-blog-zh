@@ -64,11 +64,7 @@ Coursera 是另一个免费学习热门技术技能的地方。很多人不知�
 
 **当谈到加入这门课程时，你有两个选择，你可以单独加入这门课程，每月花费大约 39 美元进行专业化，你也可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，每月花费 59 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **[3。SQLZoo](http://sqlzoo.net/)**
 
@@ -183,8 +179,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你不介意花几块钱去学习像 SQL 这样的有价值的技能，而这种技能可以让你长期受益，那么我也推荐你去看看 Educative 上的[**SQL 课程入门指南，这是一个交互式的、基于文本的网站，你可以在你的浏览器上在线练习 SQL，而不需要安装任何数据库或设置表格和测试数据。**](https://www.educative.io/courses/introductory-guide-to-sql?affiliate_id=5073518643380224)****
 
-****[](https://www.educative.io/courses/introductory-guide-to-sql?affiliate_id=5073518643380224) [## SQL 入门指南-交互式学习
-
-### 使用 SQL 的能力正成为越来越受欢迎的技能，无论是对软件开发人员还是非专业人士来说。
-
-www.educative.io](https://www.educative.io/courses/introductory-guide-to-sql?affiliate_id=5073518643380224)****
+****<https://www.educative.io/courses/introductory-guide-to-sql?affiliate_id=5073518643380224> ****

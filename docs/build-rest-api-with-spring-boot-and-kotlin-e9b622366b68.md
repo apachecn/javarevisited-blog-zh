@@ -33,7 +33,7 @@
 
 ****我们必须配置 H2 数据库属性，以便 Spring Boot 可以创建数据源。为了定义这样的属性，我们可以使用外部配置。此外，我们可以使用属性文件、YAML 文件、环境变量和命令行参数来定义这样的外部配置。****
 
-******一般情况下，**[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd?source=collection_home---4------0-----------------------)****提供了** `**application.properties**` **文件来默认定义此类数据库属性**。属性文件使用键值格式。******
+******一般情况下，**</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd?source=collection_home---4------0----------------------->****提供了** `**application.properties**` **文件来默认定义此类数据库属性**。属性文件使用键值格式。******
 
 ******或者，我们可以使用基于 YAML 的配置文件，这些文件使用分层数据**。YAML 文件大大有助于避免重复的前缀，并且与属性文件相比更具可读性:****
 
@@ -50,7 +50,7 @@
 
 ****领域模型是应用程序的核心部分。我们可以使用数据类创建一个领域模型`Employee`。****
 
-******另外，**[](/javarevisited/7-free-courses-to-learn-kotlin-in-2020-327c3872c1e1?source=collection_home---4------2-----------------------)****中的一个** `**data class**` **会自动生成**`**equals/hashCode**`**`**toString**`**和** `**copy**` **函数。**此外，我们不需要像 Java 一样定义 getter 和 setter 方法:********
+******另外，**</javarevisited/7-free-courses-to-learn-kotlin-in-2020-327c3872c1e1?source=collection_home---4------2----------------------->****中的一个** `**data class**` **会自动生成**`**equals/hashCode**`**`**toString**`**和** `**copy**` **函数。**此外，我们不需要像 Java 一样定义 getter 和 setter 方法:********
 
 *   ****`@Entity`注释指定该类是一个实体，并映射到一个数据库表。****
 *   ****`@Table`注释指定了用于映射的数据库表的名称。

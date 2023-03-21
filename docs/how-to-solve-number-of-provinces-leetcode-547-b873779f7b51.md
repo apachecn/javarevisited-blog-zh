@@ -4,7 +4,7 @@
 
 ## Leetcode 省份数的 Java 解决方案
 
-> 最初发表于[](https://asyncq.com/how-to-solve-number-of-provinces-leetcode-547)
+> 最初发表于<https://asyncq.com/how-to-solve-number-of-provinces-leetcode-547>
 
 ## **介绍**
 

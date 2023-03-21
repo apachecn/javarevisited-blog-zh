@@ -4,7 +4,7 @@
 
 [![](img/913514d9b7c0ec032ea6abfbe4c83389.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-software-architecture-patterns-and-techniques%2F)
 
-微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经被实践了很长时间，尤其是以 RESTful web 服务的形式[](http://javarevisited.blogspot.sg/2018/01/7-reasons-for-using-spring-to-develop-RESTful-web-service.html#axzz55a8rTeu7)**。**
+微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经被实践了很长时间，尤其是以 RESTful web 服务的形式<http://javarevisited.blogspot.sg/2018/01/7-reasons-for-using-spring-to-develop-RESTful-web-service.html#axzz55a8rTeu7>**。**
 
 **微服务的想法很简单，将一个包含从 UI 到服务层到数据库所有内容的大型整体应用程序分解成松散耦合且可以独立工作的小块应用程序。**
 
@@ -88,13 +88,9 @@
 
 **[![](img/24ceb0e2093b295babba6717eb154d7d.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fgoogle-cloud-java-spring)**
 
-**而且，如果你觉得 Coursera 课程有用，那么，你也可以加入 Coursera Plus[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
+**而且，如果你觉得 Coursera 课程有用，那么，你也可以加入 Coursera Plus<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ****5.[微服务原理和概念介绍](https://www.educative.io/courses/introduction-microservice-principles-concepts?affiliate_id=5073518643380224)****
 
@@ -132,11 +128,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****该课程使用一个定制贷款应用领域作为探索微服务开发的领域，你们中的许多人很容易与之相关。这使得学习更加容易和实用。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fexploring-spring-boot-and-spring-cloud-microservices%2F) [## Spring Boot 和 Spring Cloud 的微服务
-
-### 使用 Eureka、Feign、配置报告、配置服务、Hystrix Plus 依赖注入和 AOP 深潜的微服务
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fexploring-spring-boot-and-spring-cloud-microservices%2F)**** 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fexploring-spring-boot-and-spring-cloud-microservices%2F> **** 
 
 ## ****7.[跟 Spring Boot 和春云学微服务](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-microservices-with-spring-boot-and-spring-cloud%2F) [Udemy]****
 
@@ -184,11 +176,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ****顺便说一句，如果你发现教育平台和他们的搜索课程，如搜索系统设计面试，那么考虑获得 [**教育无限**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 订阅，每月只需 14.9 美元即可访问他们的 300 多门课程。非常划算，非常适合准备编码面试。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是 Spring Boot 和 Spring Cloud 学习微服务的一些**最佳课程。微服务架构是软件开发的未来，每个程序员都应该学习它。**
 
@@ -211,24 +199,8 @@ s](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developer
 
 如果你更喜欢书本而不是网络课程，那么你应该看看我列出的学习 Spring Boot 和春云的最佳书籍。
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 ## 您可能喜欢的其他媒体文章:
 
-[](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9) [## 我最喜欢的 2023 年学习软件架构的课程——最好的
-
-### 这些是 2023 年学习软件架构并成为解决方案架构师的最佳课程
-
-medium.com](/javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9)****
+</javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e>  </javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/top-5-courses-to-learn-software-architecture-in-2020-best-of-lot-5d34ebc52e9> ****

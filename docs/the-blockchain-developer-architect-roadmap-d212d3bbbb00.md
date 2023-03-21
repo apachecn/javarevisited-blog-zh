@@ -30,7 +30,7 @@
 
 现在，转到下一个问题，区块链领域有很多新的工作机会。区块链和加密相关的工作列表以天文数字的增长率飙升。除此之外，巨大的技能差距也创造了有限竞争的独特机会。
 
-因此，你有很多机会成为[](https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html)****的区块链建筑师，同时还有高薪的承诺。你如何发现认证是否能让你为区块链建筑师的角色做好准备？****
+因此，你有很多机会成为<https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html>****的区块链建筑师，同时还有高薪的承诺。你如何发现认证是否能让你为区块链建筑师的角色做好准备？****
 
 ****答案很简单。只需查看区块链建筑师的角色和职责，并找到涵盖相同内容的认证。****
 
@@ -54,11 +54,7 @@
 
 ****它们看起来很容易，但事实并非如此，你需要对区块链生态系统有很好的了解，才能设计和开发出能够经受住生产考验的区块链应用。****
 
-****[](https://javarevisited.blogspot.com/2022/07/how-to-become-blockchain-architect-in.html) [## 2022 年如何成为区块链架构师？区块链架构认证是由 101…
-
-### 区块链解决方案最近在技术领域制造了很多噪音，理由都很充分。它来了…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/how-to-become-blockchain-architect-in.html)**** 
+****<https://javarevisited.blogspot.com/2022/07/how-to-become-blockchain-architect-in.html> **** 
 
 ## ****3.区块链架构师认证及其价值****
 
@@ -186,8 +182,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/how-to-be
 
 ******P. S. —** 如果你正在寻找一个免费的课程来开始你的区块链职业生涯，那么你也可以查看 [**企业区块链基础**](http://shrsl.com/34mvm) ，这是一个来自 101 Blockchain 的免费区块链课程，是一个很好的开始。我向想要开始区块链职业生涯的初学者和有经验的开发者强烈推荐这门课程。如果需要更多选择，也可以看看这些 [**最好的免费区块链课程**](/javarevisited/7-free-courses-to-learn-blockchain-in-2020-764e66b47ebe) 。****
 
-****[](https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html) [## 2022 年要学习的 5 门免费区块链开发人员课程和认证-最好的
-
-### 大家好，如果你想学习区块链开发，并且正在寻找一些免费的区块链课程，你来了…
-
-www.java67.com](https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html)****
+****<https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html> ****

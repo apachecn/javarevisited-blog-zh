@@ -87,11 +87,7 @@ Eclipse Collections 附带了一个`Collectors2`类，它具有与`Collectors`�
 
 如果您想看到 Eclipse 集合库的可视化，在下面的博客中有很多。
 
-[](/oracledevs/visualizing-eclipse-collections-646dad9533a9) [## 可视化 Eclipse 集合
-
-### 使用 mind 对 Eclipse 集合中的 API、接口、工厂、静态实用程序和适配器进行可视化概述…
-
-medium.com](/oracledevs/visualizing-eclipse-collections-646dad9533a9) 
+</oracledevs/visualizing-eclipse-collections-646dad9533a9>  
 
 # 比较 Java 中的集合基类
 
@@ -148,8 +144,4 @@ Eclipse 集合`MutableCollection`与 java.util.Collection 的比较
 
 混合来源，但在研究和实践之间保持适当的平衡。当然，祝你在追逐自己的目标时好运:)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

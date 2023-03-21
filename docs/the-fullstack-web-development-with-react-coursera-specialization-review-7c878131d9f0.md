@@ -102,11 +102,7 @@ Jogesh 已经在 Coursera 上创建了一些非常好的 web 开发课程，如[
 
 总之，在 Coursera 上学习 React JS 和 Fullstack 开发是一门很棒的课程。您可以单独参加该课程，每月费用约为 39 美元，或者您也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，每月 59 美元即可无限制访问认证和规范。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是复习 **Coursera 最受欢迎的 Fullstack Web 开发课程**和认证——香港大学与 React 合作的 Fullstack Web 开发。该课程介绍了使用 React 框架和 bootstrap 进行前端的全栈 web 开发，并使用 Node.js 和 Express 等其他 JavaScript 框架进行后端开发。
 
@@ -133,8 +129,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你是 Udemy 课程的爱好者，并且正在寻找最好的 React.js 课程，以便在 Udemy 上从头开始学习 React，我强烈推荐你查看这本由 Maximilian Schwarz muller 编写的 [**React 完全指南课程。说到教 web 开发，他是个天才，我从他的 React.js 和 Angular 开发课程中学到了很多。参加 Udemy 上的 React 课程，你不会后悔。**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)*
 
-[](https://www.java67.com/2022/03/top-5-reactjs-courses-for-beginners-to.html) [## 2023 年新手在线学习的 5 门最佳 React.js 课程
-
-### 大家好，如果你想在 2023 年学习 React.js 并寻找书籍、在线课程等最佳资源…
-
-www.java67.com](https://www.java67.com/2022/03/top-5-reactjs-courses-for-beginners-to.html)
+<https://www.java67.com/2022/03/top-5-reactjs-courses-for-beginners-to.html> 

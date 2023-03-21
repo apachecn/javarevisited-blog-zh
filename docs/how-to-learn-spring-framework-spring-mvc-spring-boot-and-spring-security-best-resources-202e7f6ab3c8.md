@@ -85,11 +85,7 @@ Spring in Action 第六版书触及了 Spring 安全的一部分，但并没有�
 
 说到书，到目前为止，我只读过 [**和**](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20)Spring Boot 的作品，并发现这是一个很好的资源。我打算学习更多关于 Spring Boot 的书籍，如果我找到一本好书，我会和大家分享。
 
-[](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20) [## Spring Boot 在行动
-
-### Amazon.com 的 Spring Boot 在行动。*符合条件的优惠可享受免费*运输。Spring Boot 在行动
-
-www.amazon.com](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20) 
+<https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20>  
 
 这是关于如何在 2023 年学习 Spring 框架及其不同部分，如 Spring core、Spring MVC、Spring Security 和 Spring Boot。正如我所说的，对于一个 Java 开发人员来说，了解 Spring 对于提高他获得工作或更好机会的机会是非常重要的，当你必须学习一个新东西时，3 点行动我指的是参加一门课程、阅读一本书和建立一个项目真的很有效。
 
@@ -115,8 +111,4 @@ www.amazon.com](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292
 
 **P. S.** —如果你热衷于深入学习 Spring 框架，尤其是 Spring core 和 Spring Boot，但正在寻找一个免费的在线培训课程，那么你也可以在 Udemy 上查看这个[**Spring Boot 2 和 Spring 框架 5**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-spring-boot-2-and-spring-framework-5%2F) 的介绍课程。这是一门非常棒的课程，而且完全免费，你只需要一个免费的 Udemy 帐户就可以进入这门课程。
 
-[](https://javarevisited.blogspot.com/2018/05/top-5-courses-to-learn-spring-boot-in.html) [## Java 开发人员 2023 年学习 Spring Boot 的 5 大课程——最佳课程
-
-### 大家好，如果你有兴趣学习 Spring Boot 并寻找一些优秀的资源，如书籍…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-courses-to-learn-spring-boot-in.html)
+<https://javarevisited.blogspot.com/2018/05/top-5-courses-to-learn-spring-boot-in.html> 

@@ -8,7 +8,7 @@
 
 image _ Credit—thinkfic
 
-大家好，我一直倡导程序员和开发人员在 2022 年创建既学习又赚钱的在线课程，并一直推荐[](https://try.thinkific.com/javinpaul8817-blackfriday2424)****[**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)**[**learn world**](https://learnworlds.grsm.io/javarevisited)**和[**teached**](https://teachable.sjv.io/c/1193463/998814/12646)创建他们的在线课程并分享他们的知识。********
+大家好，我一直倡导程序员和开发人员在 2022 年创建既学习又赚钱的在线课程，并一直推荐<https://try.thinkific.com/javinpaul8817-blackfriday2424>****[**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)**[**learn world**](https://learnworlds.grsm.io/javarevisited)**和[**teached**](https://teachable.sjv.io/c/1193463/998814/12646)创建他们的在线课程并分享他们的知识。********
 
 ****你们中的许多人询问了折扣券和交易，这就是为什么我分享了思维和教学平台的最佳折扣优惠，以在 2022 年创建你们的在线课程业务。****
 
@@ -95,7 +95,7 @@ image _ Credit—thinkfic
 
 ****作为一个创作者，销售你的产品有助于你现在和将来增加收入。众所周知，问题在于许多产品平台都面临着巨大的挑战——必须拼凑出不完整的解决方案，需要复杂技术技能的工具，或者会占用你很大一部分收入的费用。****
 
-****这就是我喜欢波迪亚的原因。它简单、直观、易于使用。它也很实惠，套餐起价仅为[](https://www.podia.com/pricing/?via=javin)**39 美元/月，没有任何费用。******
+****这就是我喜欢波迪亚的原因。它简单、直观、易于使用。它也很实惠，套餐起价仅为<https://www.podia.com/pricing/?via=javin>**39 美元/月，没有任何费用。******
 
 ******Podia 是一个一体化平台，您可以使用它来运营您的整个业务，从托管您的网站和产品到收集电子邮件地址、发送时事通讯和点滴、收款、举办网络研讨会，甚至托管在线社区。******
 
@@ -121,11 +121,7 @@ image _ Credit—thinkfic
 
 ****你也可以在这里试用 LearnWorlds。认领你的 [***免费 30 天试用***](https://learnworlds.grsm.io/javarevisited) 现在和****
 
-****[](https://learnworlds.grsm.io/javarevisited) [## 主页
-
-### 创建、销售和推广您的在线课程的最佳在线课程平台。开始将你的技能货币化…
-
-learn world . grsm . io](https://learnworlds.grsm.io/javarevisited) 
+****<https://learnworlds.grsm.io/javarevisited>  
 
 以上就是课程创造者的**最佳黑色星期五交易**。我建议你买一个，为明年的在线课程做准备。创建一个在线课程并不容易，但从长远来看，它的回报是巨大的，你也有机会学习和建立你的听众。
 
@@ -154,8 +150,4 @@ learn world . grsm . io](https://learnworlds.grsm.io/javarevisited)
 
 **附言——**如果你只是想做一件事， [**在 thinkfic**](http://try.thinkific.com/javinpaul8817)上启动你的在线课程网站，你可以用更少的成本和更多的支持来完成，使用[*thinkfic 黑色星期五启动包*](http://try.thinkific.com/javinpaul8817) ，相信我你不会后悔这个决定，以后再感谢我吧。
 
-[](http://try.thinkific.com/javinpaul8817) [## 黑色星期五套餐
-
-### 将您的疑虑转化为决心，三个月 Thinkific Start 优惠 33%——我们的计划专为帮助……
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817)****
+<http://try.thinkific.com/javinpaul8817> ****

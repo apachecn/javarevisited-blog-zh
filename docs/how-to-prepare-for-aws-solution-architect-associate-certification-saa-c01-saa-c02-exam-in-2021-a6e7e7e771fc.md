@@ -44,11 +44,7 @@ AWS 认证路线图
 
 这是我向所有准备参加 Udemy 上的 AWS 解决方案架构师助理级别考试的人推荐的终极课程。它是由夏羽·马瑞克创建的，他是我最喜欢的导师之一，也是 AWS 认证的解决方案架构师和开发人员。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-saa-c01%2F) [## 终极 AWS 认证解决方案架构师助理(SAA)
-
-### 为了适应 AWS 用户界面的变化，S3 部分已经全部重新录制
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-saa-c01%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-saa-c01%2F>  
 
 他以 **984/1000 的分数通过了，**这说明了很多。我也是他的[阿帕奇卡夫卡课程](/javarevisited/top-10-apache-kafka-online-training-courses-and-certifications-621f3c13b38c)的忠实粉丝，这是一个非常深入和实用的学习卡夫卡的资源。说到这门课程，它也是最新最全面的，已经有超过 3 万名学生从中受益。
 
@@ -105,41 +101,25 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这些模拟考试由[斯特凡·玛瑞克](https://medium.com/u/98189c4cef0?source=post_page-----a6e7e7e771fc--------------------------------)和阿布舍克·辛格共同编写，他们带来了通过 **18 项美国焊接学会认证**的集体经验。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpractice-exams-aws-certified-solutions-architect-associate%2F) [## 模拟考试| AWS 认证解决方案架构师助理
-
-### 准备 AWS 认证解决方案架构师助理 SAA-C02？这是模拟考试课程，为您提供…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpractice-exams-aws-certified-solutions-architect-associate%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpractice-exams-aws-certified-solutions-architect-associate%2F>  
 
 **3.1.2 Jon Bonson 的 AWS 解决方案架构师实践测试(** [**390 题**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-amazon-practice-exams%2F) **)**
 
 本课程包含 6 道模拟试题，每道 65 题，为你的最后准备做准备。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-amazon-practice-exams%2F) [## AWS 认证解决方案架构师助理实践考试
-
-### 完全更新到新的 SAA-C02 - AWS 认证解决方案架构师助理考试版本！有很多课程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-amazon-practice-exams%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-amazon-practice-exams%2F>  
 
 **3.1.3 云大师的 AWS 架构师模拟测试(** [**195 题**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-practice-tests%2F) **)**
 
 这是 Udemy 上另一个优秀的 AWS 解决方案架构师助理考试模拟测试。它来自 Cloud guru，包含 3 个模拟测试，每个测试有 65 个问题。这比前几部稍微有点棘手，但值得一试。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-practice-tests%2F) [## AWS 认证解决方案架构师助理实践测试
-
-### 我是一位云计算专家的创始人，也是亚马逊网络服务社区的英雄。我持有每一个助理认证，我…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-practice-tests%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-practice-tests%2F>  
 
 ## 3.2 David Mayer 的 AWS 转储( [987 个问题](https://www.certification-questions.com/buy-dumps-exams/aws-certified-solutions-architect-associate-dumps?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate))
 
 如果你真的想获得 900+的分数，这是 AWS 练习题的另一个大列表。这个模拟测试有 987 个问题和 20 个考试测试，这使它成为所有 AWS 练习试卷的母亲。做了之后就不需要别的了。
 
-[](https://www.certification-questions.com/buy-dumps-exams/aws-certified-solutions-architect-associate-dumps?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 亚马逊 AWS 认证解决方案架构师助理实践测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/buy-dumps-exams/aws-certified-solutions-architect-associate-dumps?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/buy-dumps-exams/aws-certified-solutions-architect-associate-dumps?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 ## 3.3 WhizLabs ( [620 个问题](http://shrsl.com/1pid8))
 
@@ -209,8 +189,4 @@ AWS 解决方案架构师也是薪酬最高的专业人士，年薪从 12 万美
 
 **p . s .**——如果你是云与 AWS 的新手，正在寻找一些学习亚马逊 Web 服务的免费课程，那么你也可以在 HackerNoon 上查看这个针对初学者的 [**免费 AWS 课程列表。**](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7)
 
-[](https://dev.to/javinpaul/top-10-free-courses-to-learn-aws-in-2020-529e) [## 2023 年学习 AWS 的 10 大免费课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-10-free-courses-to-learn-aws-in-2020-529e)
+<https://dev.to/javinpaul/top-10-free-courses-to-learn-aws-in-2020-529e> 

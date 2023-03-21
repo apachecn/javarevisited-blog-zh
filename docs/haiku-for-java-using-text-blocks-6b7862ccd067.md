@@ -78,16 +78,4 @@ HaikuTest 的源代码
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651) [## 2022 年 Java 开发人员可以学习的微服务开发 5 大框架
-
-### Java 程序员们好，2022 新年快乐。如果你正在考虑用 Java 进行微服务开发，并且正在寻找…
-
-medium.com](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651) [](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [## 2022 年 Java 程序员和架构师可以学习的 25 项基本技能
-
-### Java 开发人员可以在 2022 年学习的 22 项基本技术技能，以进一步改善他们的形象，并成为…
-
-medium.com](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+</javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651>  </javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491>  </javarevisited/the-java-programmer-roadmap-f9db163ef2c2> 

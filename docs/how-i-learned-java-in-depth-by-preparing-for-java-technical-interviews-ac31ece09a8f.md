@@ -29,7 +29,7 @@
 
 4. [**设计模式**](/javarevisited/7-best-online-courses-to-learn-object-oriented-design-pattern-in-java-749b6399af59) **和** [**系统设计**](https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67) 问题被问的最多。当面对面试时，我知道了它们的重要性，我也把它们加入了我的知识库
 
-5.**单元测试的重要性**，有时候面试官会测试你的单元测试知识。因此，我不得不深入学习 Junit 框架[](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688)**。**
+5.**单元测试的重要性**，有时候面试官会测试你的单元测试知识。因此，我不得不深入学习 Junit 框架</javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688>**。**
 
 > ****我在准备 java 技术面试时深入了解的话题****
 

@@ -18,11 +18,7 @@ Selenium 提供了一个 API，可以让你自动化网页上的一切。您可�
 
 Selenium 也允许你在任何语言上编写自动化测试，比如 [Java](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 、 [C#](https://javarevisited.blogspot.com/2019/11/top-5-courses-to-learn-c-sharp-in.html) 、Perl、 [Python](https://javarevisited.blogspot.com/2018/12/10-free-python-courses-for-programmers.html) 等等。但是 90%的公司使用 [Selenium 搭配 Java](/javarevisited/top-7-courses-to-learn-selenium-for-java-and-c-developers-to-learn-automation-testing-free-and-e91637cd9622) ，这意味着愿意学习 Selenium 进行自动化测试的手工测试人员也应该学习 Java。虽然你只需要知道核心的 Java 基础知识，但是你不需要成为 Java 专家来编写 selenium 测试。不过，如果你认为你的 Java 技能不一般，你也可以查看 Udemy 上的 [**完整 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程。课程很棒，但不是免费的，但也不是很贵。我去年只买了 10 美元，相当于现在一顿午餐的费用。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 与 Java 和 C#开发人员一起学习 Selenium 的 7 门免费在线课程
 
@@ -152,8 +148,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **p . s .**——如果你不介意花 10 美元这样的几块钱上一门优秀的课程来学习 Selenium 这样有价值的高薪技能，那么[**Selenium web driver with Java-Basics to Advanced+Frameworks**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fselenium-real-time-examplesinterview-questions%2F)是 2023 年学习 Selenium with Java 的最佳课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fselenium-real-time-examplesinterview-questions%2F) [## Selenium WebDriver 与 Java+框架教程
-
-### 教学是我的爱好。这是我的职业。
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fselenium-real-time-examplesinterview-questions%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fselenium-real-time-examplesinterview-questions%2F> 

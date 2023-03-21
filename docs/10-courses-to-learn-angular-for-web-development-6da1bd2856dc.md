@@ -22,11 +22,7 @@ Angular 是谷歌最受欢迎的 JavaScript 前端框架之一，它允许你构
 
 顺便说一下，如果你是 TypeScript 新手，想在 2023 年学习 TypeScript，并且需要一门课程，那么我强烈推荐你加入 Udemy 上的 [**理解 TypeScript**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F) 课程，这是学习 TypeScript 的最佳在线课程之一。
 
-[](/javarevisited/7-best-courses-to-learn-typescript-in-depth-58439e1ce729) [## 2023 年初学者学习的 10 门最佳打字稿课程
-
-### 2023 年学习 TypeScript，成为更好的 Web 开发者
-
-medium.com](/javarevisited/7-best-courses-to-learn-typescript-in-depth-58439e1ce729) 
+</javarevisited/7-best-courses-to-learn-typescript-in-depth-58439e1ce729>  
 
 # 2023 年学习 Angular 框架的 13 门最佳课程
 
@@ -72,19 +68,11 @@ medium.com](/javarevisited/7-best-courses-to-learn-typescript-in-depth-58439e1ce
 
 如果你愿意，你也可以通过完成本课程和 [**全栈 Web 和多平台移动应用开发专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development) 获得证书，但那不是免费的，你需要每月支付 39 美元。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development) [## 使用 Angular 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development>  
 
 或者，你也可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它提供无限制的访问最好的 Coursera 课程、认证和专业的机会。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[2023 年完成角度开发者:零到精通](https://academy.zerotomastery.io/a/aff_sfk5z7pb/external?affcode=441520_zytgk2dn)
 
@@ -100,11 +88,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但是也提供了许多超级吸引人和有用的课程，比如这个 [*JavaScript Web 项目:20 个项目来建立你的作品集*](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn) 课程。你也可以使用我的代码 **FRIENDS10** 来获得你选择的任何套餐的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 4.[棱角分明的大师级](https://www.educative.io/courses/getting-started-with-angular?affiliate_id=5073518643380224)【教育性】
 
@@ -125,11 +109,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 而且，如果你觉得教育平台和他们基于文本的互动课程很吸引人，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元就可以获得他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 5.Deborah Kurata 在 Pluralsight 上的文章
 
@@ -147,11 +127,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 或者，你也可以使用他们的 **1** [**0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 他们现在还提供 33%的折扣，这意味着你只需花 199 美元就能获得他们的年度会员资格，并节省 100 美元，这对任何热爱学习的程序员来说都是一笔大数目
 
@@ -205,11 +181,7 @@ TypeScript 之后都是[角](https://javarevisited.blogspot.com/2018/06/5-best-c
 
 过去，我曾分享过一个[免费角课程](http://www.java67.com/2018/01/top-5-free-angular-js-online-courses-for-web-developers.html)的列表，你们很多人都喜欢，但反馈是关于分享一些最好的课程，即使是付费的。
 
-[](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) [## 2023 年免费学习 Angular 和 React.js 的 10 大课程-最好的
-
-### 毫无疑问，Angular 和 React(也称为 Angular JS 和 React JS)是最受欢迎的两种…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) 
+<https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html>  
 
 这是有道理的，有时我们不介意为真正好的东西付出一点点代价，因为无论如何我们都在这上面花了很多时间，这是我写这篇文章的主要原因。
 
@@ -255,11 +227,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/10-free-a
 
 > 以下是查看本课程的链接— [Angular: The Big Picture](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fng-big-picture)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fng-big-picture) [## 棱角分明:大局
-
-### 这个由乔埃姆斯教授的多元视觉课程将教你一个高层次的角度，以帮助你在任何…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fng-big-picture) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fng-big-picture>  
 
 ## 12.[棱角分明的架构和最佳实践](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fangular-architecture-best-practices)丹·瓦林著
 
@@ -273,11 +241,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 > 以下是查看本课程的链接— [角度架构和最佳实践](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fangular-architecture-best-practices)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fangular-architecture-best-practices) [## 角度架构和最佳实践
-
-### 了解如何构建易于重构和维护的可靠的 Angular 应用程序架构。涵盖的主题…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fangular-architecture-best-practices) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fangular-architecture-best-practices>  
 
 ## 13.[角度要领(角度 2+带打字稿)](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fangular-essentials-angular-2-angular-4-with-typescript%2F)
 
@@ -312,24 +276,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **p . s .**——如果你正在寻找一些免费课程来启动你的 Angular 之旅，你也可以看看这个 [**Angular for 初学者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fangular-for-beginners-course%2F) ，它提供了 Angular 框架的快速介绍，重点介绍了它最常用的部分，也为 Angular 11 进行了更新。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fangular-for-beginners-course%2F) [## 免费角度教程-初学者角度课程(包括免费电子书)
-
-### 角大学的目标是成为一个地方，你去，以便学习和跟上整个角…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fangular-for-beginners-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fangular-for-beginners-course%2F>  
 
 ## 您可能喜欢的其他文章:
 
-[](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [## 面向初学者和有经验的 Web 开发人员的 10 大有价值的书籍和课程——最好的
-
-### 大家好，如果你对学习 Angular 框架感兴趣，这是最流行的 JavaScript 框架之一…
-
-medium.com](/javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c) [](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) [## 我最喜欢的免费 JavaScript 教程和初学者课程
-
-### 大家好，我们很幸运生活在一个科技的世界里，在这里你可以获得很多资源，比如免费的…
-
-medium.com](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) [](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4) [## 2023 年要学习的 10 个 JavaScript 框架和库——最好的
-
-### 2023 年前端开发者能学到的最好的 JavaScript 框架，有相关课程的链接。
-
-medium.com](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)
+</javarevisited/top-10-angular-books-and-courses-for-beginners-and-experienced-web-developers-best-of-lot-9a2dae87f04c>  </javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2>  </javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4> 

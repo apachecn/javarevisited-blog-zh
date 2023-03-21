@@ -68,11 +68,7 @@
 
 对了，如果你有兴趣学习 DevOps，我也推荐你准备 [**Google Cloud 认证:Coursera 上 Google Cloud 的 Cloud DevOps 工程师职业证书专精**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 。对于任何想以 DevOps 工程师或 SRE 开始职业生涯的人来说，这是一个很好的资源。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) [## 准备谷歌云认证:云 DevOps 工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud>  
 
 ## 4.[加速:建立和扩展高绩效的技术组织](https://javarevisited.blogspot.com/2020/04/top-5-books-to-learn-devops-for-developers.html#axzz6toWVHFSH)
 
@@ -151,8 +147,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你这时想的只是一件事，我会建议，就去读读“[**《Phoneix Project》**。你肯定不仅会学到而且会喜欢这个故事。](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/?tag=javamysqlanta-20)
 
-[](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/?tag=javamysqlanta-20) [## 凤凰计划(一部关于它的小说，DevOps，帮助你的企业成功)
-
-### 凤凰计划(一部关于它的小说，DevOps，并帮助你的企业获胜)[金，基因]对 Amazon.com。*免费*…
-
-www.amazon.com](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/?tag=javamysqlanta-20)
+<https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/?tag=javamysqlanta-20> 

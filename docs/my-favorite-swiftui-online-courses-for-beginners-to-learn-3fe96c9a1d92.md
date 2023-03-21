@@ -78,11 +78,7 @@ SwiftUI toolkit 包括布局结构、控件和视图，允许您使用相同的�
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.[Swift ui master class 2023—iOS 15 App 开发& Swift 5](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fswiftui-masterclass-course-ios-development-with-swift%2F)
 

@@ -97,12 +97,4 @@ W 在使用 idea 时，如果同时打开多个项目，内存往往会满，导
 
 单击帮助—编辑自定义虚拟机选项，在打开的文件中进行修改，并在修改后重新启动该想法
 
-[![](img/16f4bff2dae4bc264147f600e9841b6a.png)](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html)[](/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686) [## 2022 年学习 JVM、垃圾收集和性能调优的 7 门最佳课程
-
-### 大家好，对于一个高级 Java 开发人员来说，了解 JVM 是如何工作的以及如何解决…
-
-medium.com](/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686) [](/javarevisited/8-best-java-performance-books-for-experienced-developers-566e44f618c3) [## 有经验的开发人员的 8 本最佳 Java 书籍
-
-### 我最喜欢的 Java 书籍和课程，学习如何编写高性能的 Java 应用程序、JVM 内部机制、垃圾…
-
-medium.com](/javarevisited/8-best-java-performance-books-for-experienced-developers-566e44f618c3)
+[![](img/16f4bff2dae4bc264147f600e9841b6a.png)](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html)</javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686>  </javarevisited/8-best-java-performance-books-for-experienced-developers-566e44f618c3> 

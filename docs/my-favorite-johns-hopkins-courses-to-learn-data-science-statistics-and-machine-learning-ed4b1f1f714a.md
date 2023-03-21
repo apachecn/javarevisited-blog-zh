@@ -134,11 +134,7 @@ Jeff Leek、Roger D. Peng 和 Brian Caffo 教授精心组织、开发和讲授�
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 Coursera Plus[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，**Coursera 的订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2022 年 Coursera 上**最好的约翰霍普金斯认证和学习数据科学和机器学习的课程**。JHU 有两个学习数据科学的课程，分别是 Python 和 R 编程语言，你可以选择符合你需求的课程。
 
@@ -165,8 +161,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你喜欢 Udemy 的课程，那么你也可以在 Udemy 的 365 Careers 上查看 [**数据科学课程 2022:完成数据科学训练营**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 课程。这是在 Udemy 上学习数据科学的最佳课程之一，你只需花 10 美元就可以在 Udemy 上买到，Udemy 上的销售时有发生。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) [## 数据科学培训课程:数据科学家训练营
-
-### 数据科学家是本世纪最适合蓬勃发展的职业之一。它是数字化的，面向编程的，并且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F> 

@@ -155,10 +155,6 @@ linked-list      avgt         541 us/opinsert-last-pos  avgt         281 us/opco
 [数据结构和算法分析— —求职面试](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structure-and-algorithms-analysis%2F)
 [20+面试中基于字符串的编码问题](https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m)
 
-[](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) ![](img/b6578984dc018c44134738b9e16e76e8.png)![](img/ec9b9710329661db6caf375f69308521.png)
+</javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45>  ![](img/b6578984dc018c44134738b9e16e76e8.png)![](img/ec9b9710329661db6caf375f69308521.png)
 
 在 Twitter 上关注我 [@teivah](https://twitter.com/teivah)

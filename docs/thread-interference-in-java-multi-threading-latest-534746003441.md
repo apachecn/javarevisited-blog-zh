@@ -26,11 +26,7 @@
 
 我已经写了一篇关于过程和线程的详细文章。如果你还没有看完这篇文章，我建议你看一遍。
 
-[](/javarevisited/process-and-thread-context-switching-do-you-know-the-difference-updated-8fd93877dff6) [## 进程和线程上下文切换，你知道区别吗？
-
-### 一篇关于进程和线程、它们的区别以及上下文切换的文章。
-
-medium.com](/javarevisited/process-and-thread-context-switching-do-you-know-the-difference-updated-8fd93877dff6) 
+</javarevisited/process-and-thread-context-switching-do-you-know-the-difference-updated-8fd93877dff6>  
 
 ## 进程及其多线程:
 

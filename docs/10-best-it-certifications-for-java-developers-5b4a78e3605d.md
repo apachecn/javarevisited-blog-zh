@@ -54,11 +54,7 @@
 
 而且，如果你对这个考试很认真，我强烈推荐你推荐 Udemy 上的[**Java SE 11 Developer 1z 0–819 OCP 课程——第一部分**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-se-11-developer-1z0-819-ocp-course-part-1%2F) 和第二部分课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-se-11-developer-1z0-819-ocp-course-part-1%2F) [## Java SE 11 开发人员 1Z0-819 OCP 课程-第 1 部分
-
-### 获得 Java 认证是一个很好的方法，可以帮助你改善职业选择，获得更多的工作机会和更高的薪水…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-se-11-developer-1z0-819-ocp-course-part-1%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-se-11-developer-1z0-819-ocp-course-part-1%2F>  
 
 ## 2.VMware 的 Spring 专业认证
 
@@ -78,11 +74,7 @@ Spring 专业认证考试旨在测试和验证您对 Spring 框架的理解和�
 
 如果需要更多帮助，还可以看我的博文[2023 年如何破解 Spring v5.0 认证](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F) [## 春季专业认证考试教程-模块 01
-
-### 容器、依赖项和 IoC
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F>  
 
 ## 3.Java 认证基础助理
 
@@ -188,19 +180,11 @@ Hortonworks 大学宣布了一项针对 Hortonworks 数据平台上的 Apache Sp
 
 如果你决定去参加这个认证，那么 Coursera 上的 [**微软 Azure 基础 AZ-900 考试准备专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) 也是一个很好的起点。这个程序是由微软自己提供的，所以你可以从源代码中学习。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) [## Microsoft Azure 基础知识 AZ-900 考试准备
-
-### 开启你的云计算生涯。准备微软 AZ-900 认证考试。获得 50%的 Microsoft 折扣…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900>  
 
 您可以单独加入这一专业，也可以参加[**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，该订阅为您提供每年 399 美元的无限制 Coursera 认证访问权限。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 9.AWS 认证解决方案架构师助理
 
@@ -218,11 +202,7 @@ AWS 认证解决方案架构师助理考试面向具有在 AWS 平台上设计�
 
 该认证将帮助您掌握在 AWS 上设计和部署可伸缩、高可用性和容错系统的艺术。如果你决定在 2023 年参加这个认证，我建议你查看 Udemy 上夏羽·马瑞克的 [**终极 AWS 认证解决方案架构师助理 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) 做好准备。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) [## 终极 AWS 认证解决方案架构师助理(SAA)
-
-### 2023 年 4 月更新]:更新/添加了 100 多个视频，以跟上 AWS 用户界面和考试的变化[12 月…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F>  
 
 ## 10.**码头工人注册助理考试**
 
@@ -241,11 +221,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 如果您是一名高级 Java 开发人员，并且希望在职业生涯中成为软件架构师或解决方案架构师，这个认证可以帮助您实现这一目标。如果你需要课程准备，建议你参加 Udemy 上 Zeal Vora 的[**Docker Certified Associate 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-certified-associate%2F)课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-certified-associate%2F) [## Docker 认证助理 2020 -认证课程
-
-### Zeal 是 Udemy 著名的高级讲师之一。Zeal 主要作为云安全顾问工作，并帮助…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-certified-associate%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-certified-associate%2F>  
 
 以上是 Java 开发人员的一些**最佳 IT 认证。如果你正在寻求改变，你可以瞄准 2023 年的这些认证，给你的职业生涯一个新的推动，并找到一份更好的工作。**
 
@@ -272,8 +248,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 感谢您阅读本文。如果你觉得这些 Java 程序员最佳 IT 认证有用且有价值，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言，如果您通过了这些认证，您也可以与我们分享您的经验。
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2023 年 Java 程序员路线图
-
-### 2023 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2> 

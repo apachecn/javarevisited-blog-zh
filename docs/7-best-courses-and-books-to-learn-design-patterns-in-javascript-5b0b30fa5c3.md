@@ -18,17 +18,13 @@ image_credit —教育性
 
 随着 [Node.js](/javarevisited/top-10-online-courses-to-learn-node-js-in-depth-8ef0e31ca139) 的出现，JavaScript 已经成为 web 开发社区中最突出的编程语言。它既用于客户端，也用于服务器端。所以 JavaScript 中的设计模式对于一个有经验的开发人员来说是最重要的技能之一。
 
-编写糟糕的代码很容易，但编写干净的代码[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F)**并不容易，但你不需要担心，有了对设计模式的理解，你就可以编写更好的、可维护的代码。**
+编写糟糕的代码很容易，但编写干净的代码<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwriting-clean-code%2F>**并不容易，但你不需要担心，有了对设计模式的理解，你就可以编写更好的、可维护的代码。**
 
 **在本文中，我分享了学习 JavaScript 设计模式的最佳在线课程和书籍。**
 
 **顺便说一下，如果你完全是 JavaScript 初学者，那么我强烈建议你首先通过一个全面的 JavaScript 课程来学习现代语法和功能，如箭头函数，这使得编码更加简洁明了。如果需要资源，我建议查看 [**完整的 JavaScript 课程 2023:构建真实项目！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 课程由乔纳斯在 Udemy 上策划。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### 2020 年 10 月完全从零开始重建(65 小时视频)***“真的真的制作精良的球场。超级深入…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F>  
 
 # 2023 年 Web 开发人员的 7 本最佳 JavaScript 设计模式书籍和课程
 
@@ -84,11 +80,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **而且，如果你发现教育平台和他们的搜索课程，像[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，搜索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，提供每月 14.99 美元的 250 多门课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **4.[JavaScript 中的实用设计模式](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fjavascript-practical-design-patterns)【plural sight】**
 
@@ -104,11 +96,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **5. [JavaScript 设计模式](https://imp.i115008.net/c/1193463/786224/11298?u=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fjavascript-design-patterns--ud989)【uda city】**
 
@@ -160,11 +148,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **顺便说一句，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 29.99 美元，但你也可以通过参加他们的 [**30 天免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。**
 
- **[## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 17，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)** 
+ **** 
 
 **以上是学习 JavaScript 设计模式的最佳在线课程。这些课程将教你如何编写好的面向对象的代码来解决现实世界中的问题，因为你将使用季节性开发人员提供的久经考验的解决方案。
 
@@ -191,8 +175,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **附言——**如果您是 JavaScript 新手，并且正在寻找免费的 JavaScript 课程，那么您也可以从 Udemy 查看这个 [**免费的 JavaScript 基础课程**](http://bit.ly/2zNH9Tj) 。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。**
 
-**[](http://bit.ly/2zNH9Tj) [## 免费 JavaScript 教程- Javascript 基础
-
-### 这个讲座很容易理解。我现在完全明白我错过了什么，什么让我困惑。我一直…
-
-bit.ly](http://bit.ly/2zNH9Tj)**
+**<http://bit.ly/2zNH9Tj> **

@@ -18,11 +18,7 @@
 
 如果你没有使用谷歌云的实践经验，你仍然可以参加这些课程，并在他们的动手实验室中练习。 [**Coursera 和谷歌云的 GCP 培训课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp) (此列表中的第三个课程)与 Quiklabs 合作在谷歌云上练习，它就像在现实世界中工作一样。谷歌甚至有谷歌云免费层的几个产品供每月使用。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp) [## 准备谷歌云认证:云工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp>  
 
 # 2023 年破解谷歌云专业协理云工程师考试的 10 门在线课程
 
@@ -62,11 +58,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你喜欢阅读书籍和学习指南，那么你也可以看看丹·沙利文在亚马逊写的 [**官方谷歌云认证助理云工程师学习指南**](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417?tag=javamysqlanta-20) 。
 
-[](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417?tag=javamysqlanta-20) [## 官方谷歌云认证助理云工程师学习指南
-
-### 亚马逊网站:官方谷歌云认证助理云工程师学习指南(9781119564416):沙利文，丹:书籍
-
-www.amazon.com](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417?tag=javamysqlanta-20) 
+<https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer/dp/1119564417?tag=javamysqlanta-20>  
 
 ## 3.[拥有谷歌云专业证书的云工程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp)
 
@@ -80,11 +72,7 @@ www.amazon.com](https://www.amazon.com/Google-Cloud-Certified-Associate-Engineer
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但是它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[准备谷歌云助理云工程师考试](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpreparing-google-cloud-associate-cloud-engineer-exam)
 
@@ -102,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 我强烈建议程序员拥有 Pluralsight 会员资格，因为作为一名程序员和 IT 专业人士，你需要不断地学习和更新自己。即使你没有 Pluralsight 会员资格，你也可以查看他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5. [GCP 助理云工程师——谷歌云认证](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certification-associate-cloud-engineer%2F)
 
@@ -150,11 +134,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你发现教育平台和他们的互动课程在学习新技术或准备编码面试方面很有用，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 250 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 8.[谷歌云助理云工程师实践考试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-associate-cloud-engineer-practice-examspractice-exams%2F)
 
@@ -197,8 +177,4 @@ Dan Sullivan 是云工程师、架构师和数据工程师考试的*官方学习
 
 **附页** —除了学习这些 GCP 云工程师助理课程之外，您还可以查看考试指南或参加[**实践考试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-ace-practice-tests-latest%2F) ，这将有助于您在准备过程中确定并关注主要领域。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-ace-practice-tests-latest%2F) [## 谷歌认证助理云工程师实践测试
-
-### 第一次通过云工程师助理考试，成为 GCP 谷歌认证云工程师助理…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-ace-practice-tests-latest%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-ace-practice-tests-latest%2F> 

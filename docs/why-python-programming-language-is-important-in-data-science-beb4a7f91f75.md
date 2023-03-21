@@ -38,11 +38,7 @@ Python 的一部分重要亮点是:
 
 **5。** Python 灵活方便，可以有效运行在任何平台上。它适应性强，可以与其他第三方软件有效集成。
 
-[](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 2020 年学习 Python 的 10 大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 
+</better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>  
 
 ## **Python 的重要性:**
 
@@ -68,11 +64,7 @@ Python 不仅能让你创建软件，还能让你处理数字和逻辑数据的�
 
 它非常适合有应用程序和 web 开发天赋的开发人员。毫不奇怪，大多数数据科学家都倾向于这种方式，而不是市场上现有的下一种编程方式。
 
-[](https://dev.to/javinpaul/top-5-places-to-learn-python-programming-for-free-m4c) [## 2020 年学习 Python 编程的 8 个免费教程和网站
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-5-places-to-learn-python-programming-for-free-m4c) 
+<https://dev.to/javinpaul/top-5-places-to-learn-python-programming-for-free-m4c>  
 
 ## **Python 构建了更好的分析工具:**
 
@@ -86,11 +78,7 @@ Python 有很多包，如 Tensorflow、Keras 和 Theano，它们正在协助数�
 
 深度学习算法的灵感来自于人脑架构。它设法建立人工神经网络，重现人类思维的行为。深度学习神经网络对不同的输入参数进行加权和偏置，并给出期望的输出。
 
-[](https://dev.to/javinpaul/11-best-resources-to-learn-data-science-and-machine-learning-in-2020-2od) [## 2020 年学习数据科学和机器学习的 11 个最佳资源
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/11-best-resources-to-learn-data-science-and-machine-learning-in-2020-2od) 
+<https://dev.to/javinpaul/11-best-resources-to-learn-data-science-and-machine-learning-in-2020-2od>  
 
 ## **庞大的社区基础:**
 
@@ -117,8 +105,4 @@ Python 适应性很强，可以在任何环境下有效工作。此外，只需�
 *   [Python vs . Java——初学者应该学习哪种编程语言？](https://javarevisited.blogspot.com/2018/06/java-vs-python-which-programming-language-to-learn-first.html)
 *   [面向程序员的 10 本免费 Python 编程书籍](http://www.java67.com/2017/05/top-7-free-python-programming-books-pdf-online-download.html)
 
-[](https://javarevisited.blogspot.com/2020/02/10-best-coursera-courses--for-python.html) [## Python 和计算机科学的 10 个最佳 Coursera 课程和认证
-
-### 虽然有很多学习 Python 编程的在线平台，但 Coursera 是其中最著名的一个…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/02/10-best-coursera-courses--for-python.html)
+<https://javarevisited.blogspot.com/2020/02/10-best-coursera-courses--for-python.html> 

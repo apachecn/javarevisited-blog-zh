@@ -22,11 +22,7 @@ Coursera 上的最佳谷歌认证和 Coursera
 
 尽管如此，向有经验的专业人士学习会更好，因为许多爱好创造并分享他们的知识。通过 [Coursera 平台](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)学习信息技术最好的公司之一是谷歌，因为它有许多与编程、数据分析和机器学习相关的不同课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) [## Coursera |学位、证书和免费在线课程
-
-### 在网上课程中学习新的工作技能，这些技能来自行业领导者，如 Google、IBM 和 Meta。借助 top…推进您的职业发展
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F>  
 
 # 2023 年学习 Python、IT 支持、数据分析和 UI 设计的 10 个最佳谷歌课程和认证
 
@@ -102,27 +98,15 @@ Coursera 上最佳谷歌云计算课程
 
 [谷歌项目管理:专业证书](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management)【报名人数 332 万】
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management) [## 谷歌项目管理:
-
-### 开始你的项目管理职业生涯。在这个项目中，你将学到一些受欢迎的技能，让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management>  
 
 [谷歌 UX 设计专业证书](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-ux-design)【27 万学生】
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-ux-design) [## 谷歌 UX 设计
-
-### 准备在 UX 设计的高增长领域的职业生涯，没有经验或学位要求。有了专业…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-ux-design) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-ux-design>  
 
 [谷歌数字营销&电子商务专业证书](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-digital-marketing-ecommerce)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-digital-marketing-ecommerce) [## 谷歌数字营销和电子商务
-
-### 这是你通向数字营销职业生涯的道路。在这个项目中，你将学到一些受欢迎的技能，这些技能可以让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-digital-marketing-ecommerce) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-digital-marketing-ecommerce>  
 
 这就是你可以在 Coursera 上学习热门技术技能的所有谷歌最佳课程和认证，比如 Python、云计算、项目管理、IT 支持 UI 和 UX 设计等等。Coursera 有许多大学和公司创建课程并免费发布。
 
@@ -130,11 +114,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 它每年花费约 399 美元，但可以访问 Coursera 上的 7000 多门顶级课程和认证，这使它成为一项值得的投资。在有限的时间内，你还可以花 299 美元购买 Coursera Plus，因为他们现在提供 Coursera Plus 的[**【100 美元】折扣，点击那个链接可以获得你的折扣。**](https://bit.ly/3d3ftiq)
 
@@ -164,8 +144,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找学习 Java 和软件开发技能的最佳 Udemy 课程，你也可以查看我列出的 [**程序员和软件开发人员最佳 Udemy 课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 。包含了最好的 Udemy 课程，学习 Java、Python、Git，以及其他软件开发所需的必备技能。
 
-[](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9) [## 2023 年程序员和软件开发人员的 15 门最佳 Udemy 课程
-
-### 这些是 2023 年学习编程和软件开发最好的 Udemy 课程
-
-medium.com](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9)
+</javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9> 

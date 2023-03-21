@@ -51,7 +51,7 @@
 *   [**教育性不限打八折**](https://www.educative.io/subscription?affiliate_id=5073518643380224)
 *   [参加 Vlad 的 Java 高性能 Hibernate 课程可享受 40%的折扣](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=BLACKFRIDAY22&affcode=172599_kuoszt8s)
 *   [**Teachable(最佳课程平台)35 折**](https://teachable.sjv.io/rnLVgy)
-*   [](https://try.thinkific.com/javinpaul8817-blackfriday2424)
+*   <https://try.thinkific.com/javinpaul8817-blackfriday2424>
 *   **[**我的 Java 和 Spring 书籍打五折**](https://bit.ly/3Bu2VtF)**
 *   **[**苹果 AirPods Pro 八折(还可以赠送)**](https://www.amazon.com/dp/B0BDHWDR12?tag=javamysqlanta-20)**
 *   **[启动开发课程七五折优惠](https://boot.dev/?via=javin)**

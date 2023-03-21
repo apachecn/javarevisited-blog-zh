@@ -16,7 +16,7 @@ Python 是数据工程师和数据科学家都使用的通用语言，可能也�
 
 为了让这笔交易更加甜蜜，Python 还拥有算法、分析和像 Matplotlib 这样的[数据可视化库](https://www.java67.com/2020/07/top-5-data-visualization-tools-every.html)，Matplotlib 是一个重要的数据科学家。
 
-在这两种角色中，管理、自动化和分析数据的需求通过几行代码变得更加容易。这是数据科学家日常工作中必不可少的一部分，几乎所有与我交谈过的人都推荐了《用 Python 自动化枯燥的东西》**[](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994?tag=javamysqlanta-20)****这本书。
+在这两种角色中，管理、自动化和分析数据的需求通过几行代码变得更加容易。这是数据科学家日常工作中必不可少的一部分，几乎所有与我交谈过的人都推荐了《用 Python 自动化枯燥的东西》**<https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994?tag=javamysqlanta-20>****这本书。
 
 过去我曾分享过一些学习 Python 的好书，但都是针对一般编程的。我还没有分享过一本从数据科学家的角度教授 Python 的书，这正是我在本文中要做的。
 
@@ -121,8 +121,4 @@ Python 是数据工程师和数据科学家都使用的通用语言，可能也�
 
 **【p . s .】**—如果你更喜欢主动学习，并在寻找学习数据科学和机器学习的最佳 Python 课程，那么你也可以在 Udemy 上查看乔希·波尔蒂利亚的这个[**Python for Data Science and Machine Learning boot camp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-data-science-and-machine-learning-bootcamp%2F)课程。绝对是 2023 年及以后用 Python 学习数据科学和机器学习的最佳课程。*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-data-science-and-machine-learning-bootcamp%2F) [## 学习 Python 进行数据科学，结构，算法，面试
-
-### 您准备好开始成为数据科学家的道路了吗！这门综合课程将成为你学习的指南…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-data-science-and-machine-learning-bootcamp%2F)*****
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-data-science-and-machine-learning-bootcamp%2F> *****

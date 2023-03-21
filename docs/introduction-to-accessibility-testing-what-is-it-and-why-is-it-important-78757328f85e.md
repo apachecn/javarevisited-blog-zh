@@ -62,18 +62,6 @@
 [Java 开发人员在日常工作中使用的 10 个工具](http://javarevisited.blogspot.sg/2017/03/10-tools-used-by-java-programming-Developers.html#axzz55lrMRnNC)
 [成为更好的 Java 开发人员的 10 个技巧](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html)
 
-[](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员下一步会做什么？项目经理、技术架构师或 DevOps 工程师
+</javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1>  </javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904>  </javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151>  
 
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904) [## 这些是薪酬最高的技术工作，程序员可以提高他们的薪酬
-
-### 以及获得这些工作所需技能的资源链接
-
-medium.com](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904) [](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) [## 有经验的程序员学习 DevOps 的 10 大课程
-
-### DevOps 引擎的平均收入从 12 万美元到 15 万美元不等，这是成为 DevOps 的最佳时机…
-
-medium.com](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) 
-
-*原载于 2019 年 10 月 7 日 https://intexsoft.com*[](https://intexsoft.com/blog/introduction-to-accessibility-testing-what-is-it-why-its-important/)**。**
+*原载于 2019 年 10 月 7 日 https://intexsoft.com*<https://intexsoft.com/blog/introduction-to-accessibility-testing-what-is-it-why-its-important/>**。**

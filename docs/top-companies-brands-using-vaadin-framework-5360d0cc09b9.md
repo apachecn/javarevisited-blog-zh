@@ -22,11 +22,7 @@ Vaadin 是一个开源的 Java web 框架，用于构建**任务关键型**、**
 
 > 根据其官方来源(vaadin.com ),全球有 15 万开发者和 40%的财富 500 强公司使用 Vaadin。
 
-[](/javarevisited/top-7-online-courses-to-learn-java-ee-jakarta-ee-in-2020-216c1a5eea99) [## 2020 年学习 Java EE (Jakarta EE)的 7 大在线课程
-
-### 这些是 2020 年学习 Java EE 最好的课程
-
-medium.com](/javarevisited/top-7-online-courses-to-learn-java-ee-jakarta-ee-in-2020-216c1a5eea99) 
+</javarevisited/top-7-online-courses-to-learn-java-ee-jakarta-ee-in-2020-216c1a5eea99>  
 
 # 使用 Vaadin 的顶级公司:
 
@@ -174,8 +170,4 @@ Vaadin 基于组件的模型使开发人员能够快速构建组件，并在需�
 *   [完整的 React 开发者路线图](https://hackernoon.com/the-2018-react-js-roadmap-4d0a43814c02)
 *   [初学者学习 GraphQL 的 5 大课程](https://hackernoon.com/top-5-graphql-courses-for-beginners-26cad52bcd3e)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

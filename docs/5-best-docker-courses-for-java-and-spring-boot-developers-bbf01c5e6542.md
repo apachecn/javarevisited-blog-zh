@@ -22,11 +22,7 @@ Docker[正在迅速崛起，现在它已经成为各类程序员最重要的工�
 
 顺便说一句，如果你是 DevOps 的新手，那么我也建议你去参加一个很好的 DevOps 课程，比如 Udemy 上的[**devo PS:CI/CD with Jenkins pipelines，Maven，Gradle**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F) 来学习如何协同工作，以及如何使用它们来创建更好的软件开发过程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F) [## DevOps:与 Jenkins pipelines、Maven 和 Gradle 的 CI/CD
-
-### 这个在线 DevOps 课程将教你如何建立复杂的持续集成和持续交付…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdevops-and-continuous-integration-with-jenkins-pipelines%2F>  
 
 # 2023 年 Java 和 Spring Boot 开发者学习 Docker 的 5 门最佳在线课程
 
@@ -99,11 +95,7 @@ Java 基础知识。
 
 我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[Docker—Java 开发者手把手](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-hands-on%2F)【Udemy 最佳课程】
 
@@ -159,8 +151,4 @@ Spring Boot 的基础知识。建议使用自动气象站。如果你想获得 D
 
 **P. S. —** 如果你想从头开始学习 DOCKER 并寻找免费的在线课程，那么你也可以看看 Udemy 上的这个 [**面向 JAVA 开发人员的 Docker 实践课程【免费】、**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-for-java-developers%2F) 免费课程。这是完全免费的，你需要的只是一个免费的 Udemy 帐户来注册这个在线培训课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-for-java-developers%2F) [## 免费 DOCKER 教程——面向 JAVA 开发人员的 Docker 实践
-
-### 面向 Java 开发人员的完整实践课程-免费课程
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-for-java-developers%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-for-java-developers%2F> 

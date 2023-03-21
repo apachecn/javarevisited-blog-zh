@@ -48,11 +48,7 @@
 
 它每月花费大约 59 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 # 2.学习数据处理和可视化
 
@@ -66,41 +62,25 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 您需要从这个旨在处理数组和执行数学计算的库开始您的旅程。它速度快，被数据分析师广泛使用。如果你需要资源，你可以从查看这些 [**最好的 Numpy 课程**](/javarevisited/6-best-online-courses-to-learn-numpy-for-beginners-60120f611e06) 开始。
 
-[](/javarevisited/6-best-online-courses-to-learn-numpy-for-beginners-60120f611e06) [## 2023 年 6 门最佳初学者 NumPy 在线课程
-
-### 我最喜欢学习和掌握的在线课程和教程是 2023 年的 NumPy 库。
-
-medium.com](/javarevisited/6-best-online-courses-to-learn-numpy-for-beginners-60120f611e06) 
+</javarevisited/6-best-online-courses-to-learn-numpy-for-beginners-60120f611e06>  
 
 **2.2。熊猫:**
 
 如果您想要导入数据或更改其中的某些内容，您可能需要使用旨在分析和清理数据的 pandas。如果你需要资源，你可以从这些 [**最佳熊猫课程**](/javarevisited/5-best-courses-to-learn-pythons-pandas-libary-for-data-analysis-and-data-science-34b62abb0e96) 开始。
 
-[](https://becominghuman.ai/5-best-courses-to-learn-pythons-pandas-libary-for-data-analysis-and-data-science-34b62abb0e96) [## 2023 年学习熊猫和 Python 数据分析的 5 门最佳在线课程
-
-### Pandas 是用于数据分析的最强大和最流行的 Python 库之一。它也是最受欢迎的工具之一…
-
-becominghuman.ai](https://becominghuman.ai/5-best-courses-to-learn-pythons-pandas-libary-for-data-analysis-and-data-science-34b62abb0e96) 
+<https://becominghuman.ai/5-best-courses-to-learn-pythons-pandas-libary-for-data-analysis-and-data-science-34b62abb0e96>  
 
 **2.3。Matplotlib:**
 
 你可以说 matplotlib 是数据分析师中最著名和最常用的数据可视化库，因为它是开源的，提供了无限的绘图空间，并且如果你没有找到可视化问题的解决方案，它有一个巨大的社区来支持你。如果你需要资源，你可以从这些 [**最好的 Matplotlib 课程**](/javarevisited/5-best-matplotlib-online-courses-for-python-developer-and-data-scientist-9f3bf4359b86) 入手。
 
-[](/javarevisited/5-best-matplotlib-online-courses-for-python-developer-and-data-scientist-9f3bf4359b86) [## Python 开发人员和数据科学家的 5 门最佳 Matplotlib 在线课程
-
-### 2023 年想学 Matplotlib？以下是 2023 年学习 Matplotlib 和增强你的数据的最佳在线课程…
-
-medium.com](/javarevisited/5-best-matplotlib-online-courses-for-python-developer-and-data-scientist-9f3bf4359b86) 
+</javarevisited/5-best-matplotlib-online-courses-for-python-developer-and-data-scientist-9f3bf4359b86>  
 
 **2.4。Seaborn:**
 
 另一个很棒的数据可视化库，以定制其图形和提供无穷多种图形而闻名，学习起来很简单。如果你需要资源，你可以从这些最好的 Seaborn 课程开始。
 
-[](/javarevisited/top-10-machine-learning-and-data-science-certifications-and-training-courses-for-beginners-and-a6308497b764) [## 2023 年 10 大最佳机器学习课程和认证
-
-### 如果你今天在技术领域工作，就像你是一名程序员或软件工程师，那么我肯定你听说过…
-
-medium.com](/javarevisited/top-10-machine-learning-and-data-science-certifications-and-training-courses-for-beginners-and-a6308497b764) 
+</javarevisited/top-10-machine-learning-and-data-science-certifications-and-training-courses-for-beginners-and-a6308497b764>  
 
 **2.5。画面:**
 

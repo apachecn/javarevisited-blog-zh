@@ -79,11 +79,7 @@ image_credit — Pluralsight
 
 顺便说一下，你需要 Pluralsight 会员资格才能参加这个课程。它每月花费大约 29 美元，但是如果你想尝试，你也可以利用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[掌握 JavaScript 中的正则表达式](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-regular-expressions-in-javascript%2F)
 
@@ -146,11 +142,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你发现教育编码平台和他们的探索课程，像[探索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，那么考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，提供每月 18 美元的 100 多门课程(包括这一门)。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是学习 Java、Python、JavaScript、Linux 和其他编程语言正则表达式的**最佳课程。我有目的地选择了实践课程，因为你不能仅仅通过阅读来学习正则表达式。**
 
@@ -175,8 +167,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S. —** 如果您热衷于学习正则表达式并在寻找学习正则表达式的免费课程，您也可以在我的正则表达式学习课程中查看此 [**免费 Python 正则表达式示例**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-regular-expressions-with-examples%2F) 。这是绝对免费的，您只需要一个 Udemy 账户就可以加入这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-regular-expressions-with-examples%2F) [## 免费正则表达式教程- Python 正则表达式示例
-
-### 我是一名高级软件开发分析师，在一流的计算机和金融公司工作了 30 多年…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-regular-expressions-with-examples%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-regular-expressions-with-examples%2F> 

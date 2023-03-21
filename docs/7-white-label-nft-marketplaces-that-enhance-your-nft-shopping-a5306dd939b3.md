@@ -96,16 +96,4 @@ KnownOrigin
 
 此外，如果你是一名企业家，正在阅读这篇文章，你现在就可以采用白色标签 [**NFT 市场解决方案**](https://www.appdupe.com/nft-marketplace-development?utm_source=medium&utm_medium=blog9thjuly&utm_campaign=yasmeen) 来搭建一个平台！
 
-[](/javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba) [## 2022 年 10 个最佳 NFT(不可替代代币)课程和初学者证书
-
-### 这些是最好的在线课程，可以学习关于 NFTs 的一切，从什么是 NFT 到创造、铸造、销售和…
-
-medium.com](/javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba) [](https://www.java67.com/2020/07/top-5-websites-to-learn-blockchain-in.html) [## 2022 年学习区块链的五大网站-最佳
-
-### 大家好，如果你想在 2022 年学习区块链开发，并且正在寻找最好的学习资源…
-
-www.java67.com](https://www.java67.com/2020/07/top-5-websites-to-learn-blockchain-in.html) [](https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html) [## 2022 年新手在线学习的 6 门最佳区块链认证课程| Coursera
-
-### 大家好，如果你不是生活在岩石下，那么你知道区块链正迅速成为领先的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html)
+</javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba>  <https://www.java67.com/2020/07/top-5-websites-to-learn-blockchain-in.html>  <https://javarevisited.blogspot.com/2022/01/5-best-blockchain-certifications-and.html> 

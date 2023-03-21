@@ -192,8 +192,4 @@ private MyRemoteService myRemoteService;
 
 本文的源代码可以在这个 [Github 资源库](https://github.com/fpaparoni/bddfun)中找到
 
-[](https://github.com/fpaparoni/bddfun) [## GitHub - fpaparoni/bddfun
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/fpaparoni/bddfun)
+<https://github.com/fpaparoni/bddfun> 

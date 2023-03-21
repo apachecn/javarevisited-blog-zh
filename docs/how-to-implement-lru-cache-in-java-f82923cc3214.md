@@ -4,7 +4,7 @@
 
 ## 用 Java HashMap 和双向链表实现 LRU 缓存
 
-> 最初发表于[](https://asyncq.com/how-to-implement-lru-cache-in-java)
+> 最初发表于<https://asyncq.com/how-to-implement-lru-cache-in-java>
 
 **[![](img/6d17ebac82624e3cfc8ebfcfacf4b3e9.png)](https://javarevisited.blogspot.com/2020/05/fibonacci-series-in-java-8-with.html)**
 

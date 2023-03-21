@@ -123,16 +123,4 @@ TopicPartition topicPartitionZero = new TopicPartition("test",1);
 
 ## 参考
 
-[](https://kafka-tutorials.confluent.io/kafka-console-consumer-read-specific-offsets-partitions/confluent.html) [## 如何使用 Kafka 控制台消费程序读取特定的偏移量和分区
-
-### 供应 Kafka 集群本教程需要访问 Apache Kafka 集群，并且获得…
-
-卡夫卡-tutorials.confluent.io](https://kafka-tutorials.confluent.io/kafka-console-consumer-read-specific-offsets-partitions/confluent.html)  [## 阿帕奇卡夫卡的春天
-
-### 公共接口 message listener {(1)void on message(consumer record data)；}公共接口…
-
-docs.spring.io](https://docs.spring.io/spring-kafka/reference/html/#seek) [](/javarevisited/top-10-apache-kafka-online-training-courses-and-certifications-621f3c13b38c) [## 2022 年学习阿帕奇卡夫卡的十大课程
-
-### 您可能听说过 Apache Kafka，这是下一代大数据消息传递系统，可处理数十亿…
-
-medium.com](/javarevisited/top-10-apache-kafka-online-training-courses-and-certifications-621f3c13b38c)
+<https://kafka-tutorials.confluent.io/kafka-console-consumer-read-specific-offsets-partitions/confluent.html>    </javarevisited/top-10-apache-kafka-online-training-courses-and-certifications-621f3c13b38c> 

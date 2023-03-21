@@ -12,6 +12,6 @@
 
 到目前为止，已经有 500 多名 Java 开发人员购买了。去看看他们长什么样！
 
-**这里是链接——**[](https://gumroad.com/l/hrUXKY)
+**这里是链接——**<https://gumroad.com/l/hrUXKY>
 
 **![](img/329c0a1a708e7c95391b7006d0d28e0c.png)**

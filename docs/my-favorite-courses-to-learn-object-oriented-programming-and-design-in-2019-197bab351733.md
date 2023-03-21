@@ -72,11 +72,7 @@
 
 顺便说一下，除了单独加入这些课程和专业，您还可以加入 Coursera Plus 课程，这是 Coursera 的一个订阅计划，让您可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## [3。探寻面向对象设计面试](https://www.educative.io/courses/grokking-the-object-oriented-design-interview?affiliate_id=5073518643380224)【教育性】
 
@@ -94,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你找到了教育平台和他们的探索课程，比如探索系统设计面试，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 100 多门课程。这非常
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## [4。Java 面向对象编程绝对入门](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fabsolute-introduction-to-object-oriented-programming-in-java%2F)
 
@@ -198,27 +190,15 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 1.  [**面向对象编程中的 Java 特殊化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fobject-oriented-programming)**【Coursera】**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented) [## 面向对象的 Java 编程:数据结构及其他
-
-### 开发功能强大的交互软件。通过四门综合课程提高您的软件开发知识。这个…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented>  
 
 **2。** [**面向对象的 Java 编程:数据结构与超越专门化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented)**【Coursera】**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented) [## 面向对象的 Java 编程:数据结构及其他
-
-### 开发功能强大的交互软件。通过四门综合课程提高您的软件开发知识。这个…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjava-object-oriented>  
 
 **3** 。 [**JavaScript:高级概念**](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn)**【ZTM 学院】**
 
-[](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn) [## 高级 JavaScript 概念
-
-### 学习现代的高级 JavaScript 实践，成为前 10%的 JavaScript 开发人员。
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn>  
 
 根据你是喜欢 Java 还是 JavaScript，你可以选择这些课程来学习你最喜欢的编程语言的面向对象编程。
 
@@ -244,8 +224,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/advanced-javascript
 
 如果你正在寻找一些免费的面向对象建模和设计课程，你应该看看 Udemy 上的 [**面向对象建模简介&设计**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-object-oriented-modelling-design%2F) 课程。这个课程是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-object-oriented-modelling-design%2F) [## 免费教程-面向对象建模和设计介绍
-
-### 建模在应用程序的设计中扮演着重要的角色。真实场景和客户需求是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-object-oriented-modelling-design%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-object-oriented-modelling-design%2F> 

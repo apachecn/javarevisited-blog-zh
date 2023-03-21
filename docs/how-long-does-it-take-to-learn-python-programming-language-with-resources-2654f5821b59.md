@@ -22,11 +22,7 @@ Python 因其简单易学而得到开发者和公司的认可，并且将成为�
 
 还有学习 python 的[最佳课程](/javarevisited/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad)像[**100 天代码:Udemy 上的 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F100-days-of-code%2F) 完整 Python Pro Bootcamp 作者 Angela Yu。如果你刚开始学习 python，这是学习 python 最好最快的方法，但是如果你想成为一名真正的 Python 大师，你将需要不止一门课程，请参见下面的推荐列表。
 
-[](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 2023 年学习 Python 的 10 大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-better 编程. pub](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 
+<https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>  
 
 # 2023 年从零开始学 Python 需要多久？
 
@@ -70,11 +66,7 @@ better 编程. pub](https://betterprogramming.pub/top-5-courses-to-learn-python-
 
 **2.3。时间:**如果你规定每天 2 小时学习这门语言，那么相比之下可能需要四个多月才能达到中级水平，多花几个小时时间就会少一些。
 
-[](/javarevisited/python-for-everybody-course-review-is-it-really-that-good-bf84af24e28) [## Python for Everybody 课程回顾 2022—真的有那么好吗？
-
-### 我对 Coursera 的最佳 Python 认证的评论，来自密歇根大学的 Python for Everybody。如果你想…
-
-medium.com](/javarevisited/python-for-everybody-course-review-is-it-really-that-good-bf84af24e28) 
+</javarevisited/python-for-everybody-course-review-is-it-really-that-good-bf84af24e28>  
 
 # 2023 年你能用 Python 做什么？
 
@@ -88,11 +80,7 @@ medium.com](/javarevisited/python-for-everybody-course-review-is-it-really-that-
 
 **3.4。数据科学:** python 在数据科学行业扮演着重要的角色，因为它被用于[数据可视化](/javarevisited/8-best-data-visualization-tools-and-libraries-data-analysts-and-scientists-can-learn-d2734371df16)，处理数据，做出预测，收集数据，等等。
 
-[](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-Data-Science-Visualization-and-Data-Analysis.html) [## 2022 年数据科学、数据分析和数据可视化十大 Coursera 认证…
-
-### 你好，伙计们，如果你渴望在数据科学、数据分析和数据可视化领域开始你的职业生涯…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-Data-Science-Visualization-and-Data-Analysis.html) 
+<https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-Data-Science-Visualization-and-Data-Analysis.html>  
 
 # 5.2023 年成为 Python 大师的最佳 Python 书籍和课程
 
@@ -108,11 +96,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/08/top-10-co
 
 **他们现在也在提供 100 美元的优惠，但是只限于这个** [**特殊链接**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fcoursera-annual-cyber-2022) **只对黑色星期五有效。**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fcoursera-annual-cyber-2022) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 获得 7，000 多门世界一流的课程、实践项目和就业准备证书计划的无限访问权-从领先的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fcoursera-annual-cyber-2022) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fcoursera-annual-cyber-2022>  
 
 **4.2。** [**100 天代码:2023 年**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F100-days-of-code%2F) 完成 Python Pro Bootcamp
 
@@ -165,8 +149,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你是 Python 编程新手，想从头开始学习 Python，并寻找最好的免费课程开始学习，不要担心。Udemy 上有很多免费的 Python 课程，其中很多你可以在上面的文章中找到。如果你很着急，我建议从[**Python 编程入门**](http://bit.ly/2D5vvnV) 课程开始；加入 Udemy 是完全免费的。
 
-[](https://www.java67.com/2018/02/5-free-python-online-courses-for-beginners.html) [## 2023 年初学者学习编程的 6 大免费 Python 课程——最好的
-
-### 大家好，如果你是一个初学者，正在寻找最好的免费 Python 资源来开始你的编程之旅，比如书籍…
-
-www.java67.com](https://www.java67.com/2018/02/5-free-python-online-courses-for-beginners.html)
+<https://www.java67.com/2018/02/5-free-python-online-courses-for-beginners.html> 

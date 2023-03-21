@@ -67,16 +67,8 @@ Azure Service Bus 是一个完全托管的企业消息代理，它提供
 
 边注:如果你还不是中会员，点击[这里加入](/@mariochiadev/membership)！
 
-[](/@mariochiadev/membership) [## 用我的推荐链接云加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](/@mariochiadev/membership) 
+</@mariochiadev/membership>  
 
 # 参考
 
-[](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) [## Azure 服务总线消息传递概述- Azure 服务总线
-
-### Azure Service Bus 是一个完全托管的企业消息代理，具有消息队列和发布-订阅主题(在…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+<https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview> 

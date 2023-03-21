@@ -66,11 +66,7 @@ DevOps 是单词 development 和 operations 的组合，是导致更快软件开
 
 **他们还提供为期 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，无需任何承诺，这不仅是免费学习这门课程的好方法，也是在加入 Pluralsight 之前检查课程质量的好方法。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **3. [AWS 认证 DevOps 工程师—专业 2023](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-aws-certified-devops-engineer-professional%2F)**
 
@@ -139,10 +135,6 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **本课程帮助您从问题开始，从底部覆盖 *AWS 认证 DevOps 工程师专业*音节。模拟考试很难，也很专业，然后问题会被分解并作为主题对待。
 
-**P. S.** —如果你不熟悉云计算和 AWS 的世界，并且正在寻找一些免费的课程来学习亚马逊 Web 服务，那么你也可以查看这份针对初学者的免费 AWS 课程列表[](https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-sysops-administrator-associate-exam.html)****，**，其中包含 Udemy、Coursera 和其他平台的免费 AWS 课程。****
+**P. S.** —如果你不熟悉云计算和 AWS 的世界，并且正在寻找一些免费的课程来学习亚马逊 Web 服务，那么你也可以查看这份针对初学者的免费 AWS 课程列表<https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-sysops-administrator-associate-exam.html>****，**，其中包含 Udemy、Coursera 和其他平台的免费 AWS 课程。****
 
-****[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)****
+****</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> ****

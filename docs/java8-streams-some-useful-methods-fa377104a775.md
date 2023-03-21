@@ -56,11 +56,7 @@
 
 作为参考，这里是完整的 java 程序。
 
-[](https://github.com/harshalmistry/java-examples/blob/main/src/main/java/StreamExample.java) [## Java-examples/stream example . Java at main harshalmistry/Java-examples
-
-### 在 GitHub 上创建一个帐户，为 harshalmistry/java-examples 开发做贡献。
-
-github.com](https://github.com/harshalmistry/java-examples/blob/main/src/main/java/StreamExample.java) 
+<https://github.com/harshalmistry/java-examples/blob/main/src/main/java/StreamExample.java>  
 
 这个话题到此为止。
 

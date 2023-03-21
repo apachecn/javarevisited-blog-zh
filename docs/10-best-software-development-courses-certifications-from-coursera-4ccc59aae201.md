@@ -120,11 +120,7 @@
 
 顺便说一句，如果你发现 Coursera 的课程、专业和认证有用，因为它们是由世界各地的知名公司和大学提供的，那么我强烈推荐你加入 Coursera 的订阅计划 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这个 Coursera 会员计划让您可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它的费用大约为每年 399 美元，但它完全值得，因为你可以获得无限的证书，事实上，如果你参加多个专业和认证，它是划算的。
 
@@ -154,8 +150,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你正在寻找学习 Java 和软件开发技能的最佳 Udemy 课程，那么你也可以看看我列出的 [**程序员和软件开发人员最佳 Udemy 课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 。包含了最好的 Udemy 课程，学习 Java、Python、Git，以及其他软件开发所需的必备技能。
 
-[](/javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035) [## 2023 年面向程序员和开发者的 10+最佳 Udemy 课程
-
-### 大家好，毫无疑问，Udemy 是最受欢迎的电子学习平台之一，它的帮助越来越大…
-
-medium.com](/javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035)
+</javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035> 

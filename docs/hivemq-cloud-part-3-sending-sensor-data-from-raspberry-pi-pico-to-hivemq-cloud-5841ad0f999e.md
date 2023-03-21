@@ -333,4 +333,4 @@ HiveMQ 云是一个伟大的(并免费多达 100 台设备！)尝试消息传递
 
 我希望这三个帖子可以帮助你开始创建自己的项目！
 
-*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*[](https://www.hivemq.com/blog/mqtt-raspberrypi-part03-sending-sensor-data-hivemqcloud-pico/)**。**
+*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*<https://www.hivemq.com/blog/mqtt-raspberrypi-part03-sending-sensor-data-hivemqcloud-pico/>**。**

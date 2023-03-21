@@ -68,11 +68,7 @@ JavaScript 基础知识
 
 而且，如果你喜欢教育平台和他们的互动课程，比如探索系统设计面试，探索面向对象编程面试，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.99 美元就可以访问他们的 250 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 3.Andrei Negaoie[精通编码访谈:数据结构+算法](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn)
 
@@ -89,11 +85,7 @@ JavaScript 基础知识
 
 顺便说一下，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 才能观看这门课程，每月费用约 29 美元，并提供许多超级迷人和实用的课程，如他的 Python 和 JavaScript 面试课程。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 如果你像我一样是一个不断学习的人，我建议你去申请会员资格，而不是购买一门课程，你会节省金钱并使学习变得容易，因为你不需要每次想学习新东西时都购买课程。
 
@@ -168,8 +160,4 @@ JavaScript 基础知识
 
 **P. S.** —如果你热衷于学习 JavaScript 中的数据结构和算法，但正在寻找免费的在线课程，那么你也可以在 Udemy 上查看这个 [**真实世界中的数据结构和算法——第 1 部分**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structures-and-algorithms-in-real-world-part-1%2F) 免费课程。它是完全免费的，你只需要一个 Udemy 账号就可以加入这个课程。
 
-[](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [## 面向初学者的 10 大免费数据结构和算法课程——最好的
-
-### 算法和数据结构是计算机科学的两个最基本和最重要的课题，是计算机科学的基础
-
-medium.com](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a)
+</javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a> 

@@ -113,16 +113,4 @@ sieve 算法的思想是创建一个从 1 到 n 的表，并开始迭代它。�
 
 厄拉多塞的筛子是帮助获得从 1 到 n 的最优质数的技术。它使用列表法来找到它。希腊数学家和科学家厄拉多塞在大约 2300 年前创造了它。在这篇博客中，我们已经了解了常规问题的基本方面，以及 sieve 算法如何通过 java 实现来优化解决这个问题。
 
-[](/javarevisited/two-sum-coding-problem-how-to-find-all-pairs-which-adds-to-a-given-sum-in-an-array-in-java-a396be0f308d) [## 如何在 Java 中找到一个数组中所有和与给定数字相加的对
-
-### 大家好，如果你一直在解决数据结构和算法问题，或者已经完成了几个编码…
-
-medium.com](/javarevisited/two-sum-coding-problem-how-to-find-all-pairs-which-adds-to-a-given-sum-in-an-array-in-java-a396be0f308d) [](/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121) [## 20 多个数组编码问题和来自编程访谈的问题
-
-### 大家好，数组是最基本的数据结构，它将元素存储在连续的内存位置。它…
-
-medium.com](/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121) [](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30) [## 来自编程访谈的 20 多个二叉树编码问题
-
-### 大家好，我已经分享了很多关于编程面试的资源，比如书籍、课程和一些…
-
-medium.com](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30)
+</javarevisited/two-sum-coding-problem-how-to-find-all-pairs-which-adds-to-a-given-sum-in-an-array-in-java-a396be0f308d>  </javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121>  </javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30> 

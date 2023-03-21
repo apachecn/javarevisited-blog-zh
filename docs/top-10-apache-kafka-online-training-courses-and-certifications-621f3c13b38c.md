@@ -50,11 +50,7 @@ Apache Kafka 旨在解决大规模数据移动问题，已帮助数百家公司�
 
 顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能进入这个课程，这个课程的费用大约是每月 29 美元。但是，如果你愿意，你可以通过注册 10 天的免费试用来付费学习这门课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3. [Apache Kafka 系列—用于数据处理的 Kafka 流](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-streams%2F)
 
@@ -82,11 +78,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如**谷歌**、 **IBM** 、**亚马逊**和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书。
 
@@ -110,11 +102,7 @@ Edureka 的 Apache Kafka 认证培训帮助您学习关于 Kafka 架构、配置
 
 这里是注册链接— [阿帕奇卡夫卡培训由 Edureka](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fkafka-certification-training&LSNSUBSITE=LSNSUBSITE)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fkafka-certification-training&LSNSUBSITE=LSNSUBSITE) [## 卡夫卡培训|阿帕奇卡夫卡认证- Edureka
-
-### 此 Apache Kafka 培训涵盖了关于 Kafka 架构、Kafka 组件-生产商和消费者的深入知识…
-
-edureka.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fkafka-certification-training&LSNSUBSITE=LSNSUBSITE) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fkafka-certification-training&LSNSUBSITE=LSNSUBSITE>  
 
 ## 4.[阿帕奇卡夫卡认证培训](https://www.simplilearn.com/big-data-and-analytics/apache-kafka-training-tutorial?utm_source=cj&utm_medium=8534939&utm_campaign=Soma%20Sharma)
 
@@ -138,11 +126,7 @@ Apache Kafka Connect 提供了一个 API、运行时和 REST 服务，使开发�
 
 **这里是报名链接**——[阿帕奇卡夫卡系列——卡夫卡连线动手学习](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-connect%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-connect%2F) [## 阿帕奇卡夫卡系列-卡夫卡连接动手学习
-
-### 学习 Apache Kafka Connect 框架的全新综合课程，并提供实际操作培训
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-connect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-connect%2F>  
 
 ## 9. [Apache Kafka 系列—融合模式注册表& REST 代理](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fconfluent-schema-registry%2F)
 
@@ -152,11 +136,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 下面是注册链接— [**Apache Kafka 系列—合流模式注册表& REST 代理**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fconfluent-schema-registry%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fconfluent-schema-registry%2F) [## Apache Kafka 系列——融合模式注册和 REST 代理
-
-### 学习 Apache Avro，Apache Kafka 的融合模式注册表和 Apache Kafka 的融合 REST 代理。加入…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fconfluent-schema-registry%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fconfluent-schema-registry%2F>  
 
 ## 10. [Apache Kafka 系列— Kafka 安全(SSL SASL Kerberos ACL)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-kafka-security%2F)
 
@@ -189,8 +169,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你想学习阿帕奇卡夫卡并寻找免费资源，你也可以在 Udemy 上查看阿帕奇卡夫卡和 Spring Boot(消费者，生产者)课程。它是完全免费的，可以帮助你学习卡夫卡的基础知识。
 
-[](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-apache-kafka.html) [## 2023 年为初学者学习阿帕奇卡夫卡的 5 大免费课程
-
-### 在不浪费你更多时间的情况下，这里列出了 2023 年学习阿帕奇卡夫卡的最佳免费在线课程
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-apache-kafka.html)
+<https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-apache-kafka.html> 

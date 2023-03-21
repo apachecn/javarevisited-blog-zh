@@ -199,11 +199,7 @@ public void containsBy()
 
 带有`By`后缀并以`Function`作为参数的其他方法的例子有`aggregateBy`、`groupBy`、`countBy`、`minBy`、`maxBy`等。几年前，我写了一篇博客，谈论介词`By`带来的生产率提高。
 
-[](/javarevisited/by-yourself-some-time-e16c0f488847) [## 一个人呆一会儿
-
-### 介词 By，及其对生产力的积极贡献。
-
-medium.com](/javarevisited/by-yourself-some-time-e16c0f488847) 
+</javarevisited/by-yourself-some-time-e16c0f488847>  
 
 # 那么该不该加这个方法呢？
 

@@ -100,11 +100,7 @@ Haskell 为开发人员提供了许多优势，如提高生产率、易于维护
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 5.编写 Haskell 程序
 
@@ -168,8 +164,4 @@ Haskell 为开发人员提供了许多优势，如提高生产率、易于维护
 
 如果你喜欢这份*学习 Haskell 的 5 大课程列表，*请随意与你的朋友和家人分享。此外，如果您有任何疑问或问题，请留下您的评论，我们将立即回复您。
 
-[](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-haskell-for.html) [## 2023 年初学者学习 Haskell 的前 5 门课程——最好的
-
-### 大家好，如果你想学习 Haskell，2022 年最好的函数式编程语言之一，并寻找…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-haskell-for.html)
+<https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-haskell-for.html> 

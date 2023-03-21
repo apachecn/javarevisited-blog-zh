@@ -40,11 +40,7 @@
 
 如果你需要更多的问题，在你去面试之前回顾一下这些 Java 面试问题
 
-[](https://codeburst.io/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f) [## 面向初学者和初级开发人员的 50 大 Java 面试问题
-
-### 一个常见的 Java 问题和答案的列表，来自不同的 Java 开发人员的编程工作面试…
-
-codeburst.io](https://codeburst.io/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f) 
+<https://codeburst.io/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f>  
 
 # **准备好解决方案了吗？**
 
@@ -100,16 +96,4 @@ Java 有一个整数缓存。默认情况下，JVM 会在缓存中存储-128 到
 
 # 您可能喜欢的其他文章:
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [## 我最喜欢的深入学习 Java 的书籍——必读
-
-### 大家好，今天是在线课程的世界。每个人都在谈论从在线培训、Youtube 学习…
-
-medium.com](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  </javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99>  </free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a> 

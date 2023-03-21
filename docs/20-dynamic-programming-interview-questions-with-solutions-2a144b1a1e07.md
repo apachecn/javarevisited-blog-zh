@@ -310,8 +310,4 @@ s2 = `“cbda”`
 
 作为一个平台，教育性也是编码面试的一个很好的资源，你可以 [**获得他们所有的课程，每月只需 14.9 美元**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 。我向所有准备编程工作面试的人强烈推荐这一点。
 
-[](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) [## 探索编码面试的动态编程模式——交互式学习
-
-### 事实是，动态编程(DP)问题可能是编码面试中最令人生畏的问题。即使当…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
+<https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224> 

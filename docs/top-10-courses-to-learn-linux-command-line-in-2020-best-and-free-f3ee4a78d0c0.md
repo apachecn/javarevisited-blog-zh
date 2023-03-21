@@ -24,11 +24,7 @@ Linux 作为最重要的技能之一，因为它长期为你服务。它不仅�
 
 顺便说一句，如果你不介意花点钱学习像 Linux 这样有价值的东西，那么我也推荐你去看看 Udemy 上的 [**学习 Linux 5 天，提升你的职业**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 课程。这是最全面的课程之一，你可以在每月举行的 Udemy 销售上花 10 美元买到。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) [## 在 5 天内学会 Linux，提升你的职业生涯
-
-### 如果你想学习如何使用 Linux 和……加入其他 20，000 名世卫组织的成功学生的行列
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F>  
 
 # 学习 Linux 的 10 个最好的免费在线培训课程
 
@@ -93,11 +89,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 以下是加入本课程的链接— [**Linux 命令行基础知识**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-command-line-volume1%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-command-line-volume1%2F) [## Linux 命令行基础
-
-### 这是 Linux 命令行的入门课程。对于 Linux 初学者和高级 Linux 用户来说都非常棒。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-command-line-volume1%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-command-line-volume1%2F>  
 
 ## 4. [Linux 教程和项目(免费 Udemy 课程)](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flinux-tutorials%2F)
 
@@ -123,11 +115,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以下是加入本课程的链接— [**Vim 大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvim-commands-cheat-sheet%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvim-commands-cheat-sheet%2F) [## Vim 大师班
-
-### 您知道吗，最高效的命令行专家利用了 Vim 文本编辑器的强大功能。的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvim-commands-cheat-sheet%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvim-commands-cheat-sheet%2F>  
 
 ## 6.[程序员的狂欢](https://www.educative.io/collection/10370001/5734099469729792?authorName=Educative?affiliate_id=5073518643380224)
 
@@ -139,11 +127,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这里是加入这个课程的链接— [**程序员聚会**](https://www.educative.io/collection/10370001/5734099469729792?authorName=Educative?affiliate_id=5073518643380224)
 
-[](https://www.educative.io/collection/10370001/5734099469729792?authorName=Educative?affiliate_id=5073518643380224) [## 程序员的狂欢
-
-### 有没有想过为什么命令行仍然在使用，即使有数百人友好的图形用户界面和工具…
-
-www.educative.io](https://www.educative.io/collection/10370001/5734099469729792?authorName=Educative?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/10370001/5734099469729792?authorName=Educative?affiliate_id=5073518643380224>  
 
 这是一个很棒的课程，打折后只需 12 美元，但是如果你碰巧像我一样喜欢[教育性](https://medium.com/u/85b9909ed1cf?source=post_page-----f3ee4a78d0c0--------------------------------)课程，那么最好订阅教育性课程，这样可以访问他们的 100 多门软件课程。你会得到更好的价值。
 
@@ -190,11 +174,7 @@ www.educative.io](https://www.educative.io/collection/10370001/5734099469729792?
 
 以下是加入本课程的链接— [**Linux 操作系统基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-linux-operating-system-fundamentals%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-linux-operating-system-fundamentals%2F) [## 免费 Linux 教程- Linux 操作系统基础
-
-### 这门课程是为绝对初学者开设的。你曾经想知道，用非常简单的话来说，答案是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-linux-operating-system-fundamentals%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-linux-operating-system-fundamentals%2F>  
 
 ## 10. [Linux 管理训练营:从初级到高级](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-administration-bootcamp%2F)
 
@@ -206,11 +186,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以下是加入本课程的链接— [**Linux 管理训练营:从初级到高级**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-administration-bootcamp%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-administration-bootcamp%2F) [## Linux 管理训练营:从初学者到高级
-
-### 和其他 20，000 名成功的学生一起，世卫组织已经掌握了 LINUX 操作系统，我的一个最高评价是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-administration-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-administration-bootcamp%2F>  
 
 ## 11.[***Linux 命令行 Bootcamp:初级到高级用户***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-linux-command-line-bootcamp%2F)
 
@@ -249,11 +225,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样的超级有趣和有用的课程。您还可以使用优惠券代码 FRIENDS10 获得本课程或您选择的任何订阅的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上是学习 Linux online 的一些 **best 和** **免费课程。正如我之前所说，Linux 是任何程序员或 IT 专业人士的必备技能。如果你了解 Linux，你可以做更多的事情。**
 
@@ -276,24 +248,8 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 如果你只是想在 2023 年开始学习 Linux 命令行，我认为[**在 5 天内学习 Linux 并提升你的职业生涯**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 是最好的在线课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) [## 在 5 天内学会 Linux，提升你的职业生涯
-
-### 如果你想学习如何使用 Linux 和……加入其他 20，000 名世卫组织的成功学生的行列
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [](/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2) [## 程序员和数据科学家学习数据库和 SQL 的 7 门免费课程
-
-### 免费课程学习 SQL 和数据库概念的初学者使用微软 SQL 服务器，甲骨文，和 MySQL 从 edX…
-
-medium.com](/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2)
+</javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf>  </javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2> 

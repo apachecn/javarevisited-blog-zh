@@ -232,7 +232,7 @@ Java 开发人员学习其他 JVM 语言，如 [Scala](https://dev.to/javinpaul/
 
 [![](img/50454a43d652283da0fb43f8a4e81e27.png)](https://www.educative.io/courses/good-parts-of-aws?affiliate_id=5073518643380224)
 
-你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**教育订阅，每月花费 **$17** (现在打五折)，对于需要不断学习的程序员和软件工程师来说，完全值得。感谢[教育团队](https://medium.com/u/163aa84775f6?source=post_page-----e6222f25cc72--------------------------------)提供这个令人敬畏的课程。**
+你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买<https://www.educative.io/subscription?affiliate_id=5073518643380224>**教育订阅，每月花费 **$17** (现在打五折)，对于需要不断学习的程序员和软件工程师来说，完全值得。感谢[教育团队](https://medium.com/u/163aa84775f6?source=post_page-----e6222f25cc72--------------------------------)提供这个令人敬畏的课程。**
 
 ## **18.[杰出的开发者](https://gumroad.com/a/749663347)**
 
@@ -335,16 +335,8 @@ Java 开发人员学习其他 JVM 语言，如 [Scala](https://dev.to/javinpaul/
 
 **如果你正在寻找一些高级课程来成为一名更好的 Java 开发人员，我还建议你去看看 Educative 上的 [**Web 应用和软件架构 101**](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) 课程，这是学习现代软件架构的较好课程之一。**
 
-**[](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) [## 网络应用和软件架构 101
-
-### 本课程是网络应用和软件架构的基础课程。它会带您一步一步地了解不同的组件…
-
-www.educative.io](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) 
+**<https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末 2023**](https://pluralsight.pxf.io/c/1193463/871467/7490) 就在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)**
+<https://pluralsight.pxf.io/c/1193463/871467/7490> **

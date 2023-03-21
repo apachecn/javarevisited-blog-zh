@@ -134,7 +134,7 @@ PLAY 用 Scala 和 Java 编写，是最强大的后端 web 框架之一。它基
 
 有几种后端框架，有些流行，有些不流行。在本文中，我们讨论了常见的后端框架。所有这些框架在后端社区都非常受欢迎，就业市场对它们有巨大的需求。
 
-这些框架大多是用流行的编程语言编写的，比如 [Java](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) 、 [Python](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19) 、以及 [JavaScript](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) 。如果是初学者，可以从 [**Ruby on rails**](/javarevisited/10-best-ruby-on-rails-courses-for-beginners-dca4d66e9f7b) 等初学者友好的框架或者 [**Flask**](/javarevisited/5-best-python-flask-courses-for-beginners-2f262f8e23da) 等轻量级框架开始。如果你热衷于学习最受欢迎的课程，那么你可以选择[](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)**[**Django**](/javarevisited/my-favorite-courses-to-learn-django-for-beginners-2020-ac172e2ab920)，或者 [Express](https://www.java67.com/2020/06/top-5-courses-to-learn-mern-stack-for-web-development.html) 。**
+这些框架大多是用流行的编程语言编写的，比如 [Java](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) 、 [Python](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19) 、以及 [JavaScript](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) 。如果是初学者，可以从 [**Ruby on rails**](/javarevisited/10-best-ruby-on-rails-courses-for-beginners-dca4d66e9f7b) 等初学者友好的框架或者 [**Flask**](/javarevisited/5-best-python-flask-courses-for-beginners-2f262f8e23da) 等轻量级框架开始。如果你热衷于学习最受欢迎的课程，那么你可以选择</javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e>**[**Django**](/javarevisited/my-favorite-courses-to-learn-django-for-beginners-2020-ac172e2ab920)，或者 [Express](https://www.java67.com/2020/06/top-5-courses-to-learn-mern-stack-for-web-development.html) 。**
 
 **您可能喜欢的其他**编程和开发文章****
 
@@ -159,8 +159,4 @@ PLAY 用 Scala 和 Java 编写，是最强大的后端 web 框架之一。它基
 
 ***如果你是 web 开发新手，并且正在寻找一个在线课程来从头开始学习 web 开发，那么我强烈推荐你参加 Udemy 网站上由 Angela Yu 举办的[**2023 年 Web 开发训练营。这是学习 web 开发的最全面、最吸引人、最新和结构良好的课程之一。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F)***
 
-***[](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) [## 2023 年成为全栈 Java 程序员的 10 门最佳在线课程
-
-### 以上是 Udemy 学习全栈 web 最好的 Java+Spring Boot+Angular+react js+Kubernetes 课程…
-
-medium.com](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868)***
+***</javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868> ***

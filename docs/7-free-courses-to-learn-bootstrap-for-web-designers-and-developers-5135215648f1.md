@@ -18,11 +18,7 @@
 
 在我们开始学习 Bootstrap 的这些在线课程之前，我先给大家讲一点 Bootstrap 框架的历史。它来自流行的社交媒体网站之一 Twitter。Twitter 的马克·奥托和雅各布·桑顿最初将其命名为 Twitter 蓝图和开发，作为鼓励内部工具一致性的框架。但是，在成功之后，它从 Twitter Blueprint 更名为 Bootstrap，并于 2011 年 8 月 19 日作为开源项目发布。如果你不介意花几块钱学习一些有用的技能，比如引导程序和网站设计，那么我也建议你在 Udemy 上查看一下由 Brad Traversy[主持的包含 5 个项目的](https://medium.com/u/861216ad5921?source=post_page-----5135215648f1--------------------------------) 的 [**引导程序 4。对于任何想要学习 Bootstrap 的初学者来说，这是一个极好的资源，因为您将通过创建实际的项目来学习。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbootstrap-4-from-scratch-with-5-projects%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbootstrap-4-from-scratch-with-5-projects%2F) [## 成为 Bootstrap 4 Boss:现代前端开发
-
-### 本课程将带您从对 Bootstrap 3 或 Bootstrap 4 一无所知到了解所有实用程序…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbootstrap-4-from-scratch-with-5-projects%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbootstrap-4-from-scratch-with-5-projects%2F>  
 
 # 2023 年学习 Bootstrap 框架的 7 门最佳免费课程
 
@@ -126,11 +122,7 @@ Bootstrap 可以让您从 web 设计项目中去掉重复的样式工作，将�
 
 如果你想学习更多关于 CSS 的知识，我建议你加入 [**高级 CSS 和 Sass: Flexbox、Grid、Animations 等等！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-css-and-sass%2F) 课程由 Jonas Schmedtmann 在 Udemy 上开设。我刚刚在 Udemy 闪购上花了 12 美元买了这个课程，它简直太棒了。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-css-and-sass%2F) [## 高级 CSS 和 Sass: Flexbox、网格、动画等等
-
-### 你是否已经编写 CSS 代码有一段时间了，但是想让你的游戏更上一层楼？你对 CSS 感到困惑吗…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-css-and-sass%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-css-and-sass%2F>  
 
 这是互联网上最先进、最现代的 CSS 课程之一:flexbox 大师、CSS 网格、响应式设计等等。
 
@@ -149,10 +141,6 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 感谢您阅读本文。如果你喜欢这些免费的自举课程，那么请分享给你的朋友和同事。如果你有任何问题，请留言。
 
-**p . s .**——如果你是 web 开发世界的新手，想要学习一切，Web 开发人员应该知道没有比 Colt_Steele 的 Web 开发人员训练营[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)**更好的课程了。它不仅会教你 Bootstrap，还会教你 HTML、JavaScript、jQuery、Node JS 和其他 web 开发人员需要了解的现代技术。**
+**p . s .**——如果你是 web 开发世界的新手，想要学习一切，Web 开发人员应该知道没有比 Colt_Steele 的 Web 开发人员训练营<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F>**更好的课程了。它不仅会教你 Bootstrap，还会教你 HTML、JavaScript、jQuery、Node JS 和其他 web 开发人员需要了解的现代技术。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到 web 开发者训练营，这是学习 Web 开发的唯一课程。有很多…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F)**
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F> **

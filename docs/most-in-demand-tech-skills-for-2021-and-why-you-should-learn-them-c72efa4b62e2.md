@@ -26,11 +26,7 @@
 
 由于目前的流行，2021 年开始学习 AI 和 ML 的 IT 员工自己肯定会获得最高的薪水和需求。而且，如果你想学习人工智能和机器学习，那么这里有一个你可以参考的[最佳人工智能和机器学习资源的列表。](/javarevisited/10-best-udemy-and-coursera-courses-to-learn-artificial-intelligence-in-2020-ec77ad13bdc1?source=---------37----------------------------)
 
-[](/javarevisited/10-best-udemy-and-coursera-courses-to-learn-artificial-intelligence-in-2020-ec77ad13bdc1) [## 2021 年 Udemy 和 Coursera 的 10 门最佳人工智能课程
-
-### 这些是 Udemy 和 Coursera 学习人工智能最好的在线课程。
-
-medium.com](/javarevisited/10-best-udemy-and-coursera-courses-to-learn-artificial-intelligence-in-2020-ec77ad13bdc1) 
+</javarevisited/10-best-udemy-and-coursera-courses-to-learn-artificial-intelligence-in-2020-ec77ad13bdc1>  
 
 # 2.云计算
 
@@ -46,11 +42,7 @@ medium.com](/javarevisited/10-best-udemy-and-coursera-courses-to-learn-artificia
 
 随着越来越多的公司转向云平台，整个技术行业可能会继续长期需要云工程师。并且，如果你想学习云计算，这里有 [**最好的云计算资源**](/javarevisited/5-best-cloud-computing-courses-to-learn-in-2020-f5f091159401) 你可以加入。
 
-[](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7) [## 2021 年 AWS、GCP 和 Azure 的 10 个最佳 Coursera 认证和课程
-
-### 大家好，如果你热衷于学习云计算和基本的云平台，如 AWS，谷歌云，微软…
-
-medium.com](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7) 
+</javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7>  
 
 # 3.网络安全
 
@@ -64,11 +56,7 @@ medium.com](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certif
 
 网络安全劳动力短缺预计到 2021 年将达到 350 万个空缺职位。所以 2021 年对安全专业人才的需求会极高。而且，如果你想学习网络安全并需要资源，这里有一个你可以在 2021 年参加的[最佳网络安全课程](/javarevisited/7-best-cyber-security-courses-for-programmers-and-developers-50afafae050b)的列表。
 
-[](/javarevisited/7-best-cyber-security-courses-for-programmers-and-developers-50afafae050b) [## 2021 年要学习的 7 门最佳网络安全在线课程
-
-### 这些是对 IT 专业人员以及 Udemy 和 Coursera 等网站的程序员来说最好的网络安全课程。
-
-medium.com](/javarevisited/7-best-cyber-security-courses-for-programmers-and-developers-50afafae050b) 
+</javarevisited/7-best-cyber-security-courses-for-programmers-and-developers-50afafae050b>  
 
 # 4.全栈开发
 
@@ -86,11 +74,7 @@ medium.com](/javarevisited/7-best-cyber-security-courses-for-programmers-and-dev
 
 **全栈开发者在 2021 年的需求会很高，薪水也会很高，所以在 2021 年之前学会成为一名全栈开发者对你最有利，下面是 2021 年成为全栈开发者的 [**最佳资源**](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232) 。**
 
-**[](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232) [## 2021 年成为 FullStack Web 开发人员的 10 大在线课程[更新]
-
-### 大家好，如果你想学习 Web 开发或在 2020 年成为一名全栈 Web 开发人员，那么你已经来到了…
-
-medium.com](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232)** 
+**</javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232> ** 
 
 # **5.AR 和 VR**
 
@@ -106,11 +90,7 @@ medium.com](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-devel
 
 **随着对 XR 需求的增加，学习 XR 技能肯定会增加你未来的需求。**
 
-**[](/javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-in-2020-best-of-lot-8517aa9fc838) [## 2021 年学习物联网的 5 门最佳 Arduino、IoT 和 Raspberry PI 课程
-
-### 你好，你可能听说过 IoT 或物联网，因为它正在慢慢改变这个词。但是如果你不确定…
-
-medium.com](/javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-in-2020-best-of-lot-8517aa9fc838)** 
+**</javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-in-2020-best-of-lot-8517aa9fc838> ** 
 
 # **6.区块链**
 
@@ -124,11 +104,7 @@ medium.com](/javarevisited/my-favorite-courses-to-learn-internet-of-things-iot-i
 
 **主要的银行和其他金融机构现在也在使用区块链，使其成为 2020 年需要学习的顶级技术技能之一。可以从 Coursera 提供的[区块链专业化课程](/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0)中学习区块链。**
 
-**[](/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0) [## 2021 年 10 大最佳区块链课程及认证
-
-### 大家好，如果你不是在岩石下离开，那么你肯定听说过区块链和…
-
-medium.com](/javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0)** 
+**</javarevisited/best-blockchain-courses-and-certification-in-2020-63729f8f04d0> ** 
 
 # **结论**
 

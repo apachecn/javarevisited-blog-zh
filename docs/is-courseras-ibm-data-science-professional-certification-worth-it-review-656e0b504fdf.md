@@ -10,11 +10,7 @@
 
 [**IBM 数据科学专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) 是最好的在线课程之一，它会给你最需要的入门技能，并且不需要任何技能就可以开始你在他领域的旅程，所以让我们更多地讨论这门课程以及你报名参加这项计划时将学到的东西。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science>  
 
 # Coursera 上的 IBM 数据科学专业证书述评
 
@@ -133,11 +129,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你可以单独加入这个专业证书，也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 会员资格，该会员资格允许参加 3000 多门 Coursera 课程，并可以无限制地参加热门的 Coursera 认证和专业。如果你想参加一个以上的课程或证书，那么你应该加入 Coursera Plus。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera 资源文章**
 
@@ -166,8 +158,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你正在寻找学习网络安全和信息安全的最佳 Udemy 在线课程，你也可以在 Udemy **上查看 [**数据科学课程 2023:完整的数据科学训练营课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 。**也是学习数据科学最受欢迎、评分最高的 Udemy 课程之一。
 
-[](/javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f) [## 2023 年初学者在线学习的 10 门最佳数据科学课程和认证
-
-### 你们好，这个时候你们过得怎么样？我希望你会做得很好，并保持安全。你可能听说过…
-
-medium.com](/javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f)
+</javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f> 

@@ -8,7 +8,7 @@
 
 image_credit — Udemy
 
-你好伙计们，如果你想在 2023 年在线学习 PHP、MySQL 和 Laravel，并寻找最好的 PHP 课程，那么你来对地方了。前面我已经分享了 [**最好的免费 PHP 和 MySQL 课程**](https://www.java67.com/2018/02/5-free-php-and-mysql-courses-for-web-developers.html) **和**最好的 Laravel 课程**[](/javarevisited/7-best-laravel-online-courses-for-beginners-and-php-developers-61deac95f6b4)****在这篇文章中，我将分享 2023 年初学者学习 PHP 的最好的在线课程。******
+你好伙计们，如果你想在 2023 年在线学习 PHP、MySQL 和 Laravel，并寻找最好的 PHP 课程，那么你来对地方了。前面我已经分享了 [**最好的免费 PHP 和 MySQL 课程**](https://www.java67.com/2018/02/5-free-php-and-mysql-courses-for-web-developers.html) **和**最好的 Laravel 课程**</javarevisited/7-best-laravel-online-courses-for-beginners-and-php-developers-61deac95f6b4>****在这篇文章中，我将分享 2023 年初学者学习 PHP 的最好的在线课程。******
 
 ******有些人渴望学习 web 开发，但是他们不知道应该从哪种编程语言开始。******
 
@@ -22,11 +22,7 @@ image_credit — Udemy
 
 ****PHP 开发人员有很多工作可以做，无论是自由职业还是全职工作，因为有数百万个网站是用 PHP 建立的，主要是 [**WordPress**](/javarevisited/5-best-wordpress-courses-for-beginners-and-experienced-website-developers-b45f7976ee40) 他们使用了许多 PHP 插件和库，最重要的是 PHP 非常容易学习和使用，所以在 2023 年学习 PHP 肯定是有意义的，但如果你想先学习 WordPress，这个基于项目的课程是最好的开始。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-a-full-website-using-wordpress) [## 使用 WordPress 建立一个完整的网站
-
-### 在 2 小时内完成这个指导项目。在这个项目结束时，你将创建一个完整的网站…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-a-full-website-using-wordpress) 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-a-full-website-using-wordpress>  
 
 # 2023 年初学网站开发的 10 门最佳 PHP 在线课程
 
@@ -87,11 +83,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****顺便说一句，如果你发现 Coursera 的课程很有用，因为它们是由世界各地的知名公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ****4. [PHP 基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fphp-fundamentals)【复数视线】****
 
@@ -116,11 +108,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)**** 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial> **** 
 
 ## ****5. [PHP 带 Laravel 适合初学者](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-with-laravel-for-beginners-become-a-master-in-laravel%2F)【Udemy 课程】****
 
@@ -212,11 +200,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ****而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问本课程，还可以访问他们的 210 多门课程。它非常划算，非常适合准备编码面试****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上就是关于**深入学习 PHP 的最佳在线课程**。在这个列表中，我们已经介绍了学习 PHP 编程语言和 PHP 框架(如 Laraval 和 PHPUnit)的在线课程，这些课程对于使用 PHP 创建真实世界的应用程序是必不可少的。
 
@@ -241,8 +225,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **【p . s .】**—如果你热衷于学习 PHP，但正在寻找一门免费的在线课程来开始你的 PHP 学习之旅，那么你也可以看看 Udemy 的这门 [**实用 PHP:掌握基础知识和代码动态网站**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-dynamic-websites%2F) 课程。它是完全免费的，2023 年已经有超过 25 万人加入学习 PHP。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-dynamic-websites%2F) [## 免费 PHP 教程-实用 PHP:掌握基础知识，编写动态网站代码
-
-### 作为一名技术高超的专业人士，Brad Hussey 是一名充满激情、经验丰富的自由职业网页设计师、开发人员、博客作者…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-dynamic-websites%2F)****
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-dynamic-websites%2F> ****

@@ -20,11 +20,7 @@
 
 而且，如果你需要一门综合课程来成为一名网页开发者，我强烈推荐 Udemy 网站上的 Angela Yu 的 [**完整的 2020 网页开发训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) 课程。只需一门课程，它就是成为全栈 web 开发人员的绝佳资源。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) [## 完整的 2020 年网络开发训练营
-
-### 欢迎来到完整的 Web 开发训练营，这是您学习编码并成为全栈 web…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F>  
 
 顺便说一句，如果你是一名经验丰富的 web 开发人员，我不想让你失望，我会在接下来的几天里写下那些新的[技术](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904)、[框架](https://dev.to/javinpaul/top-10-javascript-frameworks-libraries-web-developers-can-learn-in-2020-4jn1)和[库](/javarevisited/10-javascript-frameworks-and-libraries-to-learn-in-2020-best-of-lot-5f61f86c60b4)，在那里我们会看到学习新事物的好处和奇迹，但是现在，让我们把注意力放在 Web 开发人员在 2023 年应该学习的最重要的东西上。
 
@@ -116,11 +112,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [***10 天免费通行证***](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.Chrome 开发者工具
 
@@ -174,11 +166,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你想了解更多细节，我还建议你查看这个 [**完整的 Web 开发者路线图**](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) ，它包含了 Web 开发者应该学习的更多东西。
 
-[](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [## 2023 年全栈网络开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) 
+</javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e>  
 
 您可能喜欢的其他 **Web 开发文章**
 
@@ -204,8 +192,4 @@ medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e)
 
 **【p . s .】**——如果你不仅是网页开发的初学者，也是编程界的初学者，但你的目标是在 2023 年成为一名网页开发者，那么我也建议你参加 Udemy 上的[**2023 年完全网页开发者:零到精通**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) 课程。这是 2023 年学习 Web 开发的最全面和最新的资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F) [## 2023 年的完全网络开发者:零到精通
-
-### 刚刚更新为 2023 年！通过学习最受欢迎的技能，成为一名 Fullstack Web 开发人员！这是其中一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F> 

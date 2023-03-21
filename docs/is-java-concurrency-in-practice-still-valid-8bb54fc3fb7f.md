@@ -22,11 +22,7 @@
 
 > 顺便说一句，我发现许多开发人员很难理解这些概念，如果你也是其中之一，我建议你也加入海因茨·卡巴兹 Java champion 的 [**Java 并发课程，它以一种非常好的方式解释了这本书。这个课程无疑很贵，但很值得**](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8)
 
-[](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) [## 实践捆绑包中的 Java 并发
-
-### 我有多长时间可以参加全付费课程？终身访问听起来怎么样？注册后，你有无限的…
-
-learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) 
+<https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8>  
 
 这本书介绍的最重要的东西是并发编程的清晰概念和基础，如可见性、排序、[、线程安全](http://javarevisited.blogspot.com/2012/01/how-to-write-thread-safe-code-in-java.html)、[不变性](http://javarevisited.blogspot.com/2013/03/how-to-create-immutable-class-object-java-example-tutorial.html)、并行性等。
 
@@ -78,8 +74,4 @@ Java 开发人员非常感谢 Brian Goetz、Joshua Bloch 以及所有的作者�
 
 **【p . s .】**—让我们希望 Brian Goetz 和本书的其他作者听取这一请求，并在今年向世界各地的 Java 开发人员赠送一个新版本的 Java 并发实践，直到那时，Heinz Kabutz'](https://javarevisited.blogspot.com/2018/06/top-5-java-multithreading-and-concurrency-courses-experienced-programmers.html) [**Java 并发实践捆绑包**](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) 可以用来让自己保持最新。
 
-[](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) [## 实践捆绑包中的 Java 并发
-
-### 我有多长时间可以参加全付费课程？终身访问听起来怎么样？注册后，你有无限的…
-
-learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8)
+<https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8> 

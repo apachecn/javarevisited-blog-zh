@@ -151,11 +151,7 @@ class Cake { private Milk milk;
 
 这是 Spring 容器如何工作的基本原理。现在你已经准备好自己深入下去，为下一篇文章做准备了。我强烈建议阅读:
 
-[](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-introduction) [## 核心技术
-
-### Spring 表达式语言(简称“SpEL”)是一种强大的表达式语言，支持查询和…
-
-docs.spring.io](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-introduction) 
+<https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-introduction>  
 
 关于 Spring 上下文的更多信息:
 
@@ -177,20 +173,8 @@ docs.spring.io](https://docs.spring.io/spring-framework/docs/current/reference/h
 
 **下一章可用！**
 
-**[](https://diego-rojas.medium.com/spring-core-all-you-need-to-know-about-dependency-injection-2048d80340af) [## Spring Core:关于依赖注入您需要知道的一切
-
-### 理解 Spring 如何在幕后工作——第二章
-
-diego-rojas.medium.com](https://diego-rojas.medium.com/spring-core-all-you-need-to-know-about-dependency-injection-2048d80340af) 
+**<https://diego-rojas.medium.com/spring-core-all-you-need-to-know-about-dependency-injection-2048d80340af>  
 
 还有，不要犹豫，把你的疑惑贴出来。我非常乐意在这个奇妙的旅程中帮助你。
 
-[](/javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88) [## 我最喜欢的 2021 年 Java 开发者学习的春季 MVC 课程
-
-### 这些是初学者和有经验的 Java 开发人员学习 Spring MVC 框架的最佳在线课程…
-
-medium.com](/javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88) [](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 21+ Spring MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82)**
+</javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88>  </javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82> **

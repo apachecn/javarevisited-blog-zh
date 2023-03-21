@@ -24,11 +24,7 @@ Golang 是所有这些问题的答案。
 
 而且，如果你需要替代，那么 [***Go 编程(Golang):ZTM 学院上的完整开发者指南***](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn) 课程是另一个杰作，如果你想在 2023 年学习 Golang，我强烈推荐这两个课程。
 
-[](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn) [## 学习 Golang。成为一名围棋开发者。获得聘用|零到精通
-
-### 这门 Golang 课程涵盖了 2023 年所有新的围棋最佳实践和趋势，重点是效率。这意味着你会…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn>  
 
 # 2023 年为初学者提供 5 门免费的 Golang 在线课程
 
@@ -67,11 +63,7 @@ Udemy 上有一本面向初学这门语言的 Go 程序员的手册，平均评�
 
 它解释了这种语言的原理。输入参数、方法、接口和创建集成 RFCs 和 JSON 的代码都被教授。最重要的是，你将有机会开发围棋程序，并获得同事的评论。这个课程也是 Coursera 流行的 [**用 Google Go 专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgoogle-golang) 编程的一部分
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgoogle-golang) [## 使用 Google Go 编程
-
-### 推进你的计算机编程生涯。使用 Google 创新的编程语言开发高效的应用程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgoogle-golang) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgoogle-golang>  
 
 Coursera 专业化认证不是免费的，但是在完成专业化认证下的所有课程并完成所有评估和项目后，您将获得证书。
 
@@ -112,11 +104,7 @@ Coursera 平台上的另一个很棒的课程，平均 4.6 的学习者评分&�
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅，**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但是它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.学习围棋编程——Golang 初学者教程
 
@@ -190,8 +178,4 @@ Golang 应该是直观的，但理解起来却很复杂。通过本课程中的�
 
 **P. S.** —如果你想学习 Golang 编程和开发，并需要一个基于项目的实践资源，那么 [**用 Go 构建现代 Web 应用程序(Golang)**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuilding-modern-web-applications-with-go%2F) 课程是一个很好的开始。它不是免费的，但价格相当实惠，你可以在 Udemy 上花 10 美元买到。超过 8000 名 Golang 开发者已经从中受益。另外，ZTM 学院的 [*Golang 训练营课程*](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn) 也是一个不错的起点。
 
-[](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn) [## 学习 Golang。成为一名围棋开发者。获得聘用|零到精通
-
-### 这门 Golang 课程涵盖了 2023 年所有新的围棋最佳实践和趋势，重点是效率。这意味着你会…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn)
+<https://academy.zerotomastery.io/a/aff_lybwf816/external?affcode=441520_zytgk2dn> 

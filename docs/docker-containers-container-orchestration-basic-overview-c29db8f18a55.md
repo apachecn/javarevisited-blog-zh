@@ -99,28 +99,4 @@ Docker Compose 用于将多个容器作为单个服务运行
 
 参考资料:
 
-[](https://www.aquasec.com/cloud-native-academy/docker-container/docker-architecture/) [## Docker 建筑- Aqua
-
-### 在这一页，你会学到你需要知道的关于 Docker 架构的一切:要掌握 Docker 你需要开始…
-
-www.aquasec.com](https://www.aquasec.com/cloud-native-academy/docker-container/docker-architecture/) [](/@evans.stepanov/containerization-technology-what-when-where-and-why-80321c4dcd9c) [## 集装箱化技术:什么，何时，何地，为什么？
-
-### 在过去的四年中，Docker 变得越来越受欢迎，因为它简化了…
-
-medium.com](/@evans.stepanov/containerization-technology-what-when-where-and-why-80321c4dcd9c) [](https://en.wikipedia.org/wiki/LXC) [## LXC -维基百科
-
-### 开发者内核:Virtuozzo，IBM，Google，Eric Biederman 和其他用户空间:Daniel Lezcano，Serge Hallyn…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/LXC) [](https://www.quora.com/How-are-docker-and-container-different) [## docker 和 container 有什么不同？
-
-### 回答(第 1 题，共 10 题):Docker 是推动容器运动的公司，也是唯一的容器平台提供商…
-
-www.quora.com](https://www.quora.com/How-are-docker-and-container-different) [](https://docs.docker.com/engine/swarm/swarm-tutorial/scale-service/) [## 在集群中扩展服务
-
-### 一旦您将一个服务部署到一个群中，您就可以使用 Docker CLI 来扩展…
-
-docs.docker.com](https://docs.docker.com/engine/swarm/swarm-tutorial/scale-service/) [](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/) [## 什么是 Kubernetes？
-
-### Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化的工作负载和服务，它…
-
-kubernetes.io](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+<https://www.aquasec.com/cloud-native-academy/docker-container/docker-architecture/>  </@evans.stepanov/containerization-technology-what-when-where-and-why-80321c4dcd9c>  <https://en.wikipedia.org/wiki/LXC>  <https://www.quora.com/How-are-docker-and-container-different>  <https://docs.docker.com/engine/swarm/swarm-tutorial/scale-service/>  <https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/> 

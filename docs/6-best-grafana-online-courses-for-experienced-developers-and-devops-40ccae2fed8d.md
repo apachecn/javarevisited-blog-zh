@@ -62,11 +62,7 @@ Grafana 的一个重要特点是可以连接大量的数据源。这些数据库
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 29.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 17000 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 3. [Grafana 初级到高级(第三版)](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgrafana-graphite-and-statsd-visualize-metrics%2F)【Udemy】
 
@@ -142,11 +138,7 @@ Grafana 教程视频涵盖了以下主题:
 
 他的课程也是 Edureka 最畅销的 DevOps 在线培训 的一部分，是 DevOps 工程师的最佳讲师指导培训之一。如果你想成为 DevOps 工程师，我强烈推荐你。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fdevops-certification-training&LSNSUBSITE=LSNSUBSITE) [## DevOps 在线认证课程[#1 DevOps 培训]
-
-### 查看课程预览视频免费 Python 脚本、SQL 和 Linux 课程* Edureka 的 DevOps 培训计划将为您提供…
-
-edureka.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fdevops-certification-training&LSNSUBSITE=LSNSUBSITE) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42536&murl=https%3A%2F%2Fwww.edureka.co%2Fdevops-certification-training&LSNSUBSITE=LSNSUBSITE>  
 
 # Graphana 常见问题
 
@@ -192,8 +184,4 @@ Grafana 随着时间的推移变得非常流行，目前被所有领先的科技
 
 **P. S. —** 如果你想学习 Kubernetes，并在简历中增加一项有用的技能，但又在寻找免费课程，那么你也可以在 Udemy 上查看这个 [**Kubernetes:入门**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkubernetes-getting-started%2F) 免费课程。这是完全免费的，你需要的只是一个免费的 Udemy 帐户来注册这个在线培训课程。
 
-[](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-kubernetes-for-devops-and-certification.html) [## 2023 年学习 Kubernetes 的 5 大在线课程-最佳选择
-
-### 大家好，Kubernetes 已经成为当今容器管理社区中一个非常流行的工具和技能，它…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-kubernetes-for-devops-and-certification.html)
+<https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-kubernetes-for-devops-and-certification.html> 

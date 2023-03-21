@@ -18,11 +18,7 @@
 
 而且，如果你不介意花几块钱学习像道德黑客这样有价值的技能，那么我强烈推荐你参加 Udemy 上的 [**从头开始学习道德黑客**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F) [## 从头开始学习道德黑客培训课程
-
-### 欢迎参加这个全面的道德黑客课程！本课程假设您没有任何先验知识，在课程结束时…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F>  
 
 这是从零开始学习道德黑客的最好的课程之一，已经有超过 400 人加入了这个令人敬畏的课程。这也是 Udemy 最畅销的道德黑客课程之一，有超过 93，000 条评论，平均评分为 4.6 分。
 
@@ -76,11 +72,7 @@ SQL 注入可能是利用网站数据库最常用的技术，它使用恶意语�
 
 但是为什么当参加审计专业的免费课程时，你将不会得到任何证书。如果您参加本课程是为了获得 Coursera 证书，那么您需要注册专业化或参加订阅计划，如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 提供 5000 多个 Coursera 课程、项目和专业证书的无限制访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[渗透测试—发现漏洞](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fpenetration-testing-discovering-vulnerabilities)【edX 课程】
 
@@ -220,8 +212,4 @@ Android 应用程序也可能被恶意代码感染，并利用你的手机获取
 
 **附言**——如果你热衷于学习道德黑客，并且不介意花几个钱来学习这样一项有价值的技能，那么我强烈推荐你加入 Udemy 上的 [**从头开始学习道德黑客**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F) 在线课程。已经有 400 多人通过这门课程学习了道德黑客。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F) [## 从头开始学习道德黑客培训课程
-
-### 欢迎参加这个全面的道德黑客课程！本课程假设您没有任何先验知识，在课程结束时…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-ethical-hacking-from-scratch%2F> 

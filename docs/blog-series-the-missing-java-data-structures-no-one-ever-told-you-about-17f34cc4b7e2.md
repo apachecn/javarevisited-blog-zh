@@ -26,11 +26,7 @@ Eclipse 系列的三个部分都在一个方便的地方。
 
 在许多开发人员的帮助下，我们今天所达到的是一套全面的 Java 数据结构和算法。在下面的博客中，您可以找到有助于区分 Eclipse 集合的十件事情。
 
-[](/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d) [## 使用 Eclipse 集合的十大理由
-
-### 你可能只需要一个。
-
-medium.com](/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d) 
+</oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d>  
 
 # 博客系列
 
@@ -55,11 +51,7 @@ medium.com](/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d)
 
 `Bag`和`Multimap`是类似于`Map`的类型的很好的例子，在这里你不必担心`null`的值，就像你在 Java 中使用`Map`来模拟这些结构一样。
 
-[](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969) [## 没有人告诉过你的缺失的 Java 数据结构—第 1 部分
-
-### Eclipse Collections 提供了 JDK 中没有的其他集合类型。
-
-medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969) 
+</javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969>  
 
 # 第 2 部分——比起外部迭代器，更喜欢内部迭代器
 
@@ -70,11 +62,7 @@ medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you
 
 `MultiReader`集合是让我们尽可能多地使用内部迭代器的类型。不管行人是否记得先按下按钮，人行横道都应该停止交通。
 
-[](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3) [## 没有人告诉过你的缺失的 Java 数据结构—第 2 部分
-
-### Eclipse 集合中的多读取器集合实现。
-
-medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3) 
+</javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3>  
 
 # 第三部分——等待瓦尔哈拉
 
@@ -90,11 +78,7 @@ medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you
 *   原始不可修改集合
 *   原始字符串
 
-[](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-3-d26387b9e66e) [## 没有人告诉过你的缺失的 Java 数据结构——第 3 部分
-
-### 了解 Eclipse 集合中的原始集合支持。
-
-medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-3-d26387b9e66e) 
+</javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-3-d26387b9e66e>  
 
 # 摘要
 
@@ -112,8 +96,4 @@ medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you
 [10 门免费数据结构与算法课程](/javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b)
 [50+数据结构与算法面试题](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2> 

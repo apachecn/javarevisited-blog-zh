@@ -82,11 +82,7 @@ C++是一种两全其美的语言，它允许你使用面向对象的程序设�
 
 *你可以免费注册这门课程，但如果你喜欢充分利用这个平台，我建议你购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月花费 18 美元(现在有 50%的折扣)，对于需要不断学习的程序员和软件工程师来说完全值得*
 
-*[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 面向软件开发人员的交互式课程|教育性
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)* 
+*<https://www.educative.io/subscription?affiliate_id=5073518643380224> * 
 
 ## ***5。通过创建【免费】**学习 C++*
 
@@ -158,11 +154,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 > *可以在这里报名— [**C++ for C 程序员**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a)*
 
-*[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a) [## 面向 C 程序员的 C++，第一部分
-
-### 这个专业面向所有编程爱好者，以及初学者、计算机和其他科学家…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a)* 
+*<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a> * 
 
 ## *10.[面向 C 程序员的 C++，B 部分](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-b)*
 
@@ -180,11 +172,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。*
 
-*[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)* 
+*<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> * 
 
 # *如何从零开始学习 C++编程？*
 
@@ -221,24 +209,8 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ## *P.S. —如果你想学高级 [C++](https://www.google.com/search?q=C%2B%2B+hackernoon&rlz=1C5CHFA_enVN829VN829&oq=C%2B%2B+hackernoon&aqs=chrome..69i57.1657j0j1&sourceid=chrome&ie=UTF-8) ，我觉得[学高级 C++编程](http://bit.ly/2F7Cxck)是最好的入门。*
 
-*[](http://bit.ly/2F7Cxck) [## 通过开发高级应用程序学习高级 C++编程
-
-### 这门课程将带你从 C++的基础知识到使用该语言的更高级的特性。这门课程是…
-
-bit.ly](http://bit.ly/2F7Cxck) 
+*<http://bit.ly/2F7Cxck>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年学习 Java 的 10 大课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) [## 有经验的程序员学习 DevOps 的 10 大课程
-
-### DevOps 引擎的平均收入从 12 万美元到 15 万美元不等，这是成为 DevOps 的最佳时机…
-
-medium.com](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151)*
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>  </javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151> *

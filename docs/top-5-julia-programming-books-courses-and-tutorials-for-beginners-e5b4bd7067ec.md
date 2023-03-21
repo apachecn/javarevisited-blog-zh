@@ -47,11 +47,7 @@ Julia 在现实世界的编程中有很多用途；你也可以将 Julia 用于�
 
 除此之外，Coursera 还有针对数据科学初学者的[**Julia**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fjulia-beginners-data-science)，这是一个 2 小时长的项目，在这里你将通过在基于云的工作空间中进行数据清理和探索性分析的实践来学习 Julia。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fjulia-beginners-data-science) [## Julia 面向数据科学初学者
-
-### 在 2 小时内完成这个指导项目。这个指导性项目是为那些想学习如何使用朱莉娅…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fjulia-beginners-data-science) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fjulia-beginners-data-science>  
 
 这意味着不需要安装软件和工具，只需要开始编码，你的老师会在分屏窗口中指导你，我真的很喜欢这个，如果你也喜欢边做边学，那么你会喜欢这个 Julia 课程的。
 
@@ -125,16 +121,4 @@ Udemy 上学习 Julia 编程语言的课程不多，但无论我发现了什么�
 
 # 你可能喜欢的其他媒体文章
 
-[](/javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc) [## 2023 年工作和未来需要学习的 10 种最佳编程语言
-
-### 这些都是最好的编程语言，为软件开发，未来，并得到一份工作，在技术与相关…
-
-medium.com](/javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc)  [## 50+数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+</javarevisited/top-10-programming-languages-you-can-learn-for-jobs-and-career-in-technology-491e611c22bc>    </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927> 

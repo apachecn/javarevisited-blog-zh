@@ -26,11 +26,7 @@ image_credit — Udemy
 
 顺便说一句，如果你已经下定决心学习 Docker 和 Kubernetes，只是需要一个好的资源，那么你可以从 Udemy 上 Stephen Grider 的 [**Docker 和 Kubernetes:完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) 课程开始。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，这就是你的课程。CI+CD…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-and-kubernetes-the-complete-guide%2F>  
 
 这是一门非常引人入胜、内容丰富、动手操作的课程，可以学习 Docker 和 Kubernetes。它也非常实惠，你只需花 9.99 美元就可以在不时发生的疯狂的 Udemy 大甩卖上买到。
 
@@ -91,8 +87,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P. S. —** 如果你想深入学习 Docker 和 Kubernetes，并寻找最好的在线课程，那么你也可以看看这份名单 [**5 个最好的 Docker 和 Kubernetes 课程**](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) 你可以在 2023 年甚至 2023 年加入，学习这些热门工具。
 
-[](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 2023 年学习 Docker、Kubernetes 和 AWS 的 15 大在线课程
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773)
+</javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773> 

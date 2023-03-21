@@ -44,8 +44,4 @@
 *   **Java 程序员 Spring Boot 面试 15 大问题(** [**问题**](https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html) **)**
 *   **Top 5 课程学习 Spring 框架深入(** [**课程**](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) **)**
 
-[](https://javarevisited.blogspot.com/2018/01/top-5-hibernate-and-jpa-courses-for-java-programmers-learn-online.html) [## Java 开发人员在线学习的 5 大 Hibernate 和 JPA 课程
-
-### Hibernate 是 Java 和 Java EE 或 JEE 程序员的基本框架之一，尤其是如果你正在从事…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/01/top-5-hibernate-and-jpa-courses-for-java-programmers-learn-online.html)
+<https://javarevisited.blogspot.com/2018/01/top-5-hibernate-and-jpa-courses-for-java-programmers-learn-online.html> 

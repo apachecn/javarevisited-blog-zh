@@ -113,16 +113,4 @@ Byte Unsigned: 170      Signed: -86
 
 **你可能喜欢的其他文章:**
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2020 年学习 Java 的 10 大课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7) [## 程序员的 100+编码面试问题
-
-### 解决这些常见的编码问题，以便在下一次编程工作面试中表现出色。
-
-codeburst.io](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  <https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7> 

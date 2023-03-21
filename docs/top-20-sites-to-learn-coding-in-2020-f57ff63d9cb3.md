@@ -31,11 +31,7 @@ image _ credit—https://dribbble . com/shots/4057046-freeCodeCamp-Illustration
 
 付费资源也非常便宜，你可以在他们经常发生的闪购期间以 9.99 美元的价格购买。它充满了一些伟大的老师，如科尔特斯蒂尔，罗伯珀西瓦尔，斯蒂芬格里德，乔希波尔蒂利亚，约翰珀塞尔等。
 
-[](http://bit.ly/2zO3AHT) [## 免费 Java 教程-免费 Java 教程-完全初学者学习 Java
-
-### Francis Sougué ( 26 门课程，12 篇评论)完美。这里的大学已经推迟上课，因为全国…
-
-bit.ly](http://bit.ly/2zO3AHT) 
+<http://bit.ly/2zO3AHT>  
 
 ## 2.教育性的
 
@@ -73,11 +69,7 @@ Coursera 最棒的地方在于它提供了斯坦福大学、伦敦大学、密�
 
 Coursera 还为你提供认证，你可以在你的 LinkedIn 个人资料中展示，但你需要付费，例如谷歌的 [**it 支持认证**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support) 和[**Python for Everybody specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython)在 IT 支持和 Python 领域开始职业生涯时非常受欢迎。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [## 面向所有人的 Python
-
-### 学习用 Python 编程和分析数据。开发收集、清理、分析和可视化数据的程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython>  
 
 如果你觉得 Coursera 的课程有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
@@ -93,11 +85,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 由 Quincy Larson 创建，这是一个开始您的编码之旅的非常棒的地方。他们甚至有一个很大的脸书群，在那里你可以提问和分享你的学习经验。
 
-[](https://www.freecodecamp.org/) [## 学习编码| freeCodeCamp.org
-
-### 通过免费的在线课程、编程项目和开发人员工作的面试准备来学习编码。
-
-www.freecodecamp.org](https://www.freecodecamp.org/) 
+<https://www.freecodecamp.org/>  
 
 ## 5.[pluralsight.com](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)
 
@@ -105,11 +93,7 @@ www.freecodecamp.org](https://www.freecodecamp.org/)
 
 它现在也收购了 CodeSchool，该公司早期允许你通过做来学习网络技术。我用这个网站很快就学到了很多很酷的东西。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。如果你没有这个计划，我强烈推荐你加入，因为它能促进你的学习，而且作为一名程序员，你总是需要学习新的东西。
 
@@ -123,11 +107,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 还有另一个很棒的资源， [**可视化 Git**](http://git-school.github.io/visualizing-git/) ，它将帮助您探索 Git 命令如何在您的 web 浏览器中以自由探索模式影响存储库的结构，以及一些构建的场景。
 
- [## 学习 Git 的资源
-
-### Git，GitHub，DVCS，天啊！学习 Git 的所有行话和基础知识。
-
-try.github.io](http://try.github.io/) 
+  
 
 ## 7.【onemonth.com 
 
@@ -137,11 +117,7 @@ try.github.io](http://try.github.io/)
 
 顺便说一句，一个月也有免费试用！还有一些免费课程，如命令行课程，他们还有 [**免费学习编码**](https://mbsy.co/sFqPc) 一个月的播客即将推出。
 
-[](https://mbsy.co/sFqPc) [## 学习 Python |最畅销的初学者在线 Python 课程
-
-### “忘记华尔街的行话。花旗集团(Citigroup Inc .)希望其新任投资银行分析师知道的语言是 Python“…
-
-mbsy.co](https://mbsy.co/sFqPc) 
+<https://mbsy.co/sFqPc>  
 
 ## 8.[codecademy.com](https://bit.ly/codecademyhome)【免费互动课程】
 
@@ -149,31 +125,19 @@ mbsy.co](https://mbsy.co/sFqPc)
 
 顺便说一句，这是第一个将互动学习带入图片的网站。它的 javascript 课程可能是在线学习 JavaScript 最受欢迎的课程。
 
-[](https://bit.ly/codecademyhome) [## 免费学习编码| Codecademy
-
-### 学习你想要的工作所需要的技能。作为在线教育和学习编码的领导者，我们…
-
-codecademy.com](https://bit.ly/codecademyhome) 
+<https://bit.ly/codecademyhome>  
 
 ## 9.[codingbat.com](http://codingbat.com/)
 
 另一个学习编码的好网站包含了很多免费的编程练习，让你在 [Python](https://javarevisited.blogspot.com/2018/12/10-free-python-courses-for-programmers.html) 和 [Java](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html) 中建立编码意识。
 
- [## 编码 Bat Java
-
-### 编辑描述
-
-codingbat.com](https://codingbat.com/java) 
+  
 
 ## 10.[code.org](http://code.org/)
 
 开始学习编码和计算机科学基础的完美网站。我的孩子通过这个网站玩[《我的世界》游戏](https://www.amazon.com/Minecraft-Windows-10-Starter-Collection/dp/B07JCRY8WP?tag=javamysqlanta-20)来学习编码
 
-[](https://code.org/) [## 学习计算机科学。改变世界。
-
-### 每个学生都有改变世界的潜力。帮助他们开始。# CSforGood
-
-code.org](https://code.org/) 
+<https://code.org/>  
 
 ## 11.[code4startup.com](https://code4startup.com/?ref=javinpaul)
 
@@ -187,21 +151,13 @@ code.org](https://code.org/)
 
 如果你喜欢基于项目的学习，那么你会喜欢这个网站。
 
-[](https://code4startup.com/?ref=javinpaul) [## 通过创建现实生活中的启动应用程序来学习如何编码
-
-### (AirBnb、UberEats、Tinder、Fiverr、ProductHunt...)我们将建立一个基于网络的[优步食品应用]系统…
-
-code4startup.com](https://code4startup.com/?ref=javinpaul) 
+<https://code4startup.com/?ref=javinpaul>  
 
 ## 12.[codeabbey.com](https://www.codeabbey.com/)
 
 另一个很棒的网站，有很多编程练习，可以学习用任何编程语言编码和提高你的[编码技能](http://www.java67.com/2016/02/5-books-to-improve-coding-skills-of.html)。
 
- [## CodeAbbey -供初学者练习和学习的编程问题
-
-### 收集编程问题练习解决，学习编程和编码，并赢得证书
-
-www.codeabbey.com](https://www.codeabbey.com/) 
+  
 
 ## 13.【sqlzoo.net 
 
@@ -219,11 +175,7 @@ www.codeabbey.com](https://www.codeabbey.com/)
 
 本课程中建议的[别名](http://gitimmersion.com/lab_11.html)可以大大提高你的工作效率，如果你把它们包括在你的。bashrc 和. gitconfig。
 
-[](http://gitimmersion.com/index.html) [## Git 沉浸
-
-### 这是一个引导性的游览，介绍了 Git 的基本原理，其灵感来源于这样一个前提:了解一件事情就是去做这件事情。Git…
-
-gitimmersion.com](http://gitimmersion.com/index.html) 
+<http://gitimmersion.com/index.html>  
 
 ## 15.[学习 Git 分支](https://learngitbranching.js.org/)
 
@@ -231,11 +183,7 @@ gitimmersion.com](http://gitimmersion.com/index.html)
 
 “学习 Git 分支”是 T2 在互联网上学习 Git 的最直观和互动的方式之一。有很多具有挑战性的令人兴奋的水平的练习，给出了强大功能的一步一步的演示，甚至可能在过程中有一点乐趣。
 
-[](https://learngitbranching.js.org/) [## 学习 Git 分支
-
-### 一个交互式 Git 可视化工具，用于教育和挑战！
-
-learngitbranching.js.org](https://learngitbranching.js.org/) 
+<https://learngitbranching.js.org/>  
 
 ## 16.codecombat.com
 
@@ -257,11 +205,7 @@ learngitbranching.js.org](https://learngitbranching.js.org/)
 
 学习 Python 基础知识的好网站。这十年来最流行的编程语言之一，它允许你做很多事情，从简单的自动化琐碎的事情到开发网站，现在用于[机器学习](http://www.java67.com/2019/01/5-free-courses-to-learn-machine-and-deep-learning-in-2019.html)和[数据科学](https://javarevisited.blogspot.com/2018/10/data-science-and-machine-learning-courses-using-python-and-R-programming.html)。如果你需要更多学习 Python 的理由，请看这篇文章。
 
-[](https://www.learnpython.org/) [## 学习 Python -免费的交互式 Python 教程
-
-### 这个网站得到了 DataCamp 的大力支持。DataCamp 为数据科学提供在线互动 Python 教程…
-
-www.learnpython.org](https://www.learnpython.org/) 
+<https://www.learnpython.org/>  
 
 以上是关于免费学习如何编码的一些最好的网站。这些网站是学习诸如 [Python](http://www.java67.com/2018/02/5-free-python-online-courses-for-beginners.html) 和 [Java](http://javarevisited.blogspot.sg/2017/11/top-5-free-java-courses-for-beginners.html#axzz4zuIICRs9) 之类的编程语言、诸如 [SQL](/javarevisited/top-10-free-courses-to-learn-php-and-mysql-for-web-development-e96e69982675) 之类的常青树技术、诸如 [Linux](https://hackernoon.com/top-5-free-linux-courses-for-programmers-4a433b4edade) 之类的操作系统、诸如 [Flask](https://javarevisited.blogspot.com/2020/01/top-5-courses-to-learn-flask-for-web-development-with-python.html) 、 [React](https://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html) 和 [Ruby On Rails](https://www.java67.com/2018/02/5-free-ruby-and-rails-courses-to-learn-online.html) 之类的 Web 开发框架、诸如 Haskell 之类的函数式编程语言、学习建立网站和其他几种类型的免费课程的绝佳资源。
 
@@ -290,12 +234,8 @@ www.learnpython.org](https://www.learnpython.org/)
 
 如果你喜欢这篇文章，那么请考虑在 Twitter 上关注我。如果你想在每篇新文章发布时得到通知，别忘了在 Twitter 上关注[**javarevited**](https://twitter.com/javarevisited)！
 
-[](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 学习 Python 的十大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 
+</better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>  
 
 > 祝你的编码之旅一切顺利。
 
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>

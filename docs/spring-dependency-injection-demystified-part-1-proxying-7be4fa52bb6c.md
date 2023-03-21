@@ -63,7 +63,7 @@ Spring 中的代理是代理设计模式的实现，有助于促进[面向方面
 
 如果你不这样做，马丁·福勒会不高兴的。😢
 
-**代理人帮助你坚持**[](https://en.wikipedia.org/wiki/SOLID)****的原则。✅****
+**代理人帮助你坚持**<https://en.wikipedia.org/wiki/SOLID>****的原则。✅****
 
 ## **CGLIB**
 
@@ -79,7 +79,7 @@ Spring 中的代理是代理设计模式的实现，有助于促进[面向方面
 
 **字节码检测允许框架操作或创建 JDK 编译类。Java 类是在运行时动态链接的，所以可以向已经运行的 Java 程序添加新的类。**
 
-**CGLIB 公开了一系列提供功能的类和接口，如[](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Callback.html)****[**滤镜**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/CallbackFilter.html)**[**增强器**](http://cglib.sourceforge.net/apidocs/index.html)**[**调度器**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Dispatcher.html) **s，** [**因子**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Factory.html) **ies，**[](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/InvocationHandler.html)**********
+**CGLIB 公开了一系列提供功能的类和接口，如<http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Callback.html>****[**滤镜**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/CallbackFilter.html)**[**增强器**](http://cglib.sourceforge.net/apidocs/index.html)**[**调度器**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Dispatcher.html) **s，** [**因子**](http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/Factory.html) **ies，**<http://cglib.sourceforge.net/apidocs/net/sf/cglib/proxy/InvocationHandler.html>**********
 
 # ********春季 AOP🍀********
 
@@ -154,11 +154,7 @@ List<Object> chain = this.advised.getInterceptorsAndDynamicInterceptionAdvice(me
 
 ******在 java 查看更多精彩的 Java 生态系统文章******
 
-****[](https://medium.com/javarevisited) [## Java 访问
-
-### 更好地学习 Java 和编程的一个不起眼的地方。
-
-medium.com](https://medium.com/javarevisited)**** 
+****<https://medium.com/javarevisited> **** 
 
 # ******想了解更多关于 Spring 代理的信息吗？🏫******
 
@@ -169,34 +165,18 @@ medium.com](https://medium.com/javarevisited)****
 
 ******对用 Spring 进行反应式编程感兴趣？******
 
-****[](/javarevisited/basic-introduction-to-spring-webflux-eb155f501b17) [## Spring WebFlux 的基本介绍
-
-### Spring WebFlux 在一个带注释的…
-
-medium.com](/javarevisited/basic-introduction-to-spring-webflux-eb155f501b17)**** 
+****</javarevisited/basic-introduction-to-spring-webflux-eb155f501b17> **** 
 
 # ****对 Spring 上的视频学习有兴趣吗？🏫****
 
 ****了解如何使用 Spring Boot 和 Angular 构建全栈应用程序！****
 
-****[](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot) [## 用 Angular 2+和 Spring Boot 在线课堂构建全栈 App | LinkedIn Learning…
-
-### 概述抄本练习文件查看离线 Angular 2 是众所周知的建设丰富，数据驱动，单页…
-
-linkedin-learning.pxf.io](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot) 
+****<https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot>  
 
 **跟随 Spring 开发者学习之路，成为 Spring 专家！**
 
-[](https://linkedin-learning.pxf.io/MXnYX3) [## 成为 Spring 开发者学习路径| LinkedIn Learning，原名 Lynda.com
-
-### Spring 是一个流行的、快速发展的应用程序框架和控制反转(IOC)容器
-
-linkedin-learning.pxf.io](https://linkedin-learning.pxf.io/MXnYX3) 
+<https://linkedin-learning.pxf.io/MXnYX3>  
 
 **在**[**https://chris-anatalio.dev/**](https://chris-anatalio.dev/)查看我所有的其他课程
 
-[](https://chris-anatalio.dev/) [## 主页
-
-### Chris Anatalio -软件工程师
-
-克里斯-阿纳塔利奥.德夫](https://chris-anatalio.dev/)****
+<https://chris-anatalio.dev/> ****

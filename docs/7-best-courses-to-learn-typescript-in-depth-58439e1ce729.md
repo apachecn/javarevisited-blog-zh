@@ -68,11 +68,7 @@ image_credit — [理解打字稿— 2023 版](https://click.linksynergy.com/fs-
 
 ZTM 学院也提供这门课程，但你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 来观看这门课程，每月花费约 29 美元，但也提供了许多超级有趣和有用的课程，如他的 [Python Bootcamp 课程](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn)和他的大规模 J [avaScript Web 项目:20 个项目来构建你的投资组合](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 2.[打字稿大师班&免费电子书](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-typescript-2-course%2F)
 
@@ -118,11 +114,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 顺便说一句，即使你不是会员，你也可以参加这个课程，因为 Pluralsight 提供了一个 [**10 天的免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**，可以让你观看 200 分钟的内容。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **5.[打字稿开发简介](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fintroduction-typescript-development%2F)**
 
@@ -159,11 +151,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 **顺便说一句，如果你喜欢 Codecademy 平台，那么你也可以加入 CodeCademy PRO ，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以利用这一点来赚取、实践&
 应用就业准备技能**
 
-**[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro)** 
+**<https://bit.ly/codecademypro> ** 
 
 ## **8.[打字初学者指南](https://gumroad.com/a/221148275/Esnzb)**
 
@@ -200,11 +188,7 @@ bit.ly](https://bit.ly/codecademypro)**
 
 **我喜欢教育性订阅，因为它使学习变得容易，因为你可以不买就加入任何课程，相信我教育性有一些最好的编码课程，如[钻研系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)和[钻研编码面试模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)。**
 
-**[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+**<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 以上是关于在线学习 TypeScript 的**最佳课程**。TypeScript 将 JavaScript 提升到了一个新的高度，使得开发更广泛的 JavaScript 应用程序变得更加容易，就像 Java 的规模一样。尽管大多数开发人员都在学习 Angular 2 的 TypeScript，但是通过利用它的类型安全和更好支持的 OOP 特性，您可以做得更多。
 
@@ -227,8 +211,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 **P. S.** —如果你在寻找今年学习打字稿的免费课程，你可以查看 Udemy 上的 [**打字稿介绍**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftypescript%2F) 课程。这是完全免费的，也是开始打字之旅的好方法。超过 44，000 名学生已经选修了这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftypescript%2F) [## 免费打字教程-打字教程-免费学习打字
-
-### 在开发界被称为“代码密语者”，丹尼尔·斯特恩被认为拥有一种超自然的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftypescript%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Ftypescript%2F> **

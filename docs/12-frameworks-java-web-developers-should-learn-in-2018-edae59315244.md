@@ -150,16 +150,4 @@ Apache Cordova 是另一个移动应用程序开发框架，最初由 Nitobi 创
 
 ## ****您可能喜欢的其他媒体文章:****
 
-****[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [](/javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587) [## 十大 Coursera 证书，开启你在云计算、数据科学、人工智能、大型机和 IT 领域的职业生涯…
-
-### 大家好，如果你想在信息技术、数据科学和 IT 支持领域开始或发展你的职业生涯…
-
-medium.com](/javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587)****
+****</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0>  </javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587> ****

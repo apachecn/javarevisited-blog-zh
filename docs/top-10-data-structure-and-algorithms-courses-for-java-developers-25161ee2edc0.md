@@ -20,11 +20,7 @@ image_credit —教育性
 
 像《深度潜入 Java》这样的一些课程在我之前的列表中很常见，显然是因为这是学习 Java 中算法和数据结构的最佳路径之一。但是，列表中也包含了一些新的课程，如[**数据结构和算法训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-bootcamp%2F) **。**
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-bootcamp%2F) [## 数据结构和算法训练营
-
-### 本课程旨在让您快速掌握基本的计算机科学概念，您将成为…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-bootcamp%2F>  
 
 这一次，我更加关注寻找以有趣和令人兴奋的方式教授基本数据结构的课程，而不是选择涵盖大量数据结构和算法的课程，但没有做到公正。我加入多门课程的另一个原因是，并不是每个人都和我喜欢的老师有联系。每个人都是不同的，他们应该只参加那些他们可以和老师交流的课程，我的意思是他们喜欢声音，解释的风格，和内容本身。如果你参加一个课程，那里的老师既博学又热情，而且有很好的教学技巧，你显然会学到更多的东西，并能长时间保留这些知识。这就是本文的目标，提供在线培训课程和认证，让您的时间和金钱都物有所值。
 
@@ -87,11 +83,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但它完全物有所值，因为你可以获得无限证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.Java 中的数据结构:一个访谈复习者
 
@@ -125,11 +117,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html) 才能进入这个课程，费用大约为 29 美元/月或 299 美元/年，但如果你想探索，你也可以通过注册他们的 10 天免费试用来免费检查。
 
-[](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html) [## Udemy vs Pluralsight Review 2023 -学编码和编程哪个好？
-
-### 伙计们，你们好吗？我再次回答了在线学习者的一个常见疑问…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html) 
+<https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html>  
 
 ## 8.[算法，第一部分](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1)【Coursera 免费课程】
 
@@ -143,11 +131,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/udemy-vs-
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) n，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 9.[算法，第二部分](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2)【免费 Coursera 课程】
 
@@ -192,11 +176,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 Linkedin learning 会员资格来观看这个课程，如果你参加一个年度计划，每个月大约花费 18 美元。或者，你也可以使用他们的 [1 个月免费试用](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-data-structures-algorithms-in-java)免费观看本课程。
 
-[](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-data-structures-algorithms-in-java) [## Java 在线课堂数据结构介绍&算法| LinkedIn 学习，原…
-
-### 通过学习一些最常用的数据结构和算法来增强您的编程技能。在…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-data-structures-algorithms-in-java) 
+<http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fintroduction-to-data-structures-algorithms-in-java>  
 
 以上是学习 Java 数据结构和算法的一些最好的课程。正如我所说的，列表包含免费和付费课程，你可以选择你喜欢的课程。无论你选择什么课程，都要诚实面对，做他们建议的所有练习。
 
@@ -223,16 +203,8 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **P. S.** —如果你正在寻找一些免费的算法课程来提高你对数据结构和算法的理解，那么你也应该查看这些 [**免费数据结构和算法课程**](https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5) 的列表，这些课程完全免费
 
-[](http://bit.ly/2hhloDL) [## 免费数据结构教程——面向 Noobs 的 Java 数据结构(精简版)
-
-### 本课程将向您介绍以下数据结构单链表双链表，那么为什么还要…
-
-bit.ly](http://bit.ly/2hhloDL) 
+<http://bit.ly/2hhloDL>  
 
 你准备好面试了吗？ [**参加 TripleByte 的测验**](https://triplebyte.com/a/aWqVhD4/d) ，直接进入顶级科技公司的最后一轮面试，如 Coursera、Adobe、Dropbox、Grammarly、优步、Quora、Evernote、Twitch 等等。
 
-[](https://triplebyte.com/a/aWqVhD4/d) [## 三字节:软件工程师求职
-
-### 做个小测验。同时获得多家顶级科技公司的报价。
-
-triplebyte.com](https://triplebyte.com/a/aWqVhD4/d)
+<https://triplebyte.com/a/aWqVhD4/d> 

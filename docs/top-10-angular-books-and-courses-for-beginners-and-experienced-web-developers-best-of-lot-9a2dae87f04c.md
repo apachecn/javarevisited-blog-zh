@@ -52,11 +52,7 @@ image _ credit—[Ng-Book—Angular 大全](https://gumroad.com/a/221148275/FlvV
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样的超级有趣和有用的课程。你也可以*使用优惠券代码 FRIENDS10 在这门课程或你选择的任何订阅上获得 10%的折扣*。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 3.[Ng-Book——关于 Angular 的全集](https://gumroad.com/a/221148275/FlvVl)
 
@@ -84,11 +80,7 @@ Mosh Hamedani 的一门很棒的课程，旨在掌握 Angular 及其背后的 Ja
 
 顺便说一下，如果你喜欢 Mosh 的教学风格，那么你也可以加入 [**CodeWithMosh**](https://codewithmosh.com/?affcode=146684_vi6jt6lm) 门户网站，在那里你只需支付一笔会员费就可以学习他的所有课程。他有许多很棒的课程，涵盖了基本的编程主题，如 git、JavaScript、SQL、Python 等，我个人认为 [**CodeWithMosh 订阅**](https://codewithmosh.com/p/all-access?affcode=146684_vi6jt6lm) 是值得的。
 
-[](https://codewithmosh.com/p/all-access?affcode=146684_vi6jt6lm) [## 全接入订阅
-
-### 成为一名更全面的开发人员，全面接触 Mosh 的所有编码课程
-
-codewithmosh.com](https://codewithmosh.com/p/all-access?affcode=146684_vi6jt6lm) 
+<https://codewithmosh.com/p/all-access?affcode=146684_vi6jt6lm>  
 
 ## **5。** [**棱角分明—教程:英雄之旅**](https://angular.io/tutorial) **【免费】**
 
@@ -170,11 +162,7 @@ Udemy 的另一个超棒的免费角度课程。您可以通过本课程学习�
 
 月会员费约为 29 美元，[年会员费约为 299 美元(节省 14%)，不仅可以参加这门课程，还可以参加 5000 多门其他技术课程。如果你不确定，你还可以尝试一个](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，可以免费观看 200 分钟的课程内容。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是学习 Angular 2+ Web 框架的一些**最佳教程和在线课程。我还包括了一些课程和书籍，因为它们提供了更全面的学习，而且大多数时候是最好的起点。如果你有任何其他的角度教程，你认为应该在这个列表中，然后随时下降的说明。**
 
@@ -200,24 +188,8 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **P. S. S. —** 如果你更喜欢书籍而不是在线课程和教程，并且需要更多的选择，那么你也可以看看这份为初学者准备的 [**前 5 本有棱角的书**](https://www.java67.com/2020/03/top-5-books-to-learn-angular-for-beginners.html) 清单。
 
-[](https://www.java67.com/2020/03/top-5-books-to-learn-angular-for-beginners.html) [## 初学者学习 Angular 的前 5 本书-最好的
-
-### 大家好，如果你已经进入了现代前端开发世界，那么你可能会听说角…
-
-www.java67.com](https://www.java67.com/2020/03/top-5-books-to-learn-angular-for-beginners.html) 
+<https://www.java67.com/2020/03/top-5-books-to-learn-angular-for-beginners.html>  
 
 ## 您可能喜欢的关于 Angular 和 Web 开发的其他媒体文章:
 
-[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [## 我最喜欢的初学者和有经验的开发人员的角度课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-medium.com](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97) [## 学习 HTML 5、CSS 3 和 Web 开发的 10 大免费课程
-
-### 大家好，我已经分享了很多关于各种技术和编程语言的免费在线课程和书籍…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97)
+</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc>  </javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97> 

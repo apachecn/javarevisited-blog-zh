@@ -157,8 +157,4 @@ Spring Boot 真的把 Spring 的 Java 开发带到了另一个高度。它的自
 
 如果你是一名经验丰富的 Java 开发人员，并且想学习更多关于 Java 工具和实践的知识来提高性能，那么我也建议你去看看 Udemy 网站上由 Michael Pogerbinsky 开设的 [**Java 多线程、并发性&性能优化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) 课程。这是我最喜欢的高级 Java 开发人员课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) [## Java 多线程、并发和性能优化
-
-### 如果你有自己的喷气式飞机，你会开着它去杂货店，还是开着它环游世界？今天…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F> 

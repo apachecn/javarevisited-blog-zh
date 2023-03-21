@@ -22,11 +22,7 @@
 
 为了更快地学习，你也可以将这些书与一些好的在线课程结合起来，如 Udemy 上的 Chad Darby 的 [J **SP、Servlet 和《JDBC:构建数据库应用程序**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) 》以更积极的方式学习 Servlet 和 JSP。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) [## 面向初学者的 JSP、Servlets 和 JDBC:构建数据库应用程序
-
-### 加入已经注册的 34，000 多名学生！超过 7000+评论！(对任何 JSP/Servlet 课程的最多评论…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjsp-tutorial%2F>  
 
 # 深入学习 Servlet 和 JSP 的 3 本最佳书籍
 
@@ -64,11 +60,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 此外，为了获得最佳效果，你也可以将这本书与凯文·琼斯的[**Java Web Fundamentals**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-web-fundamentals)课程结合起来。我通常发现从课程和书本中学习是学习任何新技术的最好方法。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-web-fundamentals) [## Java Web 基础
-
-### 要用 Java 构建 web 应用程序，您需要理解更高层次的库和概念…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-web-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-web-fundamentals>  
 
 ## 2. [Servlet & JSP:一个教程，第二版](https://www.amazon.com/Servlet-JSP-Tutorial-Budi-Kurniawan/dp/1771970278?tag=javamysqlanta-20)
 
@@ -106,8 +98,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 如果你正在寻找一些免费资源，比如学习 Servlet 和 JSP 的在线课程，那么我也建议你加入 Udemy 上的[**Java Servlet 和 JSP——用 25 个步骤构建 Java EE(JEE)应用程序**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-java-servlets-and-jsp-web-application-in-25-steps%2F) 课程。这是一门完全免费的课程，你只需要创建一个 Udemy 帐户就可以学习这门课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-java-servlets-and-jsp-web-application-in-25-steps%2F) [## 免费 Servlet 教程-Java Servlet 和 JSP -用 25 个步骤构建 Java EE(JEE)应用程序
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-java-servlets-and-jsp-web-application-in-25-steps%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-java-servlets-and-jsp-web-application-in-25-steps%2F> 

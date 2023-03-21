@@ -33,8 +33,4 @@
 
 边注:如果你还不是中等会员，点击[这里加入](/@mariochiadev/membership)！
 
-[](/@mariochiadev/membership) [## 用我的推荐链接云加入媒体
-
-### 作为一个媒体会员，你的会员费的一部分会给你阅读的作家，你可以完全接触到每一个故事…
-
-medium.com](/@mariochiadev/membership)
+</@mariochiadev/membership> 

@@ -125,11 +125,7 @@ Qlik Sense 的一个非常强大的特性是支持不同类型的选择、应用
 
 我强烈建议你去注册一个，因为你不仅可以参加这个课程，还可以参加 7000 多个最新的在线技术课程，学习新的技能和技术。或者，你也可以使用他们的 [**10 天免费试玩**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6. [QlikSense 数据架构师大师班](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fqliksense-data-architect-masterclass%2F)
 
@@ -197,8 +193,4 @@ QlikView 和 Qliksense 也在快速发展，对熟练的 QlikView/Qliksense 开�
 
 **——**如果您有兴趣了解更多关于数据可视化的信息，并寻找免费的在线课程来开始您的数据可视化之旅，那么您也可以查看 Udemy 上的 [**使用 Oracle 分析云的现代数据可视化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F) [## 免费数据可视化教程——使用 Oracle 分析云实现现代数据可视化
-
-### 嗨，很高兴你来了。我是一名经验丰富的技术营销专家，专注于大数据分析、数据…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faugmented-analytics%2F> 

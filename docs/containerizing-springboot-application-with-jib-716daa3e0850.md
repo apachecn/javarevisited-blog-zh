@@ -157,12 +157,4 @@ Jib v/s Docker 构建流程(图片来源 Google Cloud)
 
 也可以看看我之前的一些文章。
 
-[](/javarevisited/running-simple-springboot-app-on-minishift-84f51894bdf6) [## 在 Openshift(Minishift)上运行简单的 Spring Boot 应用程序
-
-### 在本文中，我将尝试演示如何在 OpenShift (Minishift)上部署一个简单的 Spring Boot 应用程序。
-
-medium.com](/javarevisited/running-simple-springboot-app-on-minishift-84f51894bdf6) [](/javarevisited/skaffolding-springboot-application-dbfbc463e558) [## Kubernetes via Skaffold 上 Spring Boot 应用的 CI/CD 工作流
-
-### 使用 Skaffold 为部署到 Kubernetes 的 Spring Boot 应用程序创建 CI/CD 工作流。
-
-medium.com](/javarevisited/skaffolding-springboot-application-dbfbc463e558)
+</javarevisited/running-simple-springboot-app-on-minishift-84f51894bdf6>  </javarevisited/skaffolding-springboot-application-dbfbc463e558> 

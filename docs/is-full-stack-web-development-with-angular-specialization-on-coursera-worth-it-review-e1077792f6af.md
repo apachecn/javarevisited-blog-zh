@@ -18,11 +18,7 @@
 
 为此，我搜索了学习 angular development 的最佳课程，并在香港大学创建的 Coursera 平台上找到了一个名为 [**的全栈 Web Development with Angular Specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development)。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development) [## 使用 Angular 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-mobile-app-development>  
 
 # 回顾 Coursera 的 Angular Specialization 全栈 Web 开发值得吗？
 
@@ -108,11 +104,7 @@ Coursera 上的 Angular Specialization 全栈 Web 开发是学习 Angular 进行
 
 **当谈到加入这门课程时，你有两个选择，你可以单独加入这门课程，每月花费大约 39 美元进行专业化，你也可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 每年 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 您可能想探索的其他 **Web 开发和角度文章**
 
@@ -134,8 +126,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你是 Udemy 课程的爱好者，并且正在寻找最好的 React.js 课程，以便在 Udemy 上从头开始学习 React，我强烈推荐你查看这本由马克西米连·施瓦茨穆勒 编写的 [**Angular 完全指南课程。这是我见过的最好的角度路线。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F)*
 
-[](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html) [## 2022 年学习 Angular Framework 的前 5 门课程——最佳课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html)**
+<https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html> **

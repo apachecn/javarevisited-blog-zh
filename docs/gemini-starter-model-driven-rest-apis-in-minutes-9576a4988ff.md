@@ -12,11 +12,7 @@
 
 本文解释了**Gemini Starter repository**中包含的内容，以及如何开始一个完整的 Gemini 项目。
 
- [## Gemini-项目/Gemini-psql-入门
-
-### 这个库可以作为一个梯度依赖模块从 Gemini 开始使用。Gemini 是一个模型驱动的 REST 框架…
-
-github.com](https://github.com/gemini-projects/gemini-psql-starter) 
+  
 
 # 1.Gemini 定制模块
 
@@ -87,8 +83,4 @@ CRUD APIs 很有用，但有时您希望添加一些逻辑或自定义行为，�
 [2019 年要学习的 5 大 Java 框架](http://javarevisited.blogspot.sg/2018/04/top-5-java-frameworks-to-learn-in-2018_27.html)
 [每个 Java 开发者都应该知道的 10 个测试库](https://javarevisited.blogspot.sg/2018/01/10-unit-testing-and-integration-tools-for-java-programmers.html)
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

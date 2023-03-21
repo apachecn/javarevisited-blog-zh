@@ -74,16 +74,4 @@ Java 是什么？为什么是 Java？如何学习 Java？这些以及更多的�
 
 您可能喜欢的其他 Java 文章和资源
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f) [## 2021 年 Java 开发人员的 10 门最佳 Udemy 课程
-
-### 大家好，如果你是一名 Java 开发人员，或者想成为一名专业的 Java 开发人员，并且正在寻找最好的 Udemy…
-
-medium.com](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f) [](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2021 年要学习的 10 个最佳 Java 编程课程和认证
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f>  </javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> 

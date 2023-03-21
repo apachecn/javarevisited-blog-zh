@@ -20,11 +20,7 @@ OOP，Java 中的面试问题主要基于基本的 OOPS 概念，以及这些概
 
 有些问题非常基础，有些面向对象编程问题很难回答，但是这种混合有助于学习更多。如果你想了解更多关于 OOPS 设计原则的知识，请阅读 [10 面向 Java 程序员的 OOP 设计原则](https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html)。
 
-[](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [## 你可以深入学习的 10 个 OOP 设计原则
-
-### 想要写出更好、更坚实的代码，能够在生产中经受住时间的考验？这些设计原则会有所帮助。
-
-medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) 
+</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>  
 
 # 66 Java OOP 概念面试问答
 
@@ -32,7 +28,7 @@ medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370c
 
 1.  什么是面向对象编程中的类？
     (回答)一个类是一个蓝图创建的对象。
-2.  **OOP 中的对象是什么？[](https://javarevisited.blogspot.com/2012/12/what-is-object-in-java-or-oops-example.html) **【答案】从类中创建，代表类的特定状态。****
+2.  **OOP 中的对象是什么？<https://javarevisited.blogspot.com/2012/12/what-is-object-in-java-or-oops-example.html> **【答案】从类中创建，代表类的特定状态。****
 3.  ****Java 中的抽象是什么？(** [**回答**](https://javarevisited.blogspot.com/2010/10/abstraction-in-java.html#axzz6oOeSmpNw) **)**
     一种对客户端隐藏复杂性的 OOP 技术。**
 4.  ****Java 中的继承是什么？(** [**答**](http://www.java67.com/2012/08/what-is-inheritance-in-java-oops-programming-example.html) **)**
@@ -129,8 +125,4 @@ medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370c
 
 > *****p . s .****——如果你是面向对象编程的新手，需要一些学习 OOP 的资源，那么你也可以从这些* [*免费的面向对象编程课程*](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) *开始。***
 
-**[](https://www.java67.com/2018/02/5-free-object-oriented-programming-online-courses.html) [## 面向 Java 程序员的五大免费面向对象编程课程[更新]
-
-### Java 编程教程和面试问题，来自 Udemy，Pluralsight，Coursera…
-
-www.java67.com](https://www.java67.com/2018/02/5-free-object-oriented-programming-online-courses.html)**
+**<https://www.java67.com/2018/02/5-free-object-oriented-programming-online-courses.html> **

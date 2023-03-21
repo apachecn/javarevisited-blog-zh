@@ -48,11 +48,7 @@
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会，每年 399 美元。考虑到 Coursera 认证的价值和这些课程的质量，我认为这是值得的。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 2.[微软 Azure 基础 AZ-900 考试准备专业化](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900)
 
@@ -82,11 +78,7 @@ IBM 提供的另一个很好的课程是学习云计算，从云服务的定义�
 
 除此之外，IBM 还有一个 [**全栈云开发者认证**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-full-stack-cloud-developer) 项目，对于希望在 2023 年学习云原生开发的全栈开发者来说非常棒。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-full-stack-cloud-developer) [## IBM 全栈软件开发人员
-
-### 启动您的应用程序开发职业生涯。使用动手实践进行主云原生和全栈开发…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-full-stack-cloud-developer) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-full-stack-cloud-developer>  
 
 ## 4.[使用谷歌云的云架构](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgcp-cloud-architect)
 
@@ -98,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 除了这个谷歌云架构课程，Coursera 还有许多课程和专业与各种谷歌认证紧密相关，如 [**谷歌云数字领导者**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-cloud-digital-leader-training)[**谷歌云工程师**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp)[**谷歌云开发工程师**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 等等。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) [## 准备谷歌云认证:云 DevOps 工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud>  
 
 如果你正在准备这些认证，那么你应该检查这些课程，因为这些课程与教学大纲紧密相关，并且是由谷歌专家自己准备的。
 
@@ -164,11 +152,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 以上是关于**学习 AWS 和谷歌云平台云计算的最佳 Coursera 课程和认证。**这些证书是在云计算领域开始职业生涯的最佳证书之一，无论是专门研究亚马逊 AWS 还是谷歌云平台，并学习这个令人惊叹的行业的基础知识以及网络和安全性。顺便说一下，如果你发现 Coursera 的课程和认证有用，因为它们是由世界各地的知名公司和大学提供的，那么我强烈推荐你加入 Coursera 的订阅计划。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这个 Coursera 订阅计划让您可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。大约花费 399 美元/年，但是它完全物有所值，因为你可以获得无限的证书，事实上，如果你参加多个专业和认证，它是划算的。
 
@@ -198,10 +182,6 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 感谢阅读这篇文章。如果你喜欢 Coursera 的这些*最好的云计算、AWS 和谷歌云平台课程，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。*
 
-**P. S.** —如果你正在寻找学习云计算和 AWS 的最佳 Udemy 课程，那么你也可以查看我列出的 2023 年学习云计算的最佳在线课程**[](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html)****。**它包含了从零开始学习云计算的最好的 Udemy 课程。****
+**P. S.** —如果你正在寻找学习云计算和 AWS 的最佳 Udemy 课程，那么你也可以查看我列出的 2023 年学习云计算的最佳在线课程**<https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html>****。**它包含了从零开始学习云计算的最好的 Udemy 课程。****
 
-****[](/javarevisited/5-best-cloud-computing-courses-to-learn-in-2020-f5f091159401) [## 2023 年最值得学习的 5 门云计算课程
-
-### 大家好，云计算正在成为任何软件开发人员或 IT 专业人员的一项基本技能，因为越来越多的…
-
-medium.com](/javarevisited/5-best-cloud-computing-courses-to-learn-in-2020-f5f091159401)****
+****</javarevisited/5-best-cloud-computing-courses-to-learn-in-2020-f5f091159401> ****

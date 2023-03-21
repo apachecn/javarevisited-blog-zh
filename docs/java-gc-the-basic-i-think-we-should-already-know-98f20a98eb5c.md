@@ -12,11 +12,7 @@
 
 我亲切地称它为 JGC(在你的脑海中读出“Jay Gee See”)，或者简称为 GC，正如它的名字所说:“听起来像是某种收集垃圾的东西”。太好了！GC 在 Java 中找到不用的对象并删除它们来释放一些内存，这样你就不用担心内存不够用了。这是一个执行堆内存管理的自动过程，堆是 JVM (Java 虚拟机)用来创建对象的专用内存部分。而这种“管理”是如何做到的？通过清理不用的物品。
 
-[](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) [## 学习 JVM 内部结构、内存管理和 Java 性能调优的前 5 门课程
-
-### 对于一个高级 Java 开发人员来说，了解 JVM 的工作原理以及如何解决与…相关的问题是非常重要的
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) 
+<https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html>  
 
 # JGC 是如何工作的？
 
@@ -85,11 +81,7 @@ GC 根有很多种，我可以花一整天的时间来提及和解释每一种�
 
 任何与它们相关的(或被它们引用的)东西都不会受到 GC 的攻击并被标记。
 
-[](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html) [## 深入学习 Java 虚拟机、垃圾收集和性能的前 5 本书
-
-### 在过去的几年里，我看到了一种趋势，许多 Java 开发人员想要学习更多关于 JVM 的知识…
-
-www.java67.com](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html) 
+<https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html>  
 
 ## 好了，现在怎么办？
 
@@ -109,11 +101,7 @@ GC 标记所有对象，从根开始遍历相互引用的对象树。在 HotSpot
 *   幸存者在庆祝了一些生日后，会搬到老一代区(也叫终身职位，我觉得这个名字更可爱、更甜蜜)
 *   在 Java 8 之前，有永久生成部分，保存来自类和内部化字符串的数据。在 Java 8 中，这被换成了元空间，元空间现在保存类定义，而其他东西回到了传统的内存堆。
 
-[](https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html) [## 面向有经验程序员的 5 大 Java 性能调优书籍——最好的，必读
-
-### 您可能会想，为什么 Java 开发人员要读一本关于性能调优的书呢？当我第一次面对这个问题的时候…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html) 
+<https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html>  
 
 ## 现在，我们打扫？
 
@@ -148,11 +136,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/top-5-jav
 
 再次感谢你的耐心，希望你喜欢它，并期待下一个！
 
-[](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) [## 学习 JVM 内部结构、内存管理和 Java 性能调优的前 5 门课程
-
-### 对于一个高级 Java 开发人员来说，了解 JVM 的工作原理以及如何解决与…相关的问题是非常重要的
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) 
+<https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html>  
 
 # 参考
 
@@ -161,8 +145,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-cou
 [https://www . javaworld . com/article/2078645/JVM-performance-optimization-part-3-garbage-collection . html](https://www.javaworld.com/article/2078645/jvm-performance-optimization-part-3-garbage-collection.html)
 [https://Java reviewed . blogspot . com/2011/2011](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html#axzz4zt6jlTWS)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

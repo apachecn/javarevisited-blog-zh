@@ -32,30 +32,6 @@
 
 一些列出的可供参考的在线平台-
 
-[](https://acloudguru.com/) [## 主页
-
-### GCP Azure、AWS 云认证和培训课程的领导者。亲身体验。业务和个人计划…
-
-acloudguru.com](https://acloudguru.com/) [](https://www.pluralsight.com/) [## Pluralsight -无限在线开发人员、IT 和网络安全培训
-
-### 在 Pluralsight，我们每天都亲眼目睹技术如何将不可能变为可能。这就是为什么复视一号…
-
-www.pluralsight.com](https://www.pluralsight.com/) [](https://intellipaat.com/) [## 在线专业培训课程和认证- Intellipaat
-
-### Intellipaat 提供由行业专家撰写的专业认证在线培训课程。学习高…
-
-intellipaat.com](https://intellipaat.com/) [](https://cloudacademy.com/) [## 推动数字化转型的云培训-云学院
-
-### Connie Marthinsen 是 SAS 的首席学习和发展专家，“作为云学院的管理员…
-
-cloudacademy.com](https://cloudacademy.com/) [](https://www.edureka.co/) [## 讲师指导的在线培训，24X7 全天候终身支持| Edureka
-
-### 浏览所有课程探索我们广泛的课程 Sr. Scrum Master 我很高兴为 Edureka 写推荐书…
-
-www.edureka.co](https://www.edureka.co/) [](https://www.coursera.org/in) [## Coursera |顶级教育工作者的在线课程和证书。免费加入
-
-### 在线学习，从 ISB 大学、密西根大学、史丹福大学等顶尖大学和领先公司获得有价值的证书…
-
-www.coursera.org](https://www.coursera.org/in) 
+<https://acloudguru.com/>  <https://www.pluralsight.com/>  <https://intellipaat.com/>  <https://cloudacademy.com/>  <https://www.edureka.co/>  <https://www.coursera.org/in>  
 
 [在线课程——根据您的时间表学习任何内容| Udemy](https://www.udemy.com/)

@@ -187,8 +187,4 @@
 
 ****p . s .**——如果你热衷于学习 Web 开发，但正在寻找一些免费的资源开始，你也可以查看 [**Web 开发人员的 Web 设计:创建漂亮的网站！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) 课程讲解 Udemy。它是由 Jonas Schmedtmann 创建的，已经有超过 49 万名学生加入了这个免费课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) [## 免费网页设计教程——网页开发人员的网页设计:创建漂亮的网站！
-
-### 重要提示:这门课的内容也包含在我的另一门关于网页设计和开发的课程中
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F> **

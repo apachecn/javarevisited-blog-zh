@@ -206,21 +206,13 @@ lazy 真正闪耀的地方是短路可能发生的时候，减少了必要的工
 
 下面的博客更深入地解释了 eager、lazy、serial 和 parallel，并比较了针对大型数据集的不同算法的性能。
 
-[](/javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef) [## 凌晨 4 点詹姆斯敦-苏格兰渡轮和其他优化策略
-
-### 当性能很重要时，了解您的可用选项也很重要。
-
-medium.com](/javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef) 
+</javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef>  
 
 如果你想看我在[定制收藏](https://github.com/BNYMellon/CodeKatas/tree/master/deck-of-cards-kata/src/main/java/bnymellon/codekatas/deckofcards/custom/collections)中使用的代码，请点击这里查看 GitHub 回购[中的卡牌卡塔。](https://github.com/BNYMellon/CodeKatas)
 
 如果你想了解更多关于在 Java 集合中使用 eager 方法的潜在好处，那么看看下面的博客。
 
-[](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [## Java 流很棒，但现在是更好的 Java 集合的时候了
-
-### 25 年后，Java 是时候进行集合升级了。
-
-medium.com](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) 
+</javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1>  
 
 祝编程愉快！
 

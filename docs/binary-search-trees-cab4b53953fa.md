@@ -75,12 +75,4 @@ public class **BinaryTree** { Node root; // ...
 
 在我的下一篇文章中，我希望解释二叉树的这些基本操作。如此快乐的编码！！
 
-[](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [## 50 大数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 15 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+</javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927> 

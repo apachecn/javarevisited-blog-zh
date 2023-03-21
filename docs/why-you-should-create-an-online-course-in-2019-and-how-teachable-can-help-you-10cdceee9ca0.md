@@ -18,11 +18,7 @@
 
 创建一个在线课程是我一直想做的事情，我也写了关于 [**为什么程序员应该创建一个在线课程**](https://javarevisited.blogspot.com/2019/06/why-programmers-should-create-and-sell.html) 的博客
 
-[](https://javarevisited.blogspot.com/2019/06/why-programmers-should-create-and-sell.html) [## 为什么每个程序员或博客作者都应该在 2022 年创建在线课程
-
-### 我经常收到类似这样的问题:程序员应该创造另一种收入来源，还是应该创造…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/06/why-programmers-should-create-and-sell.html) 
+<https://javarevisited.blogspot.com/2019/06/why-programmers-should-create-and-sell.html>  
 
 # 为什么每个博主或开发者都在 2022 年创建在线课程？
 
@@ -87,8 +83,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/06/why-progr
 
 这种独一无二的活动一年才有一次(去年我错过了:-()，我等这个活动等了很久了。如果你也热衷于创建一个在线课程，我强烈建议你加入我的行列！
 
-[](https://teachable.sjv.io/c/1193463/998814/12646) [## 可教:创建和销售在线课程和辅导
-
-### 利用企业家使用的最佳在线商业平台，创建和销售在线课程和辅导服务…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/998814/12646)
+<https://teachable.sjv.io/c/1193463/998814/12646> 

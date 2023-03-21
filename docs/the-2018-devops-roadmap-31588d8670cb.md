@@ -16,7 +16,7 @@ DevOps 和 SRE 目前非常热门，我认识的大多数朋友、同事和高�
 
 今天，我将与您分享一个很棒的资源，它将帮助您成为您一直想成为的 DevOps 工程师，**2023 devo PS 路线图**。
 
-昨天我在网上漫不经心地浏览时，看到了[](https://github.com/kamranahmedse/developer-roadmap)[Kamranahmedse](https://github.com/kamranahmedse)的这个优秀的 GitHub 页面，它展示了成为前端开发人员、后端开发人员、全栈 web 开发人员以及最后但同样重要的**devo PS 工程师**的一些有用的路线图。
+昨天我在网上漫不经心地浏览时，看到了<https://github.com/kamranahmedse/developer-roadmap>[Kamranahmedse](https://github.com/kamranahmedse)的这个优秀的 GitHub 页面，它展示了成为前端开发人员、后端开发人员、全栈 web 开发人员以及最后但同样重要的**devo PS 工程师**的一些有用的路线图。
 
 这份路线图在任何意义上都很棒，因为它不仅强调了 [DevOps 工程师的角色](https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html)，还告诉了你需要学习哪些工具和技术来覆盖该领域。
 
@@ -92,11 +92,7 @@ Pluralsight 就像是开发者的网飞，它拥有 6000 多门关于最新技�
 
 **为了刷新这个概念，你可以看一下 Pluralsight 上 Ed Liberman 课程的 [**TCP/IP 和 IT 专业人员网络基础**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftcpip-networking-it-pros) 。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftcpip-networking-it-pros) [## 面向 IT 专业人员的 TCP/IP 和网络基础知识
-
-### 在这门入门课程中，您将学习所有关于 TCP/IP 和网络的基础知识。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftcpip-networking-it-pros) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftcpip-networking-it-pros>  
 
 如果你需要更多的选择，你也可以查看这些 Udemy 课程，比如网络课程，[完整的网络基础知识](http://bit.ly/2QcTtAW)是一门不错的课程，关于安全，你也可以查看 [**完整的网络安全课程:网络安全！**](http://bit.ly/2QcTtAW) 。
 
@@ -108,7 +104,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **一般来说，一个 DevOps 工程师应该知道如何设置一个像 IIS、 [Apache](https://javarevisited.blogspot.com/2017/01/12-essential-apache-web-server-interview-questions-answers-java-linux.html) 和 [Tomcat](https://javarevisited.blogspot.com/2018/07/how-to-setup-jndi-database-connection-pool-tomcat-spring-example-tutorial.html) 这样的 Web 服务器。**
 
-**他还应该了解缓存服务器、负载平衡器、反向代理和防火墙等。如果你是 web 开发领域的新手，我建议你也去看看柯尔特·斯蒂尔的 Web 开发者训练营[](http://bit.ly/2AGj5m2)**
+**他还应该了解缓存服务器、负载平衡器、反向代理和防火墙等。如果你是 web 开发领域的新手，我建议你也去看看柯尔特·斯蒂尔的 Web 开发者训练营<http://bit.ly/2AGj5m2>**
 
 ****[![](img/0d713f6eba0db6001427d74f756b46c6.png)](http://bit.ly/2AGj5m2)****
 
@@ -192,16 +188,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ******其他文章上** [**中**](https://medium.com/u/504c7870fdb6?source=post_page-----b657a195aa07----------------------) **你可能喜欢:******
 
-****[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) [## 完整的 React JS 开发者路线图
-
-### 成为 React 开发人员的图解指南，提供相关课程的链接
-
-medium.com](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) [](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773)****
+****</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56>  </javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773> ****

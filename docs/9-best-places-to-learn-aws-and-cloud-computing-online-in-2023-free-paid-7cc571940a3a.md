@@ -158,10 +158,6 @@ Whizlabs 填补了这一空白，它提供了大量云实验室、在线课程�
 
 感谢您阅读本文。如果你觉得这些*最好的免费学习 AWS 的网站和平台*有用，请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。
 
-**附言——**如果你喜欢 AWS，想学习 AWS 服务，但正在寻找一些免费课程，不要担心。首先，你也可以查看这份免费 AWS 课程清单[](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html)**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。**
+**附言——**如果你喜欢 AWS，想学习 AWS 服务，但正在寻找一些免费课程，不要担心。首先，你也可以查看这份免费 AWS 课程清单<https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html>**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。**
 
-**[](/javarevisited/5-best-free-online-courses-for-aws-certification-exams-preparation-51af06c258e9) [## 2023 年 AWS 认证考试准备的 6 门最佳免费在线课程
-
-### 这些是一些最好的免费在线课程，您可以参加这些课程来为 2022 年的 AWS 云认证做准备。
-
-medium.com](/javarevisited/5-best-free-online-courses-for-aws-certification-exams-preparation-51af06c258e9)**
+**</javarevisited/5-best-free-online-courses-for-aws-certification-exams-preparation-51af06c258e9> **

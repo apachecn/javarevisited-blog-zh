@@ -26,11 +26,7 @@ Shell 脚本是成为更好的开发人员或程序员的重要技能。它允�
 
 顺便说一句，如果你只是需要一门全面的课程来学习 bash shell 脚本，那么我也建议你去看看 Udemy 上的[**【Bash 脚本和 shell 编程(Linux 命令行)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbash-scripting%2F) 。这是最好的开始之一，尤其是如果你遵循动手实践和边做边学的方法。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbash-scripting%2F) [## Bash 脚本和 Shell 编程教程 Linux 命令行
-
-### 加入其他 60，000 名成功学生的行列，世卫组织已经掌握了 BASH 编程和 LINUX 操作系统…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbash-scripting%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbash-scripting%2F>  
 
 # 学习 Learn Shell 脚本的 6 门最佳免费课程
 
@@ -82,11 +78,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 无论如何，即使你没有 Pluralsight 会员资格，你仍然可以利用他们的 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **，**免费学习他们的所有课程，时间为 200 分钟。本课程时长 2.5 小时，这意味着您可以轻松免费观看完整课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4. [Linux shell &脚本教程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-unix-shell-scripting-tutorial%2F)
 
@@ -146,8 +138,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 如果你不介意花几块钱学习一些值得学习的东西，并寻找最好的课程，那么 [**Linux Shell Scripting:一种基于项目的学习方法**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-projects%2F) 是最好的开始之一，特别是如果你遵循边做边学的方法。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-projects%2F) [## Linux Shell 脚本:初学者的学习项目
-
-### 您是否尝试过自学 shell 脚本，但是缺乏真正提高技能所需的结构？是……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-projects%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-projects%2F> 

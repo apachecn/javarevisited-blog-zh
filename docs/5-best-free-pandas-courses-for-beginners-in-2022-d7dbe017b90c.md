@@ -72,11 +72,7 @@ Udemy 上的这个免费熊猫课程提供了最清晰、最简洁、最优雅�
 
 本课程也是 Python 专业 [**应用数据科学**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) 的一部分，完成本课程将计入该认证，这也是 Coursera 最受欢迎的数据科学认证之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) [## 使用 Python 的应用数据科学
-
-### 获得对数据的新见解。学习应用数据科学方法和技术，并获得分析技能。的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python>  
 
 ## 3.[学习核心 Python、Numpy、熊猫](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-core-python-numpy-and-pandas%2F)【免费 Udemy 课程】
 
@@ -120,11 +116,7 @@ Pandas library 主要由数据分析领域的工作人员使用，如果您想�
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每月花费大约 59 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这就是为初学者和有经验的 Python 开发者和数据科学家提供的最好的免费熊猫课程。Pandas 是一个巨大的 python 库，包含许多模块，要有效地学习它并执行复杂的数据处理，可能需要花费大量的时间和练习。不过，这些免费资源可以帮助您开始学习这个包。
 
@@ -149,8 +141,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你热衷于学习熊猫，并寻找更全面和最新的熊猫和数据分析课程，那么我也建议你查看 Udemy 上的 [**熊猫和 Python 的数据分析**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-analysis-with-pandas%2F) 课程。鲍里斯·帕斯卡弗教授的 20.5 小时的熊猫课程是 Udemy 上最受欢迎和推荐的熊猫课程之一。
 
-[](https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-pandas-for-data-analysis-python.html) [## 2023 年学习熊猫和 Python 数据分析的 5 大课程-最佳课程
-
-### Pandas 是用于数据分析的最强大和最流行的 Python 库之一。它也是最受欢迎的工具之一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-pandas-for-data-analysis-python.html)
+<https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-pandas-for-data-analysis-python.html> 

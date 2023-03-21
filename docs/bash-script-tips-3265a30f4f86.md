@@ -352,12 +352,4 @@ Done.
 
 我期待着反馈和评论
 
-[](https://javarevisited.blogspot.com/2018/02/5-courses-to-learn-shell-scripting-in-linux.html) [## 在线学习 Linux Shell 脚本(bash、ksh、csh)的前 5 门课程——最好的
-
-### 开发人员的大量时间浪费在尝试重复任务和命令上，尤其是当涉及到…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/5-courses-to-learn-shell-scripting-in-linux.html) [](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) [## 2020 年学习 Linux 命令行的 10 大课程——最好的免费课程
-
-### 有没有想过为什么命令行仍然在使用，即使有数百种人性化的图形用户界面和工具…
-
-medium.com](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0)
+<https://javarevisited.blogspot.com/2018/02/5-courses-to-learn-shell-scripting-in-linux.html>  </javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0> 

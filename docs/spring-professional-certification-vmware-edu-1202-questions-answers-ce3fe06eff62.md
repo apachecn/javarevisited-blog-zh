@@ -71,11 +71,7 @@ Spring 专业认证考试旨在测试和验证您对 Spring 和 Spring Boot 核�
 
 这些书足以通过相应的 Spring 认证，但如果你想准备得更详细，我也建议你查看一些免费的在线课程，例如来自 Pluralsight 的[**Spring Framework master class**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F)和[**Spring MVC 简介**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspringmvc-intro) 。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F) [## 学习 Spring 框架大师课教程
-
-### Ranga 是 AWS 认证解决方案架构师助理、AWS 认证开发人员助理和 AWS 认证云…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-tutorial-for-beginners%2F>  
 
 ## Spring 核心认证包括 REST 和 Web 服务吗？
 
@@ -111,11 +107,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 您也可以从任何地方在线访问模拟器。它还提供了一个带有示例问题的免费 PDF，您可以在购买完整的模拟器之前使用它来评估问题的质量。我还在 Udemy 上创建了 [**春季模拟考试，其中包含 250 多个带解释的问题，您也可以检查这些问题，为您的最终准备做准备。**](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E)
 
-[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 实践考试|春季专业认证 2020
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 
+<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E>  
 
 以上是关于 Spring 框架认证的一些**常见问题(VMware EDU-1202。**现在没有强制性的培训要求，这是 Java 和 Spring 开发人员在 Spring 框架中获得经验认可的一个非常好的机会。
 
@@ -139,8 +131,4 @@ www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-qu
 
 **P.S.** —如果你是一名经验丰富的 Java 开发人员，并且使用 Spring 框架 3 到 5 年，并且希望获得技能认证，我建议你去看看 David Mayer 的[**在线 Spring 模拟测试**](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)**；**如果你能考到 80%以上，那么你就准备好真正的考试了。
 
-[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践考试
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)
+<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate> 

@@ -20,7 +20,7 @@
 
 无论如何，不浪费你更多的时间，让我们深入一些银行的标准 Java 面试问题，这些问题是我从一些参加这些银行面试的朋友和同事那里收集来的。
 
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>
 
 # **20 多个 Java 面试问题及答案**
 
@@ -52,11 +52,7 @@
 
 **这是关键点之一；面试官喜欢听候选人的意见。如果你想了解更多关于 Java 中 final 变量的知识，我推荐你加入 Udemy 上的 [**完整的 Java master class**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**，这是最好的实践课程之一。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 17 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 560，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**** 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> **** 
 
 ## ****问题 String 内部的 substring()是如何工作的？([回答](http://javarevisited.blogspot.sg/2011/10/how-substring-in-java-works.html))****
 
@@ -70,21 +66,13 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ****顺便说一句，如果你想学习更多关于 Java 内存管理的知识，我推荐你去看看 Pluralsight 上[凯文·琼斯](https://medium.com/u/b779125ee2cb?source=post_page-----36ba58865681--------------------------------)的[了解 Java 虚拟机:内存管理](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management)课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management) [## 了解 Java 虚拟机:内存管理
-
-### 本课程涵盖了 Java 中垃圾收集的所有方面，包括内存如何分成代和…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management>  
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。如果你没有这个计划，我强烈推荐你加入，因为它能促进你的学习，而且作为一名程序员，你总是需要学习新的东西。
 
 或者，你也可以使用他们的 **1** [**0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 问题 5:你能为 singleton 写一个临界区代码吗？([回答](http://javarevisited.blogspot.sg/2014/05/double-checked-locking-on-singleton-in-java.html))
 
@@ -196,11 +184,7 @@ Java 中的 Singleton 是整个 Java 应用中只有一个实例的类，比如`
 
 如果你想了解更多，你也可以查看 [**学习 Java 中的创造性设计模式**](http://bit.ly/2xZnIDC)——Udemy 的#免费课程。
 
-[](http://bit.ly/2xZnIDC) [## 免费设计模式教程——学习 Java 中的创造性设计模式
-
-### 你需要学习创造性设计模式的唯一课程！—免费课程
-
-bit.ly](http://bit.ly/2xZnIDC) 
+<http://bit.ly/2xZnIDC>  
 
 ## 问题 14:在 HashMap 上的 get()操作中，equals()和 hashCode()方法出现在图片中的什么位置？([回答](https://javarevisited.blogspot.com/2017/08/top-10-java-concurrenthashmap-interview.html#axzz5ITbIGRsU))
 
@@ -307,18 +291,6 @@ bit.ly](http://bit.ly/2xZnIDC)
 [Java 开发人员在日常工作中使用的 10 个工具](http://javarevisited.blogspot.sg/2017/03/10-tools-used-by-java-programming-Developers.html#axzz55lrMRnNC)
 [成为更好的 Java 开发人员的 10 个技巧](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html)
 
-[](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员下一步会做什么？项目经理、技术架构师或 DevOps 工程师
+</javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1>  </javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904>  </javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151>  
 
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904) [## 这些是薪酬最高的技术工作，程序员可以提高他们的薪酬
-
-### 以及获得这些工作所需技能的资源链接
-
-medium.com](/javarevisited/these-are-the-highest-paying-tech-jobs-programmers-can-aim-to-increase-their-pay-c59e1eeb6904) [](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) [## 有经验的程序员学习 DevOps 的 10 大课程
-
-### DevOps 引擎的平均利润从 12 万美元到 15 万美元不等；成为 DevOps 的最佳时机…
-
-medium.com](/javarevisited/top-10-courses-to-learn-devops-for-experienced-programmers-d93b666db151) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。您可以在此 处**加入介质**[](/@somasharma_81597/membership)****
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。您可以在此 处**加入介质**</@somasharma_81597/membership>****

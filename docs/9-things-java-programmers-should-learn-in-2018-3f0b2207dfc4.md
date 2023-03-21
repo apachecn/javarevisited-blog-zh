@@ -34,11 +34,7 @@
 
 如果你更喜欢在线课程而不是书籍，那么我建议你看看 Pluralsight 上的 [**了解 Java 虚拟机**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management) 系列课程，它解释了内存管理、类加载、安全性和反射。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management) [## 了解 Java 虚拟机:内存管理
-
-### 本课程涵盖了 Java 中垃圾收集的所有方面，包括内存如何分成代和…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Funderstanding-java-vm-memory-management>  
 
 ## 2.Docker 和 Kubernetes
 
@@ -82,11 +78,7 @@ DevOps 非常庞大，需要学习很多工具和原理，而这也是让很多�
 
 也可以解决[**破解编码面试给出的问题，189 编程题**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/tag=javamysqlanta-20) 。这不仅能确保你为面试做好准备，还能提高你对数据结构、算法和编程逻辑的了解。
 
-[](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/tag=javamysqlanta-20) [## 破解编码面试:189 个编程问题和解决方案
-
-### 我不是招聘人员。我是一名软件工程师。因此，我知道被要求创造辉煌是什么感觉…
-
-www.amazon.com](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/tag=javamysqlanta-20) 
+<https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/tag=javamysqlanta-20>  
 
 ## 5.每月分析一次您的 Java 应用程序
 
@@ -100,11 +92,7 @@ www.amazon.com](https://www.amazon.com/Cracking-Coding-Interview-Programming-Que
 
 原因是什么？如果其他 10 万新客户端访问你的应用会怎么样？如果你能舒服地回答所有这些问题，那么你的状态很好。如果你需要一些解决内存和 CPU 问题的指导，我建议你看看理查德·沃伯顿的 [**了解和解决 Java 内存问题**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-understanding-solving-memory-problems) 。
 
-[](https://www.pluralsight.com/courses/java-understanding-solving-memory-problems?clickid=yo33dNx7GXIOyjqxhLyTY0btUklztH3iAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) [## 理解和解决 Java 内存问题
-
-### 课程概述大家好，我是理查德·沃伯顿，欢迎来到我的课程:理解和解决记忆…
-
-www.pluralsight.com](https://www.pluralsight.com/courses/java-understanding-solving-memory-problems?clickid=yo33dNx7GXIOyjqxhLyTY0btUklztH3iAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) 
+<https://www.pluralsight.com/courses/java-understanding-solving-memory-problems?clickid=yo33dNx7GXIOyjqxhLyTY0btUklztH3iAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2>  
 
 ## 6.参与编码挑战
 
@@ -140,11 +128,7 @@ www.pluralsight.com](https://www.pluralsight.com/courses/java-understanding-solv
 
 **类似地，对于 Java 10 的特性，比如局部变量的 var，你可以查看 Java 17 的一门好课程，比如 T2，T3，完整的 Java MasterClass，T4，T5，它也是最新的，最近也为 Java 11 更新了。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 170 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> ** 
 
 ## **9.春天 6.0**
 
@@ -158,11 +142,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **最有趣的部分是 OAuth 2.0 模块。可惜目前学习 Spring Security 5.0 的资源并不多，不过值得庆幸的是，Eugen 已经更新了他的[**学习 Spring Security**](https://courses.baeldung.com/p/learn-spring-security-the-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) 覆盖 5.0 版本，还在 OAuth 2.0 上增加了新的模块。**
 
-**[](https://courses.baeldung.com/p/learn-spring-security-the-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习春季安全:大师课
-
-### 保护您的 Java 应用程序的权威视频指南
-
-courses.baeldung.com](https://courses.baeldung.com/p/learn-spring-security-the-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)** 
+**<https://courses.baeldung.com/p/learn-spring-security-the-master-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa> ** 
 
 ## **11.单元测试**
 
@@ -210,24 +190,8 @@ courses.baeldung.com](https://courses.baeldung.com/p/learn-spring-security-the-m
 
 ******P. S. —** 如果你是初学者，2023 年开始学习 Java，我建议你加入 Tim Buchalaka 在 [Udemy](https://medium.com/u/b32aa0132f1b?source=post_page-----3f0b2207dfc4--------------------------------) 上开设的 [**Java 编程大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程，这是深入学习 Java 的最佳课程之一。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 17 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 ## 你可能喜欢的其他文章来自 Medium
 
-[](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [](/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093) [## 技术访谈中的 20 大链表编码问题
-
-### 大家好，我已经分享了很多给正在积极找工作的程序员的编码面试问题…
-
-medium.com](/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093) [](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2023 年学习 Java 的 10 大课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)****
+</javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0>  </javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093>  </javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> ****

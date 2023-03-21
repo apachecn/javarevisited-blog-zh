@@ -26,11 +26,7 @@ image_credit — udemy
 
 顺便说一句，如果你不介意为一门高质量的课程支付一些钱，那么我也推荐 Udemy 网站上克里斯蒂安·多鲁·巴林的[**Photoshop 终极培训:从初学者到专业者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F) 课程。你可以在优购上花 10 美元买到它。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F) [## Photoshop 终极培训:从初学者到专业人员
-
-### Chris Barin 是一名专业的网页和应用程序设计师，拥有近 10 年的 Photoshop 经验。他也是土坯工…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F>  
 
 # 2023 年 6 个最适合初学者在线学习的免费 Photoshop 课程
 
@@ -98,11 +94,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 本课程是 [**平面设计专业**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgraphic-design) 的一部分，它为你提供了所有关于平面设计的基本信息。教师将教你创造引人入胜的设计，响应排版所需的所有元素。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgraphic-design) [## 装帧设计艺术
-
-### 做出引人注目的设计。学习和应用平面设计的原则，建立一个全面的品牌项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgraphic-design) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgraphic-design>  
 
 一旦你完成了，你将成为颜色、形状和排版的专家。指导将帮助你理解图形设计的每一个小方面。除此之外，这是一个为期 4 周的课程，有实时作业。顺便说一句，你不能跳过这些作业，你必须完成它们，稍后老师会检查你的作业，并给你相应的分数。
 
@@ -110,13 +102,9 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 [![](img/6fe949851f1243d0e9b5cce21901a300.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Ffundamentals-of-graphic-design)
 
-而且，如果你觉得 Coursera 的课程和认证有用，那么我也建议你加入 Coursera Plus[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。**
+而且，如果你觉得 Coursera 的课程和认证有用，那么我也建议你加入 Coursera Plus<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2023 年 **6 门学习 Adobe Photoshop CC 的最佳免费在线课程**。毫无疑问，Adobe Photoshop 是最受欢迎和最受欢迎的设计工具之一，学习 Photoshop 可以为你打开作为 UI 和 UX 设计师的大门。
 
@@ -149,8 +137,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你不介意在学习上投资一些钱，那么我也推荐 Udemy 网站上克里斯蒂安·多鲁·巴林的[**Photoshop 终极培训:从初学者到专业者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F) 课程。我在优购网上只花了 10 美元就买到了它，它超级棒。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F) [## Photoshop 终极培训:从初学者到专业人员
-
-### Chris Barin 是一名专业的网页和应用程序设计师，拥有近 10 年的 Photoshop 经验。他也是土坯工…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fultimate-photoshop-training-from-beginner-to-pro%2F> **

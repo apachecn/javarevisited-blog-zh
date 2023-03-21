@@ -8,11 +8,7 @@
 
 随着计算机科学和技术领域的不断变化，很难确定在 2023 年学习哪种编程语言最有用。然而，有一些[编程语言](/javarevisited/top-5-programming-languages-for-web-development-in-2021-f6fd4f564eb6)被普遍推荐给初学者，预计在未来几年仍将流行。
 
-[](https://kapilbaser44.medium.com/3-simple-programming-languages-almost-everyone-can-learn-these-languages-within-a-month-4e4f8b41cc71) [## 你可以在 30 天内学会 3 种简单的编程语言
-
-### 在这篇文章中，我们探索 3 种简单的编程语言，每个人都可以在一个月内学会。我说在一个…
-
-kapilbaser44.medium.com](https://kapilbaser44.medium.com/3-simple-programming-languages-almost-everyone-can-learn-these-languages-within-a-month-4e4f8b41cc71) 
+<https://kapilbaser44.medium.com/3-simple-programming-languages-almost-everyone-can-learn-these-languages-within-a-month-4e4f8b41cc71>  
 
 # 计算机编程语言
 
@@ -34,11 +30,7 @@ Java 还以其简单性、可靠性和可读性而闻名，这使得它成为那
 
 此外， [Java 是一种独立于平台的语言](https://www.java67.com/2012/08/how-java-achieves-platform-independence.html)，这意味着用它编写的程序可以在任何带有 Java 虚拟机(JVM)的设备或操作系统上运行。这使得 Java 成为开发需要部署在多个平台上的应用程序的良好选择。
 
-[](https://kapilbaser44.medium.com/algorithms-you-must-know-as-a-programmer-984963d9aa2) [## 作为程序员你必须知道的算法
-
-### 算法是解决特定问题的一组指令或规则。它需要收集输入和…
-
-kapilbaser44.medium](https://kapilbaser44.medium.com/algorithms-you-must-know-as-a-programmer-984963d9aa2) 
+<https://kapilbaser44.medium.com/algorithms-you-must-know-as-a-programmer-984963d9aa2>  
 
 # C++
 

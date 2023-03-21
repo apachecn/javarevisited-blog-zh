@@ -80,19 +80,11 @@ React 也非常灵活、快速、易学，并且使用起来很有趣。它旨�
 
 本课程也是 React Specialization 的 [**全栈 Web 开发的一部分，其中包含了更多的课程，教你成为全栈 JavaScript 开发人员所需的其他技能。**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) [## 使用 React 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react>  
 
 但是为什么当你免费参加审计专业的课程时，你不会得到任何证书。如果你参加这个课程是为了获得 Coursera 证书，那么你需要注册参加这个专业或者参加一个订阅计划，比如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以提供超过 7000 个 Coursera 课程、项目和专业证书的无限制访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## **5。** [**反应基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-fundamentals%2F)
 
@@ -118,11 +110,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你想成为年度会员，大约需要 299 美元，对于这些课程和继续学习来说，这也是一个非常好的价格。他们现在还提供 33%的折扣，这意味着你只需 190 美元就可以获得年度会员资格。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## [7。React vs Angular vs Vue.js 举例](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-vs-angular-vs-vuejs-by-example%2F)
 
@@ -213,24 +201,8 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 ****附言**——如果你不介意花几块钱学习像 React.js 这样有价值的东西，那么我也建议你去看看 Udemy 上 Max 的[**React——完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 本课程是 React 的最新版本，包括 React 挂钩！当然会保留…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F> ** 
 
 ## **你可能喜欢的其他媒体文章**
 
-**[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32) [## 12 门免费课程，供初学者和有经验的开发人员学习 JavaScript 和 ES6
-
-### 从哈佛、Udemy、Coursera、Pluralsight、edX 和 Educative 获得 12 门免费在线课程来学习 JavaScript 和 ES6
-
-medium.com](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32) [](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [## 我最喜欢的初学者和有经验的开发人员的角度课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-medium.com](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc)**
+**</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32>  </javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc> **

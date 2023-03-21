@@ -82,8 +82,4 @@ REST 现在已经成为开发 web 服务的标准方式，而对于 Java 来说�
 
 ******p . s .**——如果你想深入学习 Spring MVC 并需要课程，那么我也建议你加入 Udemy 上的 [Spring Framework:初学者到大师](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F)课程。这是一门很好的课程。****
 
-****[](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-spring-mvc-for.html) [## 2023 年面向初学者的五大春季 MVC 在线课程——最佳选择
-
-### 大家好，你们中的许多人一直在问我学习反应弹簧、Spring Boot 和…的最佳在线课程
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-spring-mvc-for.html)****
+****<https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-spring-mvc-for.html> ****

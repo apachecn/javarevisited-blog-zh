@@ -96,11 +96,7 @@ Pandas 是 Python 中的一个机器学习库，它提供了高级的数据结�
 
 如果你需要更多的项目思路，也可以看看这些 [8 Python 项目，供初学者](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56?source=---------8------------------)入手。
 
-[](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) [## 2021 年学习 Python 可以建立的 8 个项目
-
-### 大家好，今天，我将分享一些基于项目的免费课程，你们不仅可以用它们来建立…
-
-medium.com](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) 
+</javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56>  
 
 ## **结论**
 

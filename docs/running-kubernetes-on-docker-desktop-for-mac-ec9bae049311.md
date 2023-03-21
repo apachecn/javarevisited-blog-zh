@@ -25,11 +25,7 @@
 
 如果你还没有安装的话，你可以遵循 Docker 官方的桌面安装指南。
 
- [## Mac Docker 桌面- Docker Hub
-
-### 在 Mac 上开始使用 Docker 的最快和最简单的方法
-
-hub.docker.com](https://hub.docker.com/editions/community/docker-ce-desktop-mac) 
+  
 
 ## 如何在 Mac 版 Docker 桌面上启用 Kubernetes
 
@@ -95,19 +91,11 @@ kubectl exec -it nginx -- /bin/sh# curl 10.1.0.65<!DOCTYPE html><html><head><tit
 
 让我们在本地 Kubernetes 集群上部署一个工作的 Spring Boot 应用程序。我们将使用 Indian-states 应用程序进行演示。您可以查看[GitHub 库来了解这个应用程序的更多信息。](https://github.com/yrashish/indian-states)
 
-[](https://github.com/yrashish/indian-states) [## 伊拉希什/印第安州
-
-### 这是一个简单的 SpringBoot 应用程序，当通过/states REST 端点访问时，它显示印度各州和他们的…
-
-github.com](https://github.com/yrashish/indian-states) 
+<https://github.com/yrashish/indian-states>  
 
 在我的上一篇文章中，我已经解释了这个 Kubernetes 应用程序的服务和部署资源。
 
-[](https://ashishtechmill.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold) [## Kubernetes via Skaffold 上 SpringBoot 应用程序的 CI/CD 工作流
-
-### 使用 Skaffold 为部署到 Kubernetes 的 SpringBoot 应用程序创建 CI/CD 工作流。众所周知的事实是…
-
-ashishtechmill.com](https://ashishtechmill.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold) 
+<https://ashishtechmill.com/cicd-workflow-for-springboot-applications-on-kubernetes-via-skaffold>  
 
 现在我们将克隆这个库，并使用下面的命令创建 Kubernetes 清单。
 
@@ -195,12 +183,4 @@ Lens 有一个特性，它允许您在集群中安装 Prometheus stack，以便�
 
 可以继续看我之前的一些文章。
 
-[](https://ashishtechmill.com/running-simple-springboot-app-on-openshift) [## 在 OpenShift 上运行简单的 SpringBoot 应用程序
-
-### 在本文中，我将尝试演示如何在 OpenShift (Minishift)上部署一个简单的弹簧启动应用程序…
-
-ashishtechmill.com](https://ashishtechmill.com/running-simple-springboot-app-on-openshift) [](https://ashishtechmill.com/local-variable-type-inference-declare-var-not-war) [## 局部变量类型推断:声明 var，而不是 war
-
-### 在本文中，我将尝试解释 Java 10 新特性局部变量类型推理使用保留类型名 var…
-
-ashishtechmill.com](https://ashishtechmill.com/local-variable-type-inference-declare-var-not-war)
+<https://ashishtechmill.com/running-simple-springboot-app-on-openshift>  <https://ashishtechmill.com/local-variable-type-inference-declare-var-not-war> 

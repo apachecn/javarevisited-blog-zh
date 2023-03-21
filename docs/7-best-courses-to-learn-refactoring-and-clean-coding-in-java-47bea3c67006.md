@@ -59,7 +59,7 @@
 
 [![](img/f2d8762eb7563f72b9dff96245245483.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F)
 
-总的来说，对于中级和有经验的 Java 开发人员来说都是一门很棒的课程。如果你正在寻找一个实践的、点对点的在线课程来学习[](/javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c)**[**重构**](https://javarevisited.blogspot.com/2014/09/top-6-books-to-learn-programming-coding.html#axzz6fvDCikIM) 和 [**设计模式**](https://www.java67.com/2016/10/top-5-object-oriented-analysis-and-design-patterns-book-java.html) 比如解释器、流畅构建器、工厂方法，那么这个课程就是为你准备的。**
+总的来说，对于中级和有经验的 Java 开发人员来说都是一门很棒的课程。如果你正在寻找一个实践的、点对点的在线课程来学习</javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c>**[**重构**](https://javarevisited.blogspot.com/2014/09/top-6-books-to-learn-programming-coding.html#axzz6fvDCikIM) 和 [**设计模式**](https://www.java67.com/2016/10/top-5-object-oriented-analysis-and-design-patterns-book-java.html) 比如解释器、流畅构建器、工厂方法，那么这个课程就是为你准备的。**
 
 ## **2.[用 Java 清理代码:学习简单设计，重构& TDD](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F)**
 
@@ -87,7 +87,7 @@
 
 ## **3.[重构金字塔(Java)——将代码清理成链](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-chain-of-poker-hands%2F)【Udemy】**
 
-**这是重构金字塔系列的第二个课程，在这里你将学习如何使用重构金字塔和干净的代码规则，用责任链设计模式替换嵌套和混乱的 if-else 语句。本课程的目标是从一组难以阅读和维护的深度嵌套的条件 if/else 语句中解开代码库。这是一个非常常见的[](/javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30)**编码问题，如果它被搁置很长时间，那么它会导致后续代码更改后非常复杂的遗留代码。
+**这是重构金字塔系列的第二个课程，在这里你将学习如何使用重构金字塔和干净的代码规则，用责任链设计模式替换嵌套和混乱的 if-else 语句。本课程的目标是从一组难以阅读和维护的深度嵌套的条件 if/else 语句中解开代码库。这是一个非常常见的</javarevisited/20-binary-tree-algorithms-problems-from-coding-interviews-c5e5a384df30>**编码问题，如果它被搁置很长时间，那么它会导致后续代码更改后非常复杂的遗留代码。
 
 讲师将使用重构技术，并现场执行所有更改，向您展示如何摆脱杂乱的 if-else 块，并提出更干净的方法，使您的逻辑更加明显。****
 
@@ -95,11 +95,7 @@
 
 ******这是加入本课程** — [重构金字塔(Java)——将代码清理成链](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-chain-of-poker-hands%2F)的链接****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-chain-of-poker-hands%2F) [## 重构到责任链和干净的代码
-
-### 我叫沃德克·克拉科夫斯基。我是一名独立的技术培训师，团队教师，也是一名开发人员-以提高我的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-chain-of-poker-hands%2F)**** 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-chain-of-poker-hands%2F> **** 
 
 ## ****4.[通过实例重构设计模式](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frefactoring-to-patterns%2F)【Udemy 课程】****
 
@@ -135,11 +131,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****同样，Educative 有许多很棒的课程可以帮助你成为一名更好的程序员，比如他们的系统设计课程，该课程也是为编码面试而开设的，但为各种程序员提供了非常有用的课程。你可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 来访问他们的所有课程，每月仅需 14.99 美元(现在有 70%的折扣)。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****6.[干净的代码:在 7 天内让你的编程生涯扶摇直上](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsoftware-practices-and-writing-clean-code%2F)****
 
@@ -205,10 +197,6 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****感谢您阅读本文。如果你发现这些*高级 java 课程对提高你的编码和重构技能有用*，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。****
 
-****如果你喜欢阅读书籍，并寻找提高编码技能的最佳书籍，那么你也可以看看 Bob 叔叔 Robert C. Martin 的《干净的代码》[](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20)**,这是 Java 程序员的必读书籍之一。******
+****如果你喜欢阅读书籍，并寻找提高编码技能的最佳书籍，那么你也可以看看 Bob 叔叔 Robert C. Martin 的《干净的代码》<http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20>**,这是 Java 程序员的必读书籍之一。******
 
-******[](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20) [## 干净的代码:敏捷软件工艺手册
-
-### 干净的代码:Amazon.com 的敏捷软件工艺手册。*符合条件的免费*运输…
-
-www.amazon.com](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20)******
+******<http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20> ******

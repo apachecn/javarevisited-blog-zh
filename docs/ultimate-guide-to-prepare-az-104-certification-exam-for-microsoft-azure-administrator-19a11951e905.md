@@ -22,11 +22,7 @@ image_credit — whizlabs
 
 顺便说一句，如果你很匆忙，没有足够的时间进行广泛的准备，那么我建议你参加 Udemy 上 Scott Duffy 的 [**AZ-104 微软 Azure 管理员考试认证 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F) 课程。它是最新的，包括从 2022 年 10 月起的变化，还提供了一个 PDF 学习指南供离线阅读。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F) [## AZ-104 微软 Azure 管理员考试认证 2023
-
-### 免费升级:本课程已更新至最新的 AZ-104 考试目标。课程奖励:免费学习指南 PDF…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F>  
 
 # 如何在 2023 年通过 AZ-104 —微软 Azure 管理员助理考试认证
 
@@ -163,8 +159,4 @@ AZ-104 是 AZ-100 和 AZ-101 两种考试的结合，考试主题包含 AZ-100 �
 
 **附言——**如果你很急，没有足够的时间进行广泛的准备，那么我建议你参加 Udemy 上 Scott Duffy 的 [**AZ-104 微软 Azure 管理员考试认证 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F) 课程。它是最新的，包括从 2021 年 5 月到 2023 年 10 月的变化，还提供了 PDF 学习指南供离线阅读。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F) [## AZ-104 微软 Azure 管理员考试认证 2023
-
-### 免费升级:本课程已更新至最新的 AZ-104 考试目标。课程奖励:免费学习指南 PDF…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70533-azure%2F> 

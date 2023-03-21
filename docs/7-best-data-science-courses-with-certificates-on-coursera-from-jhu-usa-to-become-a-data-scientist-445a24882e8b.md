@@ -18,11 +18,7 @@ image_credit — coursera
 
 事实上， [**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 拥有许多约翰·霍普金斯大学的在线课程、专业和认证，受到全球数百万学习者的信赖。如果你想知道什么是 Coursera 专业化，让我给你一个简单的概述。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) [## Coursera |学位、证书和免费在线课程
-
-### 在网上课程中学习新的工作技能，这些技能来自行业领导者，如 Google、IBM 和 Meta。借助 top…推进您的职业发展
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F>  
 
 Coursera 专业化是帮助你掌握一项技能的一系列课程。它在专业结束时还有一个项目，让你有机会将所学知识应用到实践中。完成专业化认证后，您还将获得一份证书。
 
@@ -30,11 +26,7 @@ Coursera 专业化是帮助你掌握一项技能的一系列课程。它在专�
 
 最棒的是，你也可以免费参加这些课程，也就是所谓的免费审核，你可以看着他们学习，但你不能做评估，你也不会得到任何认证。如果你需要证书，那么你必须加入这个专业，或者你可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是一个订阅计划，提供他们的大多数证书和 7000 多个课程和项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 # 2023 年约翰霍普金斯大学 Coursera 上的 7 门最佳数据科学课程证书
 
@@ -74,13 +66,9 @@ Jeff Leek 博士、Roger D. Peng 博士和 Brian Caffo 博士精心组织、开�
 
 [![](img/e0ba94095ec352446e651a0d5e9ba76a.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-foundations-r)
 
-顺便说一句，你不需要参加所有这些课程，你可以选择并参加你与导师联系的课程，如果你想参加多个课程，你也可以参加 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**订阅计划，让你无限制地访问 Coursera 的 7000+课程、专业化、专业证书和指导项目。**
+顺便说一句，你不需要参加所有这些课程，你可以选择并参加你与导师联系的课程，如果你想参加多个课程，你也可以参加 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**订阅计划，让你无限制地访问 Coursera 的 7000+课程、专业化、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **3.[高管数据科学专业](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fexecutive-data-science)**
 
@@ -164,11 +152,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一下，除了单独加入这些课程和专业，你还可以加入 Coursera Plus 的 [**，**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera 资源文章**:
 
@@ -192,8 +176,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你喜欢 Udemy 的课程，还可以在 Udemy 上查看 [**数据科学课程 2023:365 Careers 完成的数据科学训练营**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 课程。这是在 Udemy 上学习数据科学的最佳课程之一，你只需花 10 美元就可以在 Udemy sales 上获得，这种情况时有发生。
 
-[](https://javarevisited.blogspot.com/2022/02/top-5-jose-portilla-courses-from-udemy.html) [## Udemy 的何塞·波尔蒂利亚 2023 年学习 Python、SQL 和数据科学的前 5 名课程——最好的
-
-### 大家好，如果你参加了 Udemy 的任何课程，我相信你会有你最喜欢的老师，我有很多…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/02/top-5-jose-portilla-courses-from-udemy.html)**
+<https://javarevisited.blogspot.com/2022/02/top-5-jose-portilla-courses-from-udemy.html> **

@@ -141,8 +141,4 @@
 
 *如果你真的想制作一份出色的简历和 LinkedIn 简介，我强烈推荐你查看完整的简历，LinkedIn &获得你梦想中的工作课程！克里斯认为，对于任何想改变职业的人来说，这是一个极好的资源。*
 
-*[](https://javarevisited.blogspot.com/2018/10/top-5-carrer-options-for-experienced-java-programmers.html) [## 2022 年有经验的 Java 开发人员可以探索的五大职业选择
-
-### 如果你是一个经验丰富的 Java 程序员，已经做了大量的编码和开发工作，就像其他人一样…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/10/top-5-carrer-options-for-experienced-java-programmers.html)*
+*<https://javarevisited.blogspot.com/2018/10/top-5-carrer-options-for-experienced-java-programmers.html> *

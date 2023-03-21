@@ -14,11 +14,7 @@
 
 但是，如果你对 AWS 领域或[云](https://javarevisited.blogspot.sg/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html)完全陌生，让我给你简单介绍一下**亚马逊网络服务**及其相对于传统基础设施设置的优势。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-java-serverless-development) [## 在 AWS 上用 Java 开发现代应用程序
-
-### 成为一名现代网络开发人员。通过学习在 AWS 上构建云原生应用，加速您的职业发展…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-java-serverless-development) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-java-serverless-development>  
 
 # 什么是亚马逊网络服务(AWS)？利益
 
@@ -44,11 +40,7 @@ AWS 不过是亚马逊的云服务提供商。这是一个革命性的变化，�
 
 简而言之，亚马逊网络服务催生了[云](https://javarevisited.blogspot.sg/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html#axzz5Cz1R4cHw)的概念，它允许你将你的业务上线，而不用担心为其提供动力的硬件和基础设施。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-python-serverless-development) [## 在 AWS 上使用 Python 进行现代应用程序开发
-
-### 成为一名现代网络开发人员。通过学习在 AWS 上构建云原生应用，加速您的职业发展…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-python-serverless-development) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-python-serverless-development>  
 
 # 学习亚马逊网络服务(AWS)的十大课程
 
@@ -80,11 +72,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你正在准备亚马逊 Web 服务解决方案架构师考试(代码 SAA- C02)，我强烈推荐AWS 英雄夏羽·马雷克的[**终极 AWS 认证解决方案架构师助理 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) **课程**。
 
-[](/javarevisited/how-to-prepare-for-aws-solution-architect-associate-certification-saa-c01-saa-c02-exam-in-2021-a6e7e7e771fc) [## 如何准备 2023 年的 AWS 解决方案架构师助理认证(SAA-C01 和 SAA-C02)考试
-
-### 您的 2023 年成为 AWS 认证解决方案架构师的完整指南，其中包含资源链接和评分提示…
-
-medium.com](/javarevisited/how-to-prepare-for-aws-solution-architect-associate-certification-saa-c01-saa-c02-exam-in-2021-a6e7e7e771fc) 
+</javarevisited/how-to-prepare-for-aws-solution-architect-associate-certification-saa-c01-saa-c02-exam-in-2021-a6e7e7e771fc>  
 
 ## 2.[AWS 云计算介绍](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-aws-cloud-computing%2F)【免费 Udemy 课程】
 
@@ -121,13 +109,9 @@ medium.com](/javarevisited/how-to-prepare-for-aws-solution-architect-associate-c
 
 **[![](img/ee050f07936e75ebca1b3b503659eb4b.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Faws-fundamentals-cloud-migration)**
 
-**如果你发现 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
+**如果你发现 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ******4。** [亚马逊 AWS 核心服务——EC2、VPC、S3、IAM、DynamoDB、RDS](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-core-services-ec2-vpc-s3-iam-dynamodb-rds%2F)****
 
@@ -235,11 +219,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****它还有很多免费的资源，比如这个免费的 JavaScript 教程，用来学习基本的技术。你可以免费注册这门课程，但如果你想充分利用这个平台，我建议你购买其会员资格，每月 18 美元 **(** [**半价优惠**](https://www.educative.io/subscription?affiliate_id=5073518643380224) **)** ，对于需要不断学习的程序员和软件工程师来说完全值得。****
 
-****[](https://www.educative.io/courses/learn-the-a-to-z-of-amazon-web-services-aws?affiliate_id=5073518643380224) [## 自动警报系统
-
-### 了解计算、存储、网络服务等核心 AWS 服务，以及它们如何与其他服务协同工作…
-
-www.educative.io](https://www.educative.io/courses/learn-the-a-to-z-of-amazon-web-services-aws?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/courses/learn-the-a-to-z-of-amazon-web-services-aws?affiliate_id=5073518643380224> **** 
 
 ## ****12.[AWS 的好部分:穿过杂乱的东西](https://www.educative.io/courses/good-parts-of-aws?affiliate_id=5073518643380224)****
 
@@ -253,15 +233,11 @@ www.educative.io](https://www.educative.io/courses/learn-the-a-to-z-of-amazon-we
 
 ****[![](img/b5a0b0db9c8f00cb112e8df946853fca.png)](https://www.educative.io/courses/good-parts-of-aws?affiliate_id=5073518643380224)****
 
-****你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**教育订阅，每月花费**【17 美元】**(现在打五折)，对于需要不断学习的程序员和软件工程师来说完全值得。感谢教育团队提供了这个精彩的课程。******
+****你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买<https://www.educative.io/subscription?affiliate_id=5073518643380224>**教育订阅，每月花费**【17 美元】**(现在打五折)，对于需要不断学习的程序员和软件工程师来说完全值得。感谢教育团队提供了这个精彩的课程。******
 
 ****本课程在 Gumroad 上也有电子书，如果你喜欢看书，你也可以看看 AWS 电子书中的好部分。如果你用这个链接买书，有 20%的折扣。****
 
-****[](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul) [## AWS 的优点
-
-### 这不是你的典型参考书。它并没有涵盖所有的 AWS 或其所有的怪癖。相反，我们想帮助你…
-
-gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)**** 
+****<https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul> **** 
 
 ## ****13.[ZTM 学院 Amber Israelsen 颁发的 AWS 认证云实践者证书](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zytgk2dn)****
 
@@ -281,11 +257,7 @@ gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)****
 
 *****顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样的超级有趣和有用的课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。*****
 
-*****[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 750，000 多名学生的行列，学习受欢迎的技能，并在…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+*****<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上是关于学习亚马逊网络服务或 AWS 的一些**最好的免费课程。这些在 Udemy 上是绝对免费的课程，但是你需要记住，有时候，一旦教师达到他们的推广目标，他们就会将免费课程转变为付费课程。**
 
@@ -312,8 +284,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 *******P. S.** —如果您正在准备 AWS 解决方案架构师助理考试(SAA-C02)，我强烈建议您参加由 AWS 英雄夏羽·马雷克在 Udemy 上开设的 **A** [**WS 认证解决方案架构师助理 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-saa-c02%2F) 课程。它不是免费的，但它完全值得你花钱，另外，Coursera 上的 [AWS Fundamentals](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) 也是很好的开始*****
 
-*****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) [## AWS 基础知识
-
-### 这一专业为当前或有抱负的 IT 专业人员提供了特性、优势和能力的概述…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals)*****
+*****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals> *****

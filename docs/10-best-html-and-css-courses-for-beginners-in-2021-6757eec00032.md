@@ -26,11 +26,7 @@ CSS3、HTML5 两者的结合是网页所具备的通用基础。它是所有浏�
 
 顺便说一句，如果你正在寻找一门全面的课程来学习 web 开发人员需要知道的一切，如 HTML、CSS、JavaScript、React、Nodejs、响应式设计等，那么由 Angela Yu 博士在 Udemy 上完成的 2020 Web 开发训练营 是最好的课程，它涵盖了你需要的一切。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) [## 完整的 2020 年网络开发训练营
-
-### 欢迎来到完整的 Web 开发训练营，这是您学习编码并成为全栈 web…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F>  
 
 # 2023 年加入的 10 个最佳 HTML5 和 CSS3 在线课程
 
@@ -99,19 +95,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 除了这个课程，Coursera 上还有一个关于 HTML5 的 [**介绍课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fhtml) ，这对任何想从头开始深入学习 HTML 5 的人来说都是很棒的。这门课程也是 Coursera 最受欢迎的 [**网页设计的一部分，适合每个人的专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design) [## 面向所有人的网页设计:网页开发和编码基础
-
-### 学习设计和创建网站。使用 HTML5、CSS3 和 JavaScript 构建一个响应迅速且可访问的 web 组合…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fweb-design>  
 
 如果你觉得 Coursera 专业化和认证有用，那么我也建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5. [HTML 5 基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fhtml5-fundamentals)【plural sight】
 
@@ -135,11 +123,7 @@ HTML5 是一个大而广的话题，多年来已经发展了很多，但这个�
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[前端 Web 开发专业证书](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fw3cx-front-end-web-developer) (edX)
 
@@ -207,11 +191,7 @@ Jonas 是一个很棒的讲师，他的讲解清晰简洁，例子，用例都�
 
 顺便说一句，Educative 是准备编码面试的好地方，比如前端面试或后端面试。例如，你也可以参加 [*CSS 前端面试*](https://www.educative.io/courses/css-for-front-end-interviews?affiliate_id=5073518643380224) 以便更好地准备，如果你想参加多个课程，最好是获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元(50%折扣)，并提供 150+课程的访问权限。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上就是 2023 年**学习 HTML5 和 CSS3 的最佳在线课程**。你已经看到了从零开始学习 HTML 和 CSS 的 6 大课程。你有很好的选择，也有不太好的选择，但我向你保证，其中任何一个都会教会你一些非常重要的知识，你将能够在未来的项目或工作中运用这些知识。
 
@@ -239,8 +219,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **p . s .**——如果你热衷于学习 HTML 5 和 CSS 3，但正在寻找免费的在线培训班或课程来开始你的旅程，那么你也可以从 Udemy 查看这些免费的 HTML 和 CSS 课程。它们是完全免费的，你只需要一个免费的 Udemy 账户就可以加入这些课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F) [## 免费 HTML 教程- Web 开发实践:HTML / CSS 从头开始
-
-### 在作为餐厅经理每天工作 15 个小时后，我决定是时候改变一下了。学完基础…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F> 

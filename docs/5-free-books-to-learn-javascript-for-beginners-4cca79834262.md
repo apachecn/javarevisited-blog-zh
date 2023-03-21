@@ -94,10 +94,6 @@ JavaScript Guide 不是一本书，但不仅仅是一本书。这是 Mozilla 的
 
 **感谢您阅读本文。如果你喜欢这些*免费的 JavaScript 书籍*，那么请分享给你的朋友和同事。
 
-**P.S.** —如果你更喜欢在线课程而不是书本，并且想学习 Java interactive，那么你也可以查看 Udemy 上的免费课程[](http://bit.ly/2zNH9Tj)**。事实上，您可以将这些免费书籍与这些免费的 JavaScript 课程结合起来，以获得两全其美的效果。****
+**P.S.** —如果你更喜欢在线课程而不是书本，并且想学习 Java interactive，那么你也可以查看 Udemy 上的免费课程<http://bit.ly/2zNH9Tj>**。事实上，您可以将这些免费书籍与这些免费的 JavaScript 课程结合起来，以获得两全其美的效果。****
 
-****[](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html) [## 面向初学者学习 JavaScript 的五大免费在线课程
-
-### 大家好，如果你想自学 JavaScript 并寻找一些免费资源，如书籍、网站…
-
-www.java67.com](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html)****
+****<https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html> ****

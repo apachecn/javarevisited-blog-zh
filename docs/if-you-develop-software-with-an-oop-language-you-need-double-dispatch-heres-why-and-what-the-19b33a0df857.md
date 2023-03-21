@@ -85,11 +85,7 @@
 
 你可以在我的 GitHub 项目资源库[double-dispatch-Java-example](https://github.com/PiercarloSlavazza/double-dispatch-java-example)中找到完整的代码(所有情况的实现，包括单元测试)。
 
-[](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [## 2020 年你可以学到的 10 个 OOP 设计原则
-
-### 想要写出更好、更可靠的代码，能够经受住生产中时间的考验吗？这些设计原则会有所帮助。
-
-medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) 
+</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>  
 
 ## 你可能喜欢的其他文章
 
@@ -101,8 +97,4 @@ medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370c
 [20 个库和 APIS Java 程序员应该知道的](https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html)
 [2020 年要学习的 10 大编程语言](http://www.java67.com/2017/12/10-programming-languages-to-learn-in.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

@@ -72,7 +72,7 @@ implementation group: ‘com.github.ulisesbocchio’, name: ‘jasypt-spring-boo
 </dependency>
 ```
 
-> [](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e)**:**
+> </javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e>**:**
 
 ```
 *implementation group: ‘com.github.ulisesbocchio’, name: ‘jasypt-spring-boot’, version: ‘3.0.4’*
@@ -177,16 +177,4 @@ public class MyApplication {
 
 ***你可能喜欢的其他 Java 和 Spring Boot 文章***
 
-***[](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e) [## 我最喜欢的 2021 年学习 Spring Boot 的课程——最好的
-
-### 大家好，如果你有兴趣学习 Spring Boot 并寻找一些很棒的资源，如书籍，教程…
-
-medium.com](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e) [](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) [## 2021 年学习 Spring 框架的 10 个最佳在线课程
-
-### 学习 Spring 框架、Spring Boot、Spring 安全和 RESTful Web 服务的最佳在线课程
-
-medium.com](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) [](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [## 2021 年 Spring Boot 和 Spring Cloud 的 10 个最佳 Java 微服务课程
-
-### 我最喜欢的 2021 年用 Spring Boot 和 Spring Cloud 为初学者学习 Java 微服务的在线课程来自…
-
-medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed)***
+***</javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e>  </javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd>  </javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed> ***

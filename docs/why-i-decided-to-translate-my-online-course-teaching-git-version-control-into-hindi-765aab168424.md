@@ -34,7 +34,7 @@
 
 祝您在 Git 学习之旅中好运！💪🏼 👍🏻 🙌🏼
 
-*   查看我的 YouTube 频道[](https://www.youtube.com/channel/UCa6kP6qEgN6VL1lraEiybmw)**，我在上面有课程的前 8 课！📹**
+*   查看我的 YouTube 频道<https://www.youtube.com/channel/UCa6kP6qEgN6VL1lraEiybmw>**，我在上面有课程的前 8 课！📹**
 *   **在 Udemy 上查看 [**课程🎓**](https://www.udemy.com/course/git-course-guide-to-learn-git-version-control-in-hindi/?referralCode=9A2C7A66464F79876911)**
 *   **在 [**LinkedIn**](https://www.linkedin.com/in/annaskoulikari/) 上与我联系💼**
 *   **或者直接给我发邮件:【annaskoulikari@gmail.com】T4**

@@ -89,19 +89,7 @@ java -XX:+UseParallelGC -XX:+UseParallelOldGC com.mypackages.MyExecutableClass
 
 ## 参考资料:
 
-[](https://blogs.oracle.com/javamagazine/post/java-garbage-collectors-evolution) [## Java 垃圾收集:从 JDK 8 到 JDK 18 的 10 个版本的演进
-
-### 下载本文的 PDF 文件 JDK 18 的全面上市标志着自仍受欢迎的 JDK 8 以来的第 10 次发布…
-
-blogs.oracle.com](https://blogs.oracle.com/javamagazine/post/java-garbage-collectors-evolution) [](https://plumbr.io/handbook/garbage-collection-algorithms-implementations) [## GC 算法:实现| Plumbr -用户体验和应用程序性能监控
-
-### 现在我们已经回顾了 GC 算法背后的核心概念，让我们转到具体的实现上来…
-
-管道工](https://plumbr.io/handbook/garbage-collection-algorithms-implementations) [](https://stackoverflow.com/questions/9299339/garbage-collection-changing-collector-algorithm) [## 垃圾收集-改变收集器算法
-
-### 我们在 Tomcat (Java 1.5)上运行 Spring+Hibernate web 应用程序。目前我们使用 2GB 的堆空间(我被告知这是…
-
-stackoverflow.com](https://stackoverflow.com/questions/9299339/garbage-collection-changing-collector-algorithm) 
+<https://blogs.oracle.com/javamagazine/post/java-garbage-collectors-evolution>  <https://plumbr.io/handbook/garbage-collection-algorithms-implementations>  <https://stackoverflow.com/questions/9299339/garbage-collection-changing-collector-algorithm>  
 
 ## 结论:
 

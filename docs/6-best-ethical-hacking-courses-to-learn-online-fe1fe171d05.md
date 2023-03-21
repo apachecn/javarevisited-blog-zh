@@ -70,11 +70,7 @@ image_credit —教育性
 
 顺便说一句，如果你觉得 Coursera 认证和课程有用，那么我建议你加入 Coursera Plus ，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[渗透测试和道德黑客](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fkali-linux-penetration-testing-ethical-hacking)【plural sight】
 
@@ -94,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[网络安全基础](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fnyux-cybersecurity-fundamentals) [ [edX](https://javarevisited.blogspot.com/2021/05/top-10-edx-courses-and-certificates-for.html) ]
 
@@ -139,11 +131,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级吸引人和有用的课程，比如这个 Python 课程和这个 JavaScript Web 项目:20 个项目来建立你的作品集课程。您还可以使用我的代码**好友 10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 以上就是 2023 年关于道德黑客的**最佳在线课程。**许多组织开始投资聘请道德黑客来保护他们的系统并防止未经授权的访问，这意味着对这些人的需求非常高，现在你需要选择一门提到的课程，并开始实现这个梦想。
 
@@ -170,8 +158,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 **P. S.** —如果你渴望学习道德黑客并成为一名安全工程师，但负担不起这些课程或寻找免费的道德黑客和 Pen 测试课程，那么你也可以查看这个 [**Start Kali Linux，道德黑客和渗透测试！【免费】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fethical-hacker%2F)Udemy 上的课程。它是完全免费的，超过 27 万名学生已经加入了这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fethical-hacker%2F) [## 免费 Kali Linux 教程-开始 Kali Linux，道德黑客和渗透测试！
-
-### 干劲十足的年轻 IT 专家，Linux 爱好者，热衷于解决网络相关问题。与……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fethical-hacker%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fethical-hacker%2F> 

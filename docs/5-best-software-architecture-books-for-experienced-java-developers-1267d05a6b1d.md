@@ -20,11 +20,7 @@
 
 顺便说一下，如果你真的想成为一名软件架构师或解决方案架构师，那么我也推荐你去看看 Udemy 上的 [**如何成为一名杰出的解决方案架构师**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 课程。这个课程是一个很好的地方来学习你在 2023 年成为一名软件架构师所需要的所有硬技能和软技能。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) [## 成为解决方案架构师:架构课程
-
-### 您是 IT 项目团队中的开发人员、首席开发人员还是解决方案架构师？你想学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhow-to-become-an-outstanding-solution-architect%2F>  
 
 # 成为软件架构师或解决方案架构师的 5 本最佳软件架构书籍
 
@@ -44,11 +40,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你喜欢主动学习，那么你也可以把这本书和我最喜欢的 Udemy 上的 Java 课程[*软件架构和设计模式基础*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fbasics-of-software-architecture-design-in-java%2F) 结合起来。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fbasics-of-software-architecture-design-in-java%2F) [## Java 中的软件架构(SOLID)和设计模式
-
-### 这门课程是关于软件架构和设计模式的。我们将讨论两个主要话题:坚实的原则和…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fbasics-of-software-architecture-design-in-java%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fbasics-of-software-architecture-design-in-java%2F>  
 
 ## 2.[实践中的软件架构](https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734?tag=javamysqlanta-20)
 
@@ -58,11 +50,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 你可以将这本书作为学习软件架构的教材，如果你愿意，你也可以将这本书与 Coursera 广受欢迎的 [**软件架构在线课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsoftware-architecture) 结合起来，进行更主动的学习。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsoftware-architecture) [## 软件体系结构
-
-### 软件组件-子程序、类、函数等。-是安排好的，并且……
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsoftware-architecture) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fsoftware-architecture>  
 
 而且，如果你觉得 Coursera 专业化和认证有用，特别是像这样的，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个伟大的订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书**。
 
@@ -80,11 +68,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你正在寻找一门关于 web 应用程序和软件架构的完整课程，我推荐你去 Educative.io 上查看 [**Web 应用程序和软件架构 101**](http://If you’re looking for a complete course on web application and software architecture, I recommend checking out Web Application and Software Architecture 101\. This is a useful course for anyone looking to strengthen their overall knowledge of software architecture.) ，这是一个基于文本的交互式学习平台**。对于任何希望加强软件架构整体知识的人来说，这是一门有用的课程。**
 
-[](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) [## 网络应用和软件架构 101 -互动学习
-
-### 本课程是网络应用和软件架构的基础课程。它带你一步一步地通过不同的…
-
-www.educative.io](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224>  
 
 ## 4.[构建微服务:设计细粒度系统](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/?tag=javamysqlanta-20)
 
@@ -98,11 +82,7 @@ www.educative.io](https://www.educative.io/courses/web-application-software-arch
 
 而如果你想从课程中学习，也可以在 Udemy 上查看 Ranga Karnam 的[**大师微服务与 Spring Boot 和春云**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 课程。这是学习如何使用 Spring Boot 和其他技术堆栈在 Java 中构建微服务的最佳和最新课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想知道炒作是关于什么的吗…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicroservices-with-spring-boot-and-spring-cloud%2F>  
 
 ## 5.[领域驱动设计:解决软件核心的复杂性](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/?tag=javamysqlanta-20)
 
@@ -138,8 +118,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **【p . s .】**—如果你正在寻找一个 Coursera 认证来学习软件架构，那么我也推荐你加入亚伯达大学肯尼王提供的 [**软件设计和架构专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture) 。这个项目不仅会教你如何设计你的软件，还会教你创建健壮软件所需的有用的设计原则和编码最佳实践。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture) [## 软件设计和架构
-
-### 乌尔贝塔被认为是世界领先的公共研究和教学密集型大学。作为…之一
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-design-architecture> 

@@ -32,11 +32,7 @@ Firebase 对于移动开发者以及使用 Swift、T2、iOS 和安卓来创建�
 
 顺便说一下，如果你也在学习 Vue.js，并想使用 Firebase 作为后端，那么你应该看看 Shaun Pelling 的 [**用 Vue JS 2 & Firebase**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-web-apps-with-vuejs-firebase%2F) 构建 Web 应用程序课程，他在 Udemy 和 Youtube 上被称为网络忍者。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-web-apps-with-vuejs-firebase%2F) [## 构建令人惊叹的 Web 应用程序:使用 Vue JS 和 Firebase 开发应用程序
-
-### 嘿，伙计们，我的名字叫肖恩，从很小的时候起，我就对几乎所有与科技相关的东西着迷。我一直…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-web-apps-with-vuejs-firebase%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbuild-web-apps-with-vuejs-firebase%2F>  
 
 # 什么是 Firebase？
 
@@ -144,8 +140,4 @@ Firebase 最好的一点是，**只有一个 API** ，Firebase 数据库为您�
 
 **P. S.** —如果你有兴趣学习 Firebase 及其不同的服务，如 FireStore 和云功能，但正在寻找免费的在线培训课程来启动你的旅程，那么你可以在 Udemy 上查看这个 [**React + Firebase 初学者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnew-react-firebase-real-time-serverless-apps%2F) 。这是完全免费的，你只需要一个 Udemy 帐户就可以注册这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnew-react-firebase-real-time-serverless-apps%2F) [## 免费 React 挂钩教程-[新] React + Firebase:针对初学者
-
-### 在过去的 10 年中，Daniel 一直担任多家公司的高级开发人员，并扩展了多个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnew-react-firebase-real-time-serverless-apps%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnew-react-firebase-real-time-serverless-apps%2F> 

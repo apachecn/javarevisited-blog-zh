@@ -116,8 +116,4 @@ docker 图像列表
 
 快乐学习…
 
-[](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5) [## 你应该为 2022 年的下一次 Spring Boot 面试准备的 13 个话题
-
-### 你应该为下一次 Java 和 Spring Boot 面试准备的 13 个基本主题的列表和学习资源…
-
-medium.com](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5)
+</javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5> 

@@ -67,7 +67,7 @@ image_credit- Codecademy
 
 Pluralsight 是我学习新技能的另一个地方。它收集了最好的在线课程，这些课程来自著名的讲师，如 Java 冠军 Jose Paumard 和 Richard Warburton，以及我非常钦佩的 SQL 专家 Pinal Dave。
 
-Pluralsight 对他们的角色、年度和高级会员资格提供高达 50%的折扣[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**，这意味着你只需每年 179 美元就可以在**购买他们的年度会员资格，而不是通常的每年 299 美元，他们的高级会员资格包括测验、练习和互动课程，现在只需 269 美元，而不是一年 449 美元。****
+Pluralsight 对他们的角色、年度和高级会员资格提供高达 50%的折扣<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**，这意味着你只需每年 179 美元就可以在**购买他们的年度会员资格，而不是通常的每年 299 美元，他们的高级会员资格包括测验、练习和互动课程，现在只需 269 美元，而不是一年 449 美元。****
 
 ****折扣——高达 50%的折扣****
 
@@ -79,21 +79,13 @@ Pluralsight 对他们的角色、年度和高级会员资格提供高达 50%的�
 
 **[![](img/8de7ffe487b4dd2e2e5c17041a92bced.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**
 
-**如果你喜欢会员制网站，那么我强烈推荐获得他们的高级会员资格，现在只需每年 269 美元。如果你有疑问，你仍然可以试试他们的[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)**10 天免费通行证来检查课程质量，我 100%肯定你会很高兴的。****
+**如果你喜欢会员制网站，那么我强烈推荐获得他们的高级会员资格，现在只需每年 269 美元。如果你有疑问，你仍然可以试试他们的<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>**10 天免费通行证来检查课程质量，我 100%肯定你会很高兴的。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 他们还在经营一个 [**免费周末**](https://pluralsight.pxf.io/c/1193463/1192599/7490) ，他们所有的 7500+课程都是免费的，包括 20 个项目。我认为你应该利用这一点来感受一下多视质量。
 
-[](https://pluralsight.pxf.io/c/1193463/1192599/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习吧！我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/1192599/7490) 
+<https://pluralsight.pxf.io/c/1193463/1192599/7490>  
 
 ## 4.[教育性黑色星期五交易(大折扣)](https://www.educative.io/subscription?affiliate_id=5073518643380224)
 
@@ -273,8 +265,4 @@ CodeCademy 是交互式学习的先驱之一，我从他们的免费课程中学
 
 *如果你正在寻找在黑色星期五促销中可以买到的最好的 Udemy 课程，那么你也可以看看我列出的在黑色星期五促销中可以买到的 [**10 个最好的 Udemy 课程**](https://javarevisited.blogspot.com/2020/11/top-10-udemy-courses-you-can-buy-in.html#axzz6enw6Ycw1) 。包含了最好的 Udemy 课程，学习 Docker、微服务、Spring Boot、MERN 栈、SQL、Python、网页设计，以及其他软件开发所需的必备技能。*
 
-*[](/javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035) [## 2023 年面向程序员和开发者的 10+最佳 Udemy 课程
-
-### 大家好，毫无疑问，Udemy 是最受欢迎的电子学习平台之一，它的帮助越来越大…
-
-medium.com](/javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035)*****
+*</javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035> *****

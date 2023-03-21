@@ -16,7 +16,7 @@ image_credit — Udemy
 
 作为一个编程博客的作者，我已经问过这个问题很多次了，最后我想把我的想法写成一篇文章。
 
-我分享最好的编程语言也有一段时间了，在过去，我分享了用于 web 开发的最好的编程语言[](/javarevisited/top-5-programming-languages-for-web-development-in-2021-f6fd4f564eb6)**和 [**移动应用程序开发**](/javarevisited/top-5-programming-languages-for-mobile-app-development-in-2021-19a1778195b8) ，如果你还没有查看它们，那么如果你希望在 2023 年成为 web 开发人员或移动应用程序开发人员，你也可以查看它们。**
+我分享最好的编程语言也有一段时间了，在过去，我分享了用于 web 开发的最好的编程语言</javarevisited/top-5-programming-languages-for-web-development-in-2021-f6fd4f564eb6>**和 [**移动应用程序开发**](/javarevisited/top-5-programming-languages-for-mobile-app-development-in-2021-19a1778195b8) ，如果你还没有查看它们，那么如果你希望在 2023 年成为 web 开发人员或移动应用程序开发人员，你也可以查看它们。**
 
 **为了选择数据科学的最佳编程语言，您需要首先了解数据科学家在日常工作中做些什么？因为这才是最重要。如果你选择了错误的语言，那么你的工作效率和表现将会受到影响，这会阻碍你的职业发展。**
 
@@ -74,11 +74,7 @@ image_credit — Udemy
 
 **顺便说一下，如果你觉得 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 3000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制地访问 90%以上的课程、指导项目…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **4.Java 语言(一种计算机语言，尤用于创建网站)**
 
@@ -137,8 +133,4 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 **附言——**如果你现在只想做一件事，那么我建议你开始学习 Python，这将极大地帮助你的数据科学之旅，你可以通过参加[**Python A-Z:Python For Data Science With Real exercise 来实现这一点！课程由基里尔·叶列缅科在 Udemy，你不会后悔你的决定。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-coding%2F)**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-coding%2F) [## Python A-Z:具有真实练习的数据科学 Python！
-
-### 我的名字是基里尔·叶列缅科，我非常高兴你能读到这封信！专业上，我是数据科学的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-coding%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-coding%2F> **

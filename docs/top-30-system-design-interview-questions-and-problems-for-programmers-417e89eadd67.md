@@ -19,15 +19,11 @@
 *   [**掌握系统设计 Ex 亚马逊 HM 访谈**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F)
 *   [**硕士编码面试:系统设计+架构课程**](https://academy.zerotomastery.io/a/aff_z8vtj3dk/external?affcode=441520_zytgk2dn)
 *   [**CodeKarle 在 Udemy 上的系统设计面试课程**](https://bit.ly/3D2qsRS)
-*   [](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)**探寻教育制度设计访谈**
+*   <https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>**探寻教育制度设计访谈**
 *   **[**系统设计面试课程按指数**](https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2)**
 *   **[**《系统设计访谈——一个知情人的指南》作者 Alex Xu**](https://bytebytego.com?fpr=javarevisited)**
 
-**[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited) 
+**<https://bytebytego.com?fpr=javarevisited>  
 
 # **30 大系统设计面试问题及答案**
 
@@ -83,11 +79,7 @@ bytebytego.com](https://bytebytego.com?fpr=javarevisited)
 
 ****如果你喜欢他们的教学风格，我也推荐你去看看他们的 [**系统设计面试捆绑**](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses) 在那里他们分享了他们最好的系统设计课程，可以打折。****
 
-****[](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses) [## 最佳系统设计
-
-### 购买这两个系统设计课程可以节省 10%的费用，并且可以终身使用。
-
-designgurus.org](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses)**** 
+****<https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fbundles%3Fbundle_id%3Dbuy-both-system-design-courses> **** 
 
 ****6。如何设计自动完成功能？
 **回答**:以下是开发自动完成功能的重要事项:****
@@ -122,11 +114,7 @@ designgurus.org](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngur
 
 ****而且，如果你有 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 那么你就可以看到完整的解决方案，即使你没有这个问题的解决方案也是完全免费的。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我想表达我的无限感激，让您的多功能教育平台可用和访问。我…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****10.设计一个停车场管理系统？([解](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z?affiliate_id=5073518643380224)****
 
@@ -138,7 +126,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 4.  ****顾客可以在自动出口面板或停车服务员处支付罚单。****
 5.  ****顾客可以通过现金和信用卡支付。****
 
-****你可以在这里看到[](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z?affiliate_id=5073518643380224)**了解完整的系统需求和逐步解决方案。******
+****你可以在这里看到<https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z?affiliate_id=5073518643380224>**了解完整的系统需求和逐步解决方案。******
 
 ******[![](img/f8a3d27b9d0811f6ae8999d7cc732a9c.png)](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z?affiliate_id=5073518643380224)******
 
@@ -183,11 +171,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ********顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。您还可以使用优惠券代码 FRIENDS10 获得本课程或您选择的任何订阅的 10%折扣。********
 
-******[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)****** 
+******<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn> ****** 
 
 ******15。什么是分片？
 **答案**:分片是将大型逻辑数据集拆分成多个数据库的过程。它还指数据的水平分区，因为数据将存储在多台机器上。******
@@ -303,11 +287,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 ******他们还会进行 [**模拟面试**](https://www.tryexponent.com/courses/amazon-interview?ref=javinpaul2) ，这对面试真的很有帮助。我强烈推荐他们去结账。******
 
-******[](https://www.tryexponent.com/courses/amazon-interview?ref=javinpaul2) [## 亚马逊面试课程-指数
-
-### 鉴于亚马逊在科技生态系统中的突出地位，它的面试过程是众所周知的高度竞争。在…
-
-www.tryexponent.com](https://www.tryexponent.com/courses/amazon-interview?ref=javinpaul2)****** 
+******<https://www.tryexponent.com/courses/amazon-interview?ref=javinpaul2> ****** 
 
 ## ******31.如何设计像优步、OLA、Lyft 或 Grab 这样的叫车应用？******
 
@@ -334,8 +314,4 @@ www.tryexponent.com](https://www.tryexponent.com/courses/amazon-interview?ref=ja
 
 ********p . s .**——如果你在努力解决系统设计问题，那么我强烈建议你参加一个全面的系统设计课程，比如 [**在教育性**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 上参加系统设计面试课程，这是准备系统设计面试的好方法。******
 
-******[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 这个由设计大师们开设的课程已经帮助了 6 万多名用户破解了他们的系统设计面试(SDI)。系统设计…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)******
+******<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224> ******

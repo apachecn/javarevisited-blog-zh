@@ -49,11 +49,7 @@ SQL 允许您处理数据，这是当今世界最重要的资产。通过学习 
 
 如果你发现 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你购买 Coursera PlusT3 的[课程，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到无限的证书。](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## [2**。完整的 SQL 训练营**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F)**【Udemy 的最佳 SQL 课程】**
 
@@ -87,13 +83,9 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 [![](img/b581ab64816f897695aae16b3b111423.png)](https://www.educative.io/courses/introductory-guide-to-sql?affiliate_id=5073518643380224)
 
-而且，如果你觉得互动教育平台很有用，你也可以考虑购买[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**教育订阅，每月只需**18 美元就能获得 100 多门课程。非常划算，非常适合准备编码面试。****
+而且，如果你觉得互动教育平台很有用，你也可以考虑购买<https://www.educative.io/subscription?affiliate_id=5073518643380224>**教育订阅，每月只需**18 美元就能获得 100 多门课程。非常划算，非常适合准备编码面试。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 提升技能不一定是一场斗争。通过 Educative Unlimited 获得所有+课程的完全访问权限，并获得工具…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****4.[完成 SQL +数据库训练营:零到精通【2023】](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery?affcode=441520_zytgk2dn)****
 
@@ -115,11 +107,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约**$ 29**并且提供许多超级吸引人和有用的课程，比如这个 [Python 课程](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn)和这个 [JavaScript 项目](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)课程。****
 
-****[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+****<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 如果你像我一样是一个不断学习的人，那么我建议你去申请会员资格，而不是购买单一的课程，你会节省金钱，使学习变得容易，因为你不需要每次都购买课程来学习新的东西。**** 
 
@@ -180,11 +168,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 ****如果你觉得 Coursera 课程有用，你也可以选择一个[***Coursera Plus***](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)*订阅，它提供了对 Coursera 课程、专业化和专业证书的无限制访问。在 Coursera 学习其实是一种性价比很高的方式。*****
 
-*****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)***** 
+*****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ***** 
 
 ## *****[**8。Oracle SQL:从零开始成为认证 SQL 开发人员！**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-sql-12c-become-an-sql-developer-with-subtitle%2F)*****
 
@@ -295,8 +279,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *******P.S** —如果你正在寻找一些免费的课程开始学习数据库和 SQL 基础知识，你应该查看 Udemy 上的 [**数据库和 SQL 查询简介**](http://bit.ly/2BQuq2O) 课程，它是完全免费的，你只需要一个免费的 Udemy 帐户就可以访问这门课程。*****
 
-*****[](http://bit.ly/2BQuq2O) [## 免费数据库管理教程-数据库和 SQL 查询介绍
-
-### 这是一门关于数据库和 SQL 查询的入门课程。本课程没有先决条件。如果你是…
-
-bit.ly](http://bit.ly/2BQuq2O)*****
+*****<http://bit.ly/2BQuq2O> *****

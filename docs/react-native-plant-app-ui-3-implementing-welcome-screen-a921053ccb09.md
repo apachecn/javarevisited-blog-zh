@@ -272,10 +272,6 @@ const styles = StyleSheet.create({
 
 **继续学习**
 
-[](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46) [## 面向移动应用开发者的五大 React-Native 课程
-
-### 如果你是一名网络开发人员，想进入移动应用程序开发的广阔世界，但又不想花费…
-
-hackernoon.com](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46) 
+<https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46>  
 
 *最初发表于* [*克里斯*](https://kriss.io/react-native-plant-app-ui-3-implementing-welcome-screen/) *。*

@@ -26,11 +26,7 @@ Java 世界里有三大 ide， [Eclipse](https://javarevisited.blogspot.com/2020
 
 顺便说一句，和这些书一起，我还推荐你去看看 Udemy 的 [**初学 Eclipse Java IDE 培训课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) 以更互动的方式学习。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) [## 初学者 Eclipse Java IDE 培训课程
-
-### Infinite Skills 是一家总部位于加拿大的公司，提供大量且不断增长的高质量电子学习解决方案…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F>  
 
 # Java JEE 开发人员学习 Eclipse IDE 的 3 本最佳书籍
 
@@ -52,11 +48,7 @@ IDE 是读写代码的必备工具，这些书将教你如何掌握 Eclipse IDE�
 
 而且，如果你想要更主动的学习体验，那么你也可以将这本书与 Pluralsight 的[**Eclipse Guided Tour-Part 1 和 2**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1) 课程结合起来，进行更主动的学习。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1) [## Eclipse 指南
-
-### 学习一个健壮的、可扩展的 Java 集成开发环境是一项基本技能。日蚀是一种…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1>  
 
 虽然你需要一个 Pluralsight 会员才能加入这个每月花费约 29 美元的课程，但你也可以使用他们的 [**10 天免费 tria**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) l 免费加入这个课程。
 
@@ -84,11 +76,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你需要一门课程，我建议你把这本书和 Udemy 的 [Eclipse 调试技术和技巧](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Feclipse-debugging-techniques-and-tricks%2F)课程结合起来。这是一门在短时间内学习重要知识的好课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Feclipse-debugging-techniques-and-tricks%2F) [## Eclipse 调试技术和技巧
-
-### Eclipse 是用于 Java 的最流行的 ide 之一(不仅用于 Java，也用于 C++、PHP 等)。)…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Feclipse-debugging-techniques-and-tricks%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Feclipse-debugging-techniques-and-tricks%2F>  
 
 以上是 Java 开发人员可以阅读的所有关于 Eclipse IDE 的最佳书籍，以便在 Eclipse IDE 内外学习，并最大限度地利用它进行 Java 和 JEE 开发。这些书不仅会教你如何在 Eclipse 中运行和调试 Java 程序，还会教你如何编写 JSP，如何使用 JSP 和 Servlet 来辅助内容，如何安装 Tomcat 服务器来运行 Eclipse 中的 Java web 应用程序等等。简而言之，开始使用 Eclipse IDE 时的好伴侣书籍之一。
 
@@ -112,8 +100,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **P. S.** —如果你喜欢 IntelliJIDEA 胜过 Eclipse，并且正在寻找一些免费资源来学习 IntelliJIDEA 以便更好地进行 Java 编程，那么我也建议你在 Udemy 上查看这个免费的 IntelliJIDEA 课程 。这是一门提高你在 IntelliJIDEA 上的生产力的伟大课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-ide%2F) [## 免费 IntelliJ 教程-使用 IntelliJ IDEA 启动和运行
-
-### 嗨，我叫尼尔森，是一名软件工程师。以一级荣誉毕业于计算机科学和…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-ide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-ide%2F> 

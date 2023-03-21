@@ -81,11 +81,7 @@ close connection success
 
 恭喜你！您已成功连接到 Oracle 18c XE 数据库。
 
-[](https://javarevisited.blogspot.com/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) [## 面向 Web 开发人员的前 5 名 Node.js 和 Express JS 在线课程
-
-### 毫无疑问，JavaScript 是世界上第一编程语言，Node.js 是最大的原因之一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) 
+<https://javarevisited.blogspot.com/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html>  
 
 # 3.创建您的 Rest API 应用程序。
 
@@ -124,11 +120,7 @@ node index.js
 
 现在从浏览器点击 REST API 端点[http://localhost:3000/employees](http://localhost:3000/employees)，您将看到所有 106 名雇员。
 
-[](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) [## 前 5 名 RESTful Web 服务，为有经验的开发人员提供 Spring 和 Java 课程
-
-### 在上一篇文章中，我已经分享了一些用 Spring 框架学习微服务开发的课程，今天，我将…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) 
+<https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY>  
 
 ## 3.2 获取带有 id 参数的员工。
 
@@ -185,12 +177,4 @@ node index.js
 
 # 您可能还喜欢:
 
-[](/javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26) [## Node.js 中的正则表达式备忘单
-
-### 轻松学习、编写和执行正则表达式的详细故事。
-
-medium.com](/javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26) [](/@pkoulianos/how-to-schedule-cron-jobs-and-set-health-checks-in-node-js-93cf88d2c247) [## 如何在 Node.js 中调度 Cron 作业和设置健康检查
-
-### 使用 node.js 中的 Cron 作业自动化您的任务
-
-medium.com](/@pkoulianos/how-to-schedule-cron-jobs-and-set-health-checks-in-node-js-93cf88d2c247)
+</javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26>  </@pkoulianos/how-to-schedule-cron-jobs-and-set-health-checks-in-node-js-93cf88d2c247> 

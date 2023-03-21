@@ -167,8 +167,4 @@ Azure fundamentals 认证更适合个人了解云服务的一些基础，该证�
 
 **P. S.** —如果你是云计算的完全初学者，并且正在寻找一些免费课程来学习云计算，那么你也可以在 Udemy 上查看这个 [**云计算简介**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing%2F) **(免费课程)**。超过 210，000 人加入了这个课程，它是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html) [## 2023 年在线免费学习 AWS 云计算的 7 大网站-最佳选择
-
-### 大家好，如果你想学习 AWS 并寻找最好的 AWS 学习材料网站平台，那么你…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
+<https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html> 

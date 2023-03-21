@@ -22,11 +22,7 @@ Apache spark 通过为机器学习和 SQL 加载提供快速数据访问解决�
 
 顺便说一句，如果你不介意花几块钱学习大数据、Spark 和 Hadoop 等有价值的技能，那么我也强烈建议你看看[**Apache Spark with Scala——亲身体验大数据！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) 课程由弗兰克·凯恩在 Udemy 上完成。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) [## 使用 Scala 学习 Apache Spark 3:大数据实践！
-
-### “大数据”分析是一个热门和非常有价值的技能-本课程将教你最热门的技术在大…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F>  
 
 这可能是 Spark 上最好的课程，有 20 多个使用 Apache Spark 在您的桌面或 Hadoop 上分析大型数据集的实践示例！它也不是很贵，你可以在不时发生的疯狂的 Udemy 大甩卖上花 9.9 美元买到它。
 
@@ -103,13 +99,9 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [![](img/6009fb3081cb241918282fd8ce6879bc.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fapache-spark-fundamentals)
 
-顺便说一句，这个课程不是完全免费的。你需要一个 Pluralsight 会员才能进入这个课程，这个课程每月花费大约 29 美元，但是你可以进入超过 5000 个不同技术的[](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2)**课程。如果您没有 Pluralsight 会员资格，那么您也可以通过注册 10 天的免费试用来免费学习本课程。**
+顺便说一句，这个课程不是完全免费的。你需要一个 Pluralsight 会员才能进入这个课程，这个课程每月花费大约 29 美元，但是你可以进入超过 5000 个不同技术的</javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2>**课程。如果您没有 Pluralsight 会员资格，那么您也可以通过注册 10 天的免费试用来免费学习本课程。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是 2023 年学习 Java、Scala 和 Python 中 Apache Spark 的一些**最佳免费课程。在分析大数据时做出正确的决策非常重要，我的意思是，为工作选择正确的工具。现代数据如此庞大，甚至 Hadoop 的批处理模型都无法应对。这时候你需要 Apache Spark 的光速来分析现代大数据集。
 
@@ -128,8 +120,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 > ****P. S. —** 如果你不介意花几块钱学习像大数据、Spark 和 Hadoop 这样有价值的技能，那么我也强烈推荐你去看看[**Apache Spark with Scala——亲身体验大数据！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) 课程由弗兰克·凯恩在 Udemy 上。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F) [## 使用 Scala 学习 Apache Spark 3:大数据实践！
-
-### “大数据”分析是一个热门和非常有价值的技能-本课程将教你最热门的技术在大…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-spark-with-scala-hands-on-with-big-data%2F> **

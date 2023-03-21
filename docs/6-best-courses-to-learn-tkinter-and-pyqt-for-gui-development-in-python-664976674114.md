@@ -46,11 +46,7 @@ image_source — Udemy
 
 顺便说一句，如果你是 Python 编程的新手，我建议你先从基本的 Python 课程开始，比如何塞·波尔蒂利亚在 Udemy 上的 [**完整的 Python 大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) 课程，这是学习 Python 的最好课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F>  
 
 ## 2.[使用 Python 和 Tkinter-Udemy 进行 GUI 开发](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesktop-gui-python-tkinter%2F)
 
@@ -86,11 +82,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元。有时候他们也会打 33%的折扣，我上次是 199 美元买的。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[使用 PyQt5 进行 Python GUI 编程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-gui-programming-using-pyqt5%2F)【UDEMY 课程】
 
@@ -171,8 +163,4 @@ image_source — Udemy
 
 **P. S.** —如果你热衷于学习使用 Tkinter 和 PyQT 框架的 Python GUI 编程，但正在寻找一个免费的在线培训课程，那么你也可以看看这个[**Python Tkinter for making GUI apps**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-tkinter-for-making-graphical-user-interface%2F)—Udemy 上的一个免费课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-tkinter-for-making-graphical-user-interface%2F) [## 免费的 Python GUI 教程- Python Tkinter 制作图形用户界面
-
-### 我在九年级的时候开始学习 python，并涉足了它的所有子领域，比如 Django(用于 web 开发)，kivy(用于…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-tkinter-for-making-graphical-user-interface%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-tkinter-for-making-graphical-user-interface%2F> 

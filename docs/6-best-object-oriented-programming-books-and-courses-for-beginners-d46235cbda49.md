@@ -16,17 +16,13 @@ OOP 或面向对象编程是最流行的编程范例之一，它可以帮助您�
 
 你可以把任何东西看成一个对象，然后找到它的状态和行为；这将帮助您在代码中模拟该对象。
 
-可惜程序员不学 OOP，或过程化，或函数式编程；他们学习的是一种[](/hackernoon/10-best-programming-languages-to-learn-in-2019-e5b05af4a972)*编程语言，作为副作用，他们学习这些范例。由于很多开发者学习 [Java](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 、 [C++](http://www.java67.com/2018/02/5-free-cpp-courses-to-learn-programming.html) ，或者 [Python](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) ，他们学习的是 OOP，但不是真正意义上的；因此，一个大学毕业生努力在实践中应用常见的 OOP 概念。
+可惜程序员不学 OOP，或过程化，或函数式编程；他们学习的是一种</hackernoon/10-best-programming-languages-to-learn-in-2019-e5b05af4a972>*编程语言，作为副作用，他们学习这些范例。由于很多开发者学习 [Java](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 、 [C++](http://www.java67.com/2018/02/5-free-cpp-courses-to-learn-programming.html) ，或者 [Python](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) ，他们学习的是 OOP，但不是真正意义上的；因此，一个大学毕业生努力在实践中应用常见的 OOP 概念。
 
 这就是为什么一个职业程序员需要读几本关于面向对象分析和设计的书，直到你知道学习 OOP 基础知识没有用，比如[抽象](http://javarevisited.blogspot.sg/2010/10/abstraction-in-java.html#axzz59Lhz7uVu)、[封装](https://javarevisited.blogspot.com/2012/03/what-is-encapsulation-in-java-and-oops.html)、[继承](http://www.java67.com/2016/03/top-21-java-inheritance-interview-Questions-Answer-Programming.html)或者[多态](http://javarevisited.blogspot.sg/2011/08/what-is-polymorphism-in-java-example.html)。重要的是在实践中应用这些原则的过程。
 
 你还需要学会取舍，像*为什么复合比继承好*和*什么时候用抽象类 over 接口？你应该了解内聚性和耦合性，并且在编写软件时学习减少耦合性和内聚性的技巧，因为这些是编写一个经得起时间考验的可维护的应用程序的关键点。这些书为理解那些概念提供了足够的指导。如果你愿意，你也可以把这些书和一门在线课程结合起来，比如[**Java 面向对象编程绝对入门**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fabsolute-introduction-to-object-oriented-programming-in-java%2F) 这样可以两全其美。我在 Udemy 上花了 10 美元买了一门很棒的课程来温习我的 OOP 技能。**
 
-*[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fabsolute-introduction-to-object-oriented-programming-in-java%2F) [## Java 面向对象编程绝对入门
-
-### Imtiaz 是一名屡获殊荣的 Udemy 讲师，在大数据技术和企业软件方面经验丰富…
-
-udemy.com。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fabsolute-introduction-to-object-oriented-programming-in-java%2F) 
+*<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fabsolute-introduction-to-object-oriented-programming-in-java%2F>  
 
 # 用 Java 和 Python 学习面向对象编程、分析和设计的 6 本书
 
@@ -128,8 +124,4 @@ udemy.com。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&
 *****感谢阅读这篇文章；如果你真的喜欢我的书籍推荐，请分享给你的朋友和同事。如果您有任何建议或反馈，请留言。
 **p . s .——**这无疑是一个很难掌握的题目。有时，即使在读完这些书之后，你也需要有人能够真正向你展示如何应用面向对象分析来解决现实世界的问题。如果你有同样的感觉，你应该使用 Udemy 上的 UML 课程检查一下 [**高级面向对象的困难问题分析。这是一门高级课程，但包含了一些实用的技巧和技术。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-object-oriented-analysis-of-hard-problems%2F)*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-object-oriented-analysis-of-hard-problems%2F) [## 使用 UML 对困难问题进行高级面向对象分析
-
-### 我是 Soundtrap 的联合创始人之一，也是该公司的首席执行官，sound trap 是一项让音乐人在云中制作在线音乐的服务…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-object-oriented-analysis-of-hard-problems%2F)*****
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fadvanced-object-oriented-analysis-of-hard-problems%2F> *****

@@ -26,11 +26,7 @@
 
 顺便说一句，如果你是 Java 新手，并且正在寻找一门涵盖 Java 开发人员需要了解的所有内容的课程，那么我建议你查看 Udmey 上的 [**完整的 Java MasterClass**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程。它也是最新的课程之一，涵盖了 var、集合的静态工厂方法和最近 Java 版本的 Java 模块等新特性。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 深入学习 Java 集合和流 API 的 7 门最佳课程
 
@@ -52,11 +48,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 如果可以的话，我也鼓励你加入 Pluralsight，因为你将有机会接触到 7000 多门由专家讲授的最新技术课程，这些课程对于需要保持自我更新的程序员来说是必不可少的。你也可以使用他们的 [**10 天免费试听**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 2.[在 Java 8 中使用 Lambda 表达式从集合到流](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-8-lambda-expressions-collections-streams)
 
@@ -116,11 +108,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们 100 多门课程，每月只需 18 美元。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 7.[用 Lambdas & Streams](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 学习 Java 函数式编程
 
@@ -157,8 +145,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S. —** 如果您是 Java 编程世界的新手，并且正在寻找一些免费课程来开始您的 Java 编程之旅，那么您也可以看看这个列表，它列出了[**我最喜欢的面向初学者的免费 Java 课程**](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) **。它包含了 Udemy、Coursera、Pluralsight 和 Educative 为初学者提供的一些最好的免费 Java 课程。**
 
-[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [## 面向初学者和有经验的程序员的 10 大免费 Java 课程
-
-### 互联网上充满了有用的资源，无论你想学什么，都有一些有用的东西可以提供给…
-
-www.java67.com](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html)
+<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html> 

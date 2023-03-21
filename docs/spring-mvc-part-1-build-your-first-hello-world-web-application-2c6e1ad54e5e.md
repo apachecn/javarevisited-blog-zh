@@ -73,11 +73,7 @@ DispatcherServlet 是 Spring MVC 架构的一个关键组件，这是一个用 J
 
 要设置您的服务器配置，请检查此链接:
 
-[](https://www.jetbrains.com/idea/guide/tutorials/working-with-apache-tomcat/using-existing-application/) [## 在现有应用程序中使用 Apache Tomcat
-
-### 如果您不是从头开始创建一个新项目，而是有一个运行在 Tomcat 上的现有项目，您可以…
-
-www.jetbrains.com](https://www.jetbrains.com/idea/guide/tutorials/working-with-apache-tomcat/using-existing-application/) 
+<https://www.jetbrains.com/idea/guide/tutorials/working-with-apache-tomcat/using-existing-application/>  
 
 *   步骤 4: DispatcherServlet 配置
 

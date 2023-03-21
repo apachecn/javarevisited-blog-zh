@@ -80,16 +80,4 @@ Zeligz 网上商店提供了如此多的产品，在提供由您选择的区块�
 
 那些有同样想法的人可以选择最好的公司、代理、公司或供应商来发展 NFT 市场。希望这篇博客列出的顶级 [**白标 NFT 市场**](https://www.inoru.com/white-label-nft-marketplace) 解决方案提供商能够帮助您选择符合您需求的解决方案。
 
-[](/javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba) [## 2022 年初学者学习不可替代代币的 10 个最佳 NFTs 课程和认证
-
-### 这些是最好的在线课程，可以学习关于 NFTs 的一切，从什么是 NFT 到创造、铸造、销售和…
-
-medium.com](/javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba) [](https://www.java67.com/2022/03/top-5-free-courses-to-learn-nft-non-fun.html) [## 学习 NFT 的五大免费课程(不可替换的代币)-最好的
-
-### 大家好，如果你想了解 2022 年的 NFT，或者想创造和出售你自己的 NFT，并寻找免费的…
-
-www.java67.com](https://www.java67.com/2022/03/top-5-free-courses-to-learn-nft-non-fun.html) [](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html) [## 2022 年学习 NFT(不可替代代币)的 5 大课程-最佳选择
-
-### 你好伙计们，如果你想知道什么是 NFT 或不可替代的令牌，什么是 NFT 周围的嗡嗡声，并有问题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html)
+</javarevisited/10-best-nfts-courses-and-certifications-for-beginners-to-learn-non-fungible-tokens-in-2022-3f36a4374ba>  <https://www.java67.com/2022/03/top-5-free-courses-to-learn-nft-non-fun.html>  <https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html> 

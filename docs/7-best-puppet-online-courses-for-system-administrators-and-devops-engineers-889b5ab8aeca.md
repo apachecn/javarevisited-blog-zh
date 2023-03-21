@@ -62,11 +62,7 @@ Puppet 还有助于简化服务器管理工作，允许管理员标准化基础�
 
 年度会员折扣为 299 美元(14%)，高级会员为 499 美元，其中还包括测验、练习和评估。你也可以使用他们的 [1 **0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 刚刚通过#思科 DEVASC 200-901 考试！考试很难，但这是一次很棒的经历。我很高兴能成为……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 3.[木偶入门](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetting-started-with-puppet%2F)【我的课程】
 
@@ -126,11 +122,7 @@ Udemy 课程也非常有助于了解 Puppet 的基础知识，这将有助于每
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 17，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 7.[配置管理与云](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fconfiguration-management-cloud)【Coursera 最佳课程】
 
@@ -146,11 +138,7 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 顺便说一句，如果你觉得 Coursera 的课程有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plu**s**的订阅计划，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这就是在软件开发世界中学习 Puppet for infrastructure 和 deployment automatio 的一些最好的课程。这是 DevOps 工程师实现基础设施自动化的最佳工具之一。
 
@@ -175,8 +163,4 @@ Puppet 使得为您的应用程序设置所需软件的服务器变得非常容�
 
 **P. S.** —如果您是 DevOps 和配置管理的新手，并且需要一些免费的在线课程来学习 Puppet 和配置管理，那么您也可以查看 Udemy 上的这个[**Puppet Fundamentals[FREE]**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscm_puppet%2F)，免费学习基本的 Puppet 概念。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscm_puppet%2F) [## 免费木偶软件教程-木偶基础
-
-### 在软件工程中，软件配置管理(SCM 或 S/W CM)是跟踪和控制
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscm_puppet%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscm_puppet%2F> 

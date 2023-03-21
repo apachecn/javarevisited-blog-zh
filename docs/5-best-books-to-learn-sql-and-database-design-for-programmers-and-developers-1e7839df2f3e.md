@@ -24,11 +24,7 @@ image_credit —数据库设计和管理
 
 在这篇文章中，我将分享一些学习数据库设计的最佳书籍，还会提到一些在线课程，如 Udemy 上的基里尔·叶列缅科的**](https://javarevisited.blogspot.com/2020/04/5-essential-skills-to-crack-coding-interviews.html) **[**SQL &数据库设计**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fsqldatabases%2F) 来教你数据库设计的基础知识。**
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fsqldatabases%2F) [## 学习 MS SQL Server & PostgreSQL:数据库设计 A-Z
-
-### 你对数据科学或数据分析的职业感兴趣吗？在这种情况下，你不可避免地会遇到…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fsqldatabases%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fsqldatabases%2F>  
 
 # 2023 年学习数据库设计和 SQL 的前 5 本书
 
@@ -115,8 +111,4 @@ Rod Stephens 的《数据库设计解决方案入门》中有很多例子和练�
 
 **P. S.** —如果你更喜欢在线课程而不是阅读书籍，那么你也可以看看 [**SQL for 初学者:使用 MySQL 学习 SQL 和数据库设计**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-for-beginners-course%2F) for 程序员和数据库管理员。它不仅能帮助你学习 SQL，还能帮助你学习数据库设计。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-for-beginners-course%2F) [## SQL 初学者:使用 MySQL 和数据库设计学习 SQL
-
-### 你听说过数据库技能是开发人员必须熟练掌握和理解的吗？你想…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-for-beginners-course%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-for-beginners-course%2F> 

@@ -32,11 +32,7 @@
 
 我写的文章可以在下面的链接中找到。
 
- [## 学习形和形来学习
-
-### 随着 Java 生态系统的不断发展，每个 Java 开发人员都需要不断学习新技能。Java……
-
-medium.com](/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c) 
+  
 
 我继续使用本文中描述的方法来创建新的代码表。任何开发人员都可以使用这种方法来开发和共享他们自己的代码表。我遵循这种方法创造了我将在本博客其余部分描述的形中的形。
 
@@ -92,12 +88,4 @@ medium.com](/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c)
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [## 每个程序员都应该学习的 20 多个基本 Java 库和 API
-
-### 成为更好的 Java 开发人员可以学习的最基本的 Java 库。它包括用于日志记录的 Java 库…
-
-medium.com](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [](/javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4) [## 2021 年 Java 程序员应该学会的 11 件事
-
-### 作为一名 Java 开发人员和 Java 博客的作者，我经常收到来自世界各地的 Java 程序员的请求…
-
-medium.com](/javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4)
+</javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7>  </javarevisited/9-things-java-programmers-should-learn-in-2018-3f0b2207dfc4> 

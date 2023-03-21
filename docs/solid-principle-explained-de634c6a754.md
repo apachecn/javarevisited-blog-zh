@@ -111,11 +111,7 @@ BillingService 类只有**一个** **职责和一个改变**的原因，那就�
 
 示例的链接可以在下面提到的 GitHub 中找到:
 
-[](https://github.com/naveenkulkarni029/solid-priniciples) [## naveenkulkarni 029/固体原理
-
-### 这个项目是如何在 Java 中应用 SOLID 原理的一个例子。S ->单一责任原则 O ->…
-
-github.com](https://github.com/naveenkulkarni029/solid-priniciples) 
+<https://github.com/naveenkulkarni029/solid-priniciples>  
 
 **或**
 

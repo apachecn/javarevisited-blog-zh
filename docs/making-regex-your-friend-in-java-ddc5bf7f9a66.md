@@ -160,15 +160,7 @@ false
 
 我在以前的文章中谈到过这一点，比如当我比较 [LinkedList 和 ArrayList](https://www.java67.com/2012/12/difference-between-arraylist-vs-LinkedList-java.html) 时，以及我在 Java 中进行微基准测试时的主要技巧，请参见下面的链接。
 
-[](/javarevisited/consider-linkedlist-in-java-2fed1b945b48) [## 关于在 Java 中使用 LinkedList 的几点思考
-
-### 这将是一篇不同的文章，因为在我的机器上测试了一些之后，我的假设变得有点…
-
-medium.com](/javarevisited/consider-linkedlist-in-java-2fed1b945b48) [](https://ludvigwesterdahl.medium.com/some-tips-for-microbenchmarking-in-java-46d6c9b669d9) [## Java 微基准测试的一些技巧
-
-### 微基准测试是对产品的一小部分进行性能测试的一种方式。也许你不想比较…
-
-ludvigwesterdahl.medium.com](https://ludvigwesterdahl.medium.com/some-tips-for-microbenchmarking-in-java-46d6c9b669d9) 
+</javarevisited/consider-linkedlist-in-java-2fed1b945b48>  <https://ludvigwesterdahl.medium.com/some-tips-for-microbenchmarking-in-java-46d6c9b669d9>  
 
 ## 参考
 

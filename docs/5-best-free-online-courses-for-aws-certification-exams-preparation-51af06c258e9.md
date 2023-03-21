@@ -160,8 +160,4 @@ Vijay Patel 创建了这门课程，有超过 14000 名学生注册了这门课�
 
 如果你真的想第一次就通过 AWS 开发人员助理认证，并能花 10 美元购买高质量的培训材料，那么我强烈推荐你参加 Udemy 网站上由夏羽·马瑞克举办的 [**终极 AWS 认证解决方案架构师专家 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-solutions-architect-professional%2F) 课程。我强烈推荐任何认真对待这一有价值的认证的人。
 
-[](/javarevisited/6-best-courses-for-aws-certified-solution-architect-professional-exam-in-2020-df5850a9279a) [## 2023 年 AWS 解决方案架构师专业认证考试的 6 门最佳在线课程
-
-### 2023 年破解 AWS 解决方案架构师专业认证的最佳在线课程和实践测试
-
-medium.com](/javarevisited/6-best-courses-for-aws-certified-solution-architect-professional-exam-in-2020-df5850a9279a)
+</javarevisited/6-best-courses-for-aws-certified-solution-architect-professional-exam-in-2020-df5850a9279a> 

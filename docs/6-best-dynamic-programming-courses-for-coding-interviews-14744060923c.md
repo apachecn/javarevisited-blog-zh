@@ -24,11 +24,7 @@ image_credit —教育性
 
 作为我研究的一部分，我偶然发现了一些有用的资源来学习和*掌握动态编程*，我今天将与你们分享这些资源，以及一些解决动态编程问题的有用技巧，但在此之前，让我们了解一下**什么是动态编程？**看看一些可以使用动态编程解决的编码问题。
 
-[](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) [## 探索编码面试的动态编程模式——交互式学习
-
-### 事实是，动态编程(DP)问题可能是编码面试中最令人生畏的问题。即使当…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224>  
 
 ## 什么是动态编程(DP)？
 
@@ -42,11 +38,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/563377973
 
 现在我们知道了什么是动态编程，并且知道了使用动态编程可以解决什么类型的问题，让我们来看看一些](https://javarevisited.blogspot.com/2020/04/5-essential-skills-to-crack-coding-interviews.html)[在线课程](https://javarevisited.blogspot.com/2019/12/top-5-courses-to-learn-dynamic-programming-for-interivews.html)，它们将训练你如何使用动态编程。
 
-[](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) [## 探索编码面试的动态编程模式——交互式学习
-
-### 事实是，动态编程(DP)问题可能是编码面试中最令人生畏的问题。即使当…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224>  
 
 # 2023 年学习动态编程的 6 门课程
 
@@ -88,11 +80,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/563377973
 
 **这里是参加零起点大师学院**——[编程大师面试](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn)课程的链接
 
-[](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) [## 掌握编码面试:数据结构+算法
-
-### 2023 年更新！我们保证这是你能找到的最好的编码面试准备课程，如果你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn>  
 
 ## 3.[贪婪算法和动态规划](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-greedy)
 
@@ -104,13 +92,9 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-i
 
 [![](img/a0761d654b23539577cb3632814e8dc2.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-greedy)
 
-而且，如果你觉得 Coursera 的专业化和认证有用，特别是来自 Google、AWS 和 IBM 的认证，那么我建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个很好的订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。**
+而且，如果你觉得 Coursera 的专业化和认证有用，特别是来自 Google、AWS 和 IBM 的认证，那么我建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个很好的订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **4.[动态编程简介](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdynamic-programming%2F)**
 
@@ -154,11 +138,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ***顺便说一句，如果你正在准备编码面试，我强烈推荐参加 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它将不仅为你提供这门课程，还提供许多其他有用的课程来破解你的编码面试，比如[探索编码面试模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)。每月只需 18 美元，非常值得。***
 
-***[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### Educative 提供编程和编码面试准备课程，涵盖几乎每一个框架，语言，和…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+***<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 这就是学习动态编程的一些最好的课程。我说过，DP 是编码面试的题目，大部分棘手的问题都来自动态编程。忽视动态编程是不明智的，尤其是如果你真的想得到你一直想要的工作。
 
@@ -184,8 +164,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **p . s .——**如果你喜欢书，我也建议你看看 Aditya Bhargava 的[**Grokking Algorithms**](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/?tag=javamysqlanta-20)。到目前为止，他对背包问题的解释是我所见过的最好和最详细的。
 
-[](https://buff.ly/3obss22) [## 搜索算法:程序员和其他好奇者图解指南
-
-### 搜索算法:亚马逊网站上为程序员和其他好奇者提供的图解指南
-
-浅黄色](https://buff.ly/3obss22)***
+<https://buff.ly/3obss22> ***

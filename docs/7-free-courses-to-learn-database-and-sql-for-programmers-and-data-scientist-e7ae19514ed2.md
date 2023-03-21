@@ -164,24 +164,8 @@ FreeCodeCamp Youtube 频道也有不错的 SQL 和数据库课程来学习这一
 
 **如果你不介意在学习上投资一些钱，那么我也建议你去看看 Udemy 网站上何塞·马西亚尔·波尔蒂利亚的 SQL 训练营课程。这是一门实践性很强的综合性课程，而且价格也很实惠。我在优购特卖时只花了 10 美元就买到了它。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F) [## 用于数据操作和分析的完整 SQL 训练营
-
-### 您将学习如何使用最受欢迎的技能之一- PostgreSQL 来读写复杂的数据库查询
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-sql-bootcamp%2F> ** 
 
 ## **你可能喜欢的其他媒体文章**
 
-**[](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [](/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093) [## 技术访谈中的 20 大链表编码问题
-
-### 大家好，我已经分享了很多给正在积极找工作的程序员的编码面试问题…
-
-medium.com](/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093) [](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45)**
+**</javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0>  </javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093>  </javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45> **

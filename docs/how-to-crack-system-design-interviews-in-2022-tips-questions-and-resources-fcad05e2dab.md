@@ -41,11 +41,7 @@ image_credit — codekarle
 
 这些实际上是每个开发人员应该准备的**基本系统设计主题**和概念。如果你了解这些话题，那么你肯定会在系统设计面试中表现出色。顺便说一句，不要被众多的话题搞得不知所措，大多数好的系统设计课程，如 CodeKarle 的 [**【系统设计】**](https://bit.ly/3D2qsRS)**Udemy 或[**Grokking the System Design Interview on Educative**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)**涵盖了所有这些话题。****
 
-****[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 这个由设计大师们开设的课程已经帮助了 6 万多名用户破解了他们的系统设计面试(SDI)。系统设计…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224> **** 
 
 # ****如何准备系统设计面试？****
 
@@ -166,26 +162,10 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 *   ****[**语用系统设计【Udemy 课程】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpragmatic-system-design%2F)****
 *   ****[为软件工程师&经理](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224)钻研现代系统设计****
 
-****[](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224) [## 为软件工程师和经理探索现代系统设计——互动学习
-
-### 分布式系统是部署应用程序和服务的标准。移动和云计算与…
-
-www.educative.io](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224) 
+****<https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224>  
 
 感谢您阅读本文。如果你喜欢这篇系统设计面试准备文章、问题、技巧和资源，那么请与你准备技术面试的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
 祝你面试顺利。
 
-[](https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html) [## 面向 Java 程序员的 20 大系统和软件设计面试问题
-
-### 系统设计问题是编程工作面试的重要组成部分，如果你想做好，你必须…
-
-www.java67.com](https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html) [](https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html) [## 面向对象分析和设计的五大面试问题
-
-### 测试候选人的设计技能在编程工作面试中很常见。像这样的问题，你怎么…
-
-www.java67.com](https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html) [](https://javarevisited.blogspot.com/2016/06/java-object-oriented-analysis-and-design-vending-machine-part-2.html) [## Java 中的自动售货机 OOP 设计问题——第二部分
-
-### 这是 Java 教程的第二部分，展示如何用 Java 设计自动售货机。在第一部分，我们有…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2016/06/java-object-oriented-analysis-and-design-vending-machine-part-2.html)****
+<https://www.java67.com/2018/05/top-20-system-design-interview-questions-answers-programming.html>  <https://www.java67.com/2016/07/top-5-object-oriented-design-interview-questions.html>  <https://javarevisited.blogspot.com/2016/06/java-object-oriented-analysis-and-design-vending-machine-part-2.html> ****

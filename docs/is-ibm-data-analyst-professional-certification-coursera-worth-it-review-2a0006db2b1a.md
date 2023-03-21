@@ -16,11 +16,7 @@
 
 许多人认为你需要一个大学学位才能得到一份数据分析师的工作。尽管如此，你现在可以访问许多不同的在线课程来获得这个职位所需的技能，但你们中的一些人会对应该学习什么课程感到困惑。我给你的建议是这是 IBM 提供的 [**IBM 数据分析师专业证书项目**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-analyst) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-analyst) [## IBM 数据分析师
-
-### 释放您在数据分析方面的潜力。为数据分析师这一热门职业培养就业技能。没有学位或者…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-analyst) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-analyst>  
 
 # IBM 在 Coursera 上的数据分析师专业证书值得吗？
 
@@ -122,11 +118,7 @@ excel 电子表格是执行数据分析最常用的应用程序之一，您将�
 
 顺便说一下，你可以单独加入这个专业证书，也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 会员资格，该会员资格允许访问 3000 多个 Coursera 课程，并无限制地访问热门的 Coursera 认证和专业。如果你想参加一个以上的课程或证书，那么你应该加入 Coursera Plus。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera Courser 和认证文章**
 
@@ -151,8 +143,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 也是 2023 年学习数据分析最受欢迎、评分最高的 Udemy 课程之一，而如果需要 Coursera 替代， [**谷歌的数据分析认证**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) 也值得一查。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) [## 谷歌数据分析
-
-### 这是你通往数据分析职业的道路。在这个项目中，你将学到一些受欢迎的技能，让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics> 

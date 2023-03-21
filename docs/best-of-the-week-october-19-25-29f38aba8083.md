@@ -10,7 +10,7 @@
 > 
 > [Java 并发:线程信令](/javarevisited/java-concurrency-thread-signaling-2ed6e4d4a14a) by [Dmytro Timchenko](https://medium.com/u/b2ed152fefdb?source=post_page-----29f38aba8083--------------------------------)
 > 
-> [](/javarevisited/discovering-microservices-in-spring-cloud-bdb3f1d344c3)[Tuhin Chakraborty](https://medium.com/u/96f4ae30241d?source=post_page-----29f38aba8083--------------------------------)在 Spring Cloud 中“发现”微服务
+> </javarevisited/discovering-microservices-in-spring-cloud-bdb3f1d344c3>[Tuhin Chakraborty](https://medium.com/u/96f4ae30241d?source=post_page-----29f38aba8083--------------------------------)在 Spring Cloud 中“发现”微服务
 
 # 推荐文章
 

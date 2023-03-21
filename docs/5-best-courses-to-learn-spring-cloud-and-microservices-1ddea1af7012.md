@@ -86,11 +86,7 @@ image _ credit—[Educative 的微服务架构实际实施](https://www.educativ
 
 *顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，这个课程的费用大约是每月 29 美元，每年 299 美元(14%的折扣)，但是完全值得。另类。你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)* 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> * 
 
 ## *4.借助 Spring Boot 和春云掌握微服务*
 
@@ -143,10 +139,6 @@ Spring Cloud 通过消除您访问和配置单个服务所需的所有艰苦工�
 
 ***P. S.** —如果你想学习 Spring cloud 但负担不起这些课程，或者如果你正在寻找一个*免费的 Spring Cloud 和微服务课程*，那么你也可以查看 Udemy 上的 [**开发带有微服务架构的云原生应用**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdeveloping-cloud-native-applications-microservices-architectures%2F) 课程。*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdeveloping-cloud-native-applications-microservices-architectures%2F) [## 免费微服务教程——使用微服务架构开发云原生应用
-
-### 在这个官方的 Red Hat 培训课程中，Burr Sutter，Red Hat 的首席开发人员倡导者，将提供…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdeveloping-cloud-native-applications-microservices-architectures%2F) 
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdeveloping-cloud-native-applications-microservices-architectures%2F>  
 
 这是完全免费的，你需要做的就是创建一个 Udemy 帐户来访问这个同样免费的课程。超过 21，000 名学生已经注册了这门课程。*

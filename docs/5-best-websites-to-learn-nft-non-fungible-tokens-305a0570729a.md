@@ -18,11 +18,7 @@
 
 顺便说一句，如果你对在线课程更熟悉，只是想找一门课程开始，那么我强烈推荐你去 Udemy 上查看 [NFT 基础(购买、创建和销售 NFT)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnft-fundamentals%2F)课程。对于 2022 年开始学习 NFT 的初学者来说，这是最好的课程之一。如果你需要更多的选择，请参阅文章本身
 
-[](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html) [## 2022 年学习 NFT(不可替代代币)的 8 大课程-最佳选择
-
-### 你好伙计们，如果你想知道什么是 NFT 或不可替代的令牌，什么是 NFT 周围的嗡嗡声，并有问题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html) 
+<https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html>  
 
 ## 你为什么要学习 NFT 并成为 NFT 认证专家？
 
@@ -64,11 +60,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-cou
 
 您可以单独参加本课程，也可以参加 [**区块链会员**](https://shareasale.com/r.cfm?b=1696402&u=880419&m=105464&urllink=https%3A%2F%2F101blockchains%2Ecom%2Fmembership%2F&afftrack=) ，该会员可以访问所有区块链、NFT、元宇宙和 Web3 培训材料。按年度计划，每月花费大约 25 美元，完全值得。在注册本课程时，您还可以使用我的代码 BCHAIN10 获得 10%的折扣。
 
-[](https://javarevisited.blogspot.com/2022/06/review-is-certified-nft-certification-worth-it.html) [## 回顾-101 区块链 NFT 认证专家(CNFTP)值得吗？
-
-### 你好，伙计们，不可替换令牌(NFT)已经发展成为一种有趣的技术趋势，许多人…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/06/review-is-certified-nft-certification-worth-it.html) 
+<https://javarevisited.blogspot.com/2022/06/review-is-certified-nft-certification-worth-it.html>  
 
 ## 2. [Udemy](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F)
 
@@ -96,11 +88,7 @@ LinkedIn 学习平台最有趣的细节是指专业人士对其学习资料的�
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 17500 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.油管（国外视频网站）
 
@@ -145,8 +133,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 如果你只是在寻找学习 NFT 的最佳免费资源，那么你也可以看看这个为初学者提供的最佳免费 NFT 课程列表。这个列表包含了 2022 年学习不可替代代币的最佳免费资源，包括 Udemy 课程。
 
-[](https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html) [## 2022 年面向初学者的十大免费 NFT(不可替代代币)课程——最佳选择
-
-### 你好，伙计们，如果你想了解 NFTs 或不可替代的代币，并寻找最好的免费在线课程，那么你…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html)
+<https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html> 

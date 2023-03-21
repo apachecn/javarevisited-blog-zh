@@ -247,12 +247,4 @@ create policy delete_post on medium_example_public.post for delete to forum_exam
 
 # 资源
 
- [## PostgreSQL 模式设计
-
-### Postgres 数据库的功能非常丰富，远远超过其他任何数据库。然而，大多数开发人员并不…
-
-www.graphile.org](https://www.graphile.org/postgraphile/postgresql-schema-design/) [](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6) [## 超越休息
-
-### GraphQL 微服务的快速开发
-
-netflixtechblog.com](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+  <https://netflixtechblog.com/beyond-rest-1b76f7c20ef6> 

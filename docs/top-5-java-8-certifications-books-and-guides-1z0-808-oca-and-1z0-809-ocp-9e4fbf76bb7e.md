@@ -93,16 +93,8 @@
 
 **附言——**如果你正在寻找 OCPJP 8 道练习题，你应该这样做，因为这是一门很难的考试，你也可以在 Udemy 上查看 [**我的 OCPJP 8 道练习题。它包含 300 多个问题，帮助您提高速度和准确性，以便首次通过考试**](https://www.udemy.com/course/new-java-se8-programmer-certification-ocpjp-1z0-809-exam-practice-test/?referralCode=23F3F8FE6D766BC6477D)
 
-[](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f) [## Java 开发人员的 10 个最佳 Udemy 课程
-
-### 大家好，如果你是一名 Java 开发人员，或者想成为一名专业的 Java 开发人员，并且正在寻找最好的 Udemy…
-
-medium.com](/javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f) 
+</javarevisited/10-best-udemy-online-courses-for-java-developers-4c9ab70cd01f>  
 
 **P. S. S —** 如果您正在准备最新的 Java 认证，即代码为 1z 0–829 的 Java SE 17 开发人员认证考试，那么您也可以在 Udemy 上查看[我的模拟测试课程](https://www.udemy.com/course/1z0-819-certification-oracle-java-17-exam-practice-test/?referralCode=8CCD5C00F8AE1259BBF1)。它包含 250 多个问题来测试你在真正考试前的准备水平。
 
-[](https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html) [## 1Z0-829 的 10 大 Java SE 17 认证练习题和模拟测试-免考试
-
-### 大家好，如果你正在准备 1Z0-829 认证考试，以成为 Oracle 认证的 Java SE 17 开发人员…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html)
+<https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html> 

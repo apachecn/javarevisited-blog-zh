@@ -180,11 +180,7 @@
 
 顺便说一句，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 17500 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 10.[完成元宇宙课程:关于 AR、VR 和 NFTs 的一切](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-metaverse-course-everything-about-ar-vr-and-nfts%2F)
 
@@ -244,8 +240,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 如果你正在寻找一个免费的元宇宙课程来开始你的元宇宙之旅，那么你也可以在 Udemy 上查看这个[元宇宙大师初学者课程:Web3.0 课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmetaverse-maestro-course-for-beginners-web-30-course%2F)。这个 1 小时 37 分钟的元宇宙课程是完全免费的，你只需要一个 Udemy 账号就可以观看这个课程。不过，如果你需要更多的选择，你也可以在这里查看这份 [**免费元宇宙和 NFT 课程**](/javarevisited/10-free-nft-non-fungible-tokens-metaverse-and-web3-0-courses-for-beginners-421b1d6ca263) **的清单。**
 
-[](https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html) [## 2022 年面向初学者的十大免费 NFT(不可替代代币)课程——最佳选择
-
-### 你好，伙计们，如果你想了解 NFTs 或不可替代的代币，并寻找最好的免费在线课程，那么你…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html)
+<https://javarevisited.blogspot.com/2022/07/free-nft-non-fungible-tokens-courses.html> 

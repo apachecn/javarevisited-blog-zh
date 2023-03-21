@@ -174,11 +174,7 @@ Udemy 是另一个在线自学的好平台。作为一名程序员，我自己�
 
 他们还提供了 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 而没有任何承诺，这不仅是免费访问这门课程的好方法，也是在加入 Pluralsight 之前检查课程质量的好方法。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是 Java 开发人员学习 Spring Security 的一些最佳课程。这些课程将为您提供足够的知识和经验来保护您的 Java web 应用程序并在现实世界中启动它。安全是一个非常重要的话题，即使你没有自己创业，也没有为某家公司工作，这是一项非常重要的技能。
 
@@ -198,8 +194,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你是 Spring 框架本身的新手，那么我也推荐你参加一个综合性的 Spring 课程，比如 Udemy 上约翰·汤姆逊的 [**Spring Framework 6:初学者到大师**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 。这是学习 Spring 6、Spring Boot 3、Spring MVC、Spring Data 和 Spring Security 基础知识的绝佳课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F> 

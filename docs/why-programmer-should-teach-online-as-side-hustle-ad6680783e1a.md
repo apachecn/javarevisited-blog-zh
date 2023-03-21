@@ -10,7 +10,7 @@
 
 这两个问题都很常见，大多是对创业感兴趣的高级开发人员问的。曾经有一段时间，我建议程序员创建自己的[博客](https://dev.to/javinpaul/why-sofware-developers-should-create-online-courses-as-a-side-hustle-3011)，不仅仅是为了学习和提高自己对所知技术的理解，也是为了在做自己热爱的事情的同时赚钱，但时过境迁。
 
-现在，我建议程序员和软件开发人员在[](https://teachable.sjv.io/c/1193463/998814/12646)**、 [**Udemy**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0) 、[**thinkfic**](http://try.thinkific.com/javinpaul8817)、 [**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) 、Skillshare、Kajabi 和其他平台上创建和销售在线课程。道理还是一样，你学，你赚，只是方法变了。**
+现在，我建议程序员和软件开发人员在<https://teachable.sjv.io/c/1193463/998814/12646>**、 [**Udemy**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0) 、[**thinkfic**](http://try.thinkific.com/javinpaul8817)、 [**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) 、Skillshare、Kajabi 和其他平台上创建和销售在线课程。道理还是一样，你学，你赚，只是方法变了。**
 
 **博客永远是在网上建立自己的绝佳方式，但它需要更多的努力和时间来赚取一些有意义的东西。**
 
@@ -28,23 +28,15 @@
 
 **也许你对某个主题非常了解，比如 [Java](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915?source=collection_home---4------8-----------------------) 、 [Python](/@javinpaul/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) 、[编程](/javarevisited/5-best-programming-languages-to-get-a-sofware-developer-job-in-google-3d8c83c444d6?source=collection_home---4------0-----------------------)、[算法](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1)，那么你应该就这个主题创建一门课程，并在类似[**Udemy**](https://javarevisited.blogspot.com/2019/09/codecademy-vs-udemy-vs-onemonth-which-is-better-for-learning-code.html)**或 [**Teachable**](https://teachable.sjv.io/c/1193463/998814/12646) 的平台上推出。这种策略最好的部分是，一旦你做了创建课程的最初工作，你就可以继续从每个新入学的学生那里获得报酬。****
 
-****[](https://teachable.sjv.io/c/1193463/998814/12646) [## 可教:创建和销售在线课程和辅导
-
-### 利用企业家使用的最佳在线商业平台，创建和销售在线课程和辅导服务…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/998814/12646) 
+****<https://teachable.sjv.io/c/1193463/998814/12646>  
 
 # 在线授课最好的平台是什么？
 
-teachable/thinkfic 和 Udemy 是我最喜欢的两个平台，它们既直观又用户友好。有了[](https://teachable.sjv.io/c/1193463/998814/12646)**或[**thinkfic**](http://try.thinkific.com/javinpaul8817)，你对自己的定价和课程的观感有了更多的控制，但你没有固定的听众，这是你的课程成功的最重要的因素之一。**
+teachable/thinkfic 和 Udemy 是我最喜欢的两个平台，它们既直观又用户友好。有了<https://teachable.sjv.io/c/1193463/998814/12646>**或[**thinkfic**](http://try.thinkific.com/javinpaul8817)，你对自己的定价和课程的观感有了更多的控制，但你没有固定的听众，这是你的课程成功的最重要的因素之一。**
 
 **相反，你必须自己做所有的营销工作。虽然 Teachable 确实提供了很多指导，并尝试和测试了电子邮件模板，这可以帮助你很多。Eugen 的[S**spring 框架课程**](http://courses.baeldung.com/?affcode=22136_bkwjs9xa) 建立在可教的基础上，Heinz Kabutz 的 [**Java 并发课程**](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) 也是如此，两者都非常成功。**
 
-**[](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) [## 实践捆绑包中的 Java 并发
-
-### 我有多长时间可以参加全付费课程？终身访问听起来怎么样？注册后，你有无限的…
-
-learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8) 
+**<https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8>  
 
 另一方面， [Udemy](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0) 有固定的学生基础，但你没有那么多的控制权，他们拿走你大部分的收入，因为他们在卖你的课程。Ranga 选择了 [Udemy](/javarevisited/100-free-programming-and-web-development-courses-on-udemy-free-resource-center-3f8415eb5e6f) ，他的 [Spring](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd?source=collection_home---4------0-----------------------) 和 [Java](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 课程在那边大获成功，所以是的，Udemy 也是另一个必不可少的平台。
 
@@ -52,11 +44,7 @@ learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/concurr
 
 我更喜欢 Udemy，如果你也选择了 Udemy 来销售你的在线课程，那么我强烈推荐你去看看[**Udemy Masters:Learn Online Course Creation——非官方**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) 作者 [Phil Ebiner](https://medium.com/u/e104d75dc0ea?source=post_page-----ad6680783e1a--------------------------------) ，这是任何在线课程创建者或教师的最佳资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) [## Udemy 大师:学习在线课程创作-非官方
-
-### 为 2020 年更新 Phil 的最新技术和最佳实践！你的理想生活是怎样的？自由这个词来了吗…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F>  
 
 # 如何打造 2022 年的网络课程？
 
@@ -66,11 +54,7 @@ Udemy 和 Teachable 都允许你创建自己的课程，并提供许多工具来
 
 Teachable 还允许您用您的品牌、颜色、徽标等定制您的学校。他们还举办 [**快速启动网上研讨会**](https://teachable.sjv.io/c/1193463/998807/12646) ，在这里你可以见到成功的在线课程创建者，并从他们创建优秀在线课程的策略中学习。
 
-[](https://teachable.sjv.io/c/1193463/998807/12646) [## 快速启动事件记录:注册
-
-### 本网站使用 cookies 和其他跟踪工具为您提供最佳体验。通过使用我们的网站，您…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/998807/12646) 
+<https://teachable.sjv.io/c/1193463/998807/12646>  
 
 他们还会在每一步指导你，比如创建课程大纲、拍摄、编辑、发布和交付。所以，你不仅创造了另一种收入来源，还通过教新学生学习了一项新技能，提高了你现有的专业技能和知识。
 
@@ -82,11 +66,7 @@ teachable.sjv.io](https://teachable.sjv.io/c/1193463/998807/12646)
 
 如果你选择了 Udemy 来销售你的在线课程，那么我强烈推荐你去看看[**Udemy Masters:Learn Online Course Creation——非官方**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) 作者是 [Phil Ebiner](https://medium.com/u/e104d75dc0ea?source=post_page-----ad6680783e1a--------------------------------) ，这是任何在线课程创建者或教师的最佳资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) [## Udemy 大师:学习在线课程创作-非官方
-
-### 为 2022 年更新 Phil 的最新技术和最佳实践！你的理想生活是怎样的？自由这个词来了吗…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fonline-course-masters%2F>  
 
 一切顺利，随着你的学习和课程的创建。如果你创建了一个在线课程，并需要我的帮助，我随时准备提供帮助，只需给我留言。我也会帮你在网上推广你的课，毕竟你是我的读者，社区给了我那么多的爱。我只是尽力而为。
 
@@ -106,8 +86,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ***p . s .****——这不仅适用于程序员和软件开发人员，也适用于任何想在网上赚点钱的人。它不仅为程序员创造了另一种收入来源，还让你感到快乐，带来更多的能量，因为你将做你热爱并充满激情的事情。如果你想现在就开始，读读这个* [**7 个步骤推出你自己的盈利在线课程**](https://teachable.sjv.io/c/1193463/1014938/12646) *并付诸行动。*
 
-[](http://try.thinkific.com/javinpaul8817) [## 利用排名第一的在线课程平台:Thinkific 创建、营销和销售
-
-### 获得推广业务、销售课程和…所需的所有营销工具、集成和支付选项
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817)******
+<http://try.thinkific.com/javinpaul8817> ******

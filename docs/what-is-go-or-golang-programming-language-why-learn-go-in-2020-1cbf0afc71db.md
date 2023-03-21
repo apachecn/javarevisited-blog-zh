@@ -112,11 +112,7 @@ Golang 认证包含三门课程:
 
 > 以下是加入本课程的链接— [Go (Golang):完整训练营](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-go-the-complete-bootcamp-course-golang%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-go-the-complete-bootcamp-course-golang%2F) [## Go (Golang):完整的训练营
-
-### 从零开始深刻理解和掌握 Go 编程语言(Golang)1000+动手练习和项目
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-go-the-complete-bootcamp-course-golang%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-go-the-complete-bootcamp-course-golang%2F>  
 
 ## 7.[学习围棋编程— Golang 初学者教程【免费】](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
@@ -138,11 +134,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 你可以在 YouTube 上的免费代码营的频道上免费观看这门课程，或者就在这里，如果你需要更多的免费资源，那么你也可以查看这个为初学者提供的 [*免费 Golang 课程列表*](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html) 。
 
-[](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html) [## 2023 年为初学者提供 5 门免费学习 Golang 的课程——最佳选择
-
-### 大家好，如果你想学习 Golang 编程语言，这是新兴技术的宠儿之一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html) 
+<https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html>  
 
 ## 8.[围棋编程入门](https://www.educative.io/courses/introduction-to-programming-in-go?affiliate_id=5073518643380224)
 
@@ -150,11 +142,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/5-free-co
 
 > 以下是加入本课程的链接— [围棋编程入门](https://www.educative.io/courses/introduction-to-programming-in-go?affiliate_id=5073518643380224)
 
-[](https://www.educative.io/courses/introduction-to-programming-in-go?affiliate_id=5073518643380224) [## 交互式 Go - Learn 中的编程介绍
-
-### 随着摩尔定律接近其生命周期的终点，对并发性的需求正在上升，因此，对…
-
-www.educative.io](https://www.educative.io/courses/introduction-to-programming-in-go?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/introduction-to-programming-in-go?affiliate_id=5073518643380224>  
 
 ## 9. [Go 编程(Golang):完整的开发者指南](https://academy.zerotomastery.io/p/learn-golang?affcode=441520_zytgk2dn)
 
@@ -172,11 +160,7 @@ www.educative.io](https://www.educative.io/courses/introduction-to-programming-i
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 23 美元，但也提供了许多超级吸引人和有用的课程，比如这个 [*JavaScript Web 项目:20 个项目来建立你的投资组合*](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上就是**什么是 Golang，为什么要学 Golang 2023**。正如我所说的，Go 被设计成可伸缩、快速、高效和使用有趣的，它得到了像网飞、优步、Codecademy，当然还有谷歌这样的公司的开发者的信任。
 
@@ -201,8 +185,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 **附言——**如果你热衷于学习 Golang 但是正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看[**get going:Golang**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F)课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以进入这个课程，现在已经有 9500 多名学生注册学习围棋了。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F) [## 免费 API 教程-get going:Golang 简介
-
-### 服务器端开发人员、解决方案架构师和 DevOps 系统管理员。之前在 Atlan 担任后端开发人员…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F> 

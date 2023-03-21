@@ -32,7 +32,7 @@ S[spring](https://spring.io/images/podcast-6e27b40f738a450c1224f874647aedaf.jpg)
     [https://github.com/spring-petclinic/spring-petclinic-rest](https://github.com/spring-petclinic/spring-petclinic-rest)
     [https://github.com/yidongnan/spring-cloud-netflix-example](https://github.com/yidongnan/spring-cloud-netflix-example)
 5.  [**javarestived**](https://javarevisited.blogspot.com/search/label/spring?max-results=3#axzz6e7SSPwJM):javarestived 有几乎所有 java 概念的文章。如果你还不知道的话，他们也有一个关于[介质](https://medium.com/javarevisited)的出版物，并且该出版物上的大多数文章都是 Java 聚焦的。
-6.  [](https://mkyong.com/tutorials/spring-boot-tutorials)**:另一个伟大的资源，你可以看看。**
+6.  <https://mkyong.com/tutorials/spring-boot-tutorials>**:另一个伟大的资源，你可以看看。**
 7.  **[**官网**](https://spring.io/learn) :在所有这些资源中，不可能有比官网更好的资源了。我在最后提到，因为没有人喜欢阅读官方文件，但相信我，这个地方是春天的圣经。**
 
 **所以，这是一个帮助我学习和成长的所有资源的紧凑列表。您可以在方便的时候探索这些资源，但是如果您是一个完全的初学者，我建议您从上到下开始。**

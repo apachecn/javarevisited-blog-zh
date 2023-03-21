@@ -12,7 +12,7 @@
 
 它是学习[前端](https://javarevisited.blogspot.com/2020/01/10-things-web-developers-should-learn.html)、后端[全栈](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232)的不同途径的集合，包括一个 Web 开发者应该知道的所有其他事情。你不仅会了解网络开发，还会了解对所有程序员都很重要的[基本编程知识](https://javarevisited.blogspot.com/2019/01/10-things-every-programmer-and-software-engineer-should-know.html)。
 
-路线图也分为 3 个部分，第一部分是关于每个 web 开发人员都应该知道的[](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio)**基本技能，而第二和第三部分是关于 web 开发的两个主要领域**前端**和**后端**开发。你可以学习前端或后端，或者两者都学，这取决于你的选择。如果你想成为一名 FullStack Web 开发人员，那么你必须学习前端和后端，这是不可避免的。
+路线图也分为 3 个部分，第一部分是关于每个 web 开发人员都应该知道的<https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio>**基本技能，而第二和第三部分是关于 web 开发的两个主要领域**前端**和**后端**开发。你可以学习前端或后端，或者两者都学，这取决于你的选择。如果你想成为一名 FullStack Web 开发人员，那么你必须学习前端和后端，这是不可避免的。
 
 在前端你也可以选择学习你想要的框架，比如 [React](https://javarevisited.blogspot.com/2018/08/top-5-react-js-and-redux-courses-to-learn-online.html) 、 [Angular](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html) 或者 [Vue.js](https://vuejs.org/) ，你不需要全部学习，只需要学习你喜欢的。如果你问我的建议，Vue.js 在 2023 年是比其他两个更好的选择，但这些仍然比 Vue.js 更常用。
 
@@ -36,11 +36,7 @@
 
 **最流行的版本控制系统之一。没有 Git 的生活已经不可能了。你可以从 Udemy 上的 [**查看 Git 完整指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F) 开始。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F) [## Git 完整教程:Git 权威指南
-
-### Git 完成这一课程的目的是一个全面的 Git 方法，这意味着没有事先的知识或…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F>  
 
 ## **2。宋承宪**
 
@@ -49,11 +45,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 **3。HTTP/HTTPS HTTP 协议是 web 的支柱，对于一个 web 开发人员来说，很好地了解 HTTP 和 HTTPS 是必不可少的。基本终端用法 Linux 命令行基础知识**
 不仅仅是一个 web 开发人员，对于任何程序员来说，Linux 命令行都是非常非常重要的，我强烈建议你花些时间学习它们。Udemy 上的 [**Linux 命令行基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-command-line-volume1%2F) 课程是一个很好的起点，如果你喜欢免费课程，你可以使用这些免费的 Linux 课程开始学习 Linux。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-command-line-volume1%2F) [## Linux 命令行基础
-
-### 这是 Linux 命令行的入门课程。对于 Linux 初学者和高级 Linux 用户来说都非常棒。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-command-line-volume1%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-command-line-volume1%2F>  
 
 **5。数据结构和算法**
 这些是任何程序的组成部分，更好的算法和数据结构知识是你下一份工作或做好当前工作的关键。
@@ -62,27 +54,15 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 例如，对于 Java 开发人员来说 [**数据结构和算法:使用 Java**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 进行深入研究是一个很好的开始。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 同样，对于 JavaScript 开发者来说，柯尔特·斯蒂尔的 [**JavaScript 算法和数据结构大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjs-algorithms-and-data-structures-masterclass%2F) 是一个很好的例子。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjs-algorithms-and-data-structures-masterclass%2F) [## JavaScript (JS)算法和数据结构大师班
-
-### 这门课程将几个月的计算机科学和面试准备材料压缩成 20 小时的视频。内容基于…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjs-algorithms-and-data-structures-masterclass%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjs-algorithms-and-data-structures-masterclass%2F>  
 
 而且，如果你使用 Python，那么 Python 中的 [**算法和数据结构是一个不错的选择。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Falgorithms-and-data-structures-in-python%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Falgorithms-and-data-structures-in-python%2F) [## Python 中的算法和数据结构
-
-### 这门课程是关于数据结构和算法的。我们将使用 Python 实现这些问题。我非常…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Falgorithms-and-data-structures-in-python%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Falgorithms-and-data-structures-in-python%2F>  
 
 并且，如果你不介意从资源中学习，那么你也可以使用这个[免费算法课程](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)的列表作为开始。
 
@@ -109,21 +89,13 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 2.  [**《2023 年网络开发者训练营》作者 Angela Yu**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F)
 3.  [**高级 Web 开发者训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F) [## 高级 Web 开发人员训练营
-
-### 嗨！欢迎来到高级 Web 开发人员训练营，这是一个完整的课程，将帮助您了解最新的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-advanced-web-developer-bootcamp%2F>  
 
 ## 2.HTML 和 CSS
 
 HTML 和 CSS 是任何网站的支柱。HTML 提供了结构，而 CSS 提供了风格，帮助他们看起来更好，更具视觉吸引力。如果你想成为一名认真的前端开发人员，那么你必须掌握这两个，首先，你可以查看这些免费的 HTML 和 CSS 课程在线学习。
 
-[](/javarevisited/5-free-html-and-css-courses-to-learn-front-end-web-development-online-8b04517c6ecb) [## 2023 年我最喜欢的学习 HTML 和 CSS 的免费课程
-
-### HTML 和 CSS 是 web 开发的两大支柱，它们被用来创建你每天看到的网页。HTML 提供了…
-
-medium.com](/javarevisited/5-free-html-and-css-courses-to-learn-front-end-web-development-online-8b04517c6ecb) 
+</javarevisited/5-free-html-and-css-courses-to-learn-front-end-web-development-online-8b04517c6ecb>  
 
 ## 3.Java Script 语言
 
@@ -132,11 +104,7 @@ medium.com](/javarevisited/5-free-html-and-css-courses-to-learn-front-end-web-de
 1.  [完整的 JavaScript 课程 2033](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-javascript-course%2F)
 2.  [高级 JavaScript 和 ES6 初学者指南](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fadvanced-javascript-course%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fadvanced-javascript-course%2F) [## 高级 JavaScript 初学者指南& ES6 - ES2017
-
-### 你准备好最终理解 JavaScript 了吗？JavaScript 是世界上最流行的语言，如果你想成为…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fadvanced-javascript-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fadvanced-javascript-course%2F>  
 
 ## 4.以打字打的文件
 
@@ -146,11 +114,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 它还使 JavaScript 开发面向对象的代码变得容易。如果你想学习 TypeScript， [**理解 TypeScript**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F) 是一个很好的开始课程，如果你需要更多的选择或免费的替代品，这里有另一个列表，列出了一些免费的 TypeScript 课程开始。
 
-[](/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729) [## 初学者和有经验的 Web 开发人员学习 TypeScript 的 7 门最佳课程
-
-### 学习 TypeScript 成为更好的 Web 开发人员
-
-medium.com](/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729) 
+</@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729>  
 
 ## 5.有角的
 
@@ -169,11 +133,7 @@ medium.com](/@javinpaul/7-best-courses-to-learn-typescript-in-depth-58439e1ce729
 1.  [现代反应与还原](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-redux%2F)
 2.  [React —完整指南](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 本课程是 React 的最新版本，包括 React 挂钩！当然会保留…
-
-udemycom](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F>  
 
 ## 8.vue . j
 
@@ -199,11 +159,7 @@ Vue 或 [Vue JS](https://www.java67.com/2020/07/5-free-courses-to-learn-vuejs-in
 
 如果你想走 Node 路线，那么最好从 Rob Percival 和 Andrew Mead 的 Node.js 开发者课程开始。
 
-[](http://javarevisited.blogspot.sg/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) [## 面向 Web 开发人员的前 5 名 Node.js 和 Express JS 在线课程
-
-### 毫无疑问，JavaScript 是世界上第一编程语言，Node.js 是最大的原因之一…
-
-javarevisited.blogspot.sg](http://javarevisited.blogspot.sg/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) 
+<http://javarevisited.blogspot.sg/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html>  
 
 ## 2.Java 语言(一种计算机语言，尤用于创建网站)
 
@@ -212,11 +168,7 @@ javarevisited.blogspot.sg](http://javarevisited.blogspot.sg/2018/01/top-5-nodejs
 1.  [完整的 Java Masterclass](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)
 2.  [Spring 框架 6:初学者到大师](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F)
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) [## Spring Framework 6:初学者到大师教程
-
-### 通过 Spring Framework 6 和 Spring Boot 3 可用的最现代和最全面的课程来学习 Spring。你会…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F>  
 
 ## 3.计算机编程语言
 
@@ -227,11 +179,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 1.  [完整的 Python 训练营](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcomplete-python-bootcamp%2F)
 2.  [Python 和 Django 全栈 Web 开发者训练营](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-and-django-full-stack-web-developer-bootcamp%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) [## Python 和 Django 全栈 Web 开发人员训练营
-
-### 欢迎来到 Python 和 Django 全栈 Web 开发者训练营！在本课程中，我们涵盖了您需要知道的一切…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-and-django-full-stack-web-developer-bootcamp%2F>  
 
 ## 4.红宝石
 
@@ -289,16 +237,4 @@ Ruby 是另一种非常适合 web 开发的强大语言。它有一个很棒的�
 
 ****其他文章上** [**中**](https://medium.com/u/504c7870fdb6?source=post_page-----b657a195aa07----------------------) **你可能喜欢:****
 
-**[](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) [## 完整的 React JS 开发者路线图
-
-### 成为 React 开发人员的图解指南，提供相关课程的链接
-
-medium.com](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) [](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773)****
+**</javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56>  </javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773> ****

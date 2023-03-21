@@ -18,11 +18,7 @@
 
 顺便说一句，如果你需要更全面和更有针对性的认证课程，那么我也强烈推荐你参加 Udemy 上的 [**终极谷歌云认证:全包(4)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) [## 终极谷歌云认证:一切尽在一个捆绑包中(4)
-
-### 嗨，云专家们，我们有 405，000 多名学生和 280，000 名独立学生获得了谷歌云平台认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F>  
 
 这不是免费的，而是最全面的谷歌云认证在线课程，为所有四种谷歌云认证提供学习材料，如[助理云工程师](/javarevisited/7-free-online-courses-to-crack-google-cloud-associate-cloud-engineer-ace-certification-exam-in-2cf0b297aed)、[云架构师](/javarevisited/10-best-free-google-cloud-professional-architect-certification-courses-practice-tests-943e75f03929)、[云开发人员](https://www.java67.com/2020/09/5-free-courses-to-pass-google-cloud-developer-certification.html)、网络工程师。它还包含 500+练习题，磨练你的速度和准确性技能。
 
@@ -65,11 +61,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **这里是加入本课程** — [云计算简介](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing%2F)的链接
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing%2F) [## 免费云计算教程-云计算介绍
-
-### 我把视频看了一遍又一遍，直到我非常清楚地了解了大部分概念。该课程以一种非常…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-cloud-computing%2F>  
 
 ## 3.[GCP——谷歌云平台概念](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F)(免费)
 
@@ -92,11 +84,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **这是免费的谷歌云课程**——[谷歌云平台概念](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F)的链接
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F) [## 免费谷歌云教程- GCP -谷歌云平台概念
-
-### 拥有 20 年的 IT 经验和在各种 IT 利益相关方的工作经验。与商业/CXO 组织合作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F>  
 
 ## 4. [Google 专业云开发者考试备考](https://cloudacademy.com/learning-paths/google-professional-cloud-developer-exam-preparation-1-1335/)(免费)
 
@@ -181,8 +169,4 @@ CloudAcademy.com 上有这门课。这是 GCP 专业云开发人员考试网上�
 
 **附言** —如果你需要更全面、更集中的认证课程，那么我也强烈推荐你参加 Udemy 上的 [**终极谷歌云认证:全包(4)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) 课程。这不是免费的，而是最全面的谷歌云认证在线课程，为包括云开发者在内的所有四种谷歌云认证提供学习材料。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F) [## 终极谷歌云认证:一切尽在一个捆绑包中(4)
-
-### 嗨，云专家们，我们有 405，000 多名学生和 280，000 名独立学生获得了谷歌云平台认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-certified-architect-developer-engineer-data-devops%2F> 

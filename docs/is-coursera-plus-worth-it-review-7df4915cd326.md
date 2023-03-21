@@ -40,11 +40,7 @@ image_credit — Coursera
 
 **简而言之，Coursera Plus 是一种既经济又灵活的加入 Coursera 课程的方式。如果你在 Coursera 上做不止一个认证，我强烈推荐你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 来节省一个月的时间，并获得无限的证书和培训材料。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 # 2023 年使用 Coursera Plus 加入哪些 Coursera 认证和专业？
 
@@ -156,11 +152,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 简而言之， [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 对于你的职业目标来说是一笔不错的投资，因为它可以无限制地访问 Coursera 上 90%以上的课程、专业和职业证书，由顶尖大学和公司的顶级讲师授课。那么，你还在等什么，去看看 Coursera Plus 能为你提供什么？**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera 和编程文章**
 
@@ -186,18 +178,10 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找免费的 Coursera 课程来学习 Python，那么你也可以看看我列出的来自谷歌、微软和 Coursera **的[**免费 Python 教程。**包含免费 Coursera 课程，从零开始学习 Python。](/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)**
 
-[](http://bit.ly/2D5vvnV) [## 免费 Python 教程——Python 编程介绍
-
-### Avinash Jain 目前是加州大学伯克利分校电气工程和计算机科学专业的大二学生。他是…
-
-bit.ly](http://bit.ly/2D5vvnV) 
+<http://bit.ly/2D5vvnV>  
 
 **p . s . s .——**如果你还没有加入 Coursera Plus，现在就加入，在 1 月 31 日之前可以享受 200 美元的优惠。我从未在 Coursera Plus 上见过这种折扣，去年花 399 美元购买，但你可以节省 200 美元，只需 199 美元即可获得相同的会员资格，但请尽快行动，因为此优惠将于 2023 年 1 月 31 日到期，[**现在就加入 Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fholiday2023)**。此优惠仅在本页面提供。**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fholiday2023) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 无论你是开始你的第一份工作，转换到一个新的路径，或在你目前的角色，一年一度的课程…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fholiday2023) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus%2Fspecial%2Fholiday2023>  
 
 .**

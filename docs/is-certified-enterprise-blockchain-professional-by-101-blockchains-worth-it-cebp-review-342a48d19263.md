@@ -8,7 +8,7 @@
 
 区块链 101 号
 
-大家好，去年，我正在寻找一个全面的区块链认证，当时我偶然发现了由 101 Blockchins.com 认证的[](https://www.shareasale.com/r.cfm?b=1713885&u=880419&m=105464&urllink=&afftrack=)**(CEBP)，这是一个致力于教你区块链、NFT、元宇宙和 Web3 技能的网站。**
+大家好，去年，我正在寻找一个全面的区块链认证，当时我偶然发现了由 101 Blockchins.com 认证的<https://www.shareasale.com/r.cfm?b=1713885&u=880419&m=105464&urllink=&afftrack=>**(CEBP)，这是一个致力于教你区块链、NFT、元宇宙和 Web3 技能的网站。**
 
 **这是我从一开始就在寻找的区块链课程，因为我发现大多数课程要么太浅，要么太专业，你会从第一堂课开始就感到困倦。**
 
@@ -120,8 +120,4 @@ CEBP 认证测试考生对区块链技术基础知识的掌握程度。你必须
 
 ****p . s .**——如果你真的想学习区块链技术，那么我也建议你不仅要参加这个认证，还要获得一个 [**101 区块链会员资格**](https://shareasale.com/r.cfm?b=1696402&u=880419&m=105464&urllink=https%3A%2F%2F101blockchains%2Ecom%2Fmembership%2F&afftrack=) ，以访问他们所有的区块链课程、认证和培训材料。它的年计划费用约为每月 25 美元，并提供所有区块链培训资源的访问权限。我的许多学生和读者都选了这门课，反馈非常好。**
 
-**[](/javarevisited/7-free-courses-to-learn-blockchain-in-2020-764e66b47ebe) [## 2022 年学习区块链开发的 8 门免费课程
-
-### 从 edX、Coursera、Udemy 和 Pluralsight 学习区块链技术的免费在线课程
-
-medium.com](/javarevisited/7-free-courses-to-learn-blockchain-in-2020-764e66b47ebe)**
+**</javarevisited/7-free-courses-to-learn-blockchain-in-2020-764e66b47ebe> **

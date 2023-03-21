@@ -126,11 +126,7 @@ Spring 认证的费用现在降低到 200 美元，这只是您在任何 PersonV
 *   Vojtech Ruzicka 的春季问题集( [200 个问题](https://github.com/vojtechruz/spring-web-cert-notes-4.2/raw/master/Spring%20Web%20Certification.apkg))
 *   大卫·梅耶尔的 [**在线春季模拟考试**](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) ，以及转储
 
-[](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## VMware EDU-1202 模拟测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 ## 4.春季认证学习指南
 
@@ -145,11 +141,7 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 如果你需要更多这样的问题，你也可以在我的博客 Javarevisited 上查看我的 Spring certification Udemy 课程中的 50 个免费的 Spring Certification 练习问题。
 
-[](https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html) [## 50 道免费春季专业认证练习题及答案[VMWARE EDU-1202 考试]
-
-### 5 个完整长度的模拟测试 250 多个问题及答案和解释终身访问 30 天退款保证…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html) 
+<https://javarevisited.blogspot.com/2022/05/50-free-spring-professional-certification-questions.html>  
 
 以上就是成为 Spring 认证专家的一些实用理由。由于 Spring 是开发 Java 应用程序最流行的框架，几乎每个人都在使用它，所以通过 Spring 认证(VMware EDU-1202)会为你打开更多机会的大门。
 
@@ -180,8 +172,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/05/50-free-s
 
 **附:** —如果你是一名经验丰富的 Spring Java 开发人员，并且想要获得技能认证，我建议你去参加大卫·梅尔的 [**在线 Spring 模拟测试**](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) ，这是一个付费测试，如果你能获得 80%以上的分数，那么你就准备好参加真正的考试了。*
 
-[](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## VMware EDU-1202 模拟测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)
+<https://www.certification-questions.com/practice-exam/vmware/edu-1202?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate> 

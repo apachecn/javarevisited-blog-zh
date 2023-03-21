@@ -36,11 +36,7 @@
 
 而且，如果你觉得 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程，专业课程，职业证书，T21 项目，每年大约花费 399 美元，但是物有所值
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 2.[如何成为一名优秀的解决方案架构师](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhow-to-become-an-outstanding-solution-architect%2F)
 
@@ -48,11 +44,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 本课程还涵盖了软件架构师或解决方案架构师如何在 IT 团队中运作，成为一名优秀的架构师需要具备哪些软技能，以及你可以承担哪些额外的责任来真正给同行留下印象。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhow-to-become-an-outstanding-solution-architect%2F) [## 如何成为一名杰出的解决方案架构师
-
-### 您是 IT 项目团队中的开发人员、首席开发人员还是解决方案架构师？你想学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhow-to-become-an-outstanding-solution-architect%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fhow-to-become-an-outstanding-solution-architect%2F>  
 
 谈到技术技能，本课程将教你如何创建高层架构，解释常见的架构设计模式，并展示如何用 UML 设计这些模式。
 
@@ -82,11 +74,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 简而言之，这门课程是你成为一名有能力的成功软件架构师的路线图。即使你是一个软件架构师，你也可以参加这个课程来进一步磨练你的软技能。如果你需要更多的资源，你也可以看看这个[书籍列表，来提高你作为程序员和开发者的软技能](https://javarevisited.blogspot.com/2017/12/5-career-development-and-soft-skill-books-for-programmers.html)。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdeveloper-to-architect) [## 开发者到建筑师
-
-### 有兴趣了解软件架构师的角色需要什么，以及为什么它对您组织的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdeveloper-to-architect) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdeveloper-to-architect>  
 
 ## 5.干净的架构:模式、实践和原则
 
@@ -104,11 +92,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 或者，你也可以使用他们的 **1** [**0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[钻研系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)
 
@@ -161,24 +145,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P.S.** —如果你正在寻找学习 Java 设计模式的免费课程，这对于软件架构师来说也是至关重要的，那么你也可以查看 Udemy 上的 [**Java 设计模式和架构**](http://bit.ly/java-design-patterns-tutorial) 课程。它是完全免费的，并且有大量关于 Java 程序员使用设计模式的有用信息。
 
-[](http://bit.ly/java-design-patterns-tutorial) [## 免费 Java 教程——Java 设计模式和架构
-
-### 发现 Java 中一些最有用、最重要、最常用的设计模式；您可以使用的可重用代码模式…
-
-bit.ly](http://bit.ly/java-design-patterns-tutorial) 
+<http://bit.ly/java-design-patterns-tutorial>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的 7 大课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
+</javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d>  </javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0> 

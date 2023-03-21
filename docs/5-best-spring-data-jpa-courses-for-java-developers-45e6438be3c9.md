@@ -24,17 +24,13 @@ Spring Data JPA 附带了一个叫做 JPA 存储库和查询方法的概念。JP
 
 由于这种更干净的方法，许多基于 Spring 的应用程序正在使用 Spring Data JPA 来实现他们的[数据访问层](https://javarevisited.blogspot.com/2013/01/data-access-object-dao-design-pattern-java-tutorial-example.html)或 DAO 层，这就是为什么在 2023 年学习 Spring Data JPA 是有意义的。
 
-说到 2023 年[](https://www.java67.com/2021/11/best-hibernate-and-spring-data-jpa-courses.html)*学习 Spring Data JPA，在线课程和书籍是两种主要方式，不幸的是，网上提供的 *Spring Data JPA 课程*并不多，特别是当你与 [Spring Boot 课程](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)的数量相比时，但我已经为你做了艰苦的工作，并从 Udemy、Baeldung 等网站策划了最好的 Spring Data JPA 课程。*
+说到 2023 年<https://www.java67.com/2021/11/best-hibernate-and-spring-data-jpa-courses.html>*学习 Spring Data JPA，在线课程和书籍是两种主要方式，不幸的是，网上提供的 *Spring Data JPA 课程*并不多，特别是当你与 [Spring Boot 课程](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)的数量相比时，但我已经为你做了艰苦的工作，并从 Udemy、Baeldung 等网站策划了最好的 Spring Data JPA 课程。*
 
 *这些课程是全面的、最新的、负担得起的，对于想要从头开始学习 Spring Data JPA 的初学者和有经验的 Java 开发人员都很有用。*
 
 *顺便说一下，如果你是 Spring Framework 的新手，并且正在寻找最好的在线课程来开始学习 Spring Framework，那么我也推荐你参加 Udemy 上的 [**Spring Framework 5:初学者到大师**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) 课程。这是学习 Spring 框架的最新课程。*
 
-*[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F)* 
+*<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F> * 
 
 # *2023 年面向初学者和有经验的 Java 程序员的 5 门最佳春季数据 JPA 课程*
 
@@ -126,11 +122,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 *顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 才能加入这个课程，费用约为每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这门课程。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)* 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial> * 
 
 ## *4.[用 Spring Boot&Spring Data JPA](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frest-api-with-java-spring-boot-spring-data-jpa-jparepository-swagger%2F)构建 REST API*
 
@@ -214,8 +206,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ***附言——**如果你是 Spring Framework 的新手，并且正在寻找最好的在线课程来开始学习 Spring Framework，那么我也推荐你参加 Udemy 上的 [**Spring Framework 5:初学者到大师**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) 课程。这是学习 Spring 框架的最新课程。*
 
-*[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F)*
+*<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-framework-5-beginner-to-guru%2F> *

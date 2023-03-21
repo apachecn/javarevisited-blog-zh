@@ -20,11 +20,7 @@ Coursera 课程和认证的最大好处是，所有这些课程都是由密歇�
 
 而且，如果你正在寻找最好的 Udemy 在线课程来学习使用 Python 的数据科学，那么你也可以查看由 365 Careers 和他的团队**提供的 [**数据科学课程 2023:完整数据科学训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 。他们在 Udemy 上有最好的数据科学在线课程。**
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) [## 数据科学培训课程:数据科学家训练营
-
-### 数据科学家是本世纪最适合蓬勃发展的职业之一。它是数字化的，面向编程的，并且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F>  
 
 # Coursera 的 Python 专精的应用数据科学值得吗？
 
@@ -34,19 +30,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这门课有四位讲师，让我们从第一位开始，他叫克里斯托弗·布鲁克斯，是密歇根大学的助理教授，第二位是凯文·科林，也是密歇根大学的副教授。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fkevyn-ct) [## 凯文·柯林斯-汤普森，讲师| Coursera
-
-### Kevyn Collins-Thompson 是麻省理工学院信息学院信息和计算机科学副教授。
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fkevyn-ct) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fkevyn-ct>  
 
 另外两位导师也是密歇根大学的助理教授 [**丹尼尔·罗梅罗**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fdaniel-r) 和他的研究在社会和信息网络相关的理论分析师和另一位 Vinod Vydiswaran 在自然语言处理和数据挖掘方面。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fdaniel-r) [## 丹尼尔·罗梅罗，讲师| Coursera
-
-### 丹尼尔·罗梅罗是密歇根大学信息学院的助理教授。他的主要研究…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fdaniel-r) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fdaniel-r>  
 
 ## 2.专业化内容
 
@@ -56,31 +44,19 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 由于本课程使用 python 应用数据科学，因此首先探索这种语言是有意义的，本课程主要是学习 [python 基础](https://javarevisited.blogspot.com/2020/02/10-best-coursera-courses--for-python.html)，如 lambda 函数读取文件和 CSV 数据操作，以及一些库，如用于数学计算的 NumPy 和用于导入 CSV 文件和读取数据的 pandas。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis) [## Python 中的数据科学简介
-
-### 本课程将向学习者介绍 python 编程环境的基础知识，包括基本的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-analysis>  
 
 ## 2.2.[应用 Python 进行绘图、制图&数据表示](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting%3Fspecialization%3Ddata-science-python)
 
 在学习了 python 的基础知识以及如何处理数据之后，是时候开始制作一些[可视化](/javarevisited/7-best-online-courses-to-learn-d3-js-for-data-visualization-in-2020-1a8c79add4e4?source=---------16------------------)并从您的数据中获取洞察力了，本课程的内容是，您将使用 matplotlib 和 seaborn 等库来制作绘图和图表，以及一些关于何时使用不同类型的可视化图形等的术语。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting%3Fspecialization%3Ddata-science-python) [## Python 中的应用绘图、图表和数据表示
-
-### 本课程将向学习者介绍信息可视化的基础知识，重点是报告和图表…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting%3Fspecialization%3Ddata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-plotting%3Fspecialization%3Ddata-science-python>  
 
 ## 2.3.[在 Python 中应用机器学习](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning%3Fspecialization%3Ddata-science-python)
 
 本课程是关于机器学习，特别是使用 Scikit-Learn 库的监督学习技术。您将使用 Scikit-Learn 库和分类模型从这项技术的基础开始，然后转向监督学习和一些术语，如[逻辑回归](https://www.java67.com/2020/07/top-5-machine-learning-algorithms-for-beginners.html)和支持向量机，以及评估您的 ML 模型等等。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning%3Fspecialization%3Ddata-science-python) [## Python 中的应用机器学习
-
-### 这门课程将向学习者介绍应用机器学习，更多地侧重于技术和方法，而不是…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning%3Fspecialization%3Ddata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-machine-learning%3Fspecialization%3Ddata-science-python>  
 
 ## 2.4.[在 Python 中应用文本挖掘](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining%3Fspecialization%3Ddata-science-python)
 
@@ -88,21 +64,13 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 您将学习文本挖掘和自然语言处理的基础知识，并为此目的利用 NLTK 库以及文本分类和主题建模。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining%3Fspecialization%3Ddata-science-python) [## Python 中的应用文本挖掘
-
-### 本课程将向学习者介绍文本挖掘和文本操作的基础知识。本课程以一个…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining%3Fspecialization%3Ddata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-text-mining%3Fspecialization%3Ddata-science-python>  
 
 ## 2.5.[Python 中的应用社交网络分析](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis%3Fspecialization%3Ddata-science-python)
 
 本课程将介绍如何使用 NetworkX 库学习社会网络分析。您将从学习不同类型的网络开始，然后根据许多因素(如距离和可达性)分析它们的连通性，并深入研究测量某个网络中某个节点的重要性和网络演变。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis%3Fspecialization%3Ddata-science-python) [## Python 中的应用社会网络分析
-
-### 本课程将通过使用 NetworkX 库的教程向学习者介绍网络分析。课程…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis%3Fspecialization%3Ddata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-social-network-analysis%3Fspecialization%3Ddata-science-python>  
 
 ## 3.人物评论
 
@@ -116,11 +84,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，当谈到参加这个课程时，你有两个选择，你可以单独参加这个课程，每个月花费大约 39 美元进行专业化，你也可以参加 [**Coursera Plu**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) s，每年花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这就是 Coursera 上关于**应用数据科学和 Python 专门化的全部内容。总的来说，这是学习数据科学并成为数据科学家的一个很好的在线课程和专业。**
 
@@ -156,8 +120,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你正在寻找最好的 Udemy 在线课程来学习使用 Python 的数据科学，那么你也可以查看[**2023 年数据科学课程:365 Careers 及其团队**的完整数据科学训练营**。他们在 Udemy 上有最好的数据科学在线课程。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) [## 数据科学培训课程:数据科学家训练营
-
-### 数据科学家是本世纪最适合蓬勃发展的职业之一。它是数字化的，面向编程的，并且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F> 

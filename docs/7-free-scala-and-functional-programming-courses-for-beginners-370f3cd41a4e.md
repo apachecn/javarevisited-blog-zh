@@ -8,7 +8,7 @@
 
 image_credit —教育性
 
-大家好，如果你想在 2023 年学习 Scala 和函数式编程，并寻找最好的资源，那么你来对地方了。早些时候，我已经分享了最好的 Scala 课程[](/javarevisited/10-best-scala-and-functional-programming-online-courses-for-beginners-b6461b27bf)**，在这篇文章中，我将分享从 Udemy、Coursera、Educative 等热门网站学习 Scala 和函数式编程的最好的免费课程。**
+大家好，如果你想在 2023 年学习 Scala 和函数式编程，并寻找最好的资源，那么你来对地方了。早些时候，我已经分享了最好的 Scala 课程</javarevisited/10-best-scala-and-functional-programming-online-courses-for-beginners-b6461b27bf>**，在这篇文章中，我将分享从 Udemy、Coursera、Educative 等热门网站学习 Scala 和函数式编程的最好的免费课程。**
 
 **您可能知道 Scala 是一种强大的面向对象的函数式编程语言，长期以来一直被吹捧为 Java 的继承者，或将在未来取代 Java。**
 
@@ -26,11 +26,7 @@ image_credit —教育性
 
 **顺便说一句，如果你不介意花钱学习像 Scala 这样有价值的东西并寻找全面的资源，那么你绝对应该看看[**Rock JVM！Scala 和函数式编程初学者**Udemy 上的](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F)课程，学习 Scala 和函数式编程的最佳课程之一。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F>  
 
 # 2023 年学习 Scala 和函数式编程的 7 门最佳免费课程
 
@@ -56,11 +52,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 但是为什么当参加审计专业的免费课程时，你将不会得到任何证书。如果你参加这个课程是为了获得 Coursera 证书，那么你需要注册专业化或者参加像 [**Coursera Plu**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) s 这样的订阅计划，该计划提供 5000 多个 Coursera 课程、项目和专业证书的无限制访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## [2。面向初学者的 Scala 编程迷你训练营](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fscala-programming-complete-mini-boot-camp-beginner-to-advance%2F)
 
@@ -106,11 +98,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com) 才能进入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。如果你还没有 Pluralsight 会员资格，我鼓励你申请一个，因为它可以让你访问他们 5000 多门关于所有最新主题的在线课程，如前端和后端开发、机器学习等。它还包括交互式测验、练习和最新的认证材料。他们还提供为期 10 天的免费试用，无需任何承诺，这是一个很好的方式，不仅可以免费学习这门课程，还可以在加入 Pluralsight 之前检查课程的质量。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## [5。Scala 和 Spark 2 —入门](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fscala-and-spark-2-getting-started%2F)
 
@@ -138,11 +126,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 顺便说一下，如果你觉得 Coursera 的课程有用，那么你也可以获得 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 7.[从零开始学习 Scala】【免费教育课程】](https://www.educative.io/courses/learn-scala-from-scratch?affiliate_id=5073518643380224)
 
@@ -158,11 +142,7 @@ Scala 为你提供了简单有效地构建可伸缩程序的工具。它是一�
 
 而且，如果你发现教育平台和他们的搜索课程，像[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，搜索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，提供每月 18 美元的 250 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上就是学习 Scala 编程语言的一些**免费在线课程。如果你是一名 Java 开发人员或想学习 Scala 的人，这些免费课程可以为你提供一个发射台，开始你在 Scala 世界的美好旅程。**
 
@@ -190,8 +170,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你正在寻找最好的 Scala 课程，并且不介意支付一些费用，那么[**摇滚 JVM！面向初学者的 Scala 和函数式编程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 是一门完美的入门课程。这将是 2023 年学习 Scala 的正确选择。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F> **

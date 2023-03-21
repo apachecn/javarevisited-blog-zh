@@ -97,11 +97,7 @@ image_credit —软件设计模式:软件开发人员的最佳实践
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [10 天免费通行证](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 6.[设计模式基础及其在 java 中的实现](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbasics-of-design-patterns-and-its-implementation-in-java%2F)
 
@@ -142,8 +138,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言**——如果你不介意花几美元学习像 Java 设计模式这样有价值的技能，那么你可能想看看 Udemy 上的**[**Java 设计模式**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdesign-patterns-java%2F) 课程。本课程将教你如何使用 Java 8 Lambdas、Stream 和其他新的 Java 特性实现经典的面向对象设计模式，如状态、策略、工厂、装饰器。这不是免费的，但完全值得。**
 
-**[](https://javarevisited.blogspot.com/2018/02/top-5-java-design-pattern-courses-for-developers.html) [## 2023 年面向有经验的 Java 开发人员的 5 大 Java 设计模式课程——最佳课程
-
-### 大家好，今天，我们将谈论设计模式和一些学习设计模式的最佳在线课程…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-java-design-pattern-courses-for-developers.html)**
+**<https://javarevisited.blogspot.com/2018/02/top-5-java-design-pattern-courses-for-developers.html> **

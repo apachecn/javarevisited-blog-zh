@@ -80,11 +80,7 @@ SDLC 或软件开发生命周期是任何程序员、开发人员、 [DevOps](/j
 
 顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。他们现在也有 33%的折扣，这意味着你只需 199 美元就可以获得这份订阅，而不是通常的 299 美元。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问来学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[软件开发生命周期专业化— Coursera](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fsoftware-development-lifecycle)
 
@@ -106,11 +102,7 @@ Coursera 上的这个专业可能是任何想要掌握软件开发生命周期�
 
 顺便说一下，如果你觉得 Coursera 的课程有用，那么我建议你加入 Coursera Plus[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.[软件开发过程(SDLC 模型)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsoftware-development-processes%2F)【Udemy】
 
@@ -144,11 +136,7 @@ LinkedIn Learning[的 SDLC 课程](http://linkedin-learning.pxf.io/c/1193463/449
 
 顺便说一下，你需要一个 [LinkedIn Learning](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 会员才能观看这个课程，这个课程每月花费大约 29.99 美元，但是你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这个课程，这是一个探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn 学习价格|选择学习计划| LinkedIn
-
-### 为 LinkedIn Learning 选择按月付费或按年付费
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 以上是关于学习软件开发过程或 SDLC 的**最佳在线课程。这对任何级别的软件开发人员都非常重要，甚至团队领导、Scrum Master 和项目经理都应该了解 SDLC，以便更好地评估世界，并以一致和可预测的方式交付版本。**
 
@@ -175,8 +163,4 @@ SDLC 对于任何将要构建软件的公司来说都是一个必不可少的角
 
 **p . s .**——如果你正在寻找学习软件开发生命周期，但是正在寻找一个免费的培训课程开始，那么你也可以看看这个 [**SLDC 模型:初学者基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsdlc-models%2F) 来建立你的基础和填补你理解中的空白。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsdlc-models%2F) [## 免费 SDLC 教程- SDLC 模型:初学者基础
-
-### 我是一个有 PHP，MYSQL，HTML，CSS，AJAX，JAVASCRIPT 开发应用程序经验的新手，同时也是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsdlc-models%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsdlc-models%2F> 

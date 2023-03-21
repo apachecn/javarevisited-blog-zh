@@ -68,19 +68,11 @@ Coursera 上的 Git 版本控制课程为你理解 Git 版本控制系统提供�
 
 除此之外，Google 在 Coursera 上的[**Git 入门和 GitHub 课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github) 也是很棒的从零开始学习 Git 概念。这也是一门实践课程，是谷歌广受欢迎的 [**谷歌 IT 自动化与 Python 专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) 的一部分，这意味着完成这门课程将计入该证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) [## 用 Python 实现谷歌 IT 自动化
-
-### 学习像 Python、Git 和 it 自动化这样的热门技能来推进你的职业生涯
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation>  
 
 顺便说一句，如果你喜欢在 Coursera 上学习，那么我建议你加入 Coursera Plus ，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目，包括这个项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[吃了苦头才学会](https://www.educative.io/courses/learn-git-hard-way?affiliate_id=5073518643380224)【教育性最好的课程】
 
@@ -102,11 +94,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 此外，如果你找到了教育平台和他们基于文本的互动课程，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 210 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 4. [GitHub 基础知识](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgithub-fundamentals)【plural sight 最佳课程】
 
@@ -122,11 +110,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 在过去的 3 年里，我一直是 Pluralsight 的成员，我学到了很多东西。如果你能在学习上花些钱，那么我强烈建议你加入 Pluralsight，但即使你不能加入，你仍然可以通过利用他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **，**免费获得这门课程，该课程提供 200 分钟的所有课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.Git & GitHub 完全大师班:从初学者到 Git 专家
 
@@ -178,7 +162,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 总的来说，这是软件开发人员掌握 Git 和 Github 的完美实践课程。你可以通过这个课程学习最流行的 git 工作流，开始使用它们，成为更好的开发者！
 
-**以下是加入本课程的链接** — [](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-and-github-complete-guide%2F)[完整 Git 指南:了解并掌握 Git 和 GitHub](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-and-github-complete-guide%2F)
+**以下是加入本课程的链接** — <https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-and-github-complete-guide%2F>[完整 Git 指南:了解并掌握 Git 和 GitHub](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-and-github-complete-guide%2F)
 
 [![](img/1ea775237cebc33965f87d42edc6d195.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-and-github-complete-guide%2F)
 
@@ -236,8 +220,4 @@ Anna Skoulikari 做了令人难以置信的工作，这可能是为什么该课�
 
 **P. S. —** 如果你正在寻找一些*免费课程来学习 Git 和 Github* ，那么你也可以在 Udemy 上查看 [**终极 GIT 5 天挑战**](http://bit.ly/2CtQTCW) 课程。它是完全免费的，而且只需几天就能学会 Git。
 
-[](http://bit.ly/2CtQTCW) [## 免费 Git 教程 GIT 5 天终极挑战
-
-### 我是个有经验的人。Net 开发人员，以前被认证为 MCSD。Net 在 C#中的应用。净【过期】。我有…硕士学位
-
-bit.ly](http://bit.ly/2CtQTCW)
+<http://bit.ly/2CtQTCW> 

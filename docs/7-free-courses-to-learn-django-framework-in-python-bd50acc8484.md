@@ -22,11 +22,7 @@ Django 是目前最流行、最成熟的 Python web 开发框架。这使得用�
 
 我们知道学习 Django 对你来说有多重要，我们挑选了最好的免费在线课程来帮助你。顺便说一句，如果你可以花几块钱学习像 Django 这样有价值的技能，那么我强烈推荐你去看看何塞·波尔蒂利亚的 [**Python 和 Django 全栈 Web 开发人员训练营**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) ，这是学习 Django 的最好课程之一，你只需在 Udemy sales 上花 10 美元就可以得到。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) [## Python 和 Django 全栈 Web 开发人员训练营
-
-### 欢迎来到 Python 和 Django 全栈 Web 开发人员训练营！在本课程中，我们涵盖了您需要知道的一切…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F>  
 
 # 2023 年 Python 程序员学习 Django 的 7 个最佳免费在线课程
 
@@ -121,11 +117,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 但是当参加审计专业的免费课程时，你将不会得到任何证书。如果你参加这个课程是为了获得 Coursera 证书，那么你需要注册专业化或者参加一个订阅计划，比如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它提供 5000 多个 Coursera 课程、项目和专业证书的无限制访问。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.Python Django Web 框架—初学者完整课程[FreeCodeCamp]
 
@@ -177,11 +169,7 @@ Django 是一个非常流行、功能齐全的服务器端 web 框架，用 Pyth
 
 顺便说一下，如果你觉得 Coursera 的课程很有用，因为它们是由世界各地的知名公司和大学创建的，我建议你加入 Coursera 的 [**Coursera Plus**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 3000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制地访问 90%以上的课程、指导项目…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 7.[通过创建 URL 缩短服务学习 Django](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftry-django-1-10%2F)
 
@@ -231,8 +219,4 @@ Python 是学习者和专业人士的首选；Django 是基于 python 的编程�
 
 **P. S.** —如果你真的想学习 Django，并且不介意花几个钱来提升自己的技能，那么你也可以在 Udemy 上查看这个 [**Python 和 Django 全栈 Web 开发人员训练营课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) 。它不是免费的，但你可以在 Udemy 上花 10 美元买到，而且它的价值远不止这些。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F) [## Python 和 Django 全栈 Web 开发人员训练营
-
-### 欢迎来到 Python 和 Django 全栈 Web 开发人员训练营！在本课程中，我们涵盖了您需要知道的一切…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-django-full-stack-web-developer-bootcamp%2F> 

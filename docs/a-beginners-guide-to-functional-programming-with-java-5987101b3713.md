@@ -20,7 +20,7 @@
 
 ## 用作表达式
 
-进一步，我们提到函数可以是表达式；因此，它们可以存在于方法内部，就像我们结合运算符和值创建的表达式一样，对吗？是的，他们可以。我们将需要一种新的表达式(我稍后会解释)，称为[](/javarevisited/7-best-java-tutorials-and-books-to-learn-lambda-expression-and-stream-api-and-other-features-3083e6038e14)**。它们也是函数。**
+进一步，我们提到函数可以是表达式；因此，它们可以存在于方法内部，就像我们结合运算符和值创建的表达式一样，对吗？是的，他们可以。我们将需要一种新的表达式(我稍后会解释)，称为</javarevisited/7-best-java-tutorials-and-books-to-learn-lambda-expression-and-stream-api-and-other-features-3083e6038e14>**。它们也是函数。**
 
 **让我们回顾一下实现——函数接口、高阶函数和 Lambda 表达式。**
 

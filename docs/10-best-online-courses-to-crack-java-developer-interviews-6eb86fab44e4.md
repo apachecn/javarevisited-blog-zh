@@ -82,11 +82,7 @@ Java 中的并发性是高级工程师面试中提出的最复杂和高级的话
 
 我更喜欢订阅，因为有时你只需要这种灵活性，你可以随时加入课程，而不必去购买它
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 7. [200+ SQL 面试问题](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsql-interview-questions%2F)
 
@@ -114,11 +110,7 @@ SQL 是 Java 面试中另一个很常见的话题。良好的 SQL 和数据库�
 
 而且，如果你发现教育平台和他们的搜索课程，像[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，[搜索面向对象编程面试](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)，那么考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，只需 *$14.99 每月*就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 8.[数据结构与算法分析—面试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-structure-and-algorithms-analysis%2F)
 
@@ -163,11 +155,7 @@ CodeCademy 在准备 Java 面试方面有完整的技能路径。这一个不是
 顺便说一句，你需要一个 [**CodeCademy PRO**](https://bit.ly/codecademypro) 才能加入这个课程。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来赚取、练习&
 应用工作技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 11.[春天和 Spring Boot 采访指南](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-interview-questions-and-answers%2F)
 
@@ -204,8 +192,4 @@ bit.ly](https://bit.ly/codecademypro)
 
 **附言**——如果你喜欢书，那么你也可以看看我的书， [**搜索 Java 访谈**](https://gumroad.com/l/QqjGH) 和 [**搜索 Spring Boot 访谈**](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) ，你可以在 Gumroad 上花 29.90 美元一起买，或者在亚马逊 Kindle 上花 9.9 美元一起买。
 
-[](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) [## 苦读 Spring Boot 的采访
-
-### Spring Boot 访谈- Kindle 版。下载一次，然后在你的 Kindle 设备上阅读…
-
-www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)
+<https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20> 

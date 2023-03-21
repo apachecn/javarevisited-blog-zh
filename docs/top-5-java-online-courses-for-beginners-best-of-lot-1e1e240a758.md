@@ -26,7 +26,7 @@ Java 另一个大放异彩的领域是创建 Android 应用程序。尽管谷歌
 
 事不宜迟，以下是它们:
 
-## **1。**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)****【Udemy】****
+## **1。**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>****【Udemy】****
 
 **这可能是 Udemy 上最受欢迎的 Java 课程，有超过 207，000 名学生注册了这门课程。**
 
@@ -58,11 +58,7 @@ Java 另一个大放异彩的领域是创建 Android 应用程序。尽管谷歌
 
 **如果你发现 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。大约花费 399 美元/年，但是它完全值得你的钱，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **3.【2023 年完整的 Java 编程大师班！【卡尔帕多】**
 
@@ -158,11 +154,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一句，你需要一个 [**多重视野会员**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能进入这个课程。每月订阅费用约为 29 美元，但也可以访问 500 多个课程，这是值得的。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 有时，Pluralsight 也有促销活动，你只需 199 美元就可以获得年度会员资格，这就是我去年 12 月获得的会员资格，但是，如果你想保持你的技能与时俱进，Pluralsight 会员资格是必不可少的。** 
 
@@ -184,11 +176,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **这门课程还提供经济资助，如果你完成了这门课程，你将获得一个证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming) [## Java 编程:用软件解决问题
-
-### 学习用 Java 编写代码，提高你的编程和解决问题的能力。你将学习设计算法…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming> ** 
 
 ## **10. [Java 专家 Superpack 2023](https://javaspecialists.teachable.com/p/superpack2020?affcode=92815_johrd7r8)**
 
@@ -209,7 +197,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **如果你喜欢通过构建游戏和做交互式编程练习来学习 Java，那么你将会爱上 Codegym。我最近发现了这个网站，当我的一个读者指出它时，我对它的学习材料感到惊讶。**
 
-**code gym[](https://codegym.cc/?ref=javinpaul3)*最棒的一点是，他们给你大量的练习，他们还遵循 80/20 法则，你将有 20%的时间阅读或学习，80%的时间练习你所学的内容。***
+**code gym<https://codegym.cc/?ref=javinpaul3>*最棒的一点是，他们给你大量的练习，他们还遵循 80/20 法则，你将有 20%的时间阅读或学习，80%的时间练习你所学的内容。***
 
 ***这种方法是可行的，因为在现实生活中，你会在 80%的时间里使用 20%的技能，Java 也是如此，虽然 Java API 非常庞大，有数百个类和第三方库，但你在大多数时间里只会使用 20%的 Java，如核心 Java、集合和多线程。***
 
@@ -221,11 +209,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ***他们有免费和付费两种选择，而他们的免费选项足以在线学习 Java，如果你负担得起，你绝对应该试试 [Codegym premium](https://codegym.cc/sale/?ref=javinpaul3) ，他们的付费版本，他们现在也提供 50%的折扣。***
 
- ***[## CodeGym 销售
-
-### 本网站使用 cookies 为您提供个性化服务。通过使用本网站，您同意我们使用…
-
-codegym.cc](https://codegym.cc/sale/?ref=javinpaul3)*** 
+ ****** 
 
 ***并且，如果你想了解更多，你也可以看看我的[关于 CodeGym 学习 Java 平台的评测](/javarevisited/codegym-review-is-codegym-premium-worth-it-to-learn-java-online-d852c3b2f055)。***
 
@@ -269,24 +253,8 @@ codegym.cc](https://codegym.cc/sale/?ref=javinpaul3)***
 
 *****并且，如果你还没有看过，你也可以通过这个 [**2023 Java 开发者路线图**](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) 来学习一个专业 Java 开发者应该学习的一切，包括工具、库、框架。*****
 
-*****[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2023 年 Java 开发者路线图
-
-### 大家好，首先，我祝你们 2023 年新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) 
+*****<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/) [## 我最喜欢的深入学习数据结构和算法的免费课程
-
-### 数据结构和算法对程序员来说是一些最基本的主题，无论是找工作…
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)*****
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  <https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0> *****

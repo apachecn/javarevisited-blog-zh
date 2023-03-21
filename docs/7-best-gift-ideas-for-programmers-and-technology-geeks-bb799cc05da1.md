@@ -104,30 +104,18 @@ Raspberry Pi 是你能买到的最好的小型电脑，这个套件只要 99 美
 
 1.  [Gift educative . io membership](https://www.educative.io/subscription?affiliate_id=5073518643380224)——如果你的朋友正在找新工作或准备编码面试，那么这将是给他的最好礼物
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 2.ZTM 会员礼品——这是另一个很棒的在线门户网站，如果你想给他们一份学习礼物，赠送会员也是一个好主意。它有很多关于编码面试、Python 和 JavaScript 的很棒的课程。
 
 你也可以使用优惠券代码 **FRIENDS10 在这门课程或你选择的任何订阅上获得 10%的折扣**。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。呵呵......每个人学习的速度不同，但是学生…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 以上就是你能为你的程序员朋友买的一些最好的礼物。我知道礼物不仅仅是钱。事实上，花钱很容易，但找到合适的礼物要困难得多。
 
 但送出一份完美礼物的喜悦，既有价值又令人惊叹，值得所有这些为程序员寻找理想礼物的烦恼。顺便说一句，如果你在寻找选择，你也可以看看我去年的 [**礼物创意清单**](http://javarevisited.blogspot.sg/2015/12/3-gifts-for-your-java-programmer.html) 。
 
-**p . s .**——如果你不能选择礼物或者没有足够的时间来选择，赠送[教育性](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)或 [Pluralsight](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 会员资格永远不会介意，因为每个程序员都热爱学习。他们还提供了 50%的优惠[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)****(教育性的)和 33%的优惠[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**(多见)。******
+**p . s .**——如果你不能选择礼物或者没有足够的时间来选择，赠送[教育性](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)或 [Pluralsight](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 会员资格永远不会介意，因为每个程序员都热爱学习。他们还提供了 50%的优惠<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>****(教育性的)和 33%的优惠<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**(多见)。******
 
-******[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)******
+******<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224> ******

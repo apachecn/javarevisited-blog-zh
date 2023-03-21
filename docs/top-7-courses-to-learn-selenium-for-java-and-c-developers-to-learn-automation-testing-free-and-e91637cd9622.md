@@ -22,11 +22,7 @@ Selenium 允许你在任何语言上编写自动化测试，比如 [Java](http:/
 
 顺便说一下，如果你正在寻找一个全面的 Java 和 Selenium 课程，那么我强烈推荐你加入 Udemy 上 Rahul Shetty 的[**Selenium web driver with Java-Basics to Advanced+Frameworks 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) 。它不是免费的，但它是初学者最好的 Selenium 和 Java 在线课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) [## Selenium WebDriver 与 Java+框架教程
-
-### 没有什么是不可能的。这完全取决于我们如何接受这方面的训练。教学是我的爱好。这是我的职业。的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F>  
 
 # 2023 年用 Java 和 C#学习 Selenium 的 7 门最佳免费在线课程
 
@@ -141,8 +137,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你正在寻找一门全面的 Java 和 Selenium 课程，那么我强烈推荐你加入 Udemy 网站上 Rahul Shetty 的[**Selenium web driver with Java-Basics to Advanced+Frameworks 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) 。它不是免费的，但它是初学者最好的 Selenium 和 Java 在线课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) [## Selenium WebDriver 与 Java+框架教程
-
-### 没有什么是不可能的。这完全取决于我们如何接受这方面的训练。教学是我的爱好。这是我的职业。的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F> 

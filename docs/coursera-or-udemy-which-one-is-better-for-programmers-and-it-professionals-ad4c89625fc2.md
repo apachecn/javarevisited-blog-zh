@@ -16,11 +16,7 @@
 
 尽管如此，我还是会根据他们独特的特点和他们为程序员和开发人员提供的最佳课程来回答这个问题。
 
-[](/javarevisited/10-best-coursera-certifications-and-courses-for-beginners-b13e930f2830) [## 2023 年 10+最佳 Coursera 认证和初学者课程
-
-### 我最喜欢的 Coursera 课程、认证、专业化和 2023 年学习热门技术技能的项目
-
-medium.com](/javarevisited/10-best-coursera-certifications-and-courses-for-beginners-b13e930f2830) 
+</javarevisited/10-best-coursera-certifications-and-courses-for-beginners-b13e930f2830>  
 
 # 2023 年 Coursera vs Udemy 回顾？程序员哪个好？
 
@@ -28,7 +24,7 @@ medium.com](/javarevisited/10-best-coursera-certifications-and-courses-for-begin
 
 [![](img/803164e5713cd411f6bb3241432573d5.png)](https://javarevisited.blogspot.com/2020/01/coursera-vs-udemy-which-is-better-for-programming-tech.html)
 
-Udemy 也有免费的[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F)**和 [**付费的**课程](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0)，其中免费课程是出于营销目的，当讲师达到其营销目标时，它会将免费课程转换为付费课程。**
+Udemy 也有免费的<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F>**和 [**付费的**课程](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0)，其中免费课程是出于营销目的，当讲师达到其营销目标时，它会将免费课程转换为付费课程。**
 
 **这其实是一个很好的策略，对学生和导师都有好处。学生可以免费学习这门课程，而教师可以得到他们的评论和社会证明。一些但不是所有的 Udemy 课程还提供结业证书，你可以在简历中展示或者添加到你的 LinkedIn 个人资料中。
 
@@ -36,15 +32,7 @@ Udemy 最赞的是它的 [**闪购**](https://click.linksynergy.com/fs-bin/click
 
 **这些课程的价值远远超过 10 美元，以如此低的价格获得这些课程让它变得非常非常实惠。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到全新版本的 web 开发者训练营，Udemy 最受欢迎的 Web 开发课程。这个…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS & Swift -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F>  <https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F>  
 
 另一方面， [**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 提供来自一流大学的**课程**比如斯坦福大学、香港大学的吴恩达的机器学习，以及像 IBM、[谷歌](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html)、[微软 Azure](https://javarevisited.blogspot.com/2019/07/top-5-courses-to-crack-azure-architecture-technologies-certification-az-300-exam.html) 、 [AWS](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-crack-aws-solutions-architect-associate-certification-exam-SAA-C01.html#axzz5rHwAwycj) 等大型科技机构。
 
@@ -64,59 +52,31 @@ Coursera 的另一个好处是，他们拥有专业证书，这有利于在 IT�
 
 1.  [**Google IT 自动化与 Python by Google**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) [## 用 Python 实现谷歌 IT 自动化
-
-### 学习像 Python、Git 和 it 自动化这样的热门技能来推进你的职业生涯
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation>  
 
 **2。** [**谷歌数据分析专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) [## 谷歌数据分析
-
-### 这是你通往数据分析职业的道路。在这个项目中，你将学到一些受欢迎的技能，让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics>  
 
 **3。** [**脸书脸书社交媒体营销**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ffacebook-social-media-marketing)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ffacebook-social-media-marketing) [## 元社交媒体营销
-
-### 开始你的社交媒体营销生涯。建立工作就绪技能和证书，从初学者到工作就绪…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ffacebook-social-media-marketing) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Ffacebook-social-media-marketing>  
 
 **4。** [**谷歌 IT 由谷歌支持**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support) [## 谷歌 IT 支持
-
-### 这是你的 IT 职业之路。在这一计划中，你将学到的需求技能，将有你的工作准备在…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support>  
 
 **5。** [**IBM 数据科学由 IBM**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) [## IBM 数据科学
-
-### 启动你在数据科学和 ML 领域的职业生涯。培养数据科学技能，学习 Python 和 SQL，分析和可视化数据…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science>  
 
 **6。** [**云工程用谷歌云从谷歌云**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp) [## 准备谷歌云认证:云工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fcloud-engineering-gcp>  
 
 Coursera 还提供像 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 这样的东西，让你在一次订阅中就可以获得 3000 多门最好的 Coursera 课程和专业。这一年大约花费 300 美元，但是完全值得你的时间和金钱。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 Coursera 也有在线学位，他们最近推出了指导性项目，可以用来快速学习新技能。例如，你可以参加这个 [**Python 数据结构项目**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fpython-data-structures) ，你可以在 2 小时内学会像字典这样的基本数据结构。
 
@@ -162,10 +122,6 @@ Coursera 也有在线学位，他们最近推出了指导性项目，可以用�
 
 ****感谢您阅读本文。如果你喜欢这篇文章，那么请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。****
 
-******附言——**如果你在没有工程师或计算机科学学位的情况下开始进入 IT 世界，我建议你查看一些 Coursera 专业证书，以开始你的 IT 职业生涯，比如谷歌 IT 支持专业证书[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support)**，正是谷歌提供的。******
+******附言——**如果你在没有工程师或计算机科学学位的情况下开始进入 IT 世界，我建议你查看一些 Coursera 专业证书，以开始你的 IT 职业生涯，比如谷歌 IT 支持专业证书<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support>**，正是谷歌提供的。******
 
-******[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support) [## 谷歌 IT 支持
-
-### 这是你的 IT 职业之路。在这一计划中，你将学到的需求技能，将有你的工作准备在…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support)********
+******<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-support> ********

@@ -20,11 +20,7 @@
 
 不过，如果你不介意花点钱学习像 spring framework 这样有价值的技能，那么我也建议你去看看 Udemy 上的 [**Spring Framework:初学者到大师**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 课程。这不是免费的，但非常实惠，在优购上你只需花 10 美元。这是最新的课程，涵盖春季 5 期。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) [## Spring 框架:初学者到大师教程
-
-### 通过 Spring Framework 5 和 Spring Boot 2 可用的最现代和最全面的课程来学习 Spring。你会…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F>  
 
 # 学习核心 Spring、Spring Boot 和 Spring MVC 的 10 个最佳免费课程
 
@@ -75,11 +71,7 @@ Spring Boot 是使用 Spring 框架的一种新的更好的方式，它在过去
 
 还有同一作者[Bryan Hansen](https://medium.com/u/b76a6b7e6647?source=post_page-----639db9348d25--------------------------------)[**Spring Framework:Spring Fundamentals**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-fundamentals)的这个课程的新更新版本，如果你愿意，也可以去查那个。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-fundamentals) [## Spring 框架:Spring 基础
-
-### 本课程旨在为您提供 Spring 框架基础的坚实基础。它涵盖了如何…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-fundamentals>  
 
 ## **4。**[Spring Boot 2 和 Spring 框架 5 简介](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-spring-boot-2-and-spring-framework-5%2F)
 
@@ -171,11 +163,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 不过，如果你想成为一名全栈 Java 开发人员，我也建议你看看 Karthikeya 的 [**全栈 Java bundle**](https://karpadoschool.teachable.com/a/aff_0wbz47cn/external?affcode=536712_cf-umzkm) **，**，它包含了成为全栈 Java 开发人员的许多课程。他非常友好地提供了一个月 1 美元的捆绑包，特别是针对 Java 访问的读者，
 
-[](https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm) [## 卡尔帕多高级会员！
-
-### 关于你的课程的简短描述。用这个方框来描述课程的内容，你的…
-
-karpadoschool.teachable.com](https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm) 
+<https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm>  
 
 ## 10.[轻松学习 Spring Core！](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-online-training%2F)
 
@@ -219,8 +207,4 @@ karpadoschool.teachable.com](https://karpadoschool.teachable.com/courses/karpado
 
 感谢阅读这篇文章，如果你喜欢这些课程，那么请与你的朋友和同事分享。这是免费的，每个人都应该从中受益。如果您有任何问题或反馈，请留言。
 
-[](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa) [## 学习 Spring:认证类
-
-### 我有多长时间可以学习这门课程？材料过期了吗？访问永远不会消失。一旦你注册了…
-
-courses.baeldung.com](https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)
+<https://courses.baeldung.com/p/ls-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa> 

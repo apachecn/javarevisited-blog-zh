@@ -86,16 +86,4 @@ Parent thread execution completes.
 
 ## 你可能喜欢的其他线程文章
 
-[](https://javarevisited.blogspot.com/2020/01/what-is-happens-before-in-java-concurrency.html) [## Java 并发中的先发制人是什么？一个例子
-
-### 几天前，我的一位读者在 LinkedIn 上给我发消息，谈到他最近面临的一个 Java 面试问题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/01/what-is-happens-before-in-java-concurrency.html) [](https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html) [## Java 中原子、易变和同步的区别？
-
-### 大家好，很多人问我关于 Java 并发中的易变、同步和易变变量…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html) [](/javarevisited/java-threadlocal-the-boon-and-the-bane-18263fa4f64) [## Java 线程本地——好处和坏处
-
-### 最近，我和我的团队正在对某段代码进行一些性能测试(特别是一个 HTTP…
-
-medium.com](/javarevisited/java-threadlocal-the-boon-and-the-bane-18263fa4f64)
+<https://javarevisited.blogspot.com/2020/01/what-is-happens-before-in-java-concurrency.html>  <https://javarevisited.blogspot.com/2020/04/difference-between-atomic-volatile-and-synchronized-in-java-multi-threading.html>  </javarevisited/java-threadlocal-the-boon-and-the-bane-18263fa4f64> 

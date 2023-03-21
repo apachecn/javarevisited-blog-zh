@@ -63,11 +63,7 @@ Spring 验证使我们能够定义自己的定制约束。一种方法是创建�
 
 这些方法的返回类型限于原语、字符串、枚举、注释或这些类型的数组。
 
-[](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的 7 大课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) 
+</javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d>  
 
 # **定义约束验证器**
 
@@ -83,11 +79,7 @@ initialize 方法可用于启动任何资源或建立任何连接。isValid 方�
 
 如果 isValid 方法返回 true，则执行流程保持不变。然而，如果验证失败，spring 会抛出一个异常。
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  
 
 # **标注模型类字段**
 
@@ -125,11 +117,7 @@ validate 方法将在 error 对象中违反约束的情况下遇到的错误放�
 
 值得一提的是，CommentValidator 的支持方法应该被覆盖，否则 spring 将抛出“Java . lang . illegalstateexception:Validator 的无效目标”异常。
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 # **在控制器中配置验证器**
 
@@ -163,16 +151,4 @@ medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c
 
 因此，通过将组分配给注释，然后使用这些组来指定顺序，我们实现了自定义约束检查。
 
-![](img/9990521bab06718c941996749dd73cc3.png)[](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4) [## 为什么 Spring 是用 Java 开发 REST APIs 的最佳框架？
-
-### REST 现在已经成为开发 web 服务的标准方法，而说到 Java，有许多框架和…
-
-medium.com](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4)
+![](img/9990521bab06718c941996749dd73cc3.png)</javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e>  </javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4> 

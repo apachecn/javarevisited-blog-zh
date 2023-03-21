@@ -109,11 +109,7 @@
 
 ## ⚡Where 找到访问者设计模式的代码库？
 
-[](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/visitor) [## GitHub-rohan 2596/设计模式-模式示例/访问者
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/visitor) 
+<https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/visitor>  
 
 ## ⚡Conclusion:-
 
@@ -121,18 +117,10 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/vi
 
 不要忘记看看我的网站，以了解更多关于我的信息
 
- [## 罗汉·拉温德拉·卡达姆
-
-### 来自印度孟买的全栈开发人员，拥有大约 3 年的软件开发经验。
-
-kadamrohan.com](https://kadamrohan.com/) 
+  
 
 ## 📚参考书目:-
 
-[](https://refactoring.guru/design-patterns/visitor) [## 访问者
-
-### Visitor 是一种行为设计模式，它让你将算法从它们所操作的对象中分离出来…
-
-重构大师](https://refactoring.guru/design-patterns/visitor) ![](img/6db7d9f33aba9b4474e06235040cbf26.png)
+<https://refactoring.guru/design-patterns/visitor>  ![](img/6db7d9f33aba9b4474e06235040cbf26.png)
 
 谢谢你——罗汉·卡达姆

@@ -357,8 +357,4 @@ using System.Threading.Tasks;namespace SalesTax.Billing
 
 **延伸阅读**
 
-[](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [## 2022 年你能学到的 10 个最佳 OOP 设计原则
-
-### 想要写出更好、更可靠的代码，能够经受住生产中时间的考验吗？这些设计原则会有所帮助。
-
-medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31)
+</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31> 

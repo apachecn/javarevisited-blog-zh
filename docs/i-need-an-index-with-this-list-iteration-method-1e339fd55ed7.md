@@ -257,16 +257,4 @@ Assert.*assertEquals*(Lists.***immutable***.with(2, 4), oddIndexes);
 
 **您可能想探索的其他文章:**
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995) [## 面向 Java 程序员的 7 门最佳 WebFlux 和反应式 Spring Boot 课程
-
-### 我最喜欢的课程 2021 年学习 Java 中的反应式编程使用 WebFlux、RxJava 和反应式 Spring Boot 来自…
-
-medium.com](/javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995) [](/javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88) [## 我最喜欢的 2021 年 Java 开发者学习的春季 MVC 课程
-
-### 这些是初学者和有经验的 Java 开发人员学习 Spring MVC 框架的最佳在线课程…
-
-medium.com](/javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995>  </javarevisited/my-favorite-spring-mvc-courses-for-java-developers-5ede7f85dd88> 

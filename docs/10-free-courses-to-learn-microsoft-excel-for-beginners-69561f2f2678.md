@@ -22,11 +22,7 @@ image_credit — udemy
 
 如果你能花大约 10 美元来学习像微软 Excel 这样有价值的工具，那么我强烈推荐你去看看 Udemy 上 Kyle Pew 的 [**微软 Excel——从初学者到专家**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F) 课程。在 Udemy 促销期间，你只需花 9.9 美元就能获得这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F) [## 从初级到高级
-
-### 凯尔是微软认证培训师(MCT)和认证微软 Office 主讲师，一直在教…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F>  
 
 # 2023 年新手可以加入的 10 个最好的免费微软 Excel 课程
 
@@ -242,8 +238,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **附言——**如果你不介意花点钱学习像微软 Excel 这样有价值的工具，那么我也强烈推荐你去看看 Udemy 网站上凯尔皮尤的 [**微软 Excel——从初学者到专家**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F) 课程。这是深入学习 Excel 的最佳在线课程之一，几乎有 50 万人已经从这门课程中受益。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F) [## 从初级到高级
-
-### 凯尔是微软认证培训师(MCT)和认证微软 Office 主讲师，一直在教…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-excel-2013-from-beginner-to-advanced-and-beyond%2F> 

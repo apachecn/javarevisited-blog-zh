@@ -18,11 +18,7 @@ Java 程序员们好，2023 年新年快乐。如果你正在考虑用 Java 开�
 
 顺便说一句，我也更新了我们的[**2023**](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)Java 开发者路线图，如果你还没有查看，现在就可以查看
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) [## 2023 年 Java 开发者路线图[更新]
-
-### 大家好，首先祝大家 2023 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) 
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html>  
 
 ## 什么是微服务？
 
@@ -159,8 +155,4 @@ Eclipse MicroProfile 是一个为微服务架构优化 Java EE 的计划。它�
 
 **P. S. —** 如果你热衷于将微服务技能添加到你的简历中，但正在寻找一门初级课程来了解微服务架构、模式以及微服务的利弊，那么我强烈推荐你参加这个关于教育的交互式 [**微服务原则和概念介绍**](https://www.educative.io/courses/introduction-microservice-principles-concepts?affiliate_id=5073518643380224) 课程。尽管我从事过微服务项目，但我从这个课程中学到了很多，你也可以。
 
-[](https://www.educative.io/courses/introduction-microservice-principles-concepts?affiliate_id=5073518643380224) [## 微服务原理和概念介绍——互动学习
-
-### 微服务是最重要和最流行的软件架构趋势之一。这种架构构成了基础…
-
-www.educative.io](https://www.educative.io/courses/introduction-microservice-principles-concepts?affiliate_id=5073518643380224)
+<https://www.educative.io/courses/introduction-microservice-principles-concepts?affiliate_id=5073518643380224> 

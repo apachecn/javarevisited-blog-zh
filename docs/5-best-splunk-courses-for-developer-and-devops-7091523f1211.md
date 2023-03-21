@@ -64,11 +64,7 @@
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 4.[学习 Splunk](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearning-splunk%2F) 【初学者最佳 Udemy 课程】
 
@@ -118,8 +114,4 @@ packtpub.com 创建的另一个很棒的课程是学习 Splunk 初学者工具�
 
 **P. S. —** 如果您正在寻找工具来改善 Java 开发人员的日常生活，那么您也可以查看这些[**Java 开发人员的最佳工具**](https://javarevisited.blogspot.com/2019/02/10-tools-advanced-java-developers-should-know.html) ，我在这里为 Java 开发人员分享了编码、设计、开发、构建、调试和部署的最佳工具。
 
-[](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html) [## Java 开发人员应该在 2023 年学习的 10 个工具-(更新)
-
-### 大家好，我们现在是 2023 年的第一周，许多程序员已经开始为他们的…
-
-www.java67.com](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html)
+<https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html> 

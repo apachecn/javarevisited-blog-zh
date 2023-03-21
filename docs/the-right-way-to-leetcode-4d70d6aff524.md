@@ -93,16 +93,4 @@
 
 你可能喜欢的其他**编码采访文章和资源**
 
-[](/javarevisited/10-essential-topics-and-resources-for-coding-and-programm-job-interviews-4017cac3a522) [## 你可以为 2021 年的编码和编程工作面试准备的 10 个基本话题
-
-### 列出了你在编程工作面试中需要的基本话题和技能，以及学习它们的资源。
-
-medium.com](/javarevisited/10-essential-topics-and-resources-for-coding-and-programm-job-interviews-4017cac3a522) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 15 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
+</javarevisited/10-essential-topics-and-resources-for-coding-and-programm-job-interviews-4017cac3a522>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0> 

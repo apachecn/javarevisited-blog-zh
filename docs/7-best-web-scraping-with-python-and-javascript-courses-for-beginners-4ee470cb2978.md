@@ -108,11 +108,7 @@ image_credit — Udemy
 
 顺便说一下，你需要一个 Pluralsight 会员资格才能参加这个课程，费用大约是每月 29 美元或每年 299 美元。或者，您可以参加他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费学习这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 建立你的职业生涯，一次一项技能。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 4.[Python 中的网页抓取](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscraping-with-python%2F)【Udemy 教程】
 
@@ -195,11 +191,7 @@ Udemy 提供了坚实的基础和构造良好的类。这些课程讨论了网�
 
 顺便说一句，参加这个课程，你有两个选择，你可以单独参加这个课程，每个月花费大约 39 美元进行专业化，你也可以 [**参加 Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，每年花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是关于 2023 年学习 Python 和 JavaScript 的**最佳在线课程。毫无疑问，Web Scrapping 是一项有用的技能，Python 中有很多库可以用来从网站上删除数据，比如 Scrappy、Beautiful soup 和 JavaScript/node.js。**
 
@@ -225,8 +217,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **附言** —如果你热衷于学习使用 python 进行 Web Scraping，但是正在寻找一些免费的 Python 在线培训课程，那么你也可以在 Udemy 上查看这个 [**从头开始学习使用 Python 进行 Web Scraping(免费)**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-python-tutorial%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-python-tutorial%2F) [## 免费网页抓取教程-从头开始学习 Python 网页抓取
-
-### GoTrained 是一个电子学习学院，旨在创建不同语言的有用内容，它专注于…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-python-tutorial%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-python-tutorial%2F> 

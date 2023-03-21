@@ -22,11 +22,7 @@
 
 顺便说一下，如果你不熟悉 [Microsoft SQL Server](/javarevisited/5-best-courses-to-learn-microsoft-sql-server-in-depth-e9f11b73c14a) 和 [T-SQL](/javarevisited/top-10-free-courses-to-learn-microsoft-sql-server-and-oracle-database-in-2020-6708afcf4ad7) ，那么我还建议你参加一个综合课程，学习 SQL Server 基础知识以及如何使用 T-SQL。如果你需要推荐，我建议你去 Udemy 上的 Brewster Knowlton 的 [**微软 SQL 初学者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F) 在线课程。从 SQL Server 中的 T-SQL 和 SQL 查询开始是很棒的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F) [## Microsoft SQL Server 和 T-SQL:从初级到高级
-
-### Brewster Knowlton 曾在商业智能行业的各个方面工作过。具有丰富的写作经验…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F>  
 
 # 在生产数据库上运行 SQL 查询时要考虑的 5 件事
 
@@ -46,11 +42,7 @@ SELECT Id, Name, Address from Employee with (NOLOCK) where Id= 2
 
 脏读是可能的。不过，值得注意的是，这个选项只适用于 SELECT 语句，对 Microsoft SQL Server 可用。请参阅 Udemy 上的 [**使用 Transact-SQL**](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/) 查询微软 SWL 服务器课程，了解更多关于表级和行级锁定的信息。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70-461-session-2-querying-microsoft-sql-server-2012%2F) [## 70-461，761:使用 Transact-SQL 查询 Microsoft SQL Server
-
-### 点评”指导老师讲解的很详细。非常容易理解。”——琳达·沈《精品课程……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70-461-session-2-querying-microsoft-sql-server-2012%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70-461-session-2-querying-microsoft-sql-server-2012%2F>  
 
 ## 2.在备份或辅助数据库服务器中运行查询
 
@@ -76,11 +68,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 有一本书可以在这里帮到你，那就是马库斯·温南(Markus Winand)所著的《SQL 性能讲解 》，这本书将从数据科学家的角度让你对数据库有一个很好的了解。
 
-[](http://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/?tag=javamysqlanta-20) [## SQL 性能解释了开发人员需要了解的关于 SQL 性能的一切
-
-### Amazon.com 上的 SQL 性能解释了开发人员需要了解的关于 SQL 性能的一切
-
-www.amazon.com](http://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/?tag=javamysqlanta-20) 
+<http://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/?tag=javamysqlanta-20>  
 
 > 你呢？在查询生产/实时数据库时，您需要遵循哪些提示或注意哪些事项？
 
@@ -102,8 +90,4 @@ www.amazon.com](http://www.amazon.com/Performance-Explained-Everything-Developer
 
 **附注**——如果你正在寻找一些免费的课程来开始学习数据库和 SQL 基础知识，那么你应该查看 Udemy 上的 [**数据库和 SQL 查询简介**](http://bit.ly/2BQuq2O) 课程，它是完全免费的，你只需要一个免费的 Udemy 帐户就可以访问这门课程。
 
-[](http://bit.ly/2BQuq2O) [## 免费数据库管理教程-数据库和 SQL 查询介绍
-
-### 我是一名程序员、经理、教育家和游戏玩家。我喜欢数据和分析。在我的日常工作中，我处理数据库…
-
-bit.ly](http://bit.ly/2BQuq2O)
+<http://bit.ly/2BQuq2O> 

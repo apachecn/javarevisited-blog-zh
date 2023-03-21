@@ -34,7 +34,7 @@ Python 也是一种面向对象的语言和开源语言，因此它有一个庞�
 
 毫无疑问，Udemy 是最好的学习平台之一，并且可能是想要学习许多不同领域技能的学生中最有名的，例如编程、设计和许多其他领域。该平台有数十门关于 python 编程语言的课程，其中一些课程会带你从初级到高级。
 
-这显然是 Udemy 上最好的 Python 课程。我在 Udemy 上参加了很多 Python 课程，比如何塞·波尔蒂利亚的《Python 3 训练营大全》[](http://bit.ly/2ysqzDa)**,这真的很棒，但是这个课程更好，有很多练习、测验和动手项目。
+这显然是 Udemy 上最好的 Python 课程。我在 Udemy 上参加了很多 Python 课程，比如何塞·波尔蒂利亚的《Python 3 训练营大全》<http://bit.ly/2ysqzDa>**,这真的很棒，但是这个课程更好，有很多练习、测验和动手项目。
 
 完整的 Python 课程:初级到高级课程有超过 16 个小时的视频内容，并向您展示如何创建 10 个程序，如 web scraper、使用 Django 框架的 web 应用程序、GUI 应用程序、数据可视化、机器学习等等。**
 
@@ -68,11 +68,7 @@ Python for Everybody 是由最好的大学之一密歇根大学提供的专业�
 
 **而且，如果你觉得 Coursera 课程有用，你应该考虑加入 Coursera Plus 课程，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书。****
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **4.[Python 编程简介— edX](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fintroduction-to-python-programming)**
 
@@ -102,11 +98,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **我强烈推荐这个订阅计划，因为您不仅可以访问这个项目，还可以访问 40 多个这样的项目、7000 多个在线课程和互动练习。或者，您也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费访问该课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **6.[学习 Python 编程大师班— Udemy](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-the-complete-python-developer-course%2F)**
 
@@ -137,11 +129,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **你可以单独购买这门课程，或者，如果你发现教育平台和他们的交互式 Python 和编码面试课程很有用，那么你也可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **8.[用 Python 设计模式](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-python%2F)**
 
@@ -217,8 +205,4 @@ T5 其他**Python**编程文章你可能喜欢**
 
 **如果你想学习 Python 编程，但负担不起这些在线培训课程的费用，或者正在寻找免费的资源来开始学习 Python 编程，那么我也建议你看看 Udemy 上的这个[**Python 编程简介**](http://bit.ly/2D5vvnV) 课程。**
 
-**[](http://bit.ly/2D5vvnV) [## 免费 Python 教程——Python 编程介绍
-
-### Avinash Jain 目前是加州大学伯克利分校电气工程和计算机科学专业的大二学生。他是…
-
-bit.ly](http://bit.ly/2D5vvnV)**
+**<http://bit.ly/2D5vvnV> **

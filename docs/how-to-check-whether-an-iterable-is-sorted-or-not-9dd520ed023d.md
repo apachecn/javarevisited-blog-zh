@@ -38,7 +38,7 @@ static <T> boolean isSorted(
 
 `**Comparator<? super T>**`
 
-我们将使用给定的`[comparator](http://www.java67.com/2014/11/java-8-comparator-example-using-lambda-expression.html)`参数来比较由`iterable`实例提供的每个元素。也就是说`[comparator](https://javarevisited.blogspot.com/2014/01/java-comparator-example-for-custom.html)` [](https://javarevisited.blogspot.com/2014/01/java-comparator-example-for-custom.html)将作为 ***消费*** 的对抗方法。这就是从 ***佩奇*** 到 ***消费超*** 的部分。如果您不熟悉泛型中的 PECS 概念，请参见[有效 Java](http://www.amazon.com/dp/0321356683/?tag=javamysqlanta-20) 。
+我们将使用给定的`[comparator](http://www.java67.com/2014/11/java-8-comparator-example-using-lambda-expression.html)`参数来比较由`iterable`实例提供的每个元素。也就是说`[comparator](https://javarevisited.blogspot.com/2014/01/java-comparator-example-for-custom.html)` <https://javarevisited.blogspot.com/2014/01/java-comparator-example-for-custom.html>将作为 ***消费*** 的对抗方法。这就是从 ***佩奇*** 到 ***消费超*** 的部分。如果您不熟悉泛型中的 PECS 概念，请参见[有效 Java](http://www.amazon.com/dp/0321356683/?tag=javamysqlanta-20) 。
 
 有了上面的定义，方法体就有些简单了。
 
@@ -60,7 +60,7 @@ static <T> boolean isSorted(
 
 **类型已经实现** `**Comparable**` **？**
 
-有些类型如`[String](http://www.java67.com/2018/06/top-35-java-string-interview-questions.html)` [](http://www.java67.com/2018/06/top-35-java-string-interview-questions.html)或`[Integer](https://javarevisited.blogspot.sg/2011/08/convert-string-to-integer-to-string.html)` [](https://javarevisited.blogspot.sg/2011/08/convert-string-to-integer-to-string.html)已经实现了`Comparable`接口。这意味着我们不需要任何特定的`Comparator`实例。
+有些类型如`[String](http://www.java67.com/2018/06/top-35-java-string-interview-questions.html)` <http://www.java67.com/2018/06/top-35-java-string-interview-questions.html>或`[Integer](https://javarevisited.blogspot.sg/2011/08/convert-string-to-integer-to-string.html)` <https://javarevisited.blogspot.sg/2011/08/convert-string-to-integer-to-string.html>已经实现了`Comparable`接口。这意味着我们不需要任何特定的`Comparator`实例。
 
 ```
 static <T extends Comparable<? super T>> boolean isSorted(
@@ -72,7 +72,7 @@ static <T extends Comparable<? super T>> boolean isSorted(
 
 `**Comparable<? super T>**`
 
-`Comparable<T>`接口是一个`[FunctionalInterface](https://javarevisited.blogspot.com/2018/01/what-is-functional-interface-in-java-8.html)` [](https://javarevisited.blogspot.com/2018/01/what-is-functional-interface-in-java-8.html)，其唯一定义的方法是`int compare(T o)`。
+`Comparable<T>`接口是一个`[FunctionalInterface](https://javarevisited.blogspot.com/2018/01/what-is-functional-interface-in-java-8.html)` <https://javarevisited.blogspot.com/2018/01/what-is-functional-interface-in-java-8.html>，其唯一定义的方法是`int compare(T o)`。
 
 这意味着当你创建你的假设的`Apple`类，它扩展了`Fruit`，实现了`Comparable<Apple>`，你得到了`int compare(Apple o)`。
 

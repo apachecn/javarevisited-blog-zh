@@ -119,8 +119,4 @@ SoapUI 还支持所有的标准协议和技术，这意味着你可以用它来�
 
 **p . s .**——如果你是一名初学者，想学习 RESTful web 服务的 Java 语言，并寻求一些建议，那么我强烈推荐你参加由 Ranga Karnam 在 Udemy 举办的 28 分钟的 [**掌握 Java Web 服务和 RESTful API 与 Spring Boot**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-web-services-tutorial%2F) 课程。这是 Java 开发者学习 REST APIs 的最佳课程。
 
-[](/javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d) [## 2023 年初学者在线学习的 10 门最佳 Java Web 服务[REST + SOAP]课程
-
-### 我最喜欢的在线课程，学习如何使用 Spring、JAX RS 和其他
-
-medium.com](/javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d)
+</javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d> 

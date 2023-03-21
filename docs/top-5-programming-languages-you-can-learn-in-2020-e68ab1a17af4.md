@@ -76,11 +76,7 @@ Python 也越来越多地用于新一代技术，如机器学习、人工智能�
 
 > *而且，如果你还不信服，那么你应该查看一下我的帖子关于*[*2023 年学 Python 的 10 个理由*](https://javarevisited.blogspot.sg/2018/05/10-reasons-to-learn-python-programming.html) *。*
 
-[](https://becominghuman.ai/why-everybody-should-learn-python-in-2020-2578e7031629) [## 为什么每个人都应该在 2023 年学习 Python？
-
-### 工作、机器学习、Web 开发、自动化，以及 2023 年学习 Python 的 10 个理由
-
-becominghuman.ai](https://becominghuman.ai/why-everybody-should-learn-python-in-2020-2578e7031629) 
+<https://becominghuman.ai/why-everybody-should-learn-python-in-2020-2578e7031629>  
 
 ## 3.Java Script 语言
 
@@ -100,11 +96,7 @@ JavaScript 的巨大成功部分归功于 jQuery，它真正改变了你在客�
 
 如果你需要更多的选择，并且不介意从免费资源中学习，那么你也可以查看一下这个针对 web 开发者的[**免费 JavaScript 课程**](http://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html) 列表。
 
-[](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32) [## 2023 年面向初学者的 12 大免费 JavaScript 课程——最好的
-
-### 从哈佛、Udemy、Coursera、Pluralsight、edX 和 Educative 学习 JavaScript 和 ES6 的 12+免费在线课程
-
-medium.com](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32) 
+</javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32>  
 
 ## 4.c 程序设计
 
@@ -130,11 +122,7 @@ C 语言仍然是系统编程最受欢迎的语言，在过去的两年里，它
 
 并且，如果你想学习 C++，也可以看看我为初学者准备的 [**免费 C++课程**](http://www.java67.com/2018/02/5-free-cpp-courses-to-learn-programming.html) 清单。
 
-[](/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e) [## 我最喜欢的从零开始学习 C++的课程-最好的和免费的
-
-### 大家好，你们可能知道 C++是最流行和最强大的面向对象编程语言之一，并且…
-
-medium.com](/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e) 
+</javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e>  
 
 ## 5.斯卡拉
 
@@ -179,8 +167,4 @@ Btw，不管你学了多少编程语言，你都必须把 [**干净代码**](htt
 
 > P.S. —如果你需要一些免费的资源，可以查看这份 [**免费数据结构与算法课程**](http://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html) 列表，开始你的编程之旅。
 
-[](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a) [## 面向初学者的 10 大免费数据结构和算法课程——最好的
-
-### 算法和数据结构是计算机科学的两个最基本和最重要的课题，是计算机科学的基础
-
-medium.com](/javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a)
+</javarevisited/top-10-free-data-structure-and-algorithms-courses-for-beginners-best-of-lot-ad807cc55f7a> 

@@ -104,11 +104,7 @@ image _ credit—AWS[https://aws.amazon.com/training/path-architecting/](https:/
 
 *顺便说一下，你需要一个 [*Pluralsight 会员*](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)* 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> * 
 
 ## *5. [AWS 认证解决方案架构师专业实务考试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-solutions-architect-professional-practice-exams-amazon%2F)*
 
@@ -174,10 +170,6 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 *感谢您阅读本文。如果您发现这些课程对您的 AWS 解决方案架构师-专业认证准备有用，请与您的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-**P. S.** —如果你刚刚接触云计算和 AWS 的世界，并且正在寻找一些免费的课程来学习亚马逊 Web 服务，那么你也可以查看这个为初学者提供的免费 AWS 课程列表[](https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-cloud.html)****。*****
+**P. S.** —如果你刚刚接触云计算和 AWS 的世界，并且正在寻找一些免费的课程来学习亚马逊 Web 服务，那么你也可以查看这个为初学者提供的免费 AWS 课程列表<https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-cloud.html>****。*****
 
-*****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-concepts%2F) [## 免费亚马逊 AWS 教程- AWS 概念
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-concepts%2F)*****
+*****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-concepts%2F> *****

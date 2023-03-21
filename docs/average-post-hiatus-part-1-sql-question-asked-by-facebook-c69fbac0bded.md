@@ -4,7 +4,7 @@
 
 ## 解决 facebook 提出的 SQL 问题
 
-> 最初发表于[](https://asyncq.com/average-post-hiatus-part-1-sql-question-asked-by-facebook)
+> 最初发表于<https://asyncq.com/average-post-hiatus-part-1-sql-question-asked-by-facebook>
 
 **![](img/fbe74fae5279044dbf64821d919ede26.png)**
 

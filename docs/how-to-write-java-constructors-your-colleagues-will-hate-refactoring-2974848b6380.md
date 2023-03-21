@@ -52,8 +52,4 @@
 [2019 年要学 Python 的 10 个理由](https://javarevisited.blogspot.com/2018/05/10-reasons-to-learn-python-programming.html)
 [每个 Java 开发者都应该知道的 10 个测试库](https://javarevisited.blogspot.sg/2018/01/10-unit-testing-and-integration-tools-for-java-programmers.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html) [## 2019 年 Java 开发者路线图
-
-### 我一直在分享很多成为 Web 开发者、DevOps 工程师、最近成为 React.js 开发者的路线图。一…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html> 

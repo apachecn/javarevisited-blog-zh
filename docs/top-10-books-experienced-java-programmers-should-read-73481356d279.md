@@ -24,11 +24,7 @@ Java 在不断变化，Java 16 刚刚发布，现在 Java 17 正在路上，但�
 
 顺便说一句，如果你想提高你的核心 Java 知识并寻找在线课程，那么你也可以看看 [**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 来填补你的核心 Java 知识的空白。这是以结构化方式学习 Java 的最全面和最新的课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 2023 年有经验的 Java 程序员的 10 本最佳书籍
 
@@ -153,8 +149,4 @@ Spring Boot 使得使用 Spring 框架变得更加容易，这也是它日益流
 
 **p . s .**——如果你刚刚开始学习 Java，并且正在寻找一些最好的课程来开始你的 Java 之旅，那么你也可以看看这个列表中的 [**最佳核心 Java 课程**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) ，这些课程面向初学者和有经验的程序员。
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd> 

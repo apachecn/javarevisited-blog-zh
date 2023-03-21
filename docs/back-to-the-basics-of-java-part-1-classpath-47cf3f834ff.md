@@ -211,11 +211,7 @@ FOUND
 
 我希望这里的一些错误对你理解类路径有所帮助。似乎很多教程只给出了正确的做事方式，但我发现看到不正确的做事方式对我的学习有很大帮助。
 
-[](https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-2-the-jar-6e923685d571) [## 回到 Java 基础——第 2 部分:JAR
-
-### 在第一部分中，我介绍了一个简单的例子，解释了如何正确使用类路径。我将用这个例子…
-
-ludvigwesterdahl.medium.com](https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-2-the-jar-6e923685d571) 
+<https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-2-the-jar-6e923685d571>  
 
 **参考文献**
 

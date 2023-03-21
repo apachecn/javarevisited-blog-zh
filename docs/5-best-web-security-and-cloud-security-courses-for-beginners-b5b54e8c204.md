@@ -42,11 +42,7 @@
 
 如果你还没有 ZTM 会员资格，我建议你申请一个，因为它可以让你访问 Andrei 所有最畅销的课程以及未来的任何新课程。你也可以使用我的优惠券代码**朋友 10** 来获得你选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 2.Coursera 上的[云安全基础知识](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcloud-security-basics)
 
@@ -54,11 +50,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 本课程也是云专业 中 [**网络安全的一部分，云专业是 Coursera 中最好的网络安全专业之一，由明尼苏达大学提供。**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcybersecurity-cloud)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcybersecurity-cloud) [## 云中的网络安全
-
-### 保护您的云免受网络攻击。利用现成的网络防御检测和阻止黑客这种专业化…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcybersecurity-cloud) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcybersecurity-cloud>  
 
 在本课程中，您将获得互联网安全的介绍，如云安全基础知识，然后了解如何控制在相同网络和网络协议中交互的不同主机。
 
@@ -70,11 +62,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3. [OWASP 十大:Web 应用安全](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-application-security-for-absolute-beginners-no-coding%2F)【Udemy 课程】
 
@@ -102,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看本课程。
 
-[](https://javarevisited.blogspot.com/2021/12/10-reasons-to-join-pluralsight-in-2022.html) [## 2023 年加入 Pluralsight 的 10 个理由——是的，Pluralsight 值得！！
-
-### 大家好，新年很快就要到了，如果你想通过加入一个在线的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/10-reasons-to-join-pluralsight-in-2022.html) 
+<https://javarevisited.blogspot.com/2021/12/10-reasons-to-join-pluralsight-in-2022.html>  
 
 ## 5.[网络黑客:成为专业的网络高手](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwebhacking%2F)
 
@@ -163,8 +147,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/10-reason
 
 **P. S.** —如果你热衷于学习网络安全并成为一名安全工程师，但负担不起这些课程或寻找免费的网络安全课程，那么你也可以在 Udemy 上查看这个 [**初学者网络安全课程【免费】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F) 课程。它是完全免费的，超过 90，000 名学生已经加入了这个课程。
 
-[](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-web-security-in.html) [## 2023 年学习网络安全的 5 大课程——最佳课程
-
-### 你好伙计们，如果你想学习网络安全，想成为安全专家，并在网上寻找最好的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-web-security-in.html)
+<https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-web-security-in.html> 

@@ -4,7 +4,7 @@
 
 ## 使用 Java 构建 RSS Feed 定期获取新闻
 
-> 最初发表于[](https://asyncq.com/how-to-build-rss-feed-client-in-java)
+> 最初发表于<https://asyncq.com/how-to-build-rss-feed-client-in-java>
 
 **[![](img/363880a4d0c2abba57f9fb8f33c72b6b.png)](https://www.youtube.com/watch?v=iJ93RGv_Q3E)**
 

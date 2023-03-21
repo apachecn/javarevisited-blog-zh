@@ -70,11 +70,7 @@
 
 而且，如果你觉得 Coursera 的课程和证书有用，那么你也应该加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[micro master 在 edX 上设计思维程序](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fritx-design-thinking)
 
@@ -170,8 +166,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你热衷于学习设计思维并寻找*免费的设计思维课程*开始，那么你也可以查看弗吉尼亚大学 Coursera 上的 [**敏捷遇上设计思维**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-getting-started-agile) 课程。你可以免费注册这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-getting-started-agile) [## 敏捷符合设计思维
-
-### 尽管每个人都有良好的意图、努力的工作和坚实的想法，但是太多的团队最终创造出了没有人…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-getting-started-agile)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-getting-started-agile> 

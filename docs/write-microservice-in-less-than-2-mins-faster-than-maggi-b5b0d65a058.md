@@ -159,8 +159,4 @@ page = 0&size = 2&sort = name，ASC* *}，
 
 请从这里下载代码。
 
-[](https://github.com/sagar11988/Spring-Data-REST-Product-Microservice.git) [## GitHub-Sagar 11988/Spring-数据-休息-产品-微服务
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/sagar11988/Spring-Data-REST-Product-Microservice.git)
+<https://github.com/sagar11988/Spring-Data-REST-Product-Microservice.git> 

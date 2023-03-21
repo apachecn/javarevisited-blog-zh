@@ -61,11 +61,7 @@ Udemy 是我学习任何东西的必去之地，包括 Linux。它收集了最�
 
 他们还有一个名为[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**的会员资格，可以让你从超过 7000 门顶级 Coursera 课程中学习尽可能多的课程、证书和专业知识。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **3.[教育性](https://www.educative.io/trial?affiliate_id=5073518643380224)【基于文本，在线练习，免费试用】**
 
@@ -83,11 +79,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****他们也有许多免费资源来学习编程技能，如 Java、Python、JavaScript、PHP、Ruby 等，并且 [***教育订阅***](https://www.educative.io/subscription?affiliate_id=5073518643380224) 也非常实惠，只需 14.9 美元就可以获得他们所有的高质量课程。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****4.[学习 Linux @ Codecademy](https://bit.ly/codecademyhome)****
 
@@ -103,11 +95,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ****他们也有一个 [**Codecademy PRO**](https://bit.ly/codecademypro) 计划，在年度计划中每月只需 15.9 美元就可以访问他们所有的互动课程。如果你喜欢互动学习，那么你可以通过订阅来学习所需的技术技能。他们现在还提供 *40%的折扣*，使用 code GETHIRED，所以这是加入 Codecademy 的好时机。****
 
-****[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:Pro
-
-### 这不仅仅是一种教育，更是一种体验访问我们旨在实现在线学习的完整课程…
-
-codecademy.com。](https://bit.ly/codecademypro)**** 
+****<https://bit.ly/codecademypro> **** 
 
 ## ****5.[网络终端](https://www.webminal.org/)****
 
@@ -137,11 +125,7 @@ codecademy.com。](https://bit.ly/codecademypro)****
 
 ****这是在线学习 Linux 的一个很棒的课程。如果您没有 Pluralsight 会员资格，请使用他们的 [***10 天免费试用***](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看本课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 以上是关于在线学习 Linux 的一些最好的网站。我已经尝试包括不同种类的资源，如在线课程和网站，你可以在那里练习 Linux 命令，但这个列表绝不是完整的，如果你遇到其他学习 Linux 命令的好网站，请分享。
 
@@ -169,8 +153,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你不介意花几块钱去学习像 Linux 这样有价值且受欢迎的技能，它将会为你服务很长一段时间，那么我强烈推荐你去看看 Medium 上的 [**初学者最佳 Linux 课程**](/javarevisited/7-best-linux-courses-for-developers-cloud-engineers-and-devops-in-2021-7415314087e1) 列表，它包含了程序员、开发人员和 DevOps 工程师的最佳 Linux 课程。
 
-[](https://www.java67.com/2020/07/top-5-courses-to-learn-linux-in-depth.html) [## 2023 年 Udemy、Coursera 和 Pluralsight 为初学者提供的前 5 名 Linux 课程[更新] -最佳…
-
-### 你好伙计们，如果你想学习 Linux 操作系统和命令行，并寻找最好的 Linux 课程，你…
-
-www.java67.com](https://www.java67.com/2020/07/top-5-courses-to-learn-linux-in-depth.html)****
+<https://www.java67.com/2020/07/top-5-courses-to-learn-linux-in-depth.html> ****

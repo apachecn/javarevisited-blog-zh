@@ -29,7 +29,7 @@
 1.  [**Udemy 课程 85 折**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0)
 2.  [**Coursera Plus 为 1 美元**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 3.  [**Codecademy 年度计划五折优惠**](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fsubscriptions%2FproAnnualV3%2Fcheckout%3FdiscountCode%3DCYBER21)
-4.  [](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**plur sight 年度套餐享受 40%的折扣**
+4.  <https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**plur sight 年度套餐享受 40%的折扣**
 5.  **[**教育性不限打 7 折**](https://www.educative.io/subscription?affiliate_id=5073518643380224)**
 6.  **[**101 项区块链认证六折优惠**](http://shrsl.com/349rm)**
 7.  **[**乌达城买一赠一**](https://imp.i115008.net/c/1193463/1201337/11298)**

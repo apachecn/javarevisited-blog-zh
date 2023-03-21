@@ -24,11 +24,7 @@
 
 你可以在这里阅读全文:
 
-[](https://mcsee.medium.com/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-40409d80adfc) [## 黑客如何利用代码气味窃取了 5.66 亿美元
-
-### 我不是安全专家。但是我喜欢干净的代码和代码的味道
-
-mcsee.medium.com](https://mcsee.medium.com/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-40409d80adfc) 
+<https://mcsee.medium.com/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-40409d80adfc>  
 
 # 示例代码
 
@@ -82,15 +78,7 @@ public class Person {public String name;
 
 # 关系
 
-[](https://blog.devgenius.io/code-smell-49-caches-d2e64373b838) [## 代码气味 49 —缓存
-
-### 储藏处很性感。他们是一夜情。我们需要在长期关系中避开它们。
-
-blog.devgenius.io](https://blog.devgenius.io/code-smell-49-caches-d2e64373b838) [](https://levelup.gitconnected.com/code-smell-150-equal-comparison-4a3d1eed823d) [## 代码气味 150 —同等比较
-
-### 每个开发人员都平等地比较属性。他们错了。
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/code-smell-150-equal-comparison-4a3d1eed823d) 
+<https://blog.devgenius.io/code-smell-49-caches-d2e64373b838>  <https://levelup.gitconnected.com/code-smell-150-equal-comparison-4a3d1eed823d>  
 
 # 更多信息
 
@@ -108,16 +96,8 @@ levelup.gitconnected.com](https://levelup.gitconnected.com/code-smell-150-equal-
 
 *Wietse Venema*
 
-[](https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782) [## 软件工程名言
-
-### 有时一个简短的想法可以带来惊人的想法。
-
-blog.devgenius.io](https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782) 
+<https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782>  
 
 本文是 CodeSmell 系列的一部分。
 
-[](https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c) [## 如何找到你的代码中有问题的部分
-
-### 代码很难闻。让我们看看如何改变香味。
-
-blog.devgenius.io](https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c)
+<https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c> 

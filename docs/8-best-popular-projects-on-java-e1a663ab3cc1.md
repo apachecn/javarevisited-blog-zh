@@ -90,11 +90,7 @@ Android OS 的官方 LinkedIn 移动应用也是用 [Java](/javarevisited/top-5-
 
 并且，如果你是学 Python 的，还可以看看 [8 Python 项目](https://dev.to/javinpaul/9-projects-you-can-do-to-become-a-python-master-in-2020-1om)更好的学习 Python。
 
-[](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) [## 2020 年学习 Python 可以建立的 8 个项目
-
-### 大家好，今天，我将分享一些基于项目的免费课程，你们不仅可以用它们来建立…
-
-medium.com](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) 
+</javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56>  
 
 # 结论
 
@@ -104,16 +100,4 @@ medium.com](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd
 
 **您可能喜欢的其他 Java 文章**
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2021 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [](/javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c) [## 2021 年面向 Java 程序员的 12 门高级 Spring 框架课程
-
-### 我最喜欢的高级 Spring 框架课程，适合 Java 程序员学习 Spring Boot、Hibernate、Spring Cloud…
-
-medium.com](/javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2>  </javarevisited/12-advanced-spring-framework-courses-for-java-programmers-a273f6e4448c> 

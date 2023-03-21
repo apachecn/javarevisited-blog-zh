@@ -42,11 +42,7 @@ image _ credit—undraw.co
 
 您可以单独加入该专业证书，也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 课程，无限制获取 Coursera 证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 2. [UX 与网页设计硕士课程:战略、设计、开发](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fux-web-design-master-course-strategy-design-development%2F)
 
@@ -76,11 +72,7 @@ UX 研究和设计是针对那些希望在 UX 有一个坚实的基础。该课�
 
 顺便说一句，如果你觉得 Coursera 课程和专业有用，那么你也应该加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，它为你提供无限制访问最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4 [用户体验设计要点——Adobe XD UI UX 设计](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fui-ux-web-design-using-adobe-xd%2F)
 
@@ -138,11 +130,7 @@ UX 不是设计的唯一因素，也是潜在客户的行为和人为因素。
 
 顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 刚刚通过#思科 DEVASC 200-901 考试！考试很难，但这是一次很棒的经历。我很高兴能成为……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 8.[全网&2023 年手机设计师:UI/UX、Figma、+more](https://academy.zerotomastery.io/p/complete-web-and-mobile-designer?affcode=441520_zytgk2dn)
 
@@ -167,11 +155,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 这门课程是由安德烈·尼戈伊创建的，在 Udemy 和 [ZTM 学院](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)都可以上，安德烈的学院只需要一个[会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)就可以上他所有的课程。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 以上就是 2023 年学习 UX/UI 设计的**最佳课程**。如果你正在学习 UI/UX 设计，那么这些在线培训课程会有很大的帮助。正如我所说的，用户界面/UX 和网页设计技能需求很大，随着越来越多的公司、个人和商店将会上网，他们的需求只会增加。这是获得这些抢手技能的绝佳时机，也是抓住对 UI/UX 专业人员日益增长的需求的绝佳时机。
 
@@ -196,8 +180,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 **p . s .——**如果你想学习 UI 设计和网页设计技能，但负担不起这些在线培训课程，或者只是想找一个免费的课程开始，那么我也强烈推荐 [**给网页开发者的网页设计:建立漂亮的网站！Jonas Schedtmann 教授的课程，最好的网页设计入门课程之一，在 Udemy 上也是免费的。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) [## 免费网页设计教程-网页开发人员的网页设计:建立美丽的网站！
-
-### 重要提示:这门课的内容也包含在我的另一门关于网页设计和开发的课程中
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F> 

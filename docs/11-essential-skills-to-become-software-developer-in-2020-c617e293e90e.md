@@ -96,7 +96,7 @@
 
 对于 Java 程序员来说，有三个主要的 IDE 可以选择，像 Eclipse、NetBeans 和 IntelliJ，而 [Eclipse](/javarevisited/top-10-courses-to-learn-eclipse-junit-and-mockito-for-java-developers-4de1e8d62b96) 是我的最爱， [IntelliJIDEA](https://itnext.io/top-5-intellijidea-and-android-studio-courses-for-java-and-android-programmers-afcc27309b60) 一点也不差。
 
-如果你想更好地学习 IDEA，你也可以去看看[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F)**由[陶 W](https://medium.com/u/96d8feaeb19f?source=post_page-----c617e293e90e--------------------------------) 和[李中清](https://medium.com/u/73cfaf96b88b?source=post_page-----c617e293e90e--------------------------------)教授的课程**
+如果你想更好地学习 IDEA，你也可以去看看<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F>**由[陶 W](https://medium.com/u/96d8feaeb19f?source=post_page-----c617e293e90e--------------------------------) 和[李中清](https://medium.com/u/73cfaf96b88b?source=post_page-----c617e293e90e--------------------------------)教授的课程**
 
 **[![](img/c2778abeb7f463f4d93cee6f932b7981.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F)**
 
@@ -183,16 +183,4 @@
 
 ## **你可能喜欢的其他媒体文章**
 
-**[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 完整的 DevOps 路线图
-
-### 成为前端或后端开发人员的图解指南，提供课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) [## 面向程序员的 5 门免费面向对象编程在线课程
-
-### 成为 DevOps 工程师的图解指南，包含相关课程的链接
-
-medium.com](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)**
+**</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </hackernoon/the-2018-devops-roadmap-31588d8670cb>  </swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73> **

@@ -22,11 +22,7 @@
 
 如果你很急，准备开始这个职业生涯，我推荐你报名参加这个 [**TensorFlow:高级技术专精**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques) 项目。对于想掌握谷歌这个热门机器学习库的人来说，完全值得。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques) [## 张量流:高级技术
-
-### 扩展您的技能集并掌握 TensorFlow。通过四门实践课程定制您的机器学习模型…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques>  
 
 # 回顾 Coursera 的 TensorFlow:高级技术专业化值得吗？
 
@@ -108,11 +104,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Coursera 编程和开发文章**
 
@@ -137,8 +129,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你正在寻找学习 TensorFlow 的最佳 Udemy 在线课程，那么你也可以在 Udemy **上查看 [**TensorFlow 开发者证书:零到精通课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftensorflow-developer-certificate-machine-learning-zero-to-mastery%2F) **e** 。**它是 Udemy 上最好的 TensorFlow 认证课程之一，受到超过 14K 学习者的信赖，而如果你想成为认证 TensorFlow 开发者，那么 2022 年这个 Coursera Professional 认证也值得一看。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques) [## 张量流:高级技术
-
-### 扩展您的技能集并掌握 TensorFlow。通过四门实践课程定制您的机器学习模型…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ftensorflow-advanced-techniques> 

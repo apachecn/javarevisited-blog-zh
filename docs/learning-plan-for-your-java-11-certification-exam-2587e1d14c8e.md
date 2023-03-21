@@ -86,12 +86,4 @@
 
 **您可能喜欢的其他 **Java 认证文章****
 
-**[](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) [## 我在 Udemy 上的 Java SE 11[1z 0–819]模拟测试现已上线
-
-### 大家好，我很兴奋地宣布我今年的第三个项目，Java SE 11 练习测试[1z 0–819]现在已经出来了…
-
-medium.com](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) [](/javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f) [## 破解 Java SE 11 认证的 7 本最佳书籍、课程和实践测试—OCAJP 11(1z 0–815)…
-
-### 大家好，如果你正在准备 OCAJP 11(1z 0–815)或 OCPJP 11(1z 0–816)的考试，并寻求一些建议…
-
-medium.com](/javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f)**
+**</javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7>  </javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f> **

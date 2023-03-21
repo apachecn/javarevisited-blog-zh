@@ -212,8 +212,4 @@ Python 的基本目标是让开发者保持编程乐趣。如今， [Python](htt
 
 **P. S. —** 如果你想学习 Python 编程，但负担不起这些在线培训课程或寻找免费资源开始学习 Python 编程，那么我也建议你看看 Udemy 的[**Python 编程简介**](http://bit.ly/2D5vvnV) 。这是完全免费的，你需要的只是一个免费的 Udemy 帐户来注册这门课程。已经有超过 100 万的学生通过这门课程学习了 Python。
 
-[](/javarevisited/10-best-and-free-datacamp-courses-to-learn-python-and-data-skills-in-2021-39e42682fd76) [## 2023 年在 Datacamp 上学习 Python 和数据科学的 8 门免费课程
-
-### 我最喜欢的 Datacamp 课程，在线学习 Python、SQL、数据科学和其他数据分析技能。它包括…
-
-medium.com](/javarevisited/10-best-and-free-datacamp-courses-to-learn-python-and-data-skills-in-2021-39e42682fd76)
+</javarevisited/10-best-and-free-datacamp-courses-to-learn-python-and-data-skills-in-2021-39e42682fd76> 

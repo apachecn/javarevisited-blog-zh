@@ -24,7 +24,7 @@ image_credit — Eucative.io
 
 # **2023 Python 开发者路线图**
 
-**那么，我们还在等什么，让我们从第一件事开始，是的，我说的是学习 Python 编程语言[](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)*，然后我们将进入用于 web 开发、数据科学和机器学习的基本 Python 工具、库和 Python 框架。***
+**那么，我们还在等什么，让我们从第一件事开始，是的，我说的是学习 Python 编程语言<https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>*，然后我们将进入用于 web 开发、数据科学和机器学习的基本 Python 工具、库和 Python 框架。***
 
 ***但是，首先让我们看看 t **他的 2023 Python 程序员路线图*****
 
@@ -54,11 +54,7 @@ image_credit — Eucative.io
 
 ***但是如果你对这[两个 Python 资源](https://javarevisited.blogspot.com/2019/09/5-websites-to-learn-python-for-free.html)不满意，想从 YouTube 视频或博客帖子中学习，并按照主题进行，我会指导你如何实现。我也分享过我[喜欢的 Python 课程](https://betterprogramming.pub/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec?gi=447a67345e8f)、[书籍](/javarevisited/my-favorite-books-to-learn-python-in-depth-77465633b46e)、[项目](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56)和[网站](/javarevisited/10-free-python-tutorials-and-courses-from-google-microsoft-and-coursera-for-beginners-96b9ad20b4e6)在线学习 Python。***
 
-***[](https://www.java67.com/2020/05/top-5-courses-to-learn-python-in-depth.html) [## 2023 年学习 Python 的 7 大在线课程——最好的
-
-### 大家好，如果你想在 2023 年学习 Python 编程语言，并且正在寻找最好的 Python 课程，你…
-
-www.java67.com](https://www.java67.com/2020/05/top-5-courses-to-learn-python-in-depth.html) 
+***<https://www.java67.com/2020/05/top-5-courses-to-learn-python-in-depth.html>  
 
 # 2.框架和库
 
@@ -145,8 +141,4 @@ Django 是一个 python 库的集合，允许您构建 web 应用程序，用于
 
 *******附言——**如果你是从零开始，并且正在寻找一门从零开始学习 Python 的课程，那么我强烈推荐你参加由 Angela Yu 主持的[**100 天的代码:2023 年完整的 Python Pro Bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F100-days-of-code%2F)，她是前 boot camp 讲师，现在是一位受欢迎的 Udemy 讲师。这是一门非常棒的基于动手项目的课程，从零开始学习 Python。*****
 
-*****[](/javarevisited/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad) [## 我最喜欢的深入学习 Python 的课程
-
-### Udemy、Coursera、edX 为 2023 年学习编程的初学者精心策划的最佳 Python 课程列表…
-
-medium.com](/javarevisited/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad)*****
+*****</javarevisited/7-best-python-online-courses-for-beginners-to-learn-programming-abe12cecb1ad> *****

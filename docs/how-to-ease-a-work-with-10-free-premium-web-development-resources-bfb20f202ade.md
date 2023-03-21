@@ -100,7 +100,7 @@
 *   创建和销售您的模板；
 *   使用时尚的设计。
 
-**价格:**启动计划每年 29 美元。高级计划每年 49 美元。开发者计划一次 149 美元。你也可以免费试用[](http://try.novibuilder.com/?aff=javarevisited&utm_campaign=blog_site_javarevisited&utm_source=javarevisited&utm_medium=referral)**。**
+**价格:**启动计划每年 29 美元。高级计划每年 49 美元。开发者计划一次 149 美元。你也可以免费试用<http://try.novibuilder.com/?aff=javarevisited&utm_campaign=blog_site_javarevisited&utm_source=javarevisited&utm_medium=referral>**。**
 
 ****适用于:****
 

@@ -308,4 +308,4 @@ TilesFX 只是您可以在应用程序中使用的许多开源库之一，或者
 
 通过在 Raspberry Pi 上运行该应用程序，您可以以非常低的价格获得一个始终在线的仪表板屏幕。
 
-*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*[](https://www.hivemq.com/blog/mqtt-raspberrypi-part02-visualizing-sensor-data-on-a-tilesfx-dashboard/)**。**
+*本文应 HiveMQ 的要求而写，最初发表于 HiveMQ 的博客*<https://www.hivemq.com/blog/mqtt-raspberrypi-part02-visualizing-sensor-data-on-a-tilesfx-dashboard/>**。**

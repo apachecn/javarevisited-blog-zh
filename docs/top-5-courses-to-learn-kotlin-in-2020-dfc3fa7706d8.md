@@ -76,11 +76,7 @@ Kotlin 是由 [JetBrains](https://www.jetbrains.com/) ，IntelliJ IDEA 背后的
 
 顺便说一下，你可以单独参加这个课程，或者你可以参加 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) (推荐)来获得他们的 250 多个高质量、基于文本的交互式课程，以学习编码面试、软件开发和技术的关键技能。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## [3。完整的 Kotlin 开发者课程](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-kotlin-developer-course-java%2F)
 
@@ -124,11 +120,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 你将开发现实生活中的项目，这是学习新的编程语言或技术的最好方式。
 
-[](http://www.java67.com/2017/12/10-ways-to-learn-new-technology-programming-language-or-framework.html) [## 2023 年学习新编程语言或科技技能的 10 种方法？
-
-### 成为程序员或软件工程师的主要挑战之一是不断学习。是的，确实如此。作为一个…
-
-www.java67.com](http://www.java67.com/2017/12/10-ways-to-learn-new-technology-programming-language-or-framework.html) 
+<http://www.java67.com/2017/12/10-ways-to-learn-new-technology-programming-language-or-framework.html>  
 
 ## [6。使用 Android Oreo 的 Android Kotlin 开发大师班](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fandroid-oreo-kotlin-app-masterclass%2F)
 
@@ -168,8 +160,4 @@ Kotlin 是一种用于 Android 开发的表达性强、简洁、功能强大的�
 
 **p . s .**——如果你需要一些 Android 开发课程，可以看看这份 [Android 培训课程清单](https://javarevisited.blogspot.com/2017/12/top-5-android-online-training-courses-for-Java-developers.html)开始你的旅程。
 
-[](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675) [## 2023 年 5 门免费安卓 App 开发课程，供初学者学习
-
-### 这些是免费学习 Android 与 Java 和 Kotlin 的最佳免费课程
-
-medium.com](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675)
+</javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675> 

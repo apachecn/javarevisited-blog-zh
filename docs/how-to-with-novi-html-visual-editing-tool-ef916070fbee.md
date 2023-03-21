@@ -34,11 +34,7 @@ Novi 最大的优点是它是 B2B/B2C 在线平台，是网页设计者和最终
 
 为了让你的旅程有趣和愉快，你需要有一个单独的托管账户。总之，它导致了更快的页面加载速度。查看 [**详情点击**](https://novibuilder.com/documentation/?aff=javarevisited) 。
 
-[](https://novibuilder.com/documentation/?aff=javarevisited) [## 证明文件
-
-### 概述 Novi Builder 插件的简要概述。欢迎使用 Novi Builder！
-
-novibuilder.com](https://novibuilder.com/documentation/?aff=javarevisited) 
+<https://novibuilder.com/documentation/?aff=javarevisited>  
 
 # #4 易用性
 

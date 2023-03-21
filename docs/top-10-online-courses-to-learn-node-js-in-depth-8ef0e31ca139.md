@@ -106,11 +106,7 @@ Udemy 有很多精彩的 Node.js 课程，我不得不提到另一个在线课�
 
 或者，您也可以通过与 Pluralsight 签署 [10 天免费试用协议来免费获得该课程。你不需要支付一分钱，但是的，你需要先注册，你将获得 200 分钟观看他们的任何课程。](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 刚刚通过#思科 DEVASC 200-901 考试！考试很难，但这是一次很棒的经历。我很高兴能成为……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 6 [**。学习和理解节点 JS**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstand-nodejs%2F)
 
@@ -166,11 +162,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费约 23 美元，但也提供了许多超级吸引人和有用的课程，如他的 Python 和 JavaScript 课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 10. [Learn Node.js:初学者完全教程](https://www.educative.io/courses/learn-nodejs-complete-course-for-beginners?affiliate_id=5073518643380224)【教育性】
 
@@ -188,11 +180,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 而且，如果你觉得教育平台和他们的互动课程很有用，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就能获得他们的 100 多门课程。它非常划算，非常适合准备编码面试和学习新的技术技能。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 11.[node . js API master class With Express&MongoDB](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnodejs-api-masterclass%2F)【Udemy】
 
@@ -255,8 +243,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S. —** 如果你热衷于学习 Node.js，但正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看[**Node:边做边学**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-with-node%2F) 的代码，这是一门 19 小时的免费课程，用于学习 Node.js。这个课程是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。超过 24，000 名开发人员已经加入了这一课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-with-node%2F) [## 免费 Node.js 在线课程 Node 代码:边做边学
-
-### 如何快速调试错误如何快速掌握新技术如何构建分页、搜索等功能…
-
-udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-with-node%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcode-with-node%2F> 

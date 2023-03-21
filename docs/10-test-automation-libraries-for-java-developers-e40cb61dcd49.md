@@ -150,11 +150,7 @@ Testcontainers 是一个支持 JUnit 测试的 Java 库，提供了通用数据�
 
 如果你需要更多的选择，那么 Philp 的 [**Spring Boot 测试大师班**](https://transactions.sendowl.com/stores/13745/197427) 是另一个值得一看的课程，可以让你的 Java 和 Spring Boot 测试技能更上一层楼。还可以使用优惠券 TSBAX_M2LAP 限时九折。
 
-[](https://transactions.sendowl.com/stores/13745/197427) [## 测试 Spring Boot 应用大师班- rieckpil
-
-### 你还记得你写的第一份 Spring Boot 申请吗？您很兴奋现在终于可以通过一个…
-
-transactions.sendowl.com](https://transactions.sendowl.com/stores/13745/197427) 
+<https://transactions.sendowl.com/stores/13745/197427>  
 
 我真的很喜欢他的课程，还没有复习，但是你可以期待菲利普的 Spring Boot 测试大师课的复习
 
@@ -180,8 +176,4 @@ transactions.sendowl.com](https://transactions.sendowl.com/stores/13745/197427)
 
 **P.S.** —如果你只是想从 JUnit 和 Mockito 开始，我觉得 [**JUnit 和 Mockito 速成班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjunitandmockitocrashcourse%2F) 是最好的开始。
 
-[](https://javarevisited.blogspot.com/2019/04/top-5-junit-and-unit-testing-courses-java-programmers.html#axzz6iYmMFnsA) [## 2023 年 Java 开发人员在线学习的 5 大 JUnit 5、Mockito 和 TDD 课程——最好的
-
-### 大家好，如果你想学习 Java 中的单元测试以及像 JUnit、测试驱动开发的 Mockito 和…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-junit-and-unit-testing-courses-java-programmers.html#axzz6iYmMFnsA)
+<https://javarevisited.blogspot.com/2019/04/top-5-junit-and-unit-testing-courses-java-programmers.html#axzz6iYmMFnsA> 

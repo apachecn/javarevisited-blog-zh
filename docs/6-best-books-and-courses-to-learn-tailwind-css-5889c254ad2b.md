@@ -152,8 +152,4 @@ Tailwind CSS 是一种快速、高效、独特且有用的 web 内容样式化�
 
 **P. S.** —如果你是网页设计和开发的初学者，热衷于学习 CSS，如果你需要在线培训课程或课程来开始你的旅程，那么你也可以在 Udemy 上查看这个[**CSS—2023 年完整指南(包括 Flexbox，Grid & Sass)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcss-the-complete-guide-incl-flexbox-grid-sass%2F) 课程。从零开始学习 CSS 是最好的课程之一。
 
-[](https://javarevisited.blogspot.com/2019/05/top-5-html-5-and-css-3-courses-for-web-developers.html#axzz7DhisOz1u) [## 2023 年在线学习的 5 大 HTML 5 和 CSS 3 课程-最佳选择
-
-### 你好，伙计们，如果你正在学习网页开发或想成为一名网页开发人员，你来对了…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/05/top-5-html-5-and-css-3-courses-for-web-developers.html#axzz7DhisOz1u)
+<https://javarevisited.blogspot.com/2019/05/top-5-html-5-and-css-3-courses-for-web-developers.html#axzz7DhisOz1u> 

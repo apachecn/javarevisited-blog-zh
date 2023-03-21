@@ -224,8 +224,4 @@ Angular 框架包括一个依赖注入子系统，对于希望更直接地构建
 
 顺便说一句，我们的促销代码'**javarestived**'在所有角度模板上给予 **5%的折扣。我们希望你已经为你的在线项目选择了一些能够脱颖而出的东西。感谢阅读！**
 
-[](https://www.templatemonster.com/website-templates/stylyn-cosmetic-and-beauty-shop-angular-template-198885.html) [## Stylyn -化妆品和美容店角模板
-
-### 化妆品和美容店角模板。我们很高兴推出我们的 stylyn 模板角版本后…
-
-www.templatemonster.com](https://www.templatemonster.com/website-templates/stylyn-cosmetic-and-beauty-shop-angular-template-198885.html)
+<https://www.templatemonster.com/website-templates/stylyn-cosmetic-and-beauty-shop-angular-template-198885.html> 

@@ -8,7 +8,7 @@
 
 你好，Java 程序员，如果你想学习 JUnit 和 Java 测试驱动开发，或者想提高你的 TDD 技能，并寻找最好的资源，如书籍和在线课程，那么你来对地方了。
 
-早些时候，我已经分享了 Java 开发人员的最佳 JUnit 课程[](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688)*，在这篇文章中，我将分享你可以阅读的学习 Java 测试驱动开发的最佳书籍，以及 JUnit 和 Mockito 等基本测试工具。*
+早些时候，我已经分享了 Java 开发人员的最佳 JUnit 课程</javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688>*，在这篇文章中，我将分享你可以阅读的学习 Java 测试驱动开发的最佳书籍，以及 JUnit 和 Mockito 等基本测试工具。*
 
 *如果你做过一些专业的 Java 开发，你就会知道单元测试是一件必须学会适应的事情。在我看来，这是专业开发人员最应该学习的一项实践。这也是区别优秀程序员和专业程序员的一项技能。*
 
@@ -28,11 +28,7 @@
 
 这篇文章将分享你喜欢阅读的学习单元测试、TDD 和 JUnit 的 5 本最佳书籍，这将帮助你学习单元测试并掌握编写好测试的艺术。在 Java 世界中，单元测试和 JUnit 是同义的，所以本书的大部分内容将教你使用 JUnit 进行单元测试。这很好，因为对 JUnit 如何工作以及如何使用不同的 JUnit 注释的全面了解将鼓励您编写更多的测试。如果你还需要在线课程来配合这本书，我强烈推荐你查看 Udemy 上的 [**JUnit 和 Mockito 速成班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjunitandmockitocrashcourse%2F) 。*
 
-*[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjunitandmockitocrashcourse%2F) [## JUnit 和 Mockito 速成班:学习 JUnit 和 Mockito 单元测试
-
-### Bharath Thippireddy 是一名企业家、软件架构师和公共演说家，他已经培养了超过 400000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjunitandmockitocrashcourse%2F) 
+*<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjunitandmockitocrashcourse%2F>  
 
 我发现当我们把在线课程和书本结合起来时，我们学得更好。本课程提供了快速入门和帮助设置，而本书提供了深入的知识。
 
@@ -72,11 +68,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 简而言之，这是喜欢对程序进行单元测试的 Java 开发人员的必读单元测试书。如果你喜欢在线课程，你也可以把这个和 Udemy 的 [**Java 单元测试初学者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjunit5-for-beginners%2F) 课程结合起来，两全其美。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjunit5-for-beginners%2F) [## 用 JUnit 5 进行实用的 Java 单元测试
-
-### 你好！我叫 Adrian，是一名专业的 Java 开发人员。您刚刚找到了关于 JUnit 的评分最高的课程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjunit5-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjunit5-for-beginners%2F>  
 
 ## 2.测试驱动:面向 Java 开发人员的 TDD 和验收 TDD
 
@@ -96,11 +88,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你更喜欢在线课程，也可以把这本书和[**Java 程序员实用测试驱动开发**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpractical-test-driven-development-for-java-programmers%2F) 结合起来，两全其美。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpractical-test-driven-development-for-java-programmers%2F) [## 面向 Java 程序员的实用测试驱动开发
-
-### 作为一名职业程序员，主要在银行业工作了 20 多年，Matt 现在为 Virtual Pair…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpractical-test-driven-development-for-java-programmers%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpractical-test-driven-development-for-java-programmers%2F>  
 
 与我最喜欢的书 [Effective Java](/javarevisited/effective-java-by-joshua-bloch-a-must-read-book-for-java-developers-5292197a279e) 类似，这本书也有很好的简单解释，以及不平凡的例子，即使是有经验的 Java 程序员也会对此感兴趣。
 
@@ -118,11 +106,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 但是如果你想要一个配套课程，那么你也可以查看 Ranga Karnam 的《用 Junit & Mockito 学习 Java 单元测试的 30 个步骤 课程》。这是一个很好的在线学习 JUnit 和 Mockito 的实践课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) [## 学习 Mockito 和 JUnit 教程(单元测试)
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F>  
 
 ## 4.有效的 JUnit 测试:Java 开发人员指南
 
@@ -142,11 +126,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 而且，如果你需要一个在线课程来配合这本 JUnit 书，我推荐 Udemy 上 Andreli 的 [**JUnit 5、Mockito、PowerMock、TDD、BDD & ATTD**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-for-developers%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-for-developers%2F) [## JUnit 5、Mockito、PowerMock、TDD、BDD 和 ATTD
-
-### 从本课程中，您可以学习面向软件工程师的测试，包括 JUnit 5、Mockito、PowerMock 和…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-for-developers%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-for-developers%2F>  
 
 ## 5.使用 JUnit 和 Mockito 进行实用的 Java 单元测试
 
@@ -166,11 +146,7 @@ Tomek 还包含了一章关于使用测试驱动开发(TDD)开发优秀代码的
 
 你也可以把这本书和 Udemy 的 [*即时测试驱动的 Java、JUnit 和 Mockito*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F) 课程结合起来，以便更好的学习。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F) [## 使用 Java、JUnit 和 Mockito 进行即时测试驱动开发
-
-### Ashley 是一名软件工程顾问、技术作者和导师。作为一个 TDD 爱好者，他…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F>  
 
 这就是我列出的使用 JUnit、Mockito、TDD、和其他测试库进行 Java 单元测试的前五本书。正如我所说的，如果你想成为一名更好的开发人员，并且远远领先于其他人，提高你的单元测试技能。10 个 Java 开发人员中有 5 个不知道单元测试，在这 5 个人中，只有 2 个能写出高质量、可读和可维护的代码。
 
@@ -191,8 +167,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 **P. S. —** 如果你与培训课程的联系比书本更好，这里列出了一些可以从 Udemy 和 Pluralsight 学习的好课程: [**学习 JUnit 和 Java 测试驱动开发的 5 门课程**](https://javarevisited.blogspot.com/2019/04/top-5-junit-and-unit-testing-courses-java-programmers.html) ，看看吧。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) [## 学习 Mockito 和 JUnit 教程(单元测试)
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F)*
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F> *

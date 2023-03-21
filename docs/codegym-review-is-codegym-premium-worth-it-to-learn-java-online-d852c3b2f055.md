@@ -88,11 +88,7 @@ CodeGym 也很容易访问，因为有一个完全免费的入门网站。你可
 
 此外，还有一个 [Premium Pro 订阅](https://codegym.cc/sale/?ref=javinpaul3)，你必须每月支付**99 美元**。使用 Premium Pro 订阅，您可以重新检查您的解决方案，并以多种方式一次又一次地解决相同的问题，以及一个非常有用的功能，它将为您分析您的编码风格。
 
- [## 促进
-
-### 本网站使用 cookies 为您提供个性化服务。通过使用本网站，您同意我们使用…
-
-codegym.cc](https://codegym.cc/sale/?ref=javinpaul3) 
+  
 
 您可能想探索的其他**编程资源文章**
 
@@ -114,8 +110,4 @@ codegym.cc](https://codegym.cc/sale/?ref=javinpaul3)
 
 **P. S.** —如果你热衷于学习 Java，但负担不起这门课程，并在寻找免费的在线培训课程来学习 Java，那么我强烈推荐你在 Udemy 上查看 [**Java 完全初学者教程(免费)**](http://bit.ly/2zO3AHT) 。这个课程是完全免费的，到目前为止已经有超过 100 万的开发者加入了这个课程来免费学习 Java。
 
-[](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2022 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2)
+</javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2> 

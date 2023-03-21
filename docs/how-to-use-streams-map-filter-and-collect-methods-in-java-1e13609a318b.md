@@ -26,11 +26,7 @@ filter 方法本质上是根据您提供的条件选择元素。这就是过滤�
 
 如果您不熟悉流行为，我建议您查看 Udemy 上 Rang Rao Karnam 的[**用 Lambdas & Streams**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 学习 Java 函数式编程，其中详细解释了流的基本原理。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) [## 用 Lambdas & Streams 学习 Java 函数式编程
-
-### Ranga 是 AWS 认证解决方案架构师助理。我们在 DevOps、云上向 45 万名学习者教授 30 多门课程…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F>  
 
 # 1.如何在 Java 8 中使用映射和过滤方法
 
@@ -112,10 +108,6 @@ Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****P.S. —** 如果你真的想提高你的 Java 函数式编程技能，并且想学习更多关于 Java 流 API 的知识，我强烈推荐你去看看 Udemy 上 Rang Rao Karnam 的 [**学习 Java 函数式编程与 Lambdas &流**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) **课程**，该课程详细解释了流的基础知识。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) [## 用 Lambdas & Streams 学习 Java 函数式编程
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F>  
 
-### Ranga 是 AWS 认证解决方案架构师助理。我们在 DevOps、云上向 45 万名学习者教授 30 多门课程…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入介质**[](/@somasharma_81597/membership)**
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入介质**</@somasharma_81597/membership>**

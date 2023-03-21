@@ -28,11 +28,7 @@ Scala 已经成为近来最强大的 Java 替代品之一。它一直是首选�
 
 顺便说一句，如果你已经确信 Scala 是一个值得学习的好东西，并且想现在就开始，我强烈推荐你在 Udemy 上查看由 Daniel ciocrlan 撰写的 [**Scala &初学者函数式编程|摇滚 JVM**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F>  
 
 # 2023 年学习 Scala 和函数式编程的 10 个理由
 
@@ -68,11 +64,7 @@ Scala 允许你定义与数据属性(类的行为类似于 [C++](http://www.java
 
 简而言之，与 [Java](http://javarevisited.blogspot.sg/2013/04/10-reasons-to-learn-java-programming.html#axzz59dMqZlkB) 的互操作性赋予了 Scala 成为主流企业编程语言的巨大潜力，因为世界上有如此多的代码是用 Java 编写的，而且世界上有如此多的开发人员在用 Java 工作。Btw，如果你想深入学习 Java，我也建议你去 Udemy 上查看 [**完整的 Java 开发者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) 。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F>  
 
 ## 3.最佳实践和模式内置语言
 
@@ -82,11 +74,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 它还获得了 *case 类*，这使得在 Scala 中创建不可变类变得很容易。Scala 还提供闭包，这是像 Python 和 Ruby 这样的动态语言从函数式编程范例中采用的一个特性。
 
-[](/javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e) [## 2023 年 7 门面向初学者的免费 Scala 和函数式编程课程
-
-### 我最喜欢的 2023 年学习 Scala 和函数式编程的免费在线课程、认证和教程来自…
-
-medium.com](/javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e) 
+</javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e>  
 
 ## 4.表示
 
@@ -132,11 +120,7 @@ Scala 代码更加清晰简洁
 
 **Scala 为变量和函数提供了类型推断，比 [Java](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 和 [C#](http://bit.ly/2yskpDe) 中有限的类型推断要好很多。**
 
-**[](/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a) [## 2023 年要学习的 7 个关于并发、Web 开发和大数据的最佳 Scala 框架和库
-
-### 对于并发、web 开发、数据库访问、微服务等等，这些都是最好的 Scala 框架。
-
-medium.com](/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)** 
+**</javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a> ** 
 
 ## **7.不断发展的框架**
 
@@ -164,11 +148,7 @@ medium.com](/javarevisited/7-best-scala-frameworks-for-concurrency-web-developme
 
 **让像 Twitter 这样的大组织采用 Scala 当然有助于社区，因为他们有更多的资源和影响力。**
 
-**[](https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c) [## 面向 Java 和 Scala 开发人员的 5 门最佳 Apache Spark 课程
-
-### 想学 Java 和 Python 的大数据 Apache Spark 吗？这些是最值得学习的 Apache Spark 课程…
-
-becominghuman.ai](https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c)** 
+**<https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c> ** 
 
 ## **9.简洁的语法**
 
@@ -194,11 +174,7 @@ case class Book(name: String, price: double)
 
 **随着论坛上 Scala 社区的不断增长，找到任何 Scala 问题的答案并不困难，这将增加您的学习体验。如果你现在确信 Scala 是一个很好的学习工具，并且想现在就开始学习，我强烈推荐你在 Udemy 上看看 Daniel ciocrlan 的 [**Scala &初学者函数式编程|摇滚 JVM**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) 课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F> ** 
 
 ## **2023 年学习 Scala 和函数式编程的 5 本最佳在线课程和书籍**
 
@@ -218,8 +194,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****附言** —如果你热衷于学习 Scala，并且需要一些免费的在线课程，那么你可以看看面向初学者的 [**Scala 编程迷你训练营**](http://bit.ly/2my9mVz)**——一门#免费课程，开始你的 Scala 之旅。****
 
-****[](http://bit.ly/2my9mVz) [## 免费的 Scala 教程——面向初学者的 Scala 编程迷你训练营
-
-### 我的热情是通过在线课程激励人们。我喜欢学习新东西，也喜欢教人…
-
-bit.ly](http://bit.ly/2my9mVz)****
+****<http://bit.ly/2my9mVz> ****

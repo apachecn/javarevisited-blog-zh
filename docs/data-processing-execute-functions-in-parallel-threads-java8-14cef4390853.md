@@ -46,16 +46,4 @@
 
 感谢阅读。享受…！！！😊😊
 
- [## 平行
-
-### 并行计算包括将一个问题分成子问题，同时解决这些问题(并行地…
-
-docs.oracle.com](https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html)  [## ForkJoinPool (Java 平台 SE 8)
-
-### ForkJoinPool 不同于其他类型的 ExecutorService，主要是因为它使用了工作窃取:所有线程在…
-
-docs.oracle.com](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ForkJoinPool.html) [](/hackernoon/top-5-java-8-courses-to-learn-online-2db57d9dfb8d) [## 在线学习的 5 大 Java 8 课程
-
-### Java 8 推出已经四年多了，你们中的许多人已经把 Java 8 当成了遗产…
-
-medium.com](/hackernoon/top-5-java-8-courses-to-learn-online-2db57d9dfb8d)
+    </hackernoon/top-5-java-8-courses-to-learn-online-2db57d9dfb8d> 

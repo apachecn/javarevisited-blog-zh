@@ -120,11 +120,7 @@
 
 **顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它的费用大约为每月 59 美元或每年 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **结论**
 
@@ -156,8 +152,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ****p . s .**——如果你正在寻找最好的 Udemy 在线课程来学习网页设计和网页开发，你也可以在 Udemy **上查看[**网页设计初学者:HTML 中的真实世界编码& CSS**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-for-beginners-real-world-coding-in-html-css%2F) 。**这是 Udemy 上最好的网页设计课程之一，受到超过 65，000 名学习者的信任。**
 
-**[](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html) [## 2022 年学习 Web 开发的 5 大在线课程——最好的
-
-### 大家好，如果你想在今年学习 Web 开发，并且认为现在制定这个目标为时已晚，那么让我…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html)**
+**<https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html> **

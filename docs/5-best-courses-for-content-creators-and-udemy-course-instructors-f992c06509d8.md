@@ -24,21 +24,9 @@ image_credit — gumroad
 
 一旦你完成了这个课程，你的大部分问题都将得到解答，你将拥有创建一个你一直想要的优秀在线课程所需的所有信息。我也有目的地选择激励性的课程；例如，这个列表中的第一个课程来自一位创作者，Phil Ebber，他在 Udemy 中赚了超过 100 万美元，也许更多。
 
-他很友好地分享了他在其他地方的数字和收入，比如[](https://teachable.sjv.io/c/1193463/998814/12646)**[**thinkfic**](http://try.thinkific.com/javinpaul8817)[Podia](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)、Skillshare、StackSocial 等。这种信息分享非常有激励性，但请注意，没有多少人能做到这一点。**
+他很友好地分享了他在其他地方的数字和收入，比如<https://teachable.sjv.io/c/1193463/998814/12646>**[**thinkfic**](http://try.thinkific.com/javinpaul8817)[Podia](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)、Skillshare、StackSocial 等。这种信息分享非常有激励性，但请注意，没有多少人能做到这一点。**
 
-**[](https://teachable.sjv.io/c/1193463/998814/12646) [## 可教:创建和销售在线课程和辅导
-
-### 利用企业家使用的最佳在线商业平台，创建和销售在线课程和辅导服务…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/998814/12646) [](http://try.thinkific.com/javinpaul8817) [## 思维奖金
-
-### 将您的专业知识转化为您自己的蓬勃发展的业务这一独家优惠是你需要设计一个美丽的…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817) [](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) [## 获得一个免费网站。卖产品。建立你的社区。
-
-### 你的网站是免费的，简单的，漂亮的。Podia 处理开箱即用的技术，因此您可以设置…
-
-podia.sjv.io](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) 
+**<https://teachable.sjv.io/c/1193463/998814/12646>  <http://try.thinkific.com/javinpaul8817>  <https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F>  
 
 一旦你看到它是真实的，而不是一个骗局，而且有一个合法的方式不仅可以教和启发学生，而且可以学习生活，你就会全力以赴，这就是你创造出最好的在线课程，你的学生会喜欢，你会为此感到自豪。
 
@@ -46,7 +34,7 @@ podia.sjv.io](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.p
 
 正如你在 Gumroad 的这张图片中看到的，创作者经济刚刚起步，内容创作者有很大的发展空间，尤其是在线课程创作者和希望通过创作课程和书籍来教学的人。
 
-我已经在 Gumroad 上卖出了 800 多本我的书[](https://gumroad.com/l/QqjGH)**和[**【Spring Boot 采访】**](https://gumroad.com/l/hrUXKY) ，同样，超过 10000 人加入了我在 Udemy 上的[课程。](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?couponCode=BLACKFRIDAY)**
+我已经在 Gumroad 上卖出了 800 多本我的书<https://gumroad.com/l/QqjGH>**和[**【Spring Boot 采访】**](https://gumroad.com/l/hrUXKY) ，同样，超过 10000 人加入了我在 Udemy 上的[课程。](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?couponCode=BLACKFRIDAY)**
 
 **[![](img/0d736d9d8895216422f7789b2b86c73e.png)](https://javarevisited.blogspot.com/2019/09/teachable-or-udemy-which-platform-is-best-online-course.html)**
 
@@ -135,10 +123,6 @@ podia.sjv.io](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.p
 
 **感谢您阅读本文。如果你发现这些*创建成功在线课程的最佳资源*，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。**
 
-**Teachable 和 Udemy 并不是唯一可以托管和销售在线课程的平台。还有更多选项，如[](http://try.thinkific.com/javinpaul8817)**[**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)[**Teachable**](https://teachable.sjv.io/c/1193463/998814/12646)、Kajabi、Skillshare 等等。你甚至可以将你的课程发布到多个平台上，从而两全其美。****
+**Teachable 和 Udemy 并不是唯一可以托管和销售在线课程的平台。还有更多选项，如<http://try.thinkific.com/javinpaul8817>**[**Podia**](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F)[**Teachable**](https://teachable.sjv.io/c/1193463/998814/12646)、Kajabi、Skillshare 等等。你甚至可以将你的课程发布到多个平台上，从而两全其美。****
 
-****[](http://try.thinkific.com/javinpaul8817) [## 思维奖金
-
-### 将您的专业知识转化为您自己的蓬勃发展的业务这一独家优惠是你需要设计一个美丽的…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817)******
+****<http://try.thinkific.com/javinpaul8817> ******

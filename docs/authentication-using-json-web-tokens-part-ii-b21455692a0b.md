@@ -14,11 +14,7 @@
 
 在上一篇文章中，我介绍了 JSON web 令牌以及如何使用它进行身份验证。在您阅读本文之前，我更愿意先看一下。
 
-[](/@bhanuka.16/authentication-using-json-web-tokens-part-i-4f2eeaca22d7) [## 使用 JSON Web 令牌进行身份验证(第一部分)
-
-### 在这篇文章中，我将解释 JSON web 令牌以及如何在认证中使用它。
-
-medium.com](/@bhanuka.16/authentication-using-json-web-tokens-part-i-4f2eeaca22d7) 
+</@bhanuka.16/authentication-using-json-web-tokens-part-i-4f2eeaca22d7>  
 
 在本文中，我将向您展示如何实现一个 [Spring Boot 应用程序](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e?source=collection_home---4------7-----------------------)，它利用 JWT 认证来保护一个公开的 REST API。对于演示，将有一个硬编码的用户名和密码。
 
@@ -30,11 +26,7 @@ medium.com](/@bhanuka.16/authentication-using-json-web-tokens-part-i-4f2eeaca22d
 
 您可以使用下面的链接获得该演示的源代码。
 
-[](https://github.com/bhanukad610/JwtAuthentication) [## bhanukad610/JwtAuthentication
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/bhanukad610/JwtAuthentication) 
+<https://github.com/bhanukad610/JwtAuthentication>  
 
 我将在演示中解释它是如何发生的。让我们从`WebsecurityConfig` 文件开始。
 

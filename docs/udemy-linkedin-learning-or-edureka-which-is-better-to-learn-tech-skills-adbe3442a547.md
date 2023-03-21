@@ -47,7 +47,7 @@ Linkedin learning 是一个在线课程平台，就像 udemy 一样，教师可�
 
 与 Udemy 或 Edureka 不同，LinkedIn Learning 是一个会员制或订阅式网站，只需一个计划，你就可以访问他们的所有课程。在这方面，它类似于[复数视线](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com)和[代码学院](https://bit.ly/codecademypro)。
 
-LinkedIn 也有一个非常有竞争力的计划，他们允许访问他们的 16，000 多门课程，只需每月[](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)**19.99 美元，这对不断需要学习新东西的程序员和开发人员来说真是太棒了。它比 Pluralsight 便宜，而且你还可以学习更多的课程。**
+LinkedIn 也有一个非常有竞争力的计划，他们允许访问他们的 16，000 多门课程，只需每月<http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts>**19.99 美元，这对不断需要学习新东西的程序员和开发人员来说真是太棒了。它比 Pluralsight 便宜，而且你还可以学习更多的课程。**
 
 ****这是加入领英学习的链接**——[花 19.99 美元加入领英学习](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)**
 
@@ -96,8 +96,4 @@ LinkedIn 也有一个非常有竞争力的计划，他们允许访问他们的 1
 
 **如果你正在寻找免费的在线网站来免费学习编码，那么不要担心，你会在 Udemy 上找到很多免费的课程。如果你需要更多的选择，你也可以查看这个 [20+网站的列表，在 Medium 上免费学习编码](/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3)。**
 
-**[](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2) [## 免费学习 JavaScript 编码的 10 个网站——最好的
-
-### 大家好，我们很幸运生活在一个科技的世界里，在这里你可以获得很多资源，比如免费的…
-
-medium.com](/javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2)**
+**</javarevisited/my-favorite-free-tutorials-and-courses-to-learn-javascript-8f4d0a71faf2> **

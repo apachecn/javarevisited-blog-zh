@@ -113,11 +113,7 @@ OAuth 已经很多年了，但是仍然有一个困惑
 
 请点击此处查看详细信息，
 
-[](https://oauth.net/articles/authentication/#common-pitfalls) [## 使用 OAuth 2.0 的最终用户身份验证- OAuth
-
-### OAuth 2.0 规范定义了一个委托协议，该协议对于跨…
-
-oauth.net](https://oauth.net/articles/authentication/#common-pitfalls) 
+<https://oauth.net/articles/authentication/#common-pitfalls>  
 
 > 为了**克服**认证中的这些陷阱，避免每个人*执行*他们自己的*机制*来处理事情。2014 年建立了一个**标准，称为 [**OpenID Connect**](https://openid.net/connect/) 来处理**认证**。**
 
@@ -174,11 +170,7 @@ JWT 有效载荷与键值**声明**
 
 要了解更多关于[签名和验证](https://medium.suriyaprakhash.com/cryptography-algorithms-e86ce7e2bb9b#1182)的信息，请阅读以下内容。
 
-[](https://medium.suriyaprakhash.com/cryptography-algorithms-e86ce7e2bb9b) [## 加密算法
-
-### 需要记住的简单备忘单
-
-medium.suriyaprakhash.com](https://medium.suriyaprakhash.com/cryptography-algorithms-e86ce7e2bb9b) 
+<https://medium.suriyaprakhash.com/cryptography-algorithms-e86ce7e2bb9b>  
 
 > 储存这些代币的最好方法是什么？
 
@@ -253,10 +245,6 @@ OAuth 2.0 让[来选择包含什么**范围**](https://developer.okta.com/docs/c
 
 这里是**秋田犬游乐场**穿行在每一个人流中，
 
-[](https://www.oauth.com/playground/index.html) [## OAuth 2.0 游乐场
-
-### 这些示例通过与一个模拟的 OAuth 2.0 授权服务器进行交互，引导您完成各种 OAuth 流程。
-
-www.oauth.com](https://www.oauth.com/playground/index.html) 
+<https://www.oauth.com/playground/index.html>  
 
 相同的详细视频可以在下面的链接中找到，

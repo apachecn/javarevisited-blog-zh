@@ -20,11 +20,7 @@
 
 如果你好奇加入她的是链接— [**Pluralsight 免费周末**](https://pluralsight.pxf.io/c/1193463/871467/7490)
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习。我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490) 
+<https://pluralsight.pxf.io/c/1193463/871467/7490>  
 
 如果你正在寻找学习 Spring 框架的最佳课程，那么你来对地方了。在本文中，我将为 Java 开发人员分享来自 Pluralsight 的最佳 Spring 框架课程。
 
@@ -34,11 +30,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
 
 > 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看任何课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [## Pluralsight 订阅计划和定价:按月和按年
-
-### 多重视野要多少钱？点击此处了解月度和年度订购计划的价格。不要把你的技术技能放在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing>  
 
 # 2023 年 Java 开发者学习 Spring 和 Spring Boot 的 10 个最佳 Pluralsight 课程
 
@@ -170,11 +162,7 @@ Spring MVC 可能是 Java 程序员在过去十年开始学习和探索 Spring �
 
 如果你还没有 [**Pluralsight 会员资格**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，我鼓励你去办一个，因为它可以让你访问他们的 7000 多门在线课程，涉及前端和后端开发、机器学习等所有最新主题。它还包括交互式测验、练习和最新的认证材料
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 其他**有用的 Spring 资源**面向 Java 开发者
 [面向 Java 开发者学习 Spring 和 Hibernate 的 5 门课程](http://javarevisited.blogspot.sg/2016/12/top-5-spring-and-hibernate-training-courses-java-jee-programmers.html)
@@ -195,8 +183,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果您看不到他们的 [**免费周末**](https://pluralsight.pxf.io/c/1193463/871467/7490) 优惠或面临任何其他问题，请在此回复，我们也许能在某些方面帮助或指导您。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习。我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

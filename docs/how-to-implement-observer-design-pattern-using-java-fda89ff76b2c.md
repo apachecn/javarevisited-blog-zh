@@ -48,7 +48,7 @@
 
 **2 →为什么要实现观察者设计模式？**
 
-1.  观察者设计模式允许我们遵循设计原则([](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31)**)。**
+1.  观察者设计模式允许我们遵循设计原则(</javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>**)。**
 2.  **它在运行时培养对象之间的关系。**
 3.  **其支持 [**开/关**原理](https://javarevisited.blogspot.com/2015/07/strategy-design-pattern-and-open-closed-principle-java-example.html)**
 
@@ -94,11 +94,7 @@ Customer.java**
 
 ## **⚡Where 找到观察者设计模式的代码库？**
 
- **[## GitHub-rohan 2596/设计-模式-模式/观察者中的示例
-
-### 此时您不能执行该操作。您已使用另一个标签页或窗口登录。您已在另一个选项卡中注销，或者…
-
-github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/observer)** 
+ **** 
 
 ## **⚡Conclusion:-**
 
@@ -106,18 +102,10 @@ github.com](https://github.com/Rohan2596/Design-pattern-examples/tree/pattern/ob
 
 **不要忘记看看我的网站，以了解更多关于我的信息**
 
- **[## 罗汉·拉温德拉·卡达姆
-
-### 来自印度孟买的全栈开发人员，拥有大约 3 年的软件开发经验。
-
-kadamrohan.com](https://kadamrohan.com/)** 
+ **** 
 
 ## **📚参考书目:-**
 
-**[](https://refactoring.guru/design-patterns/observer) [## 观察者
-
-### 也称为事件订阅者，监听器观察器是一种行为设计模式，让您定义订阅…
-
-重构。领袖](https://refactoring.guru/design-patterns/observer) ![](img/0f2615e6c2f4828c479469fb81d75612.png)
+**<https://refactoring.guru/design-patterns/observer>  ![](img/0f2615e6c2f4828c479469fb81d75612.png)
 
 谢谢观众们——罗汉·卡达姆**

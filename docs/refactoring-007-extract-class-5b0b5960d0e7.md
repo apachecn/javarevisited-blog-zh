@@ -16,15 +16,7 @@
 
 # 相关代码气味
 
-[](https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0) [## 代码气味 124 —不同的变化
-
-### 你在课堂上改变了一些东西。你在同一个类中改变一些不相关的东西
-
-mcsee.medium.com](https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0) [](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19) [## 代码气味 143 —数据块
-
-### 有些物体总是在一起。我们为什么要分开他们？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19) 
+<https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0>  <https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19>  
 
 # 步伐
 

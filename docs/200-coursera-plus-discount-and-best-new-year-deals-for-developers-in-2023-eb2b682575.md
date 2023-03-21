@@ -48,13 +48,13 @@
 其中大部分与学习和面试准备有关，这在 2023 年至关重要，这可能是获得它们和省钱的最佳时机。大多数课程会员都有 30%到 50%的折扣:
 
 1.  [**Udemy 课程八折优惠**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9410&type=3&subid=0)
-2.  [](https://www.educative.io/subscription?affiliate_id=5073518643380224)**教育无限期 10-8 折优惠**
+2.  <https://www.educative.io/subscription?affiliate_id=5073518643380224>**教育无限期 10-8 折优惠**
 3.  **[**plur sight 年度订阅享受 33%的折扣**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**
 4.  **[**CodeCademy 年度计划五折**](https://bit.ly/codecademyhome)**
 5.  **[**data camp 年度订阅享受 65%的折扣**](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fpricing)**
 6.  **[**指数七五折**](https://bit.ly/3cNF0vw) (学习系统设计和模拟面试的好地方)**
 7.  **[**优达城纳米学位七折(使用代码 HAPPYHOLIDAYS22)**](https://imp.i115008.net/c/3294490/786224/11298?u=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fjava-programming-nanodegree--nd079)**
-8.  **[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42801&murl=https%3A%2F%2Fwww.futurelearn.com%2Funlimited)**未来学习订阅七折优惠****
+8.  **<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=42801&murl=https%3A%2F%2Fwww.futurelearn.com%2Funlimited>**未来学习订阅七折优惠****
 9.  ****[**Teachable(最佳课程平台)七五折(一月涨价)**](https://teachable.sjv.io/rnLVgy)****
 10.  ****[**我的 Java 和 Spring 书籍打五折**](https://bit.ly/3Bu2VtF)****
 11.  ****[**弗拉德·米哈尔恰的冬眠课程享受 33%的优惠**](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online/?coupon_code=XMAS22&affcode=172599_kuoszt8s)****

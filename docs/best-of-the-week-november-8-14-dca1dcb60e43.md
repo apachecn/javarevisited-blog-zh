@@ -42,4 +42,4 @@
 *   [https://dariux1988.medium.com/subscribe](https://medium.com/u/16b3e1182e6b?source=post_page-----dca1dcb60e43--------------------------------)森蒂斯峰
 *   约翰·瑟洛夫斯基 https://medium.com/@johnythecoder/subscribe
 *   [德米特里季姆琴科](https://medium.com/u/b2ed152fefdb?source=post_page-----dca1dcb60e43--------------------------------)https://medium.com/@dtimchenko/subscribe
-*   维克拉姆·古普塔 https://vikramguptavit.medium.com/subscribe[](https://vikramguptavit.medium.com/subscribe)
+*   维克拉姆·古普塔 https://vikramguptavit.medium.com/subscribe<https://vikramguptavit.medium.com/subscribe>

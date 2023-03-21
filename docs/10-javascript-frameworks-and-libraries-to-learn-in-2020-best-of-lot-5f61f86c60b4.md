@@ -76,11 +76,7 @@ Backbone.js 是一个 JavaScript 库，具有 RESTful JSON 接口，基于模型
 
 如果你想了解更多关于 Backbone JS 的知识，那么我建议你查看 Udemy 上的 [**Backbone 教程:从零开始学习 Backbone JS**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbackbonejs-tutorial%2F)课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbackbonejs-tutorial%2F) [## Backbone 教程:从头开始学习 Backbonejs
-
-### 想学习如何编写干净、可维护、可测试的 Javascript 代码吗？有许多库和框架可以…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbackbonejs-tutorial%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbackbonejs-tutorial%2F>  
 
 ## 6.Ember.js
 
@@ -98,11 +94,7 @@ Meteor 包括一组用于构建连接客户端反应式应用程序的基本技�
 
 它有助于用相对较少的代码更快地开发 web、移动或桌面应用程序。如果你想使用 Meteor 开发一个 web 应用程序，那么通过在 Udemy 上构建 10 个真实世界的项目 来学习 MeteorJS 是一个很好的开始课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-meteorjs-by-building-10-real-world-projects%2F) [## 通过构建 10 个真实世界项目来学习流星
-
-### 这是一个完整的课程，通过构建 10 个真实世界项目的完整过程来逐步学习 MeteorJS。
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-meteorjs-by-building-10-real-world-projects%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-meteorjs-by-building-10-real-world-projects%2F>  
 
 ## 8.聚合物 JS
 
@@ -118,11 +110,7 @@ polymer 是另一个开源 JavaScript 库，它可以帮助您创建定制的可
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 9.延伸文件系统射流研究…
 
@@ -165,8 +153,4 @@ Node.js 的包生态系统 npm 也是世界上最大的开源库生态系统。�
 
 如果你是一个网页开发的初学者，那么由安吉拉·于教授的[**2023 年网页开发者训练营**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F) 也是一门很好的课程。它会教你没有任何编程经验的 web 开发，也涵盖了这里讨论的大部分框架。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F) [## 完整的 2023 年网络开发训练营
-
-### 欢迎来到完整的 Web 开发训练营，这是您学习编码并成为全栈 web…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F> 

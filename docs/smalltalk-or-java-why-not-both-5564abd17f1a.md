@@ -38,39 +38,15 @@ Clipper 5.x、Smalltalk 和 Java 8+的 Lambda 语法
 
 ## 闲聊
 
-[](https://blog.devgenius.io/a-little-smalltalk-for-the-soul-b12051b709d1) [## 一个小小的心灵对话
-
-### Smalltalk 帮助我成为了今天的软件工程师。
-
-blog.devgenius.io](https://blog.devgenius.io/a-little-smalltalk-for-the-soul-b12051b709d1) [](https://donraab.medium.com/exploring-the-smalltalk-collections-api-in-unit-tests-using-pharo-8-0-2f62cfc8410d) [## 使用 Pharo 8.0 探索单元测试中的 Smalltalk 集合 API
-
-### 学一点闲聊，你可能以后会感谢自己。
-
-donraab.medium.com](https://donraab.medium.com/exploring-the-smalltalk-collections-api-in-unit-tests-using-pharo-8-0-2f62cfc8410d) 
+<https://blog.devgenius.io/a-little-smalltalk-for-the-soul-b12051b709d1>  <https://donraab.medium.com/exploring-the-smalltalk-collections-api-in-unit-tests-using-pharo-8-0-2f62cfc8410d>  
 
 ## 带有 Eclipse 集合的 Java
 
-[](/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2) [## 博客系列:没人告诉过你的缺失的 Java 数据结构
-
-### Eclipse 系列的三个部分都在一个方便的地方。
-
-medium.com](/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2) [](/javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a) [## Eclipse 集合 API 中我最喜欢的 25 个方法
-
-### 在数百种可能性中，这些是 Eclipse Collections API 中我最喜欢的方法。
-
-medium.com](/javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a) 
+</javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2>  </javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a>  
 
 ## Smalltalk 和 Java
 
-[](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [## Java 流很棒，但现在是更好的 Java 集合的时候了
-
-### 25 年后，Java 是时候进行集合升级了。
-
-medium.com](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [](https://donraab.medium.com/comparing-my-smalltalk-and-eclipse-collections-wordle-kata-solutions-4058ac7d8ca0) [## 比较我的 Smalltalk 和 Eclipse 集合 Wordle Kata 解决方案
-
-### 用多种语言和库解决一个问题有时会带来新的见解。
-
-donraab.medium.com](https://donraab.medium.com/comparing-my-smalltalk-and-eclipse-collections-wordle-kata-solutions-4058ac7d8ca0) 
+</javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1>  <https://donraab.medium.com/comparing-my-smalltalk-and-eclipse-collections-wordle-kata-solutions-4058ac7d8ca0>  
 
 # Eclipse 集合= Smalltalk + Java
 

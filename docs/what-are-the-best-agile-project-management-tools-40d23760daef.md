@@ -18,11 +18,7 @@
 
 如果你想了解更多关于敏捷项目管理的知识，你可以看看这些[免费的敏捷书籍](https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html)和[课程](https://javarevisited.blogspot.com/2019/09/top-5-courses-to-crack-pmp-project-management-professional-certification-exam.html):
 
-[](https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg) [## 面向程序员和软件工程师的 5 大免费敏捷课程——最好的
-
-### 技术日新月异，市场环境、激烈的竞争和上市时间是其中的一部分…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg) 
+<https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg>  
 
 ## 混乱
 
@@ -34,11 +30,7 @@ Scrum Master 有一个非常重要的位置，因为她促进了产品负责人�
 
 产品负责人很少每天与开发团队互动，这是 Scrum 主管的职责。但是 Scrum 大师的行为是由产品负责人决定的。Scrum Master 与产品负责人一起工作，将 PO 中的信息转化为团队的可行计划。
 
-[](https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html) [## 程序员学习敏捷和 Scrum 的前五本书——最好的，必读
-
-### 我开始职业生涯的时候，都是瀑布模型。你尝试，失败，然后每一个版本你都会得到改进…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html) 
+<https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html>  
 
 ## 最佳敏捷项目管理工具
 
@@ -74,16 +66,4 @@ KanbanFlow 从 2011 年就有了。这意味着提高你个人或团队的生产
 
 ## 您可能喜欢的其他文章:
 
-[](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的深入学习数据结构和算法的免费课程
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [](https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html) [## 程序员学习敏捷和 Scrum 的前五本书——最好的，必读
-
-### 我开始职业生涯的时候，都是瀑布模型。你尝试，失败，然后每一个版本你都会得到改进…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html) [](https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg) [## 面向程序员和软件工程师的 5 大免费敏捷课程——最好的
-
-### 技术日新月异，市场环境、激烈的竞争和上市时间是其中的一部分…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg)
+</free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  <https://javarevisited.blogspot.com/2017/06/top-5-books-to-learn-agile-and-scrum-methodology.html>  <https://javarevisited.blogspot.com/2018/01/top-5-free-agile-courses-for-programmers.html#axzz5QneAh3Kg> 

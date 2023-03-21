@@ -24,6 +24,6 @@
 
 # 方法 2: java.net.http.HttpClient
 
-或者我们可以使用下面的`HttpClient` API 来代替第一种方法`[HttpURLConnection](https://www.java67.com/2019/03/7-examples-of-httpurlconnection-in-java.html)` [](https://www.java67.com/2019/03/7-examples-of-httpurlconnection-in-java.html):
+或者我们可以使用下面的`HttpClient` API 来代替第一种方法`[HttpURLConnection](https://www.java67.com/2019/03/7-examples-of-httpurlconnection-in-java.html)` <https://www.java67.com/2019/03/7-examples-of-httpurlconnection-in-java.html>:
 
 瞧啊。我们现在可以发送一个`GET`请求，并将 JSON 数组响应转换成 string 类型。

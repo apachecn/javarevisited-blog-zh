@@ -172,12 +172,4 @@
 [10 个框架 Java 和 Web 开发人员应该学会的 10 个技巧](http://javarevisited.blogspot.sg/2018/01/10-frameworks-java-and-web-developers-should-learn.html)
 [成为](http://javarevisited.blogspot.sg/2018/05/10-tips-to-become-better-java-developer.html)*
 
-*[](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [## 我最喜欢的深入学习 Java 的书籍——必读
-
-### 大家好，今天是在线课程的世界。每个人都在谈论从在线培训、Youtube 学习…
-
-medium.com](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83)*
+*</javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83> *

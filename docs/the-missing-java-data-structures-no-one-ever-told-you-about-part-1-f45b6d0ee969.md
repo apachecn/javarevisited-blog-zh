@@ -39,11 +39,7 @@ JDK 可能没有构建 Java 应用程序所需的所有数据结构。在这个�
 
 [Nikhil Nanivadekar](https://medium.com/u/4285d8a2ca86?source=post_page-----f45b6d0ee969--------------------------------) 有一个很棒的博客，解释了 Eclipse 集合中的`Bag`实现。该博客包括内存和性能比较。
 
-[](/oracledevs/bag-the-counter-2689e901aadb) [## 包——柜台
-
-### 我经常遇到计算物体数量的需要。我体验到了数数的必要性…
-
-medium.com](/oracledevs/bag-the-counter-2689e901aadb) 
+</oracledevs/bag-the-counter-2689e901aadb>  
 
 袋子测试
 
@@ -56,11 +52,7 @@ medium.com](/oracledevs/bag-the-counter-2689e901aadb)
 
 Nikhil Nanivadekar 也有一个很棒的博客，解释了 Eclipse 集合中的`Multimap`实现。该博客还包括内存比较。
 
-[](/oracledevs/multimap-how-it-works-a3430f549d35) [## 多地图——工作原理
-
-### 在我以前的博客中，我解释了 Eclipse 集合 UnifiedMap 和 UnifiedSet 是如何工作的。在这个博客中，我们将采取…
-
-medium.com](/oracledevs/multimap-how-it-works-a3430f549d35) 
+</oracledevs/multimap-how-it-works-a3430f549d35>  
 
 多重映射测试
 
@@ -76,7 +68,7 @@ medium.com](/oracledevs/multimap-how-it-works-a3430f549d35)
 1.  `[UnifiedSetWithHashingStrategy](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/set/strategy/mutable/UnifiedSetWithHashingStrategy.html)`——一个`MutableSet`和一个`Pool`
 2.  `[UnifiedMapWithHashingStrategy](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/map/strategy/mutable/UnifiedMapWithHashingStrategy.html)` — a `MutableMap`
 3.  `[HashBagWithHashingStrategy](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/bag/strategy/mutable/HashBagWithHashingStrategy.html)` —一个`MutableBag`
-4.  `[Object<Primitive>HashMapWithHashingStrategy](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/map/mutable/primitive/ObjectIntHashMapWithHashingStrategy.html)` [](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/map/mutable/primitive/ObjectIntHashMapWithHashingStrategy.html)—适用于所有图元类型。
+4.  `[Object<Primitive>HashMapWithHashingStrategy](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/map/mutable/primitive/ObjectIntHashMapWithHashingStrategy.html)` <https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/map/mutable/primitive/ObjectIntHashMapWithHashingStrategy.html>—适用于所有图元类型。
 
 # BiMap
 

@@ -98,15 +98,7 @@ PHP 语言是一种服务器或后端语言，它告诉你的网站应该做什�
 
 以上是密歇根大学 Coursera 网站上所有人的网络应用综述。**查尔斯·拉塞尔·塞弗伦斯**在这个课程上做得非常出色，类似于他早期的杰作课程 [Python For Everybody](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) 和 [Django For Everybody](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdjango) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [## 面向所有人的 Python
-
-### 学习用 Python 编程和分析数据。开发收集、清理、分析和可视化数据的程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdjango) [## 姜戈为每个人
-
-### 使用 Django 构建和部署丰富的 web 应用程序。学习使用…构建全功能网站的基础知识
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdjango) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython>  <https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdjango>  
 
 学习用 PHP 构建 web 应用程序是一项非常抢手的技能，大多数网站都在使用 PHP，他们的框架如 Laravel 创建后端，甚至最常用的 CMS WordPress 也在后端使用 PHP。
 
@@ -132,8 +124,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 如果你是 Udemy 课程的粉丝，并且在 Udemy 上寻找从零开始学习 web 开发的最佳 web 开发课程，我强烈推荐你查看这个由 Angela Yu 撰写的[完整的 2023 Web 开发训练营。这是我在 Udemy 上遇到的最好的网络开发课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F)*
 
-[](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html) [## 2023 年学习 Web 开发的 8 大在线课程——最佳选择
-
-### 大家好，如果你想在今年学习 Web 开发，并且认为现在制定这个目标为时已晚，那么让我…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html)
+<https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html> 

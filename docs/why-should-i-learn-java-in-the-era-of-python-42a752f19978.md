@@ -23,11 +23,7 @@
 
 至少有六种最流行的编程语言，它们的排名随着时间不断变化。因此，我们不能说任何一种语言是最好的语言，因为它们都有不同的用途。如果你需要更多关于 Java 流行的原因，你可以看看这篇文章 [**为什么 Java 是最好的编程语言**](https://javarevisited.blogspot.com/2018/07/10-reasons-to-learn-java-programming.html) **对于初学者和有经验的人都一样**
 
-[](https://dev.to/javinpaul/why-java-is-the-best-programming-language-to-learn-coding-for-beginners-n89) [## 为什么 Java 是初学者学习编码的最佳编程语言？
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/why-java-is-the-best-programming-language-to-learn-coding-for-beginners-n89) 
+<https://dev.to/javinpaul/why-java-is-the-best-programming-language-to-learn-coding-for-beginners-n89>  
 
 # 最大的战役
 
@@ -39,11 +35,7 @@
 
 而 **Python** 语言位居第三。
 
-[](https://dev.to/javinpaul/python-or-java-which-is-better-to-learn-to-code-3pj9) [## Python 还是 Java？学编码哪个好？
-
-### 学习编码是一项重要的技能，越来越多的人正在学习编程和 web 开发。是不是…
-
-开发到](https://dev.to/javinpaul/python-or-java-which-is-better-to-learn-to-code-3pj9) 
+<https://dev.to/javinpaul/python-or-java-which-is-better-to-learn-to-code-3pj9>  
 
 # 为什么选择 JAVA 而不是 PYTHON？
 
@@ -118,11 +110,7 @@ def main(): print(“Hello world!”)main()
 
 **如果你想学习 Java，你可以看看这些课程:**
 
-**[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 
+**</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  
 
 # 还是没印象？
 
@@ -174,8 +162,4 @@ then choose **JAVA**
 
 **感谢您阅读本文。如果你喜欢这篇文章，那么请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。**
 
-**[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)**
+**<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> **

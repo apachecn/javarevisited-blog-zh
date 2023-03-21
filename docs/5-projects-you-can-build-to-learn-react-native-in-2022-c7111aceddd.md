@@ -14,11 +14,7 @@ image _ credit—React Native boot camp—使用 Firebase 构建 Instagram 克�
 
 早些时候，我已经分享了学习 React Native 的 [**最佳课程，在这篇文章中，我将与你分享一些为新的和有经验的 React Native 开发者设计的又酷又好的项目，随着时间的推移，这些项目会给你更多的经验。**](https://javarevisited.blogspot.com/2018/02/5-react-native-courses-to-learn-mobile-development-using-JavaScript.html#axzz6gc2srIC7)
 
-[](/javarevisited/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46) [## 2023 年要学的 10 门最好的 React 本地课程
-
-### 如果你是一名网络开发人员，想进入移动应用程序开发的广阔世界，但又不想花费…
-
-medium.com](/javarevisited/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46) 
+</javarevisited/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46>  
 
 他们还将通过将您所学到的知识应用到将来可能需要的实际项目中来帮助您提高技能和知识。
 
@@ -110,10 +106,6 @@ medium.com](/javarevisited/top-5-react-native-courses-for-mobile-application-dev
 
 **p . s .**—React 原生学习需要 JavaScript 和 React 的先验知识。如果你正在寻找一些免费课程来开始你的 React.js 之旅，你也可以看看这个为 Web 开发者提供的 [**免费 React 课程**](http://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html) 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f) [## 2023 年学习 React.js 的 10 大免费课程
-
-### 大家好，如果你了解前端开发，你就会知道 React.js 是最流行的 Javascript 之一…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f) 
+</javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f>  
 
 如果你有任何其他很酷的项目想法来学习 React Native，请随时与我们分享。如果你的想法很有趣，我也会把它们列入这个列表。

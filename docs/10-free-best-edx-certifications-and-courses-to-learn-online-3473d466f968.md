@@ -6,7 +6,7 @@
 
 [![](img/08ee4be0c7744c795de228c60699dcf0.png)](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=)
 
-大家好，如果你正在寻找最好的在线课程和认证来加入 edX，那么你来对地方了。此前，我已经分享了来自[](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9)**[**Coursera**](/javarevisited/10-best-coursera-certifications-and-courses-for-beginners-b13e930f2830)[**plural sight**](/javarevisited/10-best-react-courses-from-pluralsight-for-beginners-and-experienced-developers-80b7c640cca3)的最佳课程，在本文中，我将分享 2023 年加入的 b *est edX 编程与开发课程*。**
+大家好，如果你正在寻找最好的在线课程和认证来加入 edX，那么你来对地方了。此前，我已经分享了来自</javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9>**[**Coursera**](/javarevisited/10-best-coursera-certifications-and-courses-for-beginners-b13e930f2830)[**plural sight**](/javarevisited/10-best-react-courses-from-pluralsight-for-beginners-and-experienced-developers-80b7c640cca3)的最佳课程，在本文中，我将分享 2023 年加入的 b *est edX 编程与开发课程*。**
 
 **如果你不知道的话， [edX](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=) 是由两所主要大学麻省理工学院和哈佛大学设计的大型电子学习平台之一，成立于 2012 年，旨在为全球几乎每个行业提供在线教育，从商业和营销到编程和 web 开发。**
 
@@ -14,13 +14,9 @@
 
 edX 平台也有不同类型的课程和证书如 [MicroMaster](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters) 和[Professional certificate](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate)s 由微软、IBM 等多家机构和密歇根、麻省理工、哈佛、宾夕法尼亚等多所顶尖大学提供。**
 
-**麻省理工和哈佛提供的 edX 内容大部分都是免费学习的，也就是说你可以免费学习但是需要付费买证书。它们与 Coursera 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)**非常相似，同样提供来自世界顶尖大学和机构的在线学习资料。****
+**麻省理工和哈佛提供的 edX 内容大部分都是免费学习的，也就是说你可以免费学习但是需要付费买证书。它们与 Coursera 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F>**非常相似，同样提供来自世界顶尖大学和机构的在线学习资料。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) [## Coursera |顶级教育工作者的在线课程和证书。免费加入
-
-### 在线学习，从耶鲁大学、密歇根大学、斯坦福大学等顶尖大学和领先公司获得有价值的证书…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F>  
 
 今天，在这篇文章中，您将探索一些针对软件开发人员的最佳课程和证书，它们可以帮助您促进您的职业发展，并从顶级组织获得一些经验和知识。
 
@@ -169,8 +165,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ******p . s .**——如果你正在寻找 2023 年最好的 Udemy 课程和认证，那么你也可以看看我列出的 [**程序员和软件开发人员最好的 Udemy 课程**](https://javarevisited.blogspot.com/2019/08/top-10-udemy-courses-and-certifications-for-programmers.html) 。包含了最好的 Udemy 在线课程，学习 Java 编程、Python、Git，以及其他软件开发所需的必备技能。****
 
-****[](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9) [## 2023 年软件开发与编程的 15 门最佳 Udemy 课程
-
-### 这些是你能在 Udemy 的黑色星期五和 2020 年网络周上买到的最好的在线课程
-
-medium.com](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9)****
+****</javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9> ****

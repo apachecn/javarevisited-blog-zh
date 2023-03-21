@@ -80,16 +80,4 @@
 
 # 您可以关注[维克拉姆·古普塔](https://medium.com/u/2c3b611409dc?source=post_page-----8fd93877dff6--------------------------------)了解类似内容。
 
-[](/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b) [## Java ExecutorService 完全指南
-
-### Executor、ExecutorService 和 ThreadPoolExecutor 是执行器的工厂方法。和理解未来物体…
-
-medium.com](/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b) [](/javarevisited/how-to-create-java-thread-using-thread-and-runnable-2023-14e965474a7) [## 如何使用 Thread 和 Runnable 创建 Java 线程？
-
-### 了解创建线程的方法以及如何启动它们。
-
-medium.com](/javarevisited/how-to-create-java-thread-using-thread-and-runnable-2023-14e965474a7) [](/@basecs101/synchronization-in-java-all-you-need-to-know-latest-6f86185ddf3) [## Java 中的同步:您需要知道的一切
-
-### 如何在 java 编程中使用同步多线程:完全指南
-
-medium.com](/@basecs101/synchronization-in-java-all-you-need-to-know-latest-6f86185ddf3)
+</javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b>  </javarevisited/how-to-create-java-thread-using-thread-and-runnable-2023-14e965474a7>  </@basecs101/synchronization-in-java-all-you-need-to-know-latest-6f86185ddf3> 

@@ -67,11 +67,7 @@ Java API 的一个部分将会有实质性的改变，那就是著名的，可�
 
 那么这可能是 28 分钟官方和我的朋友 Ranga Rao Karnam 开始的最好的课程
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) [## 用 Lambdas & Streams 学习 Java 函数式编程
-
-### 想开始用 Java 进行函数式编程并学习 Streams 和 Lambdas 吗？想写出牛逼的 Java 代码…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffunctional-programming-with-java%2F>  
 
 ## 3.[甲骨文官方 Lambda 表达式教程](http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 
@@ -170,11 +166,7 @@ NetBeans IDE 也支持 Java 8，您可以查看[http://wiki.netbeans.org/JDK8](h
 
 最后，在本课程结束时，我将介绍流的内部工作方式、执行顺序以及它们所带来的性能优势。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-streams%2F) [## Java Streams API 开发者指南
-
-### Java 8 带来了很多很棒的新特性。很多人说，社区没有及时带来这些…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-streams%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-streams%2F>  
 
 # Java 8 书籍
 
@@ -220,12 +212,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 感谢您阅读本文。如果你喜欢这些 Java 8 资源，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## Java 程序员应该学什么？
-
-### Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83> 

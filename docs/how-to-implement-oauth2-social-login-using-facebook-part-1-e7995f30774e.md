@@ -12,35 +12,19 @@
 
 如何使用脸书实现 Oauth/SSO 登录——第 1 部分
 
-[](https://developers.facebook.com/) [## 开发者的脸书
-
-### 介绍我们的最新计划，以保护人们的数据在我们的平台上的管理和保护方式，以及…
-
-developers.facebook.com](https://developers.facebook.com/) 
+<https://developers.facebook.com/>  
 
 ## ⚡Step 1: 如果你还没有一个 Facebook 账户，那就创建一个。
 
- [## 登录或注册查看
-
-### 查看关于脸书的帖子、照片和更多内容。
-
-www.facebook.com](https://www.facebook.com/login/) 
+  
 
 ## ⚡Step 2: 注册成为 FaceBook 开发者
 
-[](https://developers.facebook.com/docs/development/register/) [## 注册-应用程序开发-文档-开发者脸书
-
-### 这篇文档解释了如何注册成为脸书开发者。注册后，您将可以访问…
-
-developers.facebook.com](https://developers.facebook.com/docs/development/register/) 
+<https://developers.facebook.com/docs/development/register/>  
 
 ## ⚡Step 3: 创建一个应用程序(Facebook 应用程序)
 
-[](https://developers.facebook.com/docs/development/create-an-app) [## 为开发者创建一个应用程序-应用程序开发-文档-脸书
-
-### 应用程序创建流程收集为应用程序生成唯一 ID 所需的最少量信息。一旦你…
-
-developers.facebook.com](https://developers.facebook.com/docs/development/create-an-app) 
+<https://developers.facebook.com/docs/development/create-an-app>  
 
 ## **⚡Step 4:** 填写 App 详情。
 
@@ -75,11 +59,7 @@ iii)最后点击创建应用程序
 
 ## **⚡Step 9:** Facebook Oauth(社交登录)使用 [Spring boot。](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e?source=---------39------------------)
 
-[](/@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-spring-boot-part-2-8582a8943144) [## 如何使用脸书和 Spring Boot 实现 OAuth2 社交登录—第 2 部分
-
-### 你好，我是罗汉·卡达姆
-
-medium.com](/@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-spring-boot-part-2-8582a8943144) 
+</@rohankadam965/how-to-implement-oauth2-social-login-using-facebook-spring-boot-part-2-8582a8943144>  
 
 ## ⚡Conclusion:-
 

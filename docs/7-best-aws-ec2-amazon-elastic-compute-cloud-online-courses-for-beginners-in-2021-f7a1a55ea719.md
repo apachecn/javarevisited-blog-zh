@@ -22,11 +22,7 @@
 
 顺便说一句，如果你是 AWS 新手，并且正在寻找一个全面的课程来深入学习 AWS，那么我也建议你加入 Udemy 上的 AWS 大师 Stéphane Maarek 的 [**【新】终极 AWS 认证云从业者-2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-new%2F)课程。这是一门很好的课程，可以全面了解 AWS，并为云从业者认证(入门级 AWS 认证)做好准备。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-new%2F) [## [新]终极 AWS 认证云从业者- 2023
-
-### 夏羽是一名解决方案架构师、顾问和软件开发人员，他对所有事物都有特殊的兴趣…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-new%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-new%2F>  
 
 # 深入学习 AWS EC 2 的 7 门最佳在线课程
 
@@ -80,11 +76,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 我强烈推荐这个会员资格，因为它不仅提供了这门课程，还提供了 7000 多门关于最新技术的在线课程。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[亚马逊 AWS EC2 大师班](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-aws-ec2-masterclass%2F)【Udemy 课程】
 
@@ -134,19 +126,11 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你买一个 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月花费 **$17** (现在打五折)，对于一个需要不断学习的程序员和软件工程师来说，完全值得。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 如果你喜欢看书，那么你会很高兴地知道，这门课程在 Gumroad 上也有电子书，如果你喜欢看书，那么你也可以查看一下[**AWS**](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)电子书的精彩部分。你也可以通过我的链接获得这本 AWS 书的 20%折扣
 
-[](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul) [## AWS 的优点
-
-### 这不是你的典型参考书。它并没有涵盖所有的 AWS 或其所有的怪癖。相反，我们想帮助你…
-
-gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul) 
+<https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul>  
 
 ## 7.[亚马逊 EC2 基础](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Famazon-ec2-fundamentals-2)【LinkedIn 学习】
 
@@ -191,8 +175,4 @@ gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)
 
 **p . s .**——如果你热衷于学习 AWS 并寻找免费的在线培训课程，那么你也可以在 Udemy 上查看 Linux Academy 提供的 [**AWS 基础知识**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F) 课程。这个课程是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F) [## 免费亚马逊 AWS 教程- AWS 精要
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-aws-essentials-2019%2F> 

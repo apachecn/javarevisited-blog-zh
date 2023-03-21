@@ -56,11 +56,7 @@
 
 这里是在**亚马逊**——[**搜索 Java 访谈**](https://www.amazon.com/dp/B08P55JZBX/?tag=javamysqlanta-20) 上购买这本书的链接
 
-[](https://www.amazon.com/dp/B08P55JZBX/?tag=javamysqlanta-20) [## 探索 Java 面试:通过学习基本的核心 Java 概念为 Java 面试做准备…
-
-### 购买 Java 面试指南:通过学习基本的核心 Java 概念和 API 为 Java 面试做准备:阅读…
-
-www.amazon.com](https://www.amazon.com/dp/B08P55JZBX/?tag=javamysqlanta-20) 
+<https://www.amazon.com/dp/B08P55JZBX/?tag=javamysqlanta-20>  
 
 如果你在阅读这本书时遇到任何问题，你也可以给我发邮件或者在 Twitter 上给我发消息。
 
@@ -92,8 +88,4 @@ www.amazon.com](https://www.amazon.com/dp/B08P55JZBX/?tag=javamysqlanta-20)
 
 **p . s .**——如果你正在寻找在黑色星期五促销中可以买到的最好的 Udemy 课程，那么你也可以看看我列出的在黑色星期五促销中可以买到的 [**10 个最好的 Udemy 课程**](https://javarevisited.blogspot.com/2020/11/top-10-udemy-courses-you-can-buy-in.html#axzz6enw6Ycw1) 。包含了最好的 Udemy 课程，学习 Docker、微服务、Spring Boot、MERN 栈、SQL、Python、网页设计，以及其他软件开发所需的必备技能。
 
-[](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9) [## 在黑色星期五和网络星期一，程序员可以买到的 15 门最好的 Udemy 课程
-
-### 这些是你能在 Udemy 的黑色星期五和网络周上买到的最好的在线课程
-
-medium.com](/javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9)
+</javarevisited/15-best-udemy-courses-programmers-can-buy-on-black-friday-and-cyber-monday-2020-a803874f41d9> 

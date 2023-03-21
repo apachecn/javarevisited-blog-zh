@@ -19,11 +19,7 @@
 重点是，作为一个程序员，你需要学习很多东西，而学习从来没有停止过，这就是编程生涯最大的挑战。现在最大的问题是，你如何让自己跟上时代？嗯，书籍和博客很有用，但是现在是时候通过互动课程和 YouTube 视频进行在线学习了。
 这就是像 [**Pluralsight**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 和 [**Udemy**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0) 这样的学习平台有所帮助的地方。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 # udemy vs plural sight——程序员和开发者哪个更好？
 
@@ -49,29 +45,17 @@ Udemy 的问题来了，在这么多低质课程的海洋中，很难找到合�
 
 虽然我在 Udemy 里发现了一些宝石像 [**棱角完整指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-guide-to-angular-2%2F) 由 Max 和他在 React 上的其他课程。同样，Colt_Steele 关于 Web 开发和算法的课程都很优秀，Stephen Grider 的课程也很优秀。**
 
-**[](http://bit.ly/2AGzgzN) [## 主角度 7(以前的角度 2):完整的课程
-
-### 掌握 Angular(以前的“Angular 2”)并使用 Angular.js 的继任者构建令人敬畏的反应式 web 应用程序
-
-bit.ly](http://bit.ly/2AGzgzN) 
+**<http://bit.ly/2AGzgzN>  
 
 同样，何塞·波尔蒂利亚的 [**完整的 Python 3 Bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) 和[**Python for Data Science boot camp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-for-data-science-and-machine-learning-bootcamp%2F)课程也不错，瑞安·克鲁尼堡的云课程和基里尔·叶列缅科的机器学习和 AI 课程也不错。
 
-[](http://bit.ly/2ysqzDa) [## 完整的 Python 训练营:学习 Python 编程和代码
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2ysqzDa) 
+<http://bit.ly/2ysqzDa>  
 
 > 总之，*你需要熟悉平台才能找到最优质的课程。我在 Udemy 上花了很多时间，所以我知道哪些导师是优秀的，我可以跟随谁。我一般从那些导师那里买课程。*
 
 现在，当谈到 *Pluralsight 时，因为他们是一个专注于专业学习的网站*，他们的导师是他们所教主题的真正权威。你会发现很多 Java 冠军在教授 Java 课程，比如 José Paumard 的 [**Java 多线程课程**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-patterns-concurrency-multi-threading) 和 Richard Warburton 的 [J **ava Collection 课程**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-collections) **。**
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-collections) [## Java 基础:集合
-
-### 初学者 2016 年 3 月 7 日 4h 3m 描述处理数据是任何商业问题的基础。Java 集合是…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-collections) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-collections>  
 
 *总的来说，Pluralsight 上的导师和内容的质量比 Udemy 上的好得多*，但同样，我在这篇关于 Udemy 的文章中推荐的导师也同样不错。
 
@@ -97,13 +81,13 @@ Udemy 和 Pluralsight 都有数以千计的课程，几乎涵盖你想学习的�
 
 我在这个博客里分享了很多免费的 Udemy 课程，学习 Swift、iOS 开发、 [Android App 开发](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html)、 [Web 开发](https://dev.to/javinpaul/top-6-courses-to-learn-web-development-best-of-lot-2fae)、SQL、数据库、Linux、大数据、机器学习等等，你可以在自己方便的时候去探索。Udemy 的导师们最初也免费提供他们的课程，以获得一些吸引力。这不是一个硬性规定，但我见过他们中的许多人这样做，他们给人们免费的优惠券来加入他们的课程，学习，并留下评论。这是一种双赢，但在正确的时间找到那些优惠券并不容易，尤其是对于你想要的课程。
 
-另一方面，Pluralsight 提供了一个[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**的 10 天免费试用期，可以使用他们的 5000 多门课程，但只有 200 分钟。这是一个无义务的试验，但你不能在 200 分钟内做太多；你能做的就是上一门课，评判平台的好坏。尽管如此，许多公司也与 Pluralsight 建立了合作关系，您很有可能可以从您的公司免费获得 Pluralsight，所以请务必确认您是否可以使用该选项。**
+另一方面，Pluralsight 提供了一个<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**的 10 天免费试用期，可以使用他们的 5000 多门课程，但只有 200 分钟。这是一个无义务的试验，但你不能在 200 分钟内做太多；你能做的就是上一门课，评判平台的好坏。尽管如此，许多公司也与 Pluralsight 建立了合作关系，您很有可能可以从您的公司免费获得 Pluralsight，所以请务必确认您是否可以使用该选项。**
 
 **[![](img/c035ef2bbec779acf0d3a008ff972200.png)](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**
 
 ## **5.价格和费用**
 
-**Udemy 的 USP 就是价格，这也是学生爱它的原因。你可以花 10 美元买到一个 200 美元的课程，这就像你在开玩笑吗，但是是的，这就是 Udemy 做的。它运行那些[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0)**的 Udemy flash sales，然后你可以得到讲师四处派发的优惠券，这意味着你只需 10 美元就可以购买一些 20 小时的在线课程。
+**Udemy 的 USP 就是价格，这也是学生爱它的原因。你可以花 10 美元买到一个 200 美元的课程，这就像你在开玩笑吗，但是是的，这就是 Udemy 做的。它运行那些<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&offerid=323058.9409&type=3&subid=0>**的 Udemy flash sales，然后你可以得到讲师四处派发的优惠券，这意味着你只需 10 美元就可以购买一些 20 小时的在线课程。
 
 这使得 [*Udemy 成为学生*](/javarevisited/my-favorite-udemy-online-courses-for-programmers-and-software-engineers-f9d941dd0035) 的首选之地，何乐而不为呢？你可以花 10 美元从一个编码训练营的老师那里学习 Web 开发，而不是花 10000 美元去找同一个老师进行课堂培训。
 都是大导师给的，需要修改的时候经常回头看看。
@@ -114,21 +98,13 @@ Udemy 和 Pluralsight 都有数以千计的课程，几乎涵盖你想学习的�
 
 ****现在，他们有了一个 [**Pluralsight premium 会员**](http://G) ，每年大约花费 499 美元，但也提供了互动课程、测验、评估和项目。类似于 [**Coursera 加**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，他们也提供课程结业证书，嗯 Udemy 也有那些但不是所有的课都有。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 所以，你只需要支付 499 美元就可以获得 5000 多门课程，这还不错，但记住这只是一年。明年再来，需要续会；否则，您将无法学习这些课程。
 
 好消息是 plur sight 也经营 flash 销售，不像 Udemy 那样频繁和慷慨，但他们在订阅费上给 **33%的折扣**，这意味着你可以花 199 美元购买 plur sight 个人计划，[**plur sight 高级计划**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 每年将花费你大约 299 美元。在这些销售期间，我经常更新我的会员资格，这样我就可以让我的钱得到最大的价值。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [## Pluralsight 订阅计划和定价:按月和按年
-
-### 多重视野要多少钱？点击此处了解月度和年度订购计划的价格。不要把你的技术技能放在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing>  
 
 以上就是**plural sight vs . Udemy vs . CodeCademy vs . Coursera。**正如我说过的，在学习在线编码方面，两者都是非常相似的平台；两者都提供带有测验和评估的在线课程。他们的模型中出现了关键差异；在 Udemy 中，你只需购买一门课程，而在 Pluralsight 中，你需要购买会员资格，这样就可以访问 5000 多门课程。在 Udemy，你可以终身使用你购买的课程，但 Pluralsight 会员资格是按月或按年注册的。Udemy 也有很多课程，但是你不需要那么多。Pluralsight 上的教师非常合格，是他们所教科目的权威，但是一些 Udemy 教师也非常好。
 
@@ -152,8 +128,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **p . s .**——如果你愿意，你也可以尝试 Udemy 和 plur sight，坚持选择你喜欢的，但不要错过他们现在提供的[**【plur sight】33%的优惠**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，它不是每天都有，注册他们的个人或高级计划，以利用这一优惠。*
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)******
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ******

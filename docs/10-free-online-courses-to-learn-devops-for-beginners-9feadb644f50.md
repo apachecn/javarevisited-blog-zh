@@ -24,11 +24,7 @@ image_credit — Pluralsight
 
 Btw，如果你能像 DevOps 一样花几块钱学一门对职业有价值的技能，那么我也强烈推荐 Jenkins，从 [**零到英雄:成为 DevOps Jenkins 高手**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjenkins-from-zero-to-hero%2F) 课程学习 Jenkins，CI/CD，为 DevOps。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjenkins-from-zero-to-hero%2F) [## 詹金斯，从零到英雄:成为一个 DevOps 詹金斯大师
-
-### 云架构师和 Linux 专家。红帽认证工程师。红帽认证系统管理员。恩昆特罗恩…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjenkins-from-zero-to-hero%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjenkins-from-zero-to-hero%2F>  
 
 # 2023 年面向有经验开发者的 10 个最佳免费 DevOps 在线课程
 
@@ -101,11 +97,7 @@ Udemy 已经将这个免费的在线 Devops 课程列为其网站上学习 DevOp
 
 而且，如果你发现 Coursera 课程和专业化很有用，那么你也应该加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，它为你提供**无限制访问**他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[AWS devo PS CI/CD—code pipeline、Elastic Beanstalk 和 Mocha](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnodejs-cicd-aws-codepipeline-codebuild-mocha-zero-to-hero%2F)
 
@@ -249,11 +241,7 @@ Docker 是 DevOps 工程师的另一个重要工具，这个免费的 Udemy 课�
 
 如果可以的话，你应该获得 Pluralsight 会员资格来促进你的学习，因为它只需一个会员就可以访问 7000 多门在线课程。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需的技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 这就是关于程序员和开发人员在 2023 年成为 DevOps 工程师可以参加的最好的免费 DevOps 课程。DevOps 被证明是一项了不起的技术，可以减少编码时间。公司用它来部署新软件，人们也喜欢它。
 
@@ -278,8 +266,4 @@ DevOps 工程师和开发人员的其他**有用资源**
 
 **附言——**如果你不介意花几块钱学习像 DevOps 这样有价值的技能，那么你也可以在 Udemy 上看看这个 [**CI/CD(持续集成/交付，面向初学者的 devo PS**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fci-cd-devops%2F)课程。它不是免费的，但它是 Udemy 上学习 DevOps 评分最高的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fci-cd-devops%2F) [## DevOps、CI/CD(面向初学者的持续集成/交付
-
-### CI、CD 和 DevOps 已经席卷了软件开发界。如今，大多数公司都意识到…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fci-cd-devops%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fci-cd-devops%2F> 

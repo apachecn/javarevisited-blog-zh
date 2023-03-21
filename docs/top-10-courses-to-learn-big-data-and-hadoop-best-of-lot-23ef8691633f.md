@@ -72,11 +72,7 @@ BTW，为什么是 Hadoop？**为什么要学习 Hadoop** ？嗯，这是当今 
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如**谷歌**、 **IBM** 、**亚马逊**和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。
 
@@ -106,11 +102,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 以下是加入本课程的链接— [***用 Python 驯服大数据***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F) [## 用 Apache Spark 和 Python 驯服大数据——动手！
-
-### “大数据”分析是一项热门且极具价值的技能，本课程将向您传授大数据领域最热门的技术
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftaming-big-data-with-apache-spark-hands-on%2F>  
 
 ## [5。Hadoop 上的 SQL 使用 Hive](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fsql-hadoop-analyzing-big-data-hive)【plural sight】分析大数据
 
@@ -166,11 +158,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这里是免费加入本课程的链接— [**Hadoop Starter Kit(免费)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoopstarterkit%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoopstarterkit%2F) [## 免费 Hadoop 教程- Hadoop 初学者工具包
-
-### 本课程的目标是一步一步地向您介绍 Hadoop 中的所有核心组件，以及更多…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoopstarterkit%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoopstarterkit%2F>  
 
 ## 9.[大数据和 Hadoop 基础知识](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F)
 
@@ -186,11 +174,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这里是免费加入本教程的链接— [**大数据与 Hadoop 要领**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F) [## 免费大数据教程-大数据和 Hadoop 基础
-
-### 您是否对大数据技术的世界感兴趣，但发现它有点神秘，并将整个事情视为一个大…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbig-data-and-hadoop-essentials-free-tutorial%2F>  
 
 ## 10. [Hadoop MapReduce 深度| MapReduce 实时课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce%2F)
 
@@ -204,11 +188,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以下是免费加入本课程的链接— [***Hadoop MapReduce 深度***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce%2F) [## Hadoop MAPREDUCE 深度| MAPREDUCE 实时课程
-
-### Mapreduce 框架在处理大数据方面最接近 Hadoop。它被认为是…中的原子处理单元
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhadoop-mapreduce-in-depth-a-real-time-course-on-mapreduce%2F>  
 
 以上是关于**学习大数据、Hadoop、**以及 Hive、HDFS、MapReduce、YARAN、Pig 等相关技术的一些最佳课程。Hadoop 是大数据领域最受欢迎的框架之一，对 Hadoop 的良好了解将大大提升你的职业前景，尤其是如果你对大数据感兴趣的话。
 
@@ -231,12 +211,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P.S. —** 如果你需要一些免费资源，可以看看这份 [**免费大数据和 Hadoop 课程的清单，开始**](http://www.java67.com/2018/05/top-5-free-big-data-courses-to-learn-Hadoop-Apache-Spark.html) 你的旅程。
 
-[](/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30) [## 2023 年学习大数据、Hadoop 和 Spark 的 5 门免费在线课程
-
-### 如果你想学习 2020 年的大数据技术，如 Hadoop、Apache Spark 和 Apache Kafka，并且你正在寻找…
-
-medium.com](/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30) [](https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c) [## 面向 Java 和 Scala 开发人员的 5 门最佳 Apache Spark 课程
-
-### 想学 Java 和 Python 的大数据 Apache Spark 吗？这些是最值得学习的 Apache Spark 课程…
-
-becominghuman.ai](https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c)
+</swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30>  <https://becominghuman.ai/5-best-apache-spark-courses-for-java-and-python-developers-bbd9d63eb76c> 

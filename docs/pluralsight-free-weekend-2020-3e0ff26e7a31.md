@@ -16,15 +16,11 @@
 
 如果你想现在就开始，这里是加入的链接— [**周末免费观光**](https://pluralsight.pxf.io/c/1193463/1192599/7490)
 
-[](https://pluralsight.pxf.io/c/1193463/1192599/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习吧！我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/1192599/7490) 
+<https://pluralsight.pxf.io/c/1193463/1192599/7490>  
 
 顺便说一句，说实话，**一个周末算不了什么**你不能不停地学习，所以你需要挑选一些你一直想检查的最好的课程，并坚持下去，即使你完成了一两个，这也是完美利用的周末。
 
-所以，这里有一些[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**的复数课程，你可以参加或者周末观看。我尝试过包括不同垂直领域的课程，如 Java、Web 开发、数据结构和算法、Python、数据科学和机器学习、大数据和云计算、SQL、Linux 等，但这并不全面。**
+所以，这里有一些<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**的复数课程，你可以参加或者周末观看。我尝试过包括不同垂直领域的课程，如 Java、Web 开发、数据结构和算法、Python、数据科学和机器学习、大数据和云计算、SQL、Linux 等，但这并不全面。**
 
 **您还可以在评论中分享您最喜欢的 Pluralsight 课程，来这里寻求建议的程序员可以从中受益。**
 
@@ -48,11 +44,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/1192599/7490)
 
 ****链接加入:** [算法与数据结构—第一部分](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1)**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) [## 算法和数据结构—第 1 部分
-
-### 看看日常应用中使用的核心数据结构和算法。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1> ** 
 
 ## **3.Java 基础:Java 语言**
 
@@ -70,11 +62,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ****链接加入:** [Python 基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals)**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals) [## Python 基础
-
-### 本 Python 基础课程让您开始学习 Python，这是一种流行于 web 开发、大数据…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals> ** 
 
 ## **4.Linux 命令行界面(CLI)基础知识**
 
@@ -82,11 +70,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **链接加入: [Linux 命令行界面(CLI)基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals)**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals) [## Linux 命令行界面(CLI)基础知识
-
-### 在本课程中，您将学习掌握 Linux 和 Unix 中的命令行 shell。这是 4 门课程中的第 2 门…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals> ** 
 
 ## **6.大数据:大图景**
 
@@ -96,11 +80,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **在本课程中，ZDNet 的大数据记者 Andrew Brust 将向您介绍构成大数据世界的概念、公司和技术，并设计在您的组织中采用大数据的策略。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture) [## 大数据:大图景
-
-### 本大数据课程将帮助您掌握您需要了解的定义和技术以及供应商…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture> ** 
 
 ## **7.理解机器学习**
 
@@ -122,11 +102,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **链接加入— [**React.js:入门**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started)**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) [## 反应:开始
-
-### 课程概述大家好。我叫萨梅尔·布纳。我在 jsComplete 工作，我们在那里创造互动教育…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started>  
 
 本课程涵盖了 React.js 的基础知识，并为学生开始使用该库开发 web 应用程序做准备。它还解释了 React.js 的基本概念，使用一个示例 web 应用程序来演示儿童游戏中的数学技巧。** 
 
@@ -172,11 +148,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **在 [**免费周末**](https://pluralsight.pxf.io/c/1193463/1192599/7490) 派对持续期间享受这些课程。如果你在这个周末有其他精彩的课程，或者以前学过，请和我们分享。**
 
-**[](https://pluralsight.pxf.io/c/1193463/1192599/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习吧！我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/1192599/7490) 
+**<https://pluralsight.pxf.io/c/1193463/1192599/7490>  
 
 其他**免费在线课程**你可能喜欢探索
 [5 门免费课程学习 Git 和 Github](http://javarevisited.blogspot.sg/2018/01/5-free-git-courses-for-programmers-to-learn-online.html#axzz568Oo1Jao)
@@ -195,8 +167,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/1192599/7490)
 
 **附言——**如果你看不到他们的 [**Pluralsight 免费周末**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 优惠或面临任何其他问题，请在这里回复，我们也许能在某些方面帮助或指导你。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/934665/7490) [## Pluralsight |免费周末
-
-### 为周末做好准备，尽可能多的学习。我们正在释放我们的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/934665/7490)**
+<https://pluralsight.pxf.io/c/1193463/934665/7490> **

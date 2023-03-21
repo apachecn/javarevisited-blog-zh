@@ -36,11 +36,7 @@ Elasticsearch 以其简单的 REST APIs、分布式特性、速度和可伸缩�
 
 ## 第一步:如何生成 Spring Boot 项目？
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成一个 spring boot 项目，其中包含您快速启动所需的内容！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## 步骤 2:我应该包括哪些依赖项？
 
@@ -79,14 +75,6 @@ CRUD 操作的业务逻辑
 
 ## 参考书目:-
 
-[](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/master/java-rest-high.html) [## Java 高级 REST 客户端| Java REST 客户端[主] |弹性
-
-### Java 高级 REST 客户端工作在 Java 低级 REST 客户端之上。它的主要目标是公开 API 特定的…
-
-www.elastic.co](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/master/java-rest-high.html) [](https://www.elastic.co/) [## 免费开放搜索:Elasticsearch、ELK & Kibana | Elastic 的创造者
-
-### 7.14 首次推出免费开放的无限制 XDR，在一个平台中统一了 SIEM 和终端安全功能…
-
-www.elastic.co](https://www.elastic.co/) ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
+<https://www.elastic.co/guide/en/elasticsearch/client/java-rest/master/java-rest-high.html>  <https://www.elastic.co/>  ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
 
 谢谢观众们——罗汉·卡达姆

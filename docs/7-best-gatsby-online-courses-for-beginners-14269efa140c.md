@@ -22,11 +22,7 @@ gatsby.js 在最近几年变得非常流行，并且随着 React.js 的流行而
 
 这是一门深入学习 React 的极好课程，我强烈推荐给任何想学习 Reactjs 的人，它涵盖了所有基本的 React 概念，如 Redux、React 路由器、Webpack 和 React Hooks。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F) [## 现代反应与 Redux 培训课程
-
-### 课程上次更新为 React v16.6.3 和 Redux v4.0.1！所有内容都是全新的！更新包括以下方面的详细视频…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F>  
 
 # 2023 年学习盖茨比的 7 门最佳在线课程
 
@@ -86,11 +82,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一下，你需要一个[**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 此外，作为他们四月免费项目[的一部分，所有 Pluralsight 课程本月都是免费的，这是一个用 Pluralsight 学习新知识的好机会，比如 Gatsby。](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)
 
@@ -130,11 +122,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要一个 LinkedIn Learning 会员资格才能观看这个课程，这个课程每月花费大约 19.99 美元，但是你也可以通过参加他们的 1 个月免费试用课程来免费观看这个课程，这是一个探索他们 17500 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 17，000 多门专家指导课程的个性化、高质量内容。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 6.了不起的盖茨比训练营——完整的 Gatsby.js 教程[免费]
 
@@ -163,11 +151,7 @@ Gatsby 是一个创建高速网站和网络应用程序的框架。由 React 和
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2023 年学习盖茨比的**最好的免费在线课程。React 很受欢迎，为了增加你作为 react 开发人员的价值，你应该尝试学习 Gatsby。如果你对 *React.js* 有了适当的了解，那么理解《盖茨比》就不会太难了。在本文中，我们列出了能帮助你学习《盖茨比》的前五门课程。**
 
@@ -200,8 +184,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S. —** 对 React.js 的充分了解对有效地使用 Gatsby 大有帮助，如果你还不熟悉 React.js，那么我强烈建议你先在 Udemy 上完成一个全面的 React 课程[**React—Maximilian Schwarz muller 的完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 。这是一门深入学习 React 的优秀课程，我强烈推荐给任何想学习 Reactjs 的人。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 投入其中，从头开始学习 React.js！学习 Reactjs、Hooks、Redux、React Routing、Animations、Next.js 等等！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F> 

@@ -177,11 +177,7 @@ Educative 的[**Grokking Advanced System Design Interview**](https://www.educati
 
 顺便说一下，你可以单独参加这个课程，或者你可以参加 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) (推荐)，以获得他们的 250 多个高质量、基于文本的交互式课程，学习编码面试、软件开发和技术的关键技能。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我想表达我的无限感激，让您的多功能教育平台可用和访问。我…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 您可能喜欢探索的其他**文章**
 
@@ -206,8 +202,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 另一个很好的选择是，你也可以参加 Alex Yu 的 [*系统设计面试——一个知情人的指南*](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) 和 ByteByteGo，做一个完整的系统设计面试准备。
 
-[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)
+<https://bytebytego.com?fpr=javarevisited> 

@@ -36,16 +36,4 @@
 
 其他 **Spring Boot 和微服务文章** yo 可能喜欢:
 
-[](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [## 2021 年 Spring Boot 和 Spring Cloud 的 10 个最佳 Java 微服务课程
-
-### 我最喜欢的 2021 年用 Spring Boot 和 Spring Cloud 为初学者学习 Java 微服务的在线课程来自…
-
-medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html) [## 十大微服务设计模式和原则-示例
-
-### 让我们看看微服务架构构建的原则。1.可扩展性 2。灵活性 3…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html) [](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)
+</javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed>  <https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html>  </javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd> 

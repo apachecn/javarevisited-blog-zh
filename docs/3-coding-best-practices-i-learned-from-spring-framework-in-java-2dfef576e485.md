@@ -50,7 +50,7 @@
 
 Spring 有丰富的异常层次来描述在连接和从数据库检索数据时可能出现的不同错误，但是它们的根是`DataAccessException` ，它是未检查的。Spring 认为大多数错误都是由 catch 块中无法纠正的原因造成的，因此它决定捕捉开发人员的异常，而不是像 Java 那样强迫他们。结果是**更干净的代码**，没有空的 catch 块，并且有更少的 try-catch 块。
 
-这也是 Java 中处理错误和异常的最佳实践之一。如果你对这个话题感兴趣，那么你也可以查看我的帖子 [10 Java 异常最佳实践](http://javarevisited.blogspot.sg/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)以获得更多建议，如果你需要一门课程，那么 Tim Buchalaka 和他的团队编写的《Java master class》[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F)**是学习 Java 的绝佳课程。**
+这也是 Java 中处理错误和异常的最佳实践之一。如果你对这个话题感兴趣，那么你也可以查看我的帖子 [10 Java 异常最佳实践](http://javarevisited.blogspot.sg/2013/03/0-exception-handling-best-practices-in-Java-Programming.html)以获得更多建议，如果你需要一门课程，那么 Tim Buchalaka 和他的团队编写的《Java master class》<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F>**是学习 Java 的绝佳课程。**
 
 **[![](img/64173c80a1ea5fcb6b9150f530e1974b.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-the-complete-java-developer-course%2F)**
 
@@ -72,11 +72,7 @@ Spring 有丰富的异常层次来描述在连接和从数据库检索数据时�
 
 顺便说一句，如果你有兴趣学习更多关于使用 Spring 开发 RESTful web 服务的知识，那么 Eugen 帕拉斯基夫的**[**REST with Spring master class**](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa)也是一门不错的课程。****
 
-****[](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) [## 与春天一起休息:大师课
-
-### 使用 Spring 构建生产级 REST API 的参考。这 14 个模块涵盖了构建和保护 API…
-
-courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa) 
+****<http://courses.baeldung.com/p/rest-with-spring-the-master-class?affcode=22136_bkwjs9xa>  
 
 这就是你可以从 Spring 框架中学到的一些 **Java 最佳实践。Spring 是一个很棒的框架，它们的作者都是经验丰富的 Java 开发人员。**
 
@@ -104,8 +100,4 @@ courses.baeldung.com](http://courses.baeldung.com/p/rest-with-spring-the-master-
 
 如果你是 Spring 框架的新手，并且正在寻找在线学习 Spring 框架的综合课程，那么我强烈推荐你加入 Udemy 网站上 John Thomspon 的 [**Spring Framework 5:初学者到大师**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) 课程。在线学习 spring 是最好的课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F) [## Spring Framework 5:初学者到大师教程
-
-### Spring 框架 5:学习 Spring 框架 5，Spring Boot 2，Spring MVC，Spring Data JPA，Spring Data MongoDB…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F)****
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-framework-5-beginner-to-guru%2F> ****

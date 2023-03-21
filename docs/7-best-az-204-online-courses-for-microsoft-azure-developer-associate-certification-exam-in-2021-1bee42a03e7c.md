@@ -24,11 +24,7 @@
 
 其中一些也是免费的。你可以使用这些免费和付费的在线课程来准备 2023 年的微软 Azure 开发者助理认证。
 
-[](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531) [## 2023 年我最喜欢的免费微软 Azure 云课程初学者学习
-
-### 大家好，云计算是软件开发人员的必备技能，但云计算也随之而来…
-
-medium.com](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531) 
+</javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531>  
 
 # 考试 AZ-204 的前 7 名 Microsoft Certified Azure Developer Associate 认证在线培训课程
 
@@ -80,11 +76,7 @@ medium.com](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-be
 
 虽然我强烈推荐这种会员资格，因为它可以让你访问 7000 多门关于最新技术的在线课程，但你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来尝试一些课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[开发微软 Azure 解决方案— AZ 204 考试 edX](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fdeveloping-microsoft-azure-solutions-microsoft-dev233-2)
 
@@ -112,11 +104,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一下，你需要一个 LinkedIn Learning 会员资格来观看这个课程，这个课程每月花费大约 29.99 美元，但是你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这个课程，这是一个探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn 学习价格|选择学习计划| LinkedIn
-
-### 数百万会员可以访问 LinkedIn，了解我的免费试用期结束后会发生什么？您的会员资格将…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 6. [AZ-204 为 MS Azure 实践测试开发解决方案](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-204-developing-solutions-for-microsoft-azure-practice-tests%2F)
 
@@ -183,8 +171,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **P. S. —** 如果你是微软 Azure 的新手，正在寻找一个免费的初学者课程来开始学习微软 Azure 平台的关键概念，那么你也可以查看一下 [**微软 Azure 概念**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F)——Udemy 上 Linux Academy 提供的免费课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以在线参加这个课程。*
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F) [## 免费微软 Azure 教程-微软 Azure 概念
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F> 

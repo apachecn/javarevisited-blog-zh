@@ -44,11 +44,7 @@
 
 本课程全面概述了什么是人工智能，以及在人工智能背景下讨论的各种概念的含义。它帮助你建立你的词汇，这样你就可以在线和离线与程序员同事和其他人讨论人工智能。顺便说一句，如果你觉得 Coursera 的课程有用，那么我也建议你加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## [2。人工智能 A-Z:学习如何构建人工智能(Udemy)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fartificial-intelligence-az%2F)
 
@@ -193,8 +189,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你是认真的想进入人工智能和机器学习领域，我也建议你学习 Python，这是机器学习和人工智能最有价值的技能之一。如果您需要资源，请查看以下 [**最佳 Python 课程**](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) 列表，开始您的旅程。*
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2BY5LJC)
+<http://bit.ly/2BY5LJC> 

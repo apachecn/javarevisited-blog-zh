@@ -127,7 +127,7 @@ Adobe Muse 模板是为动态网站创建的，不需要您编写一行代码。
 
 Adobe Muse 主题是任何想要设计起点的人的完美选择。您可以自定义模板以匹配您的品牌，并大大加快网站创建过程。为了让你开始，我们收集了一些最好的缪斯模板和主题。
 
-> 查看关于如何编辑 Muse 模板的终极指南[](https://www.templatemonster.com/help/how-to-edit-muse-templates.html?aff=javarevisited)**。**
+> 查看关于如何编辑 Muse 模板的终极指南<https://www.templatemonster.com/help/how-to-edit-muse-templates.html?aff=javarevisited>**。**
 
 # **PSD 模板**
 

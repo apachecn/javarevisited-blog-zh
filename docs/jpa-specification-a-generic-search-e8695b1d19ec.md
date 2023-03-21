@@ -55,8 +55,4 @@
 
 如果您正在寻找另一篇与 [JPA](https://javarevisited.blogspot.com/2018/01/top-5-hibernate-and-jpa-courses-for-java-programmers-learn-online.html) 相关的有趣文章，请随意查看:
 
-[](/javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6) [## Spring JPA:何时使用“Join Fetch”
-
-### 避免 N+1 次查询并保留检索逻辑
-
-medium.com](/javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6)
+</javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6> 

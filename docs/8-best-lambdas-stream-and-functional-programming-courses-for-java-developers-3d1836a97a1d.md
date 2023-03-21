@@ -22,11 +22,7 @@ image_credit — Pluralsight
 
 如果你是一个 Java 世界的完全初学者，最好从更基础的东西开始，比如 [**完整的 Java Masterclass**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) ，它涵盖了 Java 开发人员需要知道的一切，包括一些函数式编程基础。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 2023 年学习 Lambda 表达式和流 API 的 8 大 Java 函数式编程在线课程
 
@@ -104,11 +100,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 此外，如果你喜欢教育平台和他们的互动课程，特别是探险课程，你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 18 美元，不仅可以访问这门课程，还可以访问他们的 100 多门课程。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## [7。现代 Java——通过编码学习 Java 8 的特性](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-java-learn-java-8-features-by-coding-it%2F)
 
@@ -128,11 +120,7 @@ Java 8 推出已经很多年了，但是仍然有开发者害怕学习 Java 8 �
 
 **这里是加入本课程的链接** — [重构到 Java 8 流和 Lambdas](https://learning.javaspecialists.eu/courses/refactoring2j8?affcode=92815_johrd7r8)
 
-[](https://learning.javaspecialists.eu/courses/refactoring2j8?affcode=92815_johrd7r8) [## 重构到 Java 8 Streams 和 Lambdas 在线自学研讨会
-
-### 我有多长时间可以参加全付费课程？终身访问听起来怎么样？注册后，你有无限的…
-
-learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/refactoring2j8?affcode=92815_johrd7r8) 
+<https://learning.javaspecialists.eu/courses/refactoring2j8?affcode=92815_johrd7r8>  
 
 以上就是学习 Java 函数式编程的**最佳课程**。这些将解释基本的函数式编程概念，如不变性和转换，如 map、flatmap、reduce 等。即使您不是在寻找函数式编程，您也会学到许多有用的技巧和诀窍，来编写更好的 Java 代码。
 
@@ -157,8 +145,4 @@ learning.javaspecialists.eu](https://learning.javaspecialists.eu/courses/refacto
 
 **P. S. —** 如果你是 Java 编程世界的新手，正在寻找一些免费课程来开始你的 Java 编程之旅，你也可以看看这个列表[**【我最喜欢的面向初学者的免费 Java 课程**](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) **】。**它包含了 Udemy、Coursera、Pluralsight 和 Educative 为初学者提供的一些最好的免费 Java 课程。
 
-[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [## 面向初学者和有经验的程序员的 10 大免费 Java 课程
-
-### 互联网上充满了有用的资源，无论你想学什么，都有一些有用的东西可以提供给…
-
-www.java67.com](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html)
+<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html> 

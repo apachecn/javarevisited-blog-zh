@@ -4,7 +4,7 @@
 
 ## *通过真实生活用例学习递归*
 
-> 原载于[](https://asyncq.com/simple-web-crawling-logic-in-java)
+> 原载于<https://asyncq.com/simple-web-crawling-logic-in-java>
 
 **![](img/c792284fafd76cf00a58ec9afceb147c.png)**
 

@@ -12,11 +12,7 @@ Java 8 之前和之后处理 [Eclipse 集合](https://github.com/eclipse/eclipse
 
 Brian Vermeer 写了一篇关于 Java 流中异常处理的博客。
 
-[](https://dev.to/brianverm/exception-handling-in-java-streams-2mjh) [## Java 流中的异常处理
-
-### 自版本 8 以来，流 API 和 lambda 是 Java 的一大改进。从那时起，我们可以和…
-
-开发到](https://dev.to/brianverm/exception-handling-in-java-streams-2mjh) 
+<https://dev.to/brianverm/exception-handling-in-java-streams-2mjh>  
 
 这篇文章让我想起了几年来我们在 [Eclipse 集合](https://github.com/eclipse/eclipse-collections)中对异常处理的支持。我想我会展示一些在 Java 8 之前和之后使用 Eclipse 集合处理检查异常的简单例子。我还将展示将与 [Java 流](/javarevisited/7-best-java-tutorials-and-books-to-learn-lambda-expression-and-stream-api-and-other-features-3083e6038e14)一起工作的例子。
 
@@ -88,10 +84,6 @@ UndependableAppendableException 构造函数与抛出
 
 这是 Eclipse 集合中现有的异常处理功能。如果您想要额外的功能，可以考虑提交请求特性的问题，或者通过对 Eclipse 集合项目的 pull 请求做出贡献。我们欢迎 Eclipse 集合的新贡献者。查看下面的博客，了解更多关于如何开始的信息。
 
-[](/@donraab/help-wanted-b1acf25d8c8d) [## 寻求帮助！
-
-### 嘘！我要告诉你一个秘密。对于一些人来说，这可能只是改变他们的软件…
-
-medium.com](/@donraab/help-wanted-b1acf25d8c8d) 
+</@donraab/help-wanted-b1acf25d8c8d>  
 
 *我是*[*Eclipse Collections*](https://github.com/eclipse/eclipse-collections)*OSS 项目在*[*Eclipse Foundation*](https://projects.eclipse.org/projects/technology.collections)*的项目负责人和提交人。* [*月食收藏*](https://github.com/eclipse/eclipse-collections) *为* [*投稿*](https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md) *。如果你喜欢这个库，你可以在 GitHub 上让我们知道。*

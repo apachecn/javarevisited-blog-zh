@@ -71,11 +71,7 @@ backbone . js 是一个 JavaScript 库，具有 RESTful JSON 接口，基于模�
 
 如果你想了解更多关于 Backbone JS 的知识，那么我建议你查看 Udemy 上的 [**Backbone 教程:从零开始学习 Backbone JS**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbackbonejs-tutorial%2F)课程。
 
-[](https://www.udemy.com/course/backbonejs-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kS2LBpUGnPfe6eF2ytoRJA) [## Backbone 教程:从头开始学习 Backbonejs
-
-### 想学习如何编写干净、可维护、可测试的 Javascript 代码吗？有许多库和框架可以…
-
-www.udemy.com](https://www.udemy.com/course/backbonejs-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kS2LBpUGnPfe6eF2ytoRJA) 
+<https://www.udemy.com/course/backbonejs-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-kS2LBpUGnPfe6eF2ytoRJA>  
 
 ## **6。Ember.js 是另一个流行的开源 JavaScript web 框架，它基于模型和视图模式。**
 
@@ -94,11 +90,7 @@ Meteor 包括一组用于构建连接客户端反应式应用程序的关键技�
 
 它有助于用相对较少的代码更快地开发 web、移动或桌面应用程序。如果你想使用 Meteor 开发一个 web 应用程序，那么通过在 Udemy 上构建 10 个真实世界的项目来学习 MeteorJS 是一个不错的开始。
 
-[](https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-AvcSC3hAJLPOogIUSGeGhA) [## 通过构建 10 个真实世界项目来学习流星
-
-### 这是一个完整的课程，通过构建 10 个真实世界项目的完整过程来逐步学习 MeteorJS。
-
-www.udemy.com](https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-AvcSC3hAJLPOogIUSGeGhA) 
+<https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-AvcSC3hAJLPOogIUSGeGhA>  
 
 ## 8.Angular
 Angular 以前被称为 Angular JS，是 Google 为桌面和移动网络应用开发的单一网络开发框架。
@@ -109,7 +101,7 @@ Angular 还有一个强大的生态系统，包括四个数据库和对 ide 的�
 
 [![](img/c091358c614a9408e1fbaddb13d333c3.png)](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F)
 
-顺便说一句，如果你不介意从免费资源中学习，或者如果你需要免费的课程来学习 Angular 框架，那么你也可以看看这个免费 Angular 课程的列表[](http://www.java67.com/2018/01/top-5-free-angular-js-online-courses-for-web-developers.html)****。****
+顺便说一句，如果你不介意从免费资源中学习，或者如果你需要免费的课程来学习 Angular 框架，那么你也可以看看这个免费 Angular 课程的列表<http://www.java67.com/2018/01/top-5-free-angular-js-online-courses-for-web-developers.html>****。****
 
 ## ****9。polymer JS**
 polymer 是另一个开源的 JavaScript 库，它可以帮助你创建定制的可重用 HTML 元素，这些元素可以用来构建高性能、可维护的 web 应用程序。**
@@ -157,26 +149,10 @@ polymer 是另一个开源的 JavaScript 库，它可以帮助你创建定制的
 
 **感谢您阅读本文。如果你发现这些框架对 Web 开发有用，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。**
 
-**如果你是一个初学者，刚开始学习网页开发，那么由安吉拉·于教授的《网页开发者训练营》[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F)**也是一门很好的课程。它将教你没有任何编程经验的 web 开发，它也涵盖了这里讨论的大多数框架。****
+**如果你是一个初学者，刚开始学习网页开发，那么由安吉拉·于教授的《网页开发者训练营》<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-web-development-bootcamp%2F>**也是一门很好的课程。它将教你没有任何编程经验的 web 开发，它也涵盖了这里讨论的大多数框架。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到 web 开发者训练营，这是学习 Web 开发的唯一课程。有很多…
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F) 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-web-developer-bootcamp%2F>  
 
 ## 你可能喜欢的其他媒体文章
 
-[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/top-10-frameworks-full-stack-java-developers-can-learn-in-2020-5995021401e5) [## 2023 年全栈 Java 开发者可以学习的 10 大框架
-
-### 从今年年初开始，我的许多读者一直在问我关于他们应该在 2023 年学习什么的问题。我有…
-
-medium.com](/javarevisited/top-10-frameworks-full-stack-java-developers-can-learn-in-2020-5995021401e5) [](/@javinpaul/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee) [## 我最喜欢的为前端开发者学习 Docker 和 DevOps 的免费课程
-
-### 面向开发人员和 DevOps 专业人员的免费 Docker 课程精选列表
-
-medium.com](/@javinpaul/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee)****
+</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/top-10-frameworks-full-stack-java-developers-can-learn-in-2020-5995021401e5>  </@javinpaul/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee> ****

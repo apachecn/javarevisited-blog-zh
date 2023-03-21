@@ -84,13 +84,9 @@ Pluralsight 有一些最令人惊叹的 AWS 课程，由 AWS 的专家和权威�
 
 [![](img/ea15a86db4eb3dfced7afcdcc7d6b8dc.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Faws-course)
 
-顺便说一下，你需要一个 [Pluralsight 会员](/javarevisited/pluralsight-or-udemy-d9a94d2e8ee)才能进入这个课程，这个课程每月花费大约 29 美元，但是你现在一年只需要 199 美元，因为他们提供年度会员 40%的折扣[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**。这是一笔很好的交易，因为你不会总是以低于 200 美元的价格获得 Pluralsight 会员资格。**
+顺便说一下，你需要一个 [Pluralsight 会员](/javarevisited/pluralsight-or-udemy-d9a94d2e8ee)才能进入这个课程，这个课程每月花费大约 29 美元，但是你现在一年只需要 199 美元，因为他们提供年度会员 40%的折扣<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**。这是一笔很好的交易，因为你不会总是以低于 200 美元的价格获得 Pluralsight 会员资格。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 如果你是一名开发人员或 IT 专业人士，我鼓励你获得 Pluralsight 会员资格，因为它允许你访问他们的 [7000+在线课程](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2)，这些课程涉及前端和后端开发、机器学习等所有最新主题。它还包括交互式测验、练习和最新的认证材料。** 
 
@@ -107,11 +103,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **此外，作为一个平台，教育性真的很好，如果你觉得这个课程不错，我建议你参加 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，价格约为 14.99 美元，并提供他们 100 多门软件开发课程的访问权限。大多数情况下，这是一个更好的交易，因为你不需要在未来购买课程，你可以直接注册并开始学习。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **6.[基于 AWS 专业化的 Python 现代应用开发](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-python-serverless-development)**
 
@@ -131,11 +123,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 Coursera Plus 不需要购买多门课程，既经济实惠又易于使用，因为你不需要一直购买课程。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **7.[ZTM 学院 AWS 认证云从业者](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zytgk2dn)**
 
@@ -159,11 +147,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级有趣和有用的课程，如 AWS 课程。您还可以使用我的代码**好友 10** 获得您选择的任何套餐的 10%折扣。**
 
-**[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 750，000 多名学生的行列，学习受欢迎的技能，并在…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)** 
+**<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn> ** 
 
 # **2023 年为什么要学亚马逊 Web Service 或者 AWS？**
 
@@ -208,10 +192,6 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 **感谢您阅读本文。如果你觉得这些 AWS 课程有用，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-**附言——**如果你喜欢 AWS 并想学习 AWS 服务，但正在寻找一些免费课程，那么不要担心。你也可以查看这份免费 AWS 课程清单[](https://dev.to/javinpaul/top-10-free-courses-to-learn-aws-in-2020-529e)**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。****
+**附言——**如果你喜欢 AWS 并想学习 AWS 服务，但正在寻找一些免费课程，那么不要担心。你也可以查看这份免费 AWS 课程清单<https://dev.to/javinpaul/top-10-free-courses-to-learn-aws-in-2020-529e>**。它们不像这些课程那样全面，但对初学者来说，它们给人的印象相当深刻。****
 
-****[](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html) [## 5 大亚马逊网络服务或 AWS 在线学习课程-免费和最好的
-
-### 大家好，如果你正在考虑学习云技术或云计算，并关注各种云…
-
-www.java67.com](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html)****
+****<https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html> ****

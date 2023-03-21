@@ -24,11 +24,7 @@ CSV 文件有多种格式，在下面的例子中我们将使用经典的 [**RFC
 > 
 > 其中每个记录都有相同的字段序列。
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 # 2.用 Apache Commons CSV 读取 CSV 文件
 
@@ -70,11 +66,7 @@ for (CSVRecord csvRecord : parser) {System.out.println(csvRecord.getRecordNumber
 
 [**阿帕奇。Commons.CSV**](https://commons.apache.org/proper/commons-csv/summary.html) 提供了几种方法来读取 CSV 文件中的字段，在本例中，我们使用标题名来访问数据，但也可以使用索引号来访问数据。
 
-[](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员接下来会做什么？项目经理、技术架构师或 DevOps 工程师
-
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) 
+</javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1>  
 
 # 3.用 Apache Commons CSV 编写 CSV 文件
 
@@ -114,12 +106,4 @@ CSVPrinter csvPrinter= new CSVPrinter(fileWriter, CSVFormat.RFC4180)
 
 # 您可能还喜欢:
 
-[](/analytics-vidhya/how-to-build-a-rest-api-with-node-js-and-oracle-18c-xe-f57bbbdd9b09) [## 用 Node.js 和 Oracle 18c XE 像专业人士一样在 5 分钟内构建一个 REST Api。
-
-### 在本教程中，我们将介绍如何使用 node.js 和 Oracle 18c XE 构建 REST API。
-
-medium.com](/analytics-vidhya/how-to-build-a-rest-api-with-node-js-and-oracle-18c-xe-f57bbbdd9b09) [](/javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26) [## Node.js 中的正则表达式备忘单
-
-### 轻松学习、编写和执行正则表达式的详细故事。
-
-medium.com](/javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26)
+</analytics-vidhya/how-to-build-a-rest-api-with-node-js-and-oracle-18c-xe-f57bbbdd9b09>  </javascript-in-plain-english/learn-to-use-regular-expressions-like-a-ninja-in-node-js-20cfb6806f26> 

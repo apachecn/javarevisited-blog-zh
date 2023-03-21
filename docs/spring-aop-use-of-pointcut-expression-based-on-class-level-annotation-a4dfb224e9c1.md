@@ -53,12 +53,4 @@
 
 如果您正在寻找更多与 Java 相关的有趣文章，请随意查看:
 
-[](/javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6) [## Spring JPA:何时使用“Join Fetch”
-
-### 避免 N+1 次查询并保留检索逻辑
-
-medium.com](/javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6) [](/javarevisited/jpa-specification-a-generic-search-e8695b1d19ec) [## JPA 规范:通用搜索
-
-### 了解如何创建简单而通用的搜索
-
-medium.com](/javarevisited/jpa-specification-a-generic-search-e8695b1d19ec)
+</javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6>  </javarevisited/jpa-specification-a-generic-search-e8695b1d19ec> 

@@ -86,11 +86,7 @@
 
 我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.3T 学院版 MongoDB 101 和 MongoDB 201(免费)
 
@@ -105,15 +101,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 下面是开始 MongoDB 101 课程的链接: [MongoDB 101](https://studio3t.com/academy/lessons/introduction-to-mongodb/)
 下面是开始 MongoDB 201 课程的链接: [MongoDB 201](https://studio3t.com/academy/lessons/mongodb-crud-operations/)
 
-[](https://studio3t.com/academy/lessons/mongodb-crud-operations/) [## 执行 MongoDB CRUD 操作| Academy 3T
-
-### 使用 MongoDB 时最常见的操作之一是查询文档数据。你越好…
-
-studio3t.com](https://studio3t.com/academy/lessons/mongodb-crud-operations/) [](https://studio3t.com/academy/lessons/introduction-to-mongodb/) [## MongoDB 和 Studio 3T | Academy 3T 简介
-
-### 最流行的 NoSQL 数据库 MongoDB 简介。MongoDB 101 的一部分，Academy 3T 的 MongoDB 教程…
-
-studio3t.com](https://studio3t.com/academy/lessons/introduction-to-mongodb/) 
+<https://studio3t.com/academy/lessons/mongodb-crud-operations/>  <https://studio3t.com/academy/lessons/introduction-to-mongodb/>  
 
 ## 6.[从零开始学习 MongoDB:领先的 NoSQL 数据库](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-mongodb-leading-nosql-database-from-scratch%2F) — Udemy
 
@@ -138,7 +126,7 @@ studio3t.com](https://studio3t.com/academy/lessons/introduction-to-mongodb/)
 [10 框架 Java 和 Web 开发人员应该学习的](https://javarevisited.blogspot.com/2018/01/10-frameworks-java-and-web-developers-should-learn.html)
 [学习数据库和 SQL 的前 5 门课程](https://javarevisited.blogspot.com/2018/05/top-5-sql-and-database-courses-to-learn-online.html)
 [2023 React JS 开发人员路线图](https://javarevisited.blogspot.com/2018/10/the-2018-react-developer-roadmap.html)
- [](http://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [2023 年学习 Scala 的 5 门免费课程](https://javarevisited.blogspot.com/2019/01/5-free-scala-programming-courses-for-java-programmers-learn-online.html)
+ <http://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html> [2023 年学习 Scala 的 5 门免费课程](https://javarevisited.blogspot.com/2019/01/5-free-scala-programming-courses-for-java-programmers-learn-online.html)
 [2023 年学习 Maven 和 Jenkins 的 5 门免费课程](http://www.java67.com/2018/02/6-free-maven-and-jenkins-online-courses-for-java-developers.html)
 [10 个框架和库全栈开发者应该学习的](https://javarevisited.blogspot.com/2019/01/10-web-development-frameworks-fullstack-developer-should-learn.html)
 [2023 年学习 Docker 的 10 门免费课程](http://www.java67.com/2018/02/5-free-docker-courses-for-java-and-DevOps-engineers.html)
@@ -150,8 +138,4 @@ studio3t.com](https://studio3t.com/academy/lessons/introduction-to-mongodb/)
 
 如果你正在寻找一个免费的 MongoDB 课程来开始你的 NoSQL 之旅，那么你也可以在 Udemy 上查看这个免费的[**MongoDB Essentials——了解 MongoDB**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F) 课程的基础知识。这个课程是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F) [## 免费的 MongoDB 教程- MongoDB 精华-了解 MongoDB 的基础知识
-
-### 软件工程师和企业家。我专攻全栈 javascript 开发。我最喜欢的技术是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F> 

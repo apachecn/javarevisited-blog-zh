@@ -26,11 +26,7 @@ image_credit — Udemy
 
 顺便说一句，说到学习，我个人最喜欢的是乔纳森·李维在 Udemy 上的 [**成为超级学习者:学习速读和增强记忆**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbecome-a-superlearner-2-speed-reading-memory-accelerated-learning%2F) 课程。它不是免费的，但它完全值得你花时间和金钱，因为它会教你如何更快地学习，更容易地使用世界上最快的读者和记忆记录保持者的技能。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbecome-a-superlearner-2-speed-reading-memory-accelerated-learning%2F) [## 成为超级学习者 2:学习快速阅读和提高记忆力
-
-### 不接受仿制品！在我们最初的课程中有超过 50，000 名满意的学生之后，成为超级学习者已经…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbecome-a-superlearner-2-speed-reading-memory-accelerated-learning%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbecome-a-superlearner-2-speed-reading-memory-accelerated-learning%2F>  
 
 # 2023 年 7 门免费的个人发展和领导力在线课程
 
@@ -66,11 +62,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它的费用约为 399 美元/年，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[自由品尝者:谈判——了解性格类型](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnegotiation-how-to-craft-agreements-that-give-everyone-more%2F)
 
@@ -122,11 +114,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *顺便说一下，如果你觉得 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。*
 
-*[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)* 
+*<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> * 
 
 ## *7.[提高影响力的 7 个科学证明的步骤](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F7-scientifically-proven-steps-to-increase-your-influence%2F)*
 
@@ -176,8 +164,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ***附言——**如果你想提高你的谈判技巧，并且正在寻找一门好的课程来学习一些有用的谈判技巧，那么我强烈推荐你参加 Udemy 网站上由 Chris Croft 开设的 [**成功谈判:掌握你的谈判技巧**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fa-practical-guide-to-negotiating%2F) 课程。学习一些现实世界中的否定技巧是一个很好的课程，这些技巧不仅会在工作中帮助你，也会在接受和拒绝工作邀请时帮助你。*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fa-practical-guide-to-negotiating%2F) [## 成功谈判培训课程
-
-### 掌握这些谈判技巧谈判是一项非常值得掌握的技巧——把一些简单的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fa-practical-guide-to-negotiating%2F)*
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fa-practical-guide-to-negotiating%2F> *

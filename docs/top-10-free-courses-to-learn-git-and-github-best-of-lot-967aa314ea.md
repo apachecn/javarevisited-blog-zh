@@ -18,11 +18,7 @@
 
 当你在热门的在线课程网站上搜索 Git 课程时，如 [Udemy](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F) 、 [Pluralsight](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 或 [Coursera](/javarevisited/is-coursera-plus-worth-it-review-7df4915cd326) ，你会在 Udemy 上找到一些综合课程，如 [**Git Complete:权威指南**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F)
 
-[](https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-756A5T5wpZQ87mz.WL9OJQ) [## Git Complete:Git 的权威分步指南
-
-### Git 完成这一课程的目的是一个全面的 Git 方法，这意味着没有事先的知识或…
-
-www.udemy.com](https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-756A5T5wpZQ87mz.WL9OJQ) 
+<https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-756A5T5wpZQ87mz.WL9OJQ>  
 
 还有来自 Pluralsight 的 [**Git 基础**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals) ，它会一步步教你关于 Git 的一切。这些是从 Git 开始的极好的资源。
 
@@ -30,11 +26,7 @@ www.udemy.com](https://www.udemy.com/course/git-complete/?LSNPUBID=JVFxdTr9V80&r
 
 或者，你也可以使用他们的 **1** [**0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 一些程序员更喜欢从免费资源中学习，我的许多读者问我是否可以分享一些不错但免费的 git 课程，他们可以用这些课程在线自学 Git。
 
@@ -68,11 +60,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 他们完全免费加入，是开始学习 Git 和 Github 的良好资源，但如果你需要更全面的覆盖面，并且不介意支付一些钱来学习像 Git 这样有价值的技术，那么你也可以查看 Udemy 上的[**Github Ultimate:Master Git 和 GitHub**](http://bit.ly/2Q37e50) 以及 Pluralsight 上的 [**Git 基础**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals) 。Git 上最全面的两门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals) [## Git 基础
-
-### 中间 2012 年 5 月 23 日 1h 51m 描述 Git 是一个流行的分布式版本控制系统(DVCS)。在这个…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals>  
 
 无论如何，让我们从我们的列表开始:
 
@@ -122,21 +110,13 @@ Git 版本控制课程为您理解 Git 版本控制系统提供了坚实的实�
 
 除此之外，Coursera 上还有另一个很棒的 Git 课程，Google 的[**Git 和 GitHub 简介**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github) 可以免费旁听。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github) [## Git 和 GitHub 简介
-
-### 在本课程中，您将学习如何使用跟踪工具跟踪不同版本的代码和配置文件
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-git-github>  
 
 本课程是[**Google IT Automation with Python Professional Certificate**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation)的一部分，是 Coursera 上最受欢迎的 Python 认证之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) [## 用 Python 实现谷歌 IT 自动化
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation>  
 
-### 学习像 Python、Git 和 it 自动化这样的热门技能来推进你的职业生涯
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-it-automation) 
-
-如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
+如果你觉得 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
 
 **[![](img/402c7100ecb6b0731e7b5350d6311e41.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**
 
@@ -150,11 +130,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **如果你已经知道一些 Git 基础知识，尝试一些关于合并分支和从其他分支引入提交的高级和具有挑战性的水平。**
 
-**[](https://learngitbranching.js.org/) [## 学习 Git 分支
-
-### 一个交互式 Git 可视化工具，用于教育和挑战！
-
-learngitbranching.js.org](https://learngitbranching.js.org/)** 
+**<https://learngitbranching.js.org/> ** 
 
 ## **5. [Git 和 GitHub——初学者循序渐进](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-and-github-step-by-step-for-beginners%2F)**
 
@@ -201,11 +177,7 @@ learngitbranching.js.org](https://learngitbranching.js.org/)**
 9.  **git 结账，**
 10.  **和 git 合并**
 
- **[## 用 Bitbucket Cloud 学习| Atlassian Git 教程
-
-### 通过这篇空间主题教程学习 Git 的基础知识。你的任务是通过完成…
-
-www.atlassian.com](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)** 
+ **** 
 
 ## **8.[学习 Git:你需要知道的一切](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearngit%2F)**
 
@@ -246,8 +218,4 @@ www.atlassian.com](https://www.atlassian.com/git/tutorials/learn-git-with-bitbuc
 
 ****附言——**如果你不介意花一点钱在值得学习的东西上，那么你也可以在 Udemy 上查看[**GitHub Ultimate:Git 大师和 GitHub —初学者到专家**](http://bit.ly/2Q37e50) 和来自 Pluralsight 的 [**Git 基础**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgit-fundamentals) 。Git 上最全面的两门课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgithub-ultimate%2F) [## GitHub Ultimate:Git 大师和 GitHub -初学者到专家
-
-### 本课程将全面介绍 GitHub 托管服务，作为 Git 源代码控制工具的配套工具，它…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgithub-ultimate%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgithub-ultimate%2F> **

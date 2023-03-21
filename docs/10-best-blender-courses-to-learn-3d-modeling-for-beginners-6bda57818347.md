@@ -120,11 +120,7 @@ image_credit — Udemy
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费*观看此课程*。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 6.[使用 Blender 的基础 3D 动画](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fbasic-3d-animation-using-blender)【最佳 edx 课程】
 
@@ -217,8 +213,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你是 3D 建模和 Blender 的新手，并且正在寻找免费的在线培训课程来学习 Blender 基础知识，那么你也可以在 Udemy 上查看这个 [**学习 3D 建模:Blender 基础知识不到 2 小时【免费】**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-3d-modeling-blender-basics-in-under-2-hours%2F) 课程。该课程完全免费，已经有超过 73，000 名学生加入了该课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-3d-modeling-blender-basics-in-under-2-hours%2F) [## 免费搅拌机教程-学习三维建模:搅拌机基础知识在 2 小时内
-
-### 了解流行的 3D 建模软件 Blender 的基本工具、快捷方式和重要方面，没有任何事先…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-3d-modeling-blender-basics-in-under-2-hours%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-3d-modeling-blender-basics-in-under-2-hours%2F> 

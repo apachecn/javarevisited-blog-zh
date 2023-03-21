@@ -167,8 +167,4 @@
 
 每个学习者在学习过程中得到的支持对他们职业生涯的形成起着至关重要的作用。当世界逐渐开始进入虚拟维度时，它已经准备好向未来迈出第一步。现在是学习元宇宙的好时机，如果你想成为一名元宇宙专业人士，那么这里有 [**的链接，加入 101 区块链**](https://shareasale.com/r.cfm?b=1696402&u=880419&m=105464&urllink=https%3A%2F%2F101blockchains%2Ecom%2Fcertification%2Fcertified%2Dmetaverse%2Dprofessional%2F&afftrack=) 的元宇宙认证。您还可以使用折扣代码 BCHAIN30 在有限的时间内获得 30%的折扣。
 
-[](https://javarevisited.blogspot.com/2022/07/how-to-learn-metaverse-from-scratch-is.html) [## 如何从零开始学习元宇宙？是区块链 101 号的元宇宙认证专家
-
-### 任何个人寻找一个可行的机会成为元宇宙专业人士将结束与分散…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/how-to-learn-metaverse-from-scratch-is.html)
+<https://javarevisited.blogspot.com/2022/07/how-to-learn-metaverse-from-scratch-is.html> 

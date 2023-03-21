@@ -10,11 +10,7 @@
 
 如果你想成为一名 web 开发人员，那么[**Udemy 上以结果为导向的 web 开发人员课程——boot camp 2020**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F)课程对于 Web 开发的绝对初学者和那些想要自己构建项目的人来说是一个很好的起点:
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) [## 面向结果的 Web 开发人员课程- BOOTCAMP 2020
-
-### 嗨！欢迎参加以结果为导向的 web 开发人员课程，这是学习 Web 开发所需的唯一课程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F>  
 
 在这篇文章中，你会发现如何在**5-18 个月** 内成为一名 web 开发人员的一步一步的计划。这篇文章回答了三个主要问题:
 
@@ -58,11 +54,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 永远不会太晚。还是那句话，公司只在乎你的技能，不在乎你的年龄。如果你拥有合适的技能，你会得到这份工作。请记住，今天对 web 开发人员的需求高于供应，并且这种趋势预计将在未来几年内不断增长。如果你需要一个故事，请看这个帖子:
 
-[](https://dev.to/javinpaul/can-you-become-a-web-developer-in-your-40s-and-50s-27ng) [## 四五十岁能成为网页开发者吗？
-
-### 一个人有可能在职业生涯的晚期，比如 40 岁或 50 岁以后，学习编程并成为一名软件开发人员吗…
-
-开发到](https://dev.to/javinpaul/can-you-become-a-web-developer-in-your-40s-and-50s-27ng) 
+<https://dev.to/javinpaul/can-you-become-a-web-developer-in-your-40s-and-50s-27ng>  
 
 我需要花一大笔钱成为一名网络开发人员。
 
@@ -84,11 +76,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 而且，如果你需要指导，这份 [**完整的 Web 开发者路线图**](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html) 也是一份极好的指南:
 
-[](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html) [## 完整的前端和后端开发路线图
-
-### 大家好，2020 年新年快乐。我相信你们现在都已经制定了自己的目标，并在思考如何…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html) 
+<https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html>  
 
 # **第二部分:你将学到什么**
 
@@ -152,11 +140,7 @@ HTML、CSS 和 JavaScript 是 web 开发的核心。
 
 而且，如果你想学习 HTML 5、CSS 3 和 JavaScript，那么 [**面向结果的 Web 开发者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) **是一个很好的起点。**
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) [## 面向结果的 Web 开发人员课程- BOOTCAMP 2020
-
-### 嗨！欢迎参加以结果为导向的 web 开发人员课程，这是学习 Web 开发所需的唯一课程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F>  
 
 # **第一个月**
 
@@ -230,11 +214,7 @@ JavaScript 是一种编程语言。您可能还记得，JavaScript 为网页添�
 
 如果是你的第一门编程语言， ***不要拿自己和别人比*** 。假装是个孩子:不断尝试用 JavaScript 说出你的第一个“单词和句子”，很快你就会成功。
 
-[](/javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094) [## 2019 年 Web 开发最受欢迎的 10 个 JavaScript 框架和库
-
-### 毫无疑问，JavaScript 现在是世界上排名第一的编程语言，也是 web 开发之王…
-
-medium.com](/javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094) 
+</javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094>  
 
 # **第三个月**
 
@@ -246,11 +226,7 @@ Git 帮助你变一些魔法。使用 Git，您可以确保当您在处理应用
 
 学习 web 开发时，您将创建一个文件夹。GitHub 是一个网站，你可以在上面上传你已经完成的项目。此外，您可以通过使用 Git 来使用 GitHub。如果你需要资源，这里有一个学习 Git 的[免费课程列表:](https://dev.to/javinpaul/5-free-courses-to-learn-git-and-github-in-depth-jpp)
 
-[](/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea) [## 我最喜欢的学习 Git 和 Github 的免费课程——最好的
-
-### 使用交互式免费在线课程学习 Git 的完整指南
-
-medium.com](/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea) 
+</@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea>  
 
 **第十步:CLI(命令行界面)**
 
@@ -264,11 +240,7 @@ medium.com](/@javinpaul/top-10-free-courses-to-learn-git-and-github-best-of-lot-
 
 为什么？因为他们有实践经验，可以很容易地与你分享。不要害怕成为“最笨的人”:“傻瓜”比“聪明人”成长得快得多，他们更喜欢和能力相当或较低的人在一起，如果你需要学习 Linux 命令行的课程，请查看这个为程序员提供的免费和最好的 Linux 课程列表:
 
-[](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) [## 2020 年学习 Linux 命令行的 10 大课程——最好的免费课程
-
-### 有没有想过为什么命令行仍然在使用，即使有数百种人性化的图形用户界面和工具…
-
-medium.com](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) 
+</javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0>  
 
 # **第四个月**
 
@@ -284,11 +256,7 @@ medium.com](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-be
 
 Node.js 已经非常受欢迎，更重要的是它的受欢迎程度和使用仍在增长。PayPal、网飞、沃尔玛、LinkedIn、易贝、NASA、优步、Groupon 等公司都使用 Node.js。如果你需要学习 Nodejs 的免费课程，请查看面向程序员的 Node JS 课程列表:
 
-[](https://www.java67.com/2019/07/top-5-free-nodejs-courses-for-web-development.html) [## 2020 年学习 Node.js 的五大免费课程-最佳选择
-
-### Node JS 完全改变了 JavaScript 用于开发的方式。早期的 JavaScript 被认为是…
-
-www.java67.com](https://www.java67.com/2019/07/top-5-free-nodejs-courses-for-web-development.html) 
+<https://www.java67.com/2019/07/top-5-free-nodejs-courses-for-web-development.html>  
 
 **第十二步:** [**MongoDB**](https://javarevisited.blogspot.com/2019/01/top-5-mongodb-online-training-courses.html)
 
@@ -358,19 +326,11 @@ LinkedIn 是最大也是最好的接触人力资源官员的平台，提升你�
 
 对了，我是[顶点学院](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Ff8d5433a-2f80-45d1-9eff-db4bae354197%2F)的教官。**我们创建了最生动的课程来有效地学习网络开发:**
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) [## 面向结果的 Web 开发人员课程- BOOTCAMP 2020
-
-### 嗨！欢迎参加以结果为导向的 web 开发人员课程，这是学习 Web 开发所需的唯一课程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F>  
 
 此外，请查看我们面向绝对初学者的 SQL 课程:
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-mysql-bootcamp-from-sql-beginner-to-expert%2F) [## 完整的 MySQL 训练营:从 SQL 初学者到专家
-
-### 欢迎来到完整的 MySQL 训练营:从 SQL 初学者到专家。根据 2019 年堆栈溢出调查，SQL…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-mysql-bootcamp-from-sql-beginner-to-expert%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-mysql-bootcamp-from-sql-beginner-to-expert%2F>  
 
 **请分享、评论并按下👏有几次。。。激励某人加入发展最快的工作领域。**
 

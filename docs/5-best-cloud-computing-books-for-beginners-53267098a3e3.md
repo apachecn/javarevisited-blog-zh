@@ -36,11 +36,7 @@
 
 如果你需要一门课程，我强烈推荐你将这本书与 Neal Davis 教授的《亚马逊 AWS 上的云计算入门教程》结合起来。这可能是在单一课程中从零开始学习 AWS 和云计算的最好和最新的课程。
 
-[](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) [## 2023 年学习云计算的 5 大在线课程-最佳选择
-
-### 随着越来越多的人开始使用云计算，云计算正成为任何软件开发人员或 IT 专业人员的一项基本技能
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) 
+<https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html>  
 
 ## 2.[虚拟云计算](https://www.amazon.com/Cloud-Computing-Dummies-Computer-Tech-ebook/dp/B08CRDJ3BK/?tag=javamysqlanta-20)
 
@@ -66,11 +62,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-onl
 
 如果你需要一门课程来配合这本书，IBM 在 Coursera 上的 [**云计算入门课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-cloud) 是一个不错的开始。审计也是免费的。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-cloud) [## 云计算简介
-
-### 本课程向您介绍云计算的核心概念。您获得了…所需的基础知识
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-cloud) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fintroduction-to-cloud>  
 
 ## 4.[基础设施代码](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud-ebook/dp/B01GUG9ZNU/?tag=javamysqlanta-20)
 
@@ -96,11 +88,7 @@ Kief Morris 在云计算领域已经工作了二十多年，负责管理和部�
 
 如果你需要一门课程来配合这本书，我强烈推荐你去看看 Coursera 的[**AWS 基础专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) ，它是由 AWS 自己创建和提供的，已经有超过 20，000 人加入了这门课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) [## AWS 基础知识
-
-### 这一专业为当前或有抱负的 IT 专业人员提供了特性、优势和能力的概述…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals>  
 
 以上是初学者学习云计算和 AWS 的最佳书籍**。我与您一起列出的上述书籍是由在该行业工作多年的作者创作的，他们分享了如果您试图涉足该行业将需要知道的内容，它们肯定会帮助您学习在云计算领域开始旅程所需的技能。**
 
@@ -127,8 +115,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你是云计算和 AWS 领域的新手，并且正在寻找学习亚马逊 Web 服务的最佳在线课程，那么我强烈推荐你去看看 Coursera 的[**AWS 基础专业化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) ，它是由 AWS 自己创建和提供的，已经有超过 2 万人加入了这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) [## AWS 基础知识
-
-### 计算云计算安全 aws 云联网存储 AWS 信息隐私云管理安全云…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals> 

@@ -2,7 +2,7 @@
 
 > 原文：<https://medium.com/javarevisited/visualizing-brain-computer-interface-data-using-javafx-foojay-io-d0209da4a631?source=collection_archive---------3----------------------->
 
-最近，[](https://twitter.com/SeanMiPhillips)**在推特上分享了一些他正在开发的 JavaFX 应用 **Trinity** 的精彩截图和视频。**
+最近，<https://twitter.com/SeanMiPhillips>**在推特上分享了一些他正在开发的 JavaFX 应用 **Trinity** 的精彩截图和视频。**
 
 **他是约翰霍普金斯大学应用物理实验室的软件工程师，专门研究多个项目的数据可视化。JHUAPL 从事各种项目，从医疗工作、制造无人机、网络防御、脑机接口到月球防御系统。**
 

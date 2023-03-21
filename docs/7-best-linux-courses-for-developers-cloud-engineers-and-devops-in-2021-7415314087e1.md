@@ -66,11 +66,7 @@ Linux 也是[程序员](https://javarevisited.blogspot.com/2019/01/10-things-eve
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或一年 299 美元。这让你不仅能接触到这门课程，还能接触到 7000 多门关于最新技术的课程。或者，你也可以参加他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需的技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3.[开源软件开发，Linux 和 Git 专业化](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Foss-development-linux-git)【Coursera 最佳课程】
 
@@ -92,13 +88,9 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 [![](img/fe221ee904fdf83ed22c07d21ba68543.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Foss-development-linux-git)
 
-而且，如果你觉得 Coursera 的课程和证书有用，那么我也建议你加入 Coursera Plus 的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。**
+而且，如果你觉得 Coursera 的课程和证书有用，那么我也建议你加入 Coursera Plus 的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>**，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **4.[红帽企业 Linux 基础](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Ffundamentals-of-red-hat-enterprise-linux) (edX 最佳课程)**
 
@@ -130,11 +122,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **而且，如果你找到一个教育平台和他们的互动课程，比如[钻研系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)、[钻研面向对象设计面试](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14 美元就能获得他们的 100 多门课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **6 [在 5 天内学会 Linux，提升你的职业生涯](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-linux-in-5-days%2F) (Udemy 课程)**
 
@@ -186,11 +174,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级吸引人和有用的课程。你也可以使用我的代码**朋友 10** 来获得你选择的任何套餐的 10%的折扣。**
 
-**[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn)** 
+**<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn> ** 
 
 **这就是为开发人员和 DevOps 工程师提供的最好的 Linux 在线课程。你可以参加这些课程中的任何一门或几门来深入学习 Linux。**
 
@@ -220,8 +204,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 ****附言——**如果你热衷于学习 Linux，但正在寻找免费的在线课程来开始你的培训，那么你也可以看看这个 [**Red Hat Enterprise Linux 技术概述(免费**](http://bit.ly/2hj3IYt) **)，这是 Udemy 的一个**免费课程。这是完全免费的，你只需要创建一个 Udemy 帐户就可以进入这门课程，它也是免费的。**
 
-**[](http://bit.ly/2hj3IYt) [## 免费红帽企业 Linux (RHEL)教程-红帽企业 Linux 技术概述
-
-### 在这个官方的红帽培训课程，史蒂夫博纳维尔，红帽培训的技术课程设计师…
-
-udemy.com](http://bit.ly/2hj3IYt)**
+**<http://bit.ly/2hj3IYt> **

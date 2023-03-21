@@ -163,11 +163,7 @@ image_credit —教育性
 
 而且，如果你觉得教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，它不仅提供这门课程，还提供他们的 250 多门课程，每月仅需 14.9 美元。它非常划算，非常适合准备编码面试
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 7. [JavaScript Web 项目:构建您的作品集的 20 个项目](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)
 
@@ -198,11 +194,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 顺便说一句，你需要一个 [ZTM 会员资格](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) p 来观看这个课程，这个课程每月花费大约 23 美元，但是也提供了许多超级吸引人和有用的课程，比如他的 Python 课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 8.一个面向初学者的 Java Spring Boot 微服务项目
 
@@ -236,11 +228,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 顺便说一下，ZTM 学院也提供这门课程，如果你已经有了 ZTM 会员资格，你也可以免费学习这门课程。如果你没有，那么你可以申请一个来访问 Andrei 的所有课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 以上是 2023 年学习 Java、Python 和 JavaScript 的**最佳项目课程**。这是一个很棒的课程集，你在其他地方找不到，如果你的目标是学习编程和编码，我强烈建议根据你选择的编程语言选择其中的一门课程。
 
@@ -269,8 +257,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 如果你热衷于学习编程，并且正在寻找编程和编码课程，那么你也可以看看这个来自 Educative 的[10 门免费编程课程**的列表，Educative**](https://javarevisited.blogspot.com/2020/01/top-10-free-interactive-online-courses.html)是一个交互式在线学习平台。所有课程完全免费加入。
 
-[](/javarevisited/top-10-free-interactive-programming-courses-from-educative-for-beginners-to-learn-in-2021-713cbf96d4eb) [## 2023 年 10 门免费编程课程供初学者学习
-
-### 免费编程和编码课程，学习 Python、Java、Scala、C、C++、JavaScript、PHP、Ruby 和 R 编程…
-
-medium.com](/javarevisited/top-10-free-interactive-programming-courses-from-educative-for-beginners-to-learn-in-2021-713cbf96d4eb)
+</javarevisited/top-10-free-interactive-programming-courses-from-educative-for-beginners-to-learn-in-2021-713cbf96d4eb> 

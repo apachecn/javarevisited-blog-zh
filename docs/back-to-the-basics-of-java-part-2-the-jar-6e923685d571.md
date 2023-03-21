@@ -6,11 +6,7 @@
 
 在第一部分中，我介绍了一个简单的例子，解释了如何正确使用类路径。我也将在这一部分使用这个例子，所以如果您还没有创建它，您可以在继续之前从第一部分复制它，如果您想继续的话。
 
-[](https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-1-classpath-47cf3f834ff) [## 回到 Java 基础——第 1 部分:类路径
-
-### 我最喜欢的编程语言一直是 Java，巧合的是这也是我用过的第一种语言。如果…
-
-ludvigwesterdahl.medium.com](https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-1-classpath-47cf3f834ff) 
+<https://ludvigwesterdahl.medium.com/back-to-the-basics-of-java-part-1-classpath-47cf3f834ff>  
 
 # 冲突
 

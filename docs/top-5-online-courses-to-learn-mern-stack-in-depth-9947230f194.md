@@ -84,11 +84,7 @@ MongoDB 是无模式的，不像 SQL 数据库那么复杂。使用 [MongoDB](ht
 
 ****顺便说一句，如果你发现 Coursera 课程有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入**[**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)，这是一个课程订阅计划，可以访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。******
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ****4.[使用 React 和 Express 构建全栈应用——plural sight](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-express-full-stack-app-building)****
 
@@ -109,11 +105,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 或者，您也可以利用他们的 [**10 天免费试用期**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问此课程，因为它提供了他们所有 6000+在线培训课程中的 200 分钟。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**** 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> **** 
 
 ## ****5. [MERN Stack 大师课程——打造自己的 Instagram](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmern-stack-master-course-building-your-own-instagram%2F)****
 
@@ -181,8 +173,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **【p . s .】**—如果你不介意从免费的资源中学习，比如免费的在线课程、书籍和教程，那么你也可以看看这个 [**5 种学习 web 开发的免费资源的列表**](http://www.java67.com/2018/03/top-5-free-courses-to-learn-web-development.html) ，其中我分享了一些对 web 开发人员有用的免费资源。****
 
-****[](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97) [## 学习 HTML 5、CSS 3 和 Web 开发的 10 大免费课程
-
-### 大家好，我已经分享了很多关于各种技术和编程语言的免费在线课程和书籍…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97)****
+****</javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97> ****

@@ -63,11 +63,7 @@
 
 要学习这门课程，你需要拥有 Pluralsight 会员资格，费用约为每月 29 美元或每年 299 美元。或者，你也可以利用他们的 [**10 天免费试用期**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3.[拉韦勒项目:了解拉韦勒 10 号楼项目](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprojects-in-laravel-learn-laravel-building-10-projects%2F)
 
@@ -161,8 +157,4 @@ RESTful 服务已经成为现代 web 开发中非常重要的一部分。为了�
 
 **P. S.** —如果你对学习 Laraval 框架感兴趣，但正在寻找免费的在线培训课程，你也可以在 Udemy 上查看这个 [**面向初学者的幼虫 6 PHP 框架**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-6-framework%2F) 课程。本课程完全免费，您需要一个 Udemy 帐户才能在线参加本课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-6-framework%2F) [## 免费的 Laravel 教程——Laravel 6 PHP 框架，适合初学者
-
-### 嗨！我是卡兹·阿里安。我是一名热爱教学的网络开发人员，我是 eLe easy Learning 的创始人，也是一名…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-6-framework%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flaravel-6-framework%2F> 

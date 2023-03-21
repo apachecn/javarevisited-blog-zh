@@ -4,7 +4,7 @@
 
 ## 使用 CompletableFuture 实现异步用例
 
-> 最初发表于[](https://asyncq.com/how-to-do-asynchronous-programming-with-java)
+> 最初发表于<https://asyncq.com/how-to-do-asynchronous-programming-with-java>
 
 **![](img/b77463feec921b1ace8e1dd51a01a63b.png)**
 

@@ -94,11 +94,7 @@ image credit — [通过 Educative 成为机器学习工程师](https://www.educ
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM 和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限证书。
 
@@ -162,11 +158,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *本课程是您开始成为数据科学家的全面指南。在一个地方对所有基本主题进行简单易懂、动手操作且有趣的解释非常容易，因此您可以快速有效地了解成为一名成功的数据科学家所需的知识。*
 
-*[](https://www.educative.io/courses/grokking-data-science?affiliate_id=5073518643380224) [## 探索数据科学
-
-### 掌握那些即使你逃课也能让你拿到 10 万美元以上薪水的技能。这门课是你的…
-
-www.educative.io](https://www.educative.io/courses/grokking-data-science?affiliate_id=5073518643380224)* 
+*<https://www.educative.io/courses/grokking-data-science?affiliate_id=5073518643380224> * 
 
 ## *12.[*Python 中的数据可视化*](https://gumroad.com/a/502068339)*
 
@@ -216,8 +208,4 @@ www.educative.io](https://www.educative.io/courses/grokking-data-science?affilia
 
 ***P.S. —** 如果需要一些免费资源，可以查看[深度学习必备:Python 中的 Numpy 栈](http://bit.ly/2CwoE3b)开始你的旅程。*
 
-*[](http://bit.ly/2CwoE3b) [## 免费 Numpy 教程-深度学习先决条件:Python 中的 NumPy 堆栈
-
-### 欢迎光临！这是深度学习、机器学习、数据科学的先决条件:Python 中的 Numpy 栈。一…
-
-bit.ly](http://bit.ly/2CwoE3b)*
+*<http://bit.ly/2CwoE3b> *

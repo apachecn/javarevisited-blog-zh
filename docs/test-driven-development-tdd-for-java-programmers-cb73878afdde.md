@@ -166,7 +166,7 @@ public void checkISBNLengthTenOrThirteen(){ ValidateISBN validateISBN  = new Val
 }
 ```
 
-虽然我们可以创建一个新的异常来处理这个问题，但是我们可以使用 Java 的`[NumberFormatException](http://javarevisited.blogspot.com/2016/08/javalangnumberformatexception-for-input-string-null-java.html)` [](http://javarevisited.blogspot.com/2016/08/javalangnumberformatexception-for-input-string-null-java.html)来处理这个问题。因为我们知道这是错误的，并且我们预期会有一个错误，我们可以将测试注释更改为我们预期的错误。
+虽然我们可以创建一个新的异常来处理这个问题，但是我们可以使用 Java 的`[NumberFormatException](http://javarevisited.blogspot.com/2016/08/javalangnumberformatexception-for-input-string-null-java.html)` <http://javarevisited.blogspot.com/2016/08/javalangnumberformatexception-for-input-string-null-java.html>来处理这个问题。因为我们知道这是错误的，并且我们预期会有一个错误，我们可以将测试注释更改为我们预期的错误。
 
 ```
 @Test(expected = NumberFormatException.class)

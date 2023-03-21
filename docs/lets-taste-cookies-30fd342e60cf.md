@@ -158,11 +158,7 @@ res.setHeader('Access-Control-Allow-Credentials', 'true');*
 
 *检查该岗位生成**自签名** [**证书**](/@suriyaprakhash/cryptography-algorithms-e86ce7e2bb9b#41bc) ，*
 
-*[](/javarevisited/self-signed-certificate-d545d6054327) [## 正在生成自签名证书
-
-### 本地主机
-
-medium.com](/javarevisited/self-signed-certificate-d545d6054327) 
+*</javarevisited/self-signed-certificate-d545d6054327>  
 
 **注意**客户端应用**不需要在 **https 上**。**但是，出于模拟生产环境的演示目的，在[**https**](/javarevisited/self-signed-certificate-d545d6054327#59d2)**上运行客户端也是如此。**
 

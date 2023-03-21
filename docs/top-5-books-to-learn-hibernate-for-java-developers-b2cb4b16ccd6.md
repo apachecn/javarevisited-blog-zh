@@ -26,11 +26,7 @@ Hibernate 是最受欢迎的开源 ORM(对象关系映射)框架之一，它现�
 
 你也可以将本指南与 Udemy 上的 [**Spring 和 Hibernate for 初学者**](https://click.linksynergy.com/link?id=JVFxdTr9V80&offerid=323058.647428&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fspring-hibernate-tutorial%2) 课程结合使用，这是学习 Java 开发人员必备的两个框架的最佳课程之一。这是一门很好的课程，也是我将要提到的 Hibernate 书籍的配套课程，而且它的价格还不到这些书籍的一半。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F) [## 学习 Hibernate 和 Spring(作为初学者)教程
-
-### UDEMY 上最畅销的 1 门春季冬眠课程-超过 38000 条评论- 5 颗星！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-hibernate-tutorial%2F>  
 
 # Java 程序员必读 Hibernate 书籍
 
@@ -52,11 +48,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这本书教授了很多关于抓取策略、缓存、事务以及数据库设计和 ORM 技术的最佳实践，如果你愿意，你也可以将这本书与 [**Java 持久性:Hibernate 和 JPA 基础知识**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F) 课程结合起来，以便更好地学习。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F) [## Java 持久性:Hibernate 和 JPA 基础
-
-### 如果您是一名 Java 程序员，想学习 Java 持久性的基础知识和一些高级主题…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F>  
 
 ## 2.[高性能 Java 持久性](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s)作者 Vlad Mihalcea
 
@@ -74,11 +66,7 @@ Vlad Mihalcea 是一名 Java 拥护者，也是 Hibernate ORM 项目的顶级成
 
 Vlad 还定期举办在线直播研讨会，深入教授您 Hibernate。你可以在这里查看下一期 [**高性能 Java 持久性培训**](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 的时间表。
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) [## 高性能 Java 持久性-在线研讨会
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-online-workshop?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s>  
 
 这个在线研讨会旨在关注 Java 开发人员和数据库编程之间的差距，培训费用**是每张 750 美元。**
 
@@ -86,11 +74,7 @@ vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performanc
 
 该培训包括无限制访问[高性能 Java 持久性书籍](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s)和 [Mach 3 视频课程。](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-3-online?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s)培训结束后，将通过 100%折扣券授予视频课程访问权。
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) [## 高性能 Java 持久性-电子书
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-ebook?coupon_code=JAVINPAULDISCOUNT&affcode=172599_kuoszt8s>  
 
 ## 3.[休眠提示:70 多种常见休眠问题的解决方案](https://www.amazon.com/Hibernate-Tips-solutions-common-problems-ebook/dp/B06XXGYZHS?tag=javamysqlanta-20)
 
@@ -118,11 +102,7 @@ Jeff Linwood 和 Dave Minter 的《Hibernate 入门第二版》是针对 Hiberna
 
 这本书是关于 JPA 的，JPA 是 Hibernate 遵循的现代标准，所以如果你想学习 JPA，我建议你把这本书和 Pluralsight 上 Antonio Gonç alves 的 Java Persistence API 2.2 结合起来
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-persistence-api-21) [## Java 持久性 API 2.2
-
-### 课程概述大家好。我叫安东尼奥·冈萨尔维斯。欢迎来到我的课程，Java 持久性 API 2.2。我是一个…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-persistence-api-21) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-persistence-api-21>  
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能进入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。
 
@@ -132,11 +112,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 他们还提供一个 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，无需任何承诺，这是一个很好的方式，不仅可以免费学习这门课程，还可以在加入 Pluralsight 之前检查课程的质量。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5. [Hibernate Recipes:一种解决问题的方法](http://www.amazon.com/Hibernate-Recipes-Problem-Solution-Approach-Experts/dp/1430227966?tag=javamysqlanta-20)作者 Gary Mak，Srinivas Guruzu
 
@@ -173,8 +149,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 由于一本书并不总是足以掌握任何新的框架或技术，所以我大多使用两三本书。你也可以从像 [Java Persistence: Hibernate 和 JPA Fundamentals](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F) 这样的在线课程中获得帮助，进行更主动的学习。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F) [## Java 持久性:Hibernate 和 JPA 基础
-
-### 如果您是一名 Java 程序员，想学习 Java 持久性的基础知识和一些高级主题…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fhibernate-and-jpa-fundamentals%2F> 

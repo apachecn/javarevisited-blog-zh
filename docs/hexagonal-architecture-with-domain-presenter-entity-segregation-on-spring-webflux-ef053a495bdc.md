@@ -94,11 +94,7 @@ F 或者那些已经受够了这么多理论并想知道代码在哪里的人，
 
 我们将为“商店”管理构建一个非常简单的 REST 应用程序。我们应该能够存储和检索数据，并运行不同的查询。最终的解决方案可以在这里找到。
 
-[](https://github.com/dev-aritra/spring-hexagonal) [## dev-ari tra/spring-六角形
-
-### GitHub 是超过 5000 万开发人员的家园，他们一起工作来托管和审查代码、管理项目和构建…
-
-github.com](https://github.com/dev-aritra/spring-hexagonal) 
+<https://github.com/dev-aritra/spring-hexagonal>  
 
 假设我们当前任务的需求是。
 
@@ -198,11 +194,7 @@ github.com](https://github.com/dev-aritra/spring-hexagonal)
 
 如果您不能连接所有的点，您可以克隆这个回购并在本地运行它来查看整个流程。
 
-[](https://github.com/dev-aritra/spring-hexagonal) [## dev-ari tra/spring-六角形
-
-### GitHub 是超过 5000 万开发人员的家园，他们一起工作来托管和审查代码、管理项目和构建…
-
-github.com](https://github.com/dev-aritra/spring-hexagonal) 
+<https://github.com/dev-aritra/spring-hexagonal>  
 
 # 但是
 

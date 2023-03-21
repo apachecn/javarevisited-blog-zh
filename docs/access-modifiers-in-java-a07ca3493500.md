@@ -85,19 +85,7 @@ Java 中有 4 种类型的访问修饰符。它们是:
 
 [**如果你 liked🧡读了这篇文章，你可能也会喜欢下面的文章。看看吧！**](http://cool/)
 
-[](https://bootcamp.uxdesign.cc/css-box-model-5a397de31ae9) [## CSS 盒子模型
-
-### CSS 中最重要和最有用的主题，用于更好地设计网站。
-
-bootcamp.uxdesign.cc](https://bootcamp.uxdesign.cc/css-box-model-5a397de31ae9) [](/nerd-for-tech/top-10-books-to-learn-java-e6aa9c68164) [## 学习 Java 的十大书籍
-
-### 掌握 Java 编程语言的最佳书籍
-
-medium.com](/nerd-for-tech/top-10-books-to-learn-java-e6aa9c68164) [](https://python.plainenglish.io/maximum-sum-subarray-using-sliding-window-technique-8667ca805a02) [## 如何使用滑动窗口技术找到子阵列的最大和
-
-### 关于解决大公司面试中最常被问到的问题之一的教程。
-
-python .平原英语. io](https://python.plainenglish.io/maximum-sum-subarray-using-sliding-window-technique-8667ca805a02) 
+<https://bootcamp.uxdesign.cc/css-box-model-5a397de31ae9>  </nerd-for-tech/top-10-books-to-learn-java-e6aa9c68164>  <https://python.plainenglish.io/maximum-sum-subarray-using-sliding-window-technique-8667ca805a02>  
 
 请订阅我的电子邮件，你会得到定期更新！
 

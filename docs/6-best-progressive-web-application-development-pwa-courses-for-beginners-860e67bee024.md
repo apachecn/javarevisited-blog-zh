@@ -80,11 +80,7 @@ progressive web 应用程序就像使用任何 web 技术 [HTML/CSS](https://jav
 
 顺便说一句，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程。订阅费用约为每月 29 美元，或每年 299 美元(14%的折扣)，我强烈推荐它，因为它不仅可以让您访问本课程，还可以访问 7000 多种其他高质量的在线课程，以学习最新的技能和技术。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这些渐进式网络应用基础课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[渐进式网络应用从零到英雄](https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps?affiliate_id=5073518643380224)
 
@@ -104,13 +100,9 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 [![](img/2f153678987271a96127670e57ee7aad.png)](https://www.educative.io/courses/zero-to-hero-with-progressive-web-apps?affiliate_id=5073518643380224)
 
-除了这门课程，Educative 还有大量有用的内容，如[探索系统设计面试课程](https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html)，以及其他从探索开始的课程。你可以购买这门课程，也可以订阅[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)**教育课程，每月花费约 14.9 美元，但也可以访问他们的所有课程。我个人发现，订阅更方便学习。**
+除了这门课程，Educative 还有大量有用的内容，如[探索系统设计面试课程](https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html)，以及其他从探索开始的课程。你可以购买这门课程，也可以订阅<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>**教育课程，每月花费约 14.9 美元，但也可以访问他们的所有课程。我个人发现，订阅更方便学习。**
 
-**[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224> ** 
 
 ## **5.[渐进式网络应用(PWA):简明 PWA 大师班](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprogressive-web-apps%2F)**
 
@@ -162,8 +154,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 **如果你是网页设计和网页开发的新手，并且正在寻找免费的在线课程，那么你也可以看看这个由最好的 Udemy 讲师之一 Jonas Schmedtmann 教授的 [**网页设计速成班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) 。这个课程也是完全免费的，你只需要一个 Udemy 账号就可以加入这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F) [## 免费网页设计教程-网页开发人员的网页设计:建立美丽的网站！
-
-### 重要提示:这门课的内容也包含在我的另一门关于网页设计和开发的课程中
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-design-secrets%2F> **

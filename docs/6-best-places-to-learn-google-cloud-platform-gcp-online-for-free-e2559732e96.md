@@ -32,11 +32,7 @@ GCP 或谷歌云平台是一种服务，你可以托管你的应用程序或网�
 
 而且，如果你需要免费资源，你也可以在 Udemy 上加入免费课程[**谷歌云平台概念**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F) 在线学习基本的谷歌云服务。
 
-[](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html) [## 2022 年面向初学者的 5 大免费谷歌云平台课程——最好的
-
-### 伙计们，如果你们也想在 2022 年学习谷歌云平台，并且正在寻找一些免费的在线谷歌云…
-
-www.java67.com](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html) 
+<https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html>  
 
 ## 2. [Coursera](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)
 
@@ -52,11 +48,7 @@ Coursera 最好的一点是，他们所有的谷歌云课程都是由谷歌云�
 
 Coursera 的另一个优点是，大多数课程都是免费审核的，这意味着你可以免费加入，但你不能访问实验室和评估，因为你需要购买 Coursera Plus，一个会员计划，或者你需要加入专业化，每月花费约 59 美元。如果你想在 Coursera 上获得认证，我推荐你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，每月只需 59 美元就可以无限制地获得证书和项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[cloud.google.com](https://cloud.google.com/gcp/getting-started)
 
@@ -98,13 +90,9 @@ Edureka 是一个小型在线电子学习平台，它教授您不同的技术主
 
 [![](img/ce11607077af29ea3a0fcc6014a65df9.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgoogle-cloud-platform-fundamentals-core-infrastructure)
 
-顺便说一下，Pluralsight 也与 Google Cloud 有合作关系，但他们的课程并不完全免费，你需要获得 Pluralsight 会员资格才能访问这些课程，这些课程每年花费约 299 美元，但他们也提供 10 天的免费试用[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)**，你可以使用它免费访问他们的课程。**
+顺便说一下，Pluralsight 也与 Google Cloud 有合作关系，但他们的课程并不完全免费，你需要获得 Pluralsight 会员资格才能访问这些课程，这些课程每年花费约 299 美元，但他们也提供 10 天的免费试用<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>**，你可以使用它免费访问他们的课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 以上就是 2022 年免费学习谷歌云平台的**最佳地点。现在每个企业都应该有一个网站，这样他们就可以通过分享文章和技巧或订阅模式与人们联系来赚钱，对于这种网站，他们应该有一个特殊的托管提供商，而不是我们所知道的常规提供商，因此谷歌推出了一项名为谷歌云平台或 GCP 的服务。**
 
@@ -129,8 +117,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你不介意花几块钱学习像谷歌云平台这样有价值且受欢迎的技能，它将长期为你服务，那么我强烈推荐你去看看 Janakiram 的 Udemy 上的 [**谷歌云平台(GCP)初学者基础**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-platform-gcp-fundamentals-for-beginners%2F) 课程，这是最好的初学者谷歌云课程之一。
 
-[](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html) [## 2022 年学习 AWS、Google Cloud、Azure 和云计算的 10 大 Coursera 课程-最佳…
-
-### 大家好，云计算是程序员、软件开发人员和任何 IT 专业人士都需要的技能…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html)**
+<https://javarevisited.blogspot.com/2020/08/top-10-coursera-certifications-to-learn-cloud-computing-aws.html> **

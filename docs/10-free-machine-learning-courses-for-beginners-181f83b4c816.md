@@ -6,7 +6,7 @@
 
 [![](img/9f4daefb7859b8e8d5d70745970df1fa.png)](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F)
 
-如果你想在 2023 年学习机器学习和深度学习，并寻找免费的在线课程和教程，那么你来对地方了。早些时候，我已经分享了针对初学者的免费数据科学课程[](/javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b)**，在本文中，我将分享一些在线学习机器学习和深度学习的最佳免费资源。**
+如果你想在 2023 年学习机器学习和深度学习，并寻找免费的在线课程和教程，那么你来对地方了。早些时候，我已经分享了针对初学者的免费数据科学课程</javarevisited/10-free-data-science-online-courses-for-beginners-a5fe78c2cb7b>**，在本文中，我将分享一些在线学习机器学习和深度学习的最佳免费资源。**
 
 **如果你现在开始机器学习，那么你很幸运，你有这么多免费和付费的资源，可以节省你很多时间和麻烦。当我第一次开始机器学习时，我很难搞清楚一切是如何工作的。机器学习用什么库最好？哪种算法最适合哪种数据集，而且没有那么多资源。**
 
@@ -28,11 +28,7 @@
 
 **顺便说一句，如果你不介意花几块钱学习像机器学习这样有价值的技能，那么我也推荐你去看看 [**机器学习 A-Z:动手 Python&R**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F)**如果你需要一个全面、深入的机器学习课程。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F) [## 机器学习 A-Z(数据科学课程中的 Python & R)
-
-### 对机器学习领域感兴趣？那么这道菜就是为你准备的！这个课程是由两个…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F) 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F>  
 
 这个 45 小时的课程是从头开始学习机器学习的最完整的资源，你可以在 Udemy sales 上花 10 美元购买，这几乎是免费的。
 
@@ -52,7 +48,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 更重要的是，你不仅会学到学习的理论基础，还会获得快速有效地将这些技术应用于新问题所需的实际知识。
 
-最后，你将了解硅谷在创新方面的一些最佳实践，因为它与机器学习和人工智能有关。Coursera 也是最好的机器学习认证[](/javarevisited/top-10-machine-learning-and-data-science-certifications-and-training-courses-for-beginners-and-a6308497b764)**的所在地，如果你想成为一名大师，Coursera 是最好的起点。**
+最后，你将了解硅谷在创新方面的一些最佳实践，因为它与机器学习和人工智能有关。Coursera 也是最好的机器学习认证</javarevisited/top-10-machine-learning-and-data-science-certifications-and-training-courses-for-beginners-and-a6308497b764>**的所在地，如果你想成为一名大师，Coursera 是最好的起点。**
 
 **以下是本课程涵盖的内容:**
 
@@ -68,11 +64,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **顺便说一句，因为这是免费课程，你不会得到任何证书。如果你是为了获得 Coursera 证书而加入的，那么你需要注册专业化或参加订阅计划，如 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，该计划提供 5000 多个 Coursera 课程、项目和专业证书的无限制访问。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **2.[深度学习先决条件:Python V2 中的 Numpy 栈](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F)**
 
@@ -263,8 +255,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **如果你正在寻找最好的机器学习在线课程，那么我也推荐查看 Udemy 网站上的 [**机器学习 A-Z:动手操作 Python & R**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F) **作者**基里尔·叶列缅科。这不是免费的，但这将是 2023 年学习机器学习的正确选择。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F) [## 机器学习 A-Z(数据科学课程中的 Python & R)
-
-### 对机器学习领域感兴趣？那么这道菜就是为你准备的！这个课程是由两个…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F)******
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmachinelearning%2F> ******

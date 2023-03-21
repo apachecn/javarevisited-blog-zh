@@ -62,12 +62,4 @@ Java 变化很快，随着新的 6 个月发布周期的到来，我们将在每
 
 可以继续看我之前的一些文章。
 
-[](https://ashishtechmill.com/10-books-every-java-developer-must-read) [## 每个 Java 开发人员必读的 10 本书
-
-### 每个有经验的 Java 开发人员必读的书籍列表。涵盖并发性等主题…
-
-ashishtechmill.com](https://ashishtechmill.com/10-books-every-java-developer-must-read) [](https://ashishtechmill.com/containerizing-spring-boot-application-with-jib) [## 用 Jib 集装箱化 Spring Boot 应用
-
-### 在本帖中，我们将了解如何创建 docker 或 OCI 投诉图片，而无需安装任何 docker 客户端或…
-
-ashishtechmill.com](https://ashishtechmill.com/containerizing-spring-boot-application-with-jib)
+<https://ashishtechmill.com/10-books-every-java-developer-must-read>  <https://ashishtechmill.com/containerizing-spring-boot-application-with-jib> 

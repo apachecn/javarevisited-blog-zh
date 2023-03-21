@@ -76,11 +76,7 @@ C++开发人员或任何想使用 blueprint 选项和代码来制作一个全面
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[游戏开发要领](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgde-unreal-engine-4%2F)
 
@@ -159,8 +155,4 @@ Scott Pagano 向您展示了如何使用日场编辑器准备和导入静态和�
 
 **附言——**如果你热衷于学习虚幻引擎并使用 C++创建游戏，但正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看这个 [**虚幻引擎 4 FPS 教程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funreal-engine-4-fps-tutorial%2F) 。这个课程是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。它将教你如何在虚幻引擎 4 中从头开始制作一个基本的 FPS 游戏。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funreal-engine-4-fps-tutorial%2F) [## 免费虚幻引擎教程-虚幻引擎 4 FPS 教程
-
-### 大家好，我是韦斯顿·休特，欢迎来到独立指导。独立教练是一个行业领先的游戏…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funreal-engine-4-fps-tutorial%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Funreal-engine-4-fps-tutorial%2F> 

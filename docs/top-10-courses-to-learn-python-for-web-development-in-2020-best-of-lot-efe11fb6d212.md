@@ -58,11 +58,7 @@ web 开发构建网站或 Web 应用程序的科学，客户端和服务器端�
 
 顺便说一句，Andrei Neagoie 还推出了自己的在线门户网站， [ZTMAcademy](https://academy.zerotomastery.io?affcode=441520_zytgk2dn&product_id=FRIENDS10) ，只需一次订阅，你就可以获得他的所有 Python、JavaScript、Deno 和其他技术课程。您也可以使用我的 code friends10 获得 10%的折扣，点击[此处](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)享受折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 3.[使用 Python 进行全栈 Web 开发(WEB2PY)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ffull-stack-web-development-python-web2py)
 
@@ -82,11 +78,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，费用大约是每月 29 美元，每年 299 美元(14%的折扣)，但它完全值得。另类。你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[用 Flask 和 Python 实现 REST APIs】](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frest-api-flask-and-python%2F)
 
@@ -237,8 +229,4 @@ Django 是一个非常流行、功能齐全的服务器端 web 框架，用 Pyth
 
 它完全免费，来自世界各地的 49 万多名学生已经注册了这门课程。
 
-[](http://bit.ly/2D5vvnV) [## 免费 Python 教程——Python 编程介绍
-
-### Avinash Jain 目前是加州大学伯克利分校电气工程和计算机科学专业的大二学生。他是…
-
-bit.ly](http://bit.ly/2D5vvnV)
+<http://bit.ly/2D5vvnV> 

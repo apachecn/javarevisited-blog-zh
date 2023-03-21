@@ -4,8 +4,4 @@
 
 大家好。在本文中，我们将详细了解一下 [Spring Webflux 框架](/javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995)。但在此之前，请看看我下面的文章，了解一些反应式编程的基础知识
 
-[](https://blog.devgenius.io/what-is-reactive-programming-9cb913eea519) [## 什么是反应式编程？
-
-### 大家好。在本文中，让我们了解一下反应式编程范例，并理解所有的术语…
-
-blog.devgenius.io](https://blog.devgenius.io/what-is-reactive-programming-9cb913eea519)
+<https://blog.devgenius.io/what-is-reactive-programming-9cb913eea519> 

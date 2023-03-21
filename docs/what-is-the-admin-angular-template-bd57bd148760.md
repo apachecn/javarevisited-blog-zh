@@ -23,11 +23,7 @@ Web 应用程序是一个快速发展的领域，有许多相互竞争的标准�
 
 **模板**用于定义一个组件视图。一个模板看起来像**常规的 HTML** ，但也有一些不同。像 ***ngFor、{{hero.name}}、(click)** 和**【hero】**这样的代码使用角度模板语法来增强 HTML 标记功能。模板也可以包含定制组件，比如非常规 HTML 标签形式的<定制元素>。这些组件在相同的布局中与原生 HTML 无缝混合。
 
-[](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) [## 2020 年免费学习 Angular 和 React.js 的 10 大课程-最好的
-
-### 毫无疑问，Angular 和 React(也称为 Angular JS 和 React JS)是最受欢迎的两种…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html) 
+<https://javarevisited.blogspot.com/2019/04/10-free-angular-and-react-courses-for.html>  
 
 # 怎样才能得到有角度的模板？
 
@@ -213,12 +209,4 @@ Flatlogic 使用趋势网络技术和数据科学，在我们的管理模板基�
 
 此外，你还可以得到字体、图标和按钮。所有这些组件都是现成的，并带有超级丰富的定制设置。顺便说一下，该产品还会定期更新。它们是免费的，并且有自动安装。请不要犹豫观看现场演示。
 
-[](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html) [## 2020 年学习 Angular Framework 的前 5 门课程——最佳课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html) [](https://dev.to/javinpaul/10-books-tutorials-and-courses-to-learn-angular-in-2019-2m0l) [## 2020 年学习 Angular 的 10 本书、教程和课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/10-books-tutorials-and-courses-to-learn-angular-in-2019-2m0l)
+<https://javarevisited.blogspot.com/2018/06/5-best-courses-to-learn-angular.html>  <https://dev.to/javinpaul/10-books-tutorials-and-courses-to-learn-angular-in-2019-2m0l> 

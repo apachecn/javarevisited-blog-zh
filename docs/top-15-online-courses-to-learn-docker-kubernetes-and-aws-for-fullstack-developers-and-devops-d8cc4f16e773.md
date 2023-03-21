@@ -95,7 +95,7 @@ Kubernetes 可以说是世界上最重要的容器管理技术，在有许多容
 
 在 Docker Deep Dive 中，你将从零到 Docker，学习你需要知道的一切，使你的职业生涯更上一层楼，并给你开始使用容器的信心。
 
-如果您正在准备 Docker 认证助理考试[](/javarevisited/10-best-courses-and-practice-tests-to-crack-docker-certified-associate-dca-certification-exam-b0b21648df4e)**，本课程也是不错的选择，因为完成本课程后，您将为 Docker 认证助理考试中出现的大多数主题做好准备，并准备好使用容器。**
+如果您正在准备 Docker 认证助理考试</javarevisited/10-best-courses-and-practice-tests-to-crack-docker-certified-associate-dca-certification-exam-b0b21648df4e>**，本课程也是不错的选择，因为完成本课程后，您将为 Docker 认证助理考试中出现的大多数主题做好准备，并准备好使用容器。**
 
 **[![](img/f3a37a8a312b997b98c645e320e2baef.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdocker-deep-dive-update)**
 
@@ -119,11 +119,7 @@ Kubernetes 可以说是世界上最重要的容器管理技术，在有许多容
 
 **Pluralsight 还有一个 [**10 天的免费试用期**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 没有任何承诺，这是一个很好的方式，不仅可以免费参加这个课程，还可以在加入 Pluralsight 之前检查课程的质量。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **8.[学习 DevOps:完整的 Kubernetes 课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flearn-devops-the-complete-kubernetes-course%2F)**
 
@@ -161,15 +157,11 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **[![](img/b5a0b0db9c8f00cb112e8df946853fca.png)](https://www.educative.io/courses/good-parts-of-aws?affiliate_id=5073518643380224)**
 
-**你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买[](https://www.educative.io/subscription?affiliate_id=5073518643380224)**教育订阅，每月花费**【17 美元】**(现在打五折)，对于需要不断学习的程序员和软件工程师来说完全值得。感谢[教育团队](https://medium.com/u/163aa84775f6?source=post_page-----d8cc4f16e773--------------------------------)提供了这个精彩的课程。****
+**你可以购买这门课程，也可以获得教育会员资格来学习这门课程。如果你问我，我建议你购买<https://www.educative.io/subscription?affiliate_id=5073518643380224>**教育订阅，每月花费**【17 美元】**(现在打五折)，对于需要不断学习的程序员和软件工程师来说完全值得。感谢[教育团队](https://medium.com/u/163aa84775f6?source=post_page-----d8cc4f16e773--------------------------------)提供了这个精彩的课程。****
 
 ****本课程在 Gumroad 上也有电子书，如果你喜欢看书，那么你也可以看看 AWS 电子书中的 [**好的部分。如果你用这个链接买书，有 20%的折扣。**](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)****
 
-****[](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul) [## AWS 的优点
-
-### 这不是你的典型参考书。它并没有涵盖所有的 AWS 或其所有的怪癖。相反，我们想帮助你…
-
-gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)**** 
+****<https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul> **** 
 
 ## ****11.[面向绝对初学者的 Kubernetes 动手操作](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-kubernetes%2F)****
 
@@ -191,11 +183,7 @@ gumroad.com](https://gumroad.com/a/703100019/MsVlG?offer_code=javinpaul)****
 
 ****这些课程都很好，但你应该选择更适合你的课程。我非常关注老师的风格，以及我是否能和他交流，因此我建议你参加这个课程，在那里你可以和老师交流。如果你只需要一门课，那就去上 [**Docker 和 Kubernetes:完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) **，仅仅是**学习 Docker 和 Kubernetes 的最好课程。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) [## Docker 和 Kubernetes:完全指南
-
-### 如果你厌倦了学习如何部署 web 应用程序，那么这就是适合你的课程。CI+CD…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F) 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-and-kubernetes-the-complete-guide%2F>  
 
 您可能喜欢的其他**编程资源**
 
@@ -214,8 +202,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 **P. S.** —如果你正在寻找一些免费课程来开始你的 DevOps 之旅，并学习 Jenkins、Docker 和 Kubernetes 等基本工具，那么你应该看看这个为 DevOps 和程序员提供的免费 Jenkins、Docker 和 Kubernetes 课程 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6) [## 我最喜欢的 2023 年学 Maven，Jenkins，和 Docker 的免费课程
-
-### Maven 和 Jenkins 是 Java 世界中最流行的两个工具。Maven 帮助组织您的项目并提供…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)****
+</javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6> ****

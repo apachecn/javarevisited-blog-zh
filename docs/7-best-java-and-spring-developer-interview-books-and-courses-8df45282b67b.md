@@ -136,11 +136,7 @@ T5 1。面向对象编程
 
 这本书现在在亚马逊 Kindle 上也有售，价格为 9.9 美元，对于我们的印度朋友来说，价格为 449 卢比，如果你喜欢从亚马逊订购，那么你可以使用这个链接— [**在亚马逊上搜索 Spring Boot 采访**](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) 来获得你的副本，价格仅为 9.9 美元。
 
-[](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) [## 苦读 Spring Boot 的采访
-
-### Spring Boot 访谈- Kindle 版。下载一次，然后在你的 Kindle 设备上阅读…
-
-www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) 
+<https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20>  
 
 ## 5.[马卡姆曝光的 Java 编程访谈](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)
 
@@ -150,11 +146,7 @@ www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)
 
 如果你需要更多 Java 特有的问题，也可以查看 Udemy 上 Ranga Rao Karnam 的 [**Java 面试指南:200+面试问答**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) [## 准备 Java 面试(200 多个练习题)
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F>  
 
 ## 6.[编程面试曝光](http://www.amazon.com/dp/1118261364/?tag=javamysqlanta-20)
 
@@ -170,19 +162,11 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 这是为网飞、谷歌、亚马逊、脸书、微软、苹果等大型科技公司的编码面试做准备的绝佳课程。本课程为如何解决他们最棘手的问题提供了循序渐进的指导！
 
-[](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn) [## 掌握编码面试:大技术(FAANG)面试
-
-### 在顶级科技公司(谷歌、亚马逊、脸书、苹果、微软、网飞及其他公司)的编码面试中胜出…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn>  
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但是也提供了许多超级吸引人和有用的课程，比如这个 [Python 课程](/javarevisited/my-review-of-the-complete-python-developer-in-2021-zero-to-mastery-course-udemy-ztm-academy-371f6de92019)和这个 [JavaScript Web 项目:20 个项目来建立你的作品集](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645)课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn>  
 
 ## 7.[日常编码问题:获得格外好](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/?tag=javamysqlanta-20)
 
@@ -196,11 +180,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 顺便说一句，你也可以将这本书与教育性课程上的 [**探索编码面试:编码问题的模式**](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 结合起来，掌握常见面试问题的潜在模式，这样你就能应对面试中遇到的任何问题
 
-[](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式——互动学习
-
-### 更新:这个课程已经帮助 3 万多名用户在顶级公司找到了工作，包括谷歌、脸书、亚马逊和…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 而且，如果你发现教育平台和他们的搜索课程，比如[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，[搜索面向对象编程面试](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
@@ -231,8 +211,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/567146485
 
 **【p . s .】**—如果你正在寻找更多的资源，那么我强烈推荐你去看看 Educative 上的[**Ace Java 编码面试跟踪**](https://www.educative.io/track/ace-java-coding-interview?affiliate_id=5073518643380224) ，一个交互式学习平台。这个专题包含一个很棒的课程，可以让你为 Java 面试做好准备。根据他们的年度计划，每月只需 14.9 美元，你就可以获得他们所有的课程。
 
-[](https://www.educative.io/track/ace-java-coding-interview?affiliate_id=5073518643380224) [## java 编码面试中的王牌
-
-### 如果你能在 Java 技术面试中胜出，你就有可能永远拥有一份好工作。好消息:当你完成…
-
-www.educative.io](https://www.educative.io/track/ace-java-coding-interview?affiliate_id=5073518643380224)
+<https://www.educative.io/track/ace-java-coding-interview?affiliate_id=5073518643380224> 

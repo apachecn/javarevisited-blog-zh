@@ -24,11 +24,7 @@
 
 要了解 IBM 对 2020 年数据科学家需求的一些有趣预测，您可以参考 IBM 的 [**数据科学家需求洞察**](https://data-flair.training/blogs/data-scientists-demand-predictions/)
 
-[](https://dev.to/javinpaul/10-data-science-and-machine-learning-courses-for-programmers-looking-to-switch-career-57kd) [## 面向初学者的 10 门数据科学和机器学习课程
-
-### 数据科学、机器学习、深度学习和人工智能在这个时候真的很热，并提供了一个…
-
-开发到](https://dev.to/javinpaul/10-data-science-and-machine-learning-courses-for-programmers-looking-to-switch-career-57kd) 
+<https://dev.to/javinpaul/10-data-science-and-machine-learning-courses-for-programmers-looking-to-switch-career-57kd>  
 
 # 数据科学的范围-
 
@@ -57,11 +53,7 @@
 *   ****最重要的是项目** —数据科学项目在推动你的数据科学职业生涯中发挥着至关重要的作用。以下是为所有数据科学有志者准备的 [**前五大数据科学项目**](https://data-flair.training/blogs/data-science-projects-code/) 。**
 *   ****加入一个好的课程** —有许多关于数据科学的好的在线课程，你可以加入它们向像[吴恩达](https://medium.com/u/592ce2a67248?source=post_page-----2893169ddf6b--------------------------------)这样的专家学习，如果你需要推荐，你可以在这里找到一些 [**最佳数据科学课程**](https://dev.to/javinpaul/top-online-courses-to-learn-data-science-and-machine-learning-for-beginners-best-of-lot-37k8) 。**
 
-**[](https://dev.to/javinpaul/top-online-courses-to-learn-data-science-and-machine-learning-for-beginners-best-of-lot-37k8) [## 面向初学者的 6 门最佳数据科学和机器学习课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-online-courses-to-learn-data-science-and-machine-learning-for-beginners-best-of-lot-37k8) 
+**<https://dev.to/javinpaul/top-online-courses-to-learn-data-science-and-machine-learning-for-beginners-best-of-lot-37k8>  
 
 **数据科学家的薪资范围:**初级数据科学专业人员的起薪为 **$165，000** 。而有经验的专业人士的平均工资要高得多，为 25 万美元。
 

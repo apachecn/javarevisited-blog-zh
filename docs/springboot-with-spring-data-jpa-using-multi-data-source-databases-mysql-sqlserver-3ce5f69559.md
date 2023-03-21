@@ -14,11 +14,7 @@
 
 **Spring Data JPA** 是用于访问数据层的 Spring 框架的核心部分之一。Spring Data JPA 的主要目标是显著减少为 RDMS 或 NoSQL 的各种持久性存储实现数据访问层所需的样板代码行的数量。
 
-[](https://spring.io/projects/spring-data-jpa) [## 春季项目
-
-### Spring 组合有很多项目，包括 Spring 框架、Spring IO 平台、Spring Cloud、Spring Boot…
-
-spring.io](https://spring.io/projects/spring-data-jpa) 
+<https://spring.io/projects/spring-data-jpa>  
 
 # 先决条件
 
@@ -113,11 +109,7 @@ sqlserver.datasource.username=sa
 sqlserver.datasource.password=jEe8BUkAta32sA
 ```
 
-[](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) [## 前 5 名 RESTful Web 服务，为有经验的开发人员提供 Spring 和 Java 课程
-
-### 在上一篇文章中，我已经分享了一些用 Spring 框架学习微服务开发的课程，今天，我将…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY) 
+<https://javarevisited.blogspot.com/2018/02/top-5-restful-web-services-with-spring-courses-for-experienced-java-programmers.html#axzz61O27yGjY>  
 
 # 休息控制器
 
@@ -217,11 +209,7 @@ public class CountryEntity {
 }
 ```
 
-[](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) [## 2020 年深入学习 Spring 框架的前 5 门课程——最佳课程
-
-### Spring Framework 是 Java 开发人员的一项基本技能，不仅是为了获得一份 Java 开发人员的工作，也是为了你的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) 
+<https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html>  
 
 # 数据库
 
@@ -293,16 +281,4 @@ curl -X GET http://localhost:8080/api/all
 
 完整的源代码可以在 GitHub 上找到。
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的前 5 门课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9) [## 2021 年面向 Java 开发者的 5 门最佳春季数据 JPA 课程
-
-### 2021 年我最喜欢的学习 Spring Data JPA 的在线课程适合初学者和有经验的 Java 程序员
-
-medium.com](/javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d>  </javarevisited/5-best-spring-data-jpa-courses-for-java-developers-45e6438be3c9> 

@@ -64,11 +64,7 @@ Eugen 在 Spring 生态系统、REST APIs，当然还有安全性方面有着丰
 
 顺便说一下，如果你觉得 Coursera 的课程有用，那么你也可以加入 Coursera 的 [**Coursera Plus** ，](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。每月花费大约 59 美元，但绝对值得。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[弹簧框架:弹簧基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-fundamentals)【最佳复视课程】
 
@@ -110,11 +106,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 8.[学春季安全认证课](https://courses.baeldung.com/p/learn-spring-security-the-certification-class?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)
 
@@ -166,11 +158,7 @@ Eugen 在解释认证、授权、记住我功能等基础知识以及 OAuth、�
 
 虽然你可以单独购买这门课程，但你也可以以每月 29 美元的价格加入 Karthikeya 的其他课程，他已经友好地同意第一个月只给 Javarevisited reader 美元。您可以使用[此](https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm)链接来利用这一优势并加入本课程。
 
-[](https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm) [## 卡尔帕多高级会员！
-
-### 关于你的课程的简短描述。用这个方框来描述课程的内容，你的…
-
-karpadoschool.teachable.com](https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm) 
+<https://karpadoschool.teachable.com/courses/karpado-premium-member?affcode=536712_cf-umzkm>  
 
 ## 11.[面向 Spring Boot 初学者的 Spring 框架](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-spring-framework-masterclass%2F)
 
@@ -217,16 +205,8 @@ Btw，如果你是一个喜欢从书本中学习的人，那么请看看我列�
 
 **p . s .—**如果你是 Spring 框架的新手，正在寻找一些免费的在线课程来学习 Spring 框架以及 Spring MVC 和 Spring Boot 之类的东西，那么你也可以看看这个面向 Java 程序员的 [**免费 Spring 课程**](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html) 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) [## Java 开发人员学习 Spring 框架的 10 大免费课程
-
-### 大家好，我最近分享了很多资源，如书籍和课程，当我公布了我的最佳…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) 
+</javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末**](https://pluralsight.pxf.io/c/1193463/871467/7490) 在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

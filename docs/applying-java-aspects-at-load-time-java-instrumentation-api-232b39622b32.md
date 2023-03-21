@@ -16,7 +16,7 @@
 
 那么这和我们的动机有什么相似之处呢:
 
-> **在本文中，我将演示如何在一个 Java 应用程序中自定义编织多个类(在我们的例子中是**[](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5)****)，其中至少有一个类是** [**Java 方面**](https://docs.spring.io/spring-framework/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html#:~:text=Aspect%3A%20a%20modularization%20of%20a,concern%20in%20enterprise%20Java%20applications.) **(在我们的例子中是 AspectJ)，使用一个名为 Java Agent 的工具，通过将类集合在一起简化这个过程，允许操作编译后的 Java 类的字节码。****
+> **在本文中，我将演示如何在一个 Java 应用程序中自定义编织多个类(在我们的例子中是**</javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5>****)，其中至少有一个类是** [**Java 方面**](https://docs.spring.io/spring-framework/docs/4.3.15.RELEASE/spring-framework-reference/html/aop.html#:~:text=Aspect%3A%20a%20modularization%20of%20a,concern%20in%20enterprise%20Java%20applications.) **(在我们的例子中是 AspectJ)，使用一个名为 Java Agent 的工具，通过将类集合在一起简化这个过程，允许操作编译后的 Java 类的字节码。****
 
 **[![](img/78fb1c665e66eacff99809a0e1a35ad6.png)](http://www.java67.com/2018/06/5-best-courses-to-learn-spring-boot-in.html)**
 
@@ -89,11 +89,7 @@
 
 ***所以我最近在为我以前的教程系列之一构建一个演示项目时了解到了这一点，这个系列是关于使用 Google OAuth 2.0 来抓取邮件服务器的:***
 
-***[](/javarevisited/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a) [## 带有 Google 客户端库的 OAuth 2.0:Java SDK
-
-### 免责声明:本实施指南旨在增强用户对概念的理解，而不是构建一个完整的…
-
-medium.com](/javarevisited/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a) 
+***</javarevisited/oauth-2-0-with-google-client-libraries-java-sdk-e5439accdf7a>  
 
 ## 用例
 
@@ -156,12 +152,4 @@ medium.com](/javarevisited/oauth-2-0-with-google-client-libraries-java-sdk-e5439
 
 *请注意， [Spring 框架](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)的 **Spring-AOP** 模块，只有**能够进行基于代理的面向方面编程**。LTW 是一个成熟的 AspectJ 支持，不需要类的代理。*
 
-*[](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 10 大春季 MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [## Java 和 Spring 开发人员的 10 大 REST 面试问题
-
-### 这些是 Java 和 Spring 开发者快速准备的最好的 REST 面试问题
-
-medium.com](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029)****
+*</javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82>  </javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029> ****

@@ -36,11 +36,7 @@
 
 他很高兴有机会在网上兼职工作，因为这样，他不仅可以获得一些经验，还可以赚一些额外的钱用于学习和技能升级。
 
-[](/swlh/10-things-every-programmer-should-know-26ba37cfcaf4) [## 每个程序员都应该知道的 10 件事
-
-### 了解作为一名新的或探索性的程序员应该知道和学习的更多内容，以及在哪里可以学到这些技能
-
-medium.com](/swlh/10-things-every-programmer-should-know-26ba37cfcaf4) 
+</swlh/10-things-every-programmer-should-know-26ba37cfcaf4>  
 
 ## 不花几年时间在编程上，要成为一名 Web 开发人员应该学些什么？
 
@@ -82,16 +78,8 @@ medium.com](/swlh/10-things-every-programmer-should-know-26ba37cfcaf4)
 
 **P. S.** —如果你想从一些最好的免费资源开始你的编程生涯，那么你也可以看看这个 [**21 个免费网站的列表，开始学习编程**](https://hackernoon.com/21-websites-to-learn-programming-for-free-5101c1ddf0c) 。它包含学习 Python 和 JavaScript 等编程语言的免费网站，以及 Git 和 IDEs 等一些基本工具。
 
-[](/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3) [## 免费学习编程和软件开发的 20 大网站
-
-### Thes 是最好的网站、平台和在线培训学校，你可以在那里免费学习编程。
-
-medium.com](/javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3) 
+</javarevisited/top-20-sites-to-learn-coding-in-2020-f57ff63d9cb3>  
 
 **p . p . S**——如果你渴望在 2023 年成为一名 web 开发人员，并且正在寻找一门涵盖大部分这些框架和库的课程，那么我强烈推荐你在 Udemy 上查看由 Angela Yu 教授的完整的 2023 年 Web 开发人员训练营 课程。这是成为一名网站开发人员的最新和最有吸引力的在线课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) [## 完整的 2023 年网络开发训练营
-
-### 欢迎来到完整的 Web 开发训练营，这是您学习编码并成为全栈 web…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F> 

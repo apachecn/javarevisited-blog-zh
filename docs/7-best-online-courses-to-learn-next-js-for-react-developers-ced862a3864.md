@@ -61,11 +61,7 @@ Next.js 还可以用作静态站点生成器，这就是为什么学习 Next.js 
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3.[next . js——构建 React 应用的终极方式](https://www.educative.io/courses/next-js-build-react-apps?affiliate_id=5073518643380224)
 
@@ -81,11 +77,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 如果你喜欢基于项目的互动学习，那么你可以花 35 美元购买这门课程，或者每月花 14.99 美元购买 [**Educative 订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，以获得 Educative 的 100 多门课程，学习 React 和 Next 等最新技术技能，并准备好编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 4.[2023 年完成 Next.js 开发者:零到精通](https://academy.zerotomastery.io/p/learn-next-js?affcode=441520_zytgk2dn)
 
@@ -105,11 +97,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级有趣和有用的课程，如他的 Python 课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 5.[next . js Dev to Deployment by Brad Traversy](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-dev-to-deployment%2F)【Udemy 课程】
 
@@ -133,11 +121,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 **以下是加入本课程的链接**—[next . js Dev to Deployment](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-dev-to-deployment%2F)
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-dev-to-deployment%2F) [## Next.js 开发到部署
-
-### Next.js 是一个用于构建服务器端渲染 React 网站以及静态网站的框架。这是一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-dev-to-deployment%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-dev-to-deployment%2F>  
 
 ## 6. [React —完整指南(包括钩子、React 路由器、Redux)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)
 
@@ -186,11 +170,7 @@ Max 在这本 React JS 畅销书中为 Next.js 增加了一整个模块。如果
 
 **这是加入本课程的链接** — [Next.js —使用 Redux 使用 Next.js 构建全栈应用](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-build-full-stack-apps-with-nextjs-using-redux%2F)
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-build-full-stack-apps-with-nextjs-using-redux%2F) [## Next.js——使用 Redux 通过 next . js 构建全栈应用
-
-### 如果你想在 React (Next.js)中构建一个全栈应用，或者想学习如何实现服务器端渲染…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-build-full-stack-apps-with-nextjs-using-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnextjs-build-full-stack-apps-with-nextjs-using-redux%2F>  
 
 以上是 2023 年 T4 最好的在线课程 Next.js。如果你想用 React 创建你的前端，可以考虑用 Next.js，它不仅能提高你的生产力，还能让你的项目更容易维护和扩展。
 
@@ -215,8 +195,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **P.S.** —如果您热衷于学习 Next.js 或 Nuxt.js，但正在寻找一些免费的在线课程，那么您也可以使用 React Hooks 查看本 [**Next JS 课程，以使用 JavaScript 构建服务器端呈现的应用程序。这是一个完全免费的在线课程，你只需要一个 Udemy 帐户就可以参加。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnext-js-react-hooks%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnext-js-react-hooks%2F) [## 免费的 Next.js 教程-带有 React 钩子的 Next JS 构建 SSR React 应用程序
-
-### Ryan Dhungel 是来自澳大利亚悉尼的 Web 开发人员。他使用 JavaScript、Node JS、React JS、Vue JS……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnext-js-react-hooks%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnext-js-react-hooks%2F> 

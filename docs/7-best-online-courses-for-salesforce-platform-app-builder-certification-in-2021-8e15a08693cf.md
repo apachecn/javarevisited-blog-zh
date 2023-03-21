@@ -42,11 +42,7 @@ sales force platform app builder 是 salesforce admin 认证的更高级和扩�
 
 为了更好地准备，您还可以将本课程与 Mike Wheeler 的[**sales force Platform App Builder 认证实践测试**结合起来。这包含两张 90 分钟的限时练习纸，每张 60 个问题。你可以在考试前使用它们来评估你的速度和准确性，并努力取得更好的成绩。](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-platform-app-builder-certification-practice-tests%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-platform-app-builder-certification-practice-tests%2F) [## Salesforce Platform App Builder 认证实践测试
-
-### 我教 Salesforce、Zoom 和 Home Business 课程。我热衷于帮助你成为一名“创造者”
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-platform-app-builder-certification-practice-tests%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-platform-app-builder-certification-practice-tests%2F>  
 
 ## 2. [Salesforce 管理员和平台应用构建者](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-admin-platform-app-builder-for-beginners%2F)
 
@@ -100,11 +96,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。或者，你也可以参加他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[平台 App Builder:快速备考](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsalesforce-platform-app-builder-rapid-exam-prep%2F)
 
@@ -182,8 +174,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S.** —如果您是 Salesforce 的新手，并且正在寻找一个免费的入门课程*来首先学习 Salesforce，那么我建议您加入这个免费的 Udemy 课程— [**以简单的步骤学习 SalesForce，并获得由 Parikshith Red 和 Samata Chag 颁发的认证**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F) 。*
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F) [## 免费 Salesforce 教程-通过简单的步骤学习 Salesforce 并获得认证！
-
-### Parikshith 是一名 CRM 顾问和用户体验设计师。在亚利桑那州立大学完成学士学位后…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-in-easy-steps-and-get-certified%2F> 

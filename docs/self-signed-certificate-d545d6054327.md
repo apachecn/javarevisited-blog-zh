@@ -10,11 +10,7 @@
 
 下面的帖子解释了[为什么我们需要 SSL](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38#4332) 和[签署 CA 签名证书](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38#66e2)的步骤。
 
-[](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38) [## SSL 证书
-
-### 了解 SSL 基础知识
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38) 
+<https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38>  
 
 **内容**
 
@@ -49,11 +45,7 @@ suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/ssl-certificate-67b
 
 要了解什么是[密钥](https://suriyaprakhash.medium.com/cryptography-algorithms-e86ce7e2bb9b#abf6)和[证书](https://suriyaprakhash.medium.com/cryptography-algorithms-e86ce7e2bb9b#41bc)，
 
-[](https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec) [## 探索 Java 密钥库和密钥
-
-### 通过代码
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec) 
+<https://suriyaprakhash.medium.com/exploring-java-keystore-keys-9eb4805fa4ec>  
 
 现在我们知道我们想要什么，所以让我们使用下面的命令生成私钥***domain Key . PEM***。
 
@@ -152,10 +144,6 @@ openssl req -new -x509 -sha256 -days 1000 -addext 'subjectAltName = IP:172.24.0.
 
 如果你想模拟证书颁发机构的签名，请随意查看下面的帖子，
 
-[](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38) [## SSL 证书
-
-### 了解 SSL 基础知识
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38) 
+<https://suriyaprakhash.medium.com/ssl-certificate-67b4e3bdee38>  
 
 祝本地主机运行愉快！

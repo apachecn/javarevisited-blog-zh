@@ -58,11 +58,7 @@ Coursera 也是一个在线课程平台，就像以前的 Udemy 一样，但不�
 
 你可以从 [**谷歌的数据分析专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) 开始，这是 Coursera 上最受欢迎的专业证书之一，也是学习数据分析的最结构化和最全面的资源之一，它构成了数据科学的基础。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) [## 谷歌数据分析
-
-### 这是你通往数据分析职业的道路。在这个项目中，你将学到一些受欢迎的技能，让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics>  
 
 而且，如果你直接想从数据科学开始，那么 [**IBM 数据科学**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fibm-data-science) 是这个行业职业生涯的最佳计划，它会让你深入机器学习、python SQL 可视化等等。
 
@@ -70,19 +66,11 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 另一门你可以看一下的课程是 [**应用数据科学与 Python**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) 它会用实际例子深入教你。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) [## 使用 Python 的应用数据科学
-
-### 获得对数据的新见解。学习应用数据科学方法和技术，并获得分析技能。的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdata-science-python>  
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.多元视觉
 
@@ -90,19 +78,11 @@ Pluralsight 是一个在线电子学习平台，成立于 2004 年，目标人�
 
 最热门的课程之一是数据科学和如何通过许多课程成为一名成功的数据科学家，如[**数据科学:管理层简报**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdata-science-executive-briefing) 了解数据科学的重要性。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdata-science-executive-briefing) [## 数据科学:管理层简报
-
-### 在本次管理层简报中，您将了解什么是数据科学，为什么它对您和您的企业如此重要，以及如何…
-
-pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdata-science-executive-briefing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdata-science-executive-briefing>  
 
 除此之外，还有另一门名为 [**用 python 做数据科学**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-data-science) 的课程，学习如何成为一名拥有 Python 技能的数据科学家，了解真实项目和各种 Python 库，如 NumPy 和 matplotlib，在这门六小时的课程中，您将学到更多内容。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-data-science) [## 用 Python 做数据科学
-
-### 本课程将向您展示如何进行端到端的数据科学项目，包括处理数据、构建和分析
-
-pluralsight.comcom](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-data-science) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-data-science>  
 
 如果你不知道，Pluralsight 还提供了 [**10 天的免费试用期**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) ，你可以用它来加入并完成这些课程中的任何一门。他们还提供免费的周末和免费的月份，你可以在一个月内免费学习所有的 Pluralsight 课程。
 
@@ -130,19 +110,11 @@ Kaggle 最大的优势是社区，因为当你遇到困难时，你可以提出�
 
 这个平台上学习数据科学的一些最棒的课程是哈佛大学的 [**数据科学专业证书**](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science) ，这类似于 Coursera specializations，其中一个大课程包括几个小课程，当你完成所有课程时，你也将获得认证。
 
-[](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science) [## HarvardX 数据科学专业证书
-
-### 基础 R 编程技能的专业证书统计概念，如概率，推理，和…
-
-edx.com](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science) 
+<https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fprofessional-certificate%2Fharvardx-data-science>  
 
 另一个值得加入的课程是 [**统计与数据科学**](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fmitx-statistics-and-data-science) 微硕士项目会教你统计与机器学习。
 
-[](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fmitx-statistics-and-data-science) [## 统计和数据科学微型硕士项目
-
-### 统计和数据科学的微观硕士课程掌握数据科学，统计和机器的基础…
-
-edx.com](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fmitx-statistics-and-data-science) 
+<https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=dl&ued=https%3A%2F%2Fwww.edx.org%2Fmicromasters%2Fmitx-statistics-and-data-science>  
 
 所有这些课程都是完全在线的，但在此之前，我们先来看看数据科学专业人士的收入。您可以看到，即使是新手也能赚到可观的$95K，这太棒了。
 
@@ -174,8 +146,4 @@ edx.com](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&platform=
 
 **P. S.** —如果你此刻只想做一件事来启动你的 React.js 之旅，就去参加 Udemy 上的 [**数据科学课程 2023:360 Careers 完成数据科学训练营**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 课程。您将快速学习数据科学，并以有指导和结构化的方式学习，并且永远不会后悔您的决定。
 
-[](/javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f) [## 2023 年初学者在线学习的 10 门最佳数据科学课程和认证
-
-### 你们好，这个时候你们过得怎么样？我希望你会做得很好，并保持安全。你可能听说过…
-
-medium.com](/javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f)
+</javarevisited/my-favorite-data-science-and-machine-learning-courses-from-coursera-udemy-and-pluralsight-eafc73acc73f> 

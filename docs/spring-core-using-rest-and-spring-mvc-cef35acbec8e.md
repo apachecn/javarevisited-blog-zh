@@ -141,11 +141,7 @@ public ResponseEntity<Article> save(@RequestBody Article article) {
 
 这个例子基于我几年前为一次面试创建的现有应用程序。如果你想看看它在现实生活中是如何工作的，[这里是 GitHub 库](https://github.com/Darguelles/upd-articles-api)。此外，我强烈建议您阅读更多关于 MVC 的内容，以了解所有组件如何协同工作。
 
-[](https://github.com/Darguelles/upd-articles-api) [## GitHub-Darguelles/upd-articles-API:使用 Spring 的 Restful API 示例，集成测试与…
-
-### 使用 Spring 的 Restful API 示例、与 RestAssured 的集成测试、Docker 容器内的部署和文档…
-
-github.com](https://github.com/Darguelles/upd-articles-api) 
+<https://github.com/Darguelles/upd-articles-api>  
 
 我们已经完成了我将于本月发布的 Spring Core 系列的第五章，也是最后一章。如果您觉得它有用，请关注我并与您的同事分享，同时也请继续关注新内容:
 
@@ -159,16 +155,4 @@ github.com](https://github.com/Darguelles/upd-articles-api)
 
 您可能喜欢的其他 **Spring 和 REST 文章和资源**
 
-[](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) [## 2021 年学习 Spring 框架的 10 个最佳在线课程
-
-### 学习 Spring 框架、Spring Boot、Spring 安全和 RESTful Web 服务的最佳在线课程
-
-medium.com](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) [](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4) [## 为什么 Spring 是用 Java 开发 REST APIs 的最佳框架？
-
-### REST 现在已经成为开发 web 服务的标准方法，而说到 Java，有许多框架和…
-
-medium.com](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4) [](/javarevisited/top-5-books-and-courses-to-learn-restful-web-services-in-java-using-spring-mvc-and-spring-boot-79ec4b351d12) [## 使用 Spring MVC 和 Spring Boot 学习 Java 中 RESTful Web 服务的前 5 本书和课程
-
-### 大家好，如果你对 web 开发感兴趣，那么你应该知道架构正在向微服务和…
-
-medium.com](/javarevisited/top-5-books-and-courses-to-learn-restful-web-services-in-java-using-spring-mvc-and-spring-boot-79ec4b351d12)
+</javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd>  </javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4>  </javarevisited/top-5-books-and-courses-to-learn-restful-web-services-in-java-using-spring-mvc-and-spring-boot-79ec4b351d12> 

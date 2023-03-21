@@ -50,11 +50,7 @@ Stephen Grider 在 Udemy 上开设的[**Modern React with Redux**](https://click
 
 如果你像每个伟大的网络开发者一样是一个不断学习的人，那么我建议你去申请会员资格，而不是购买一门课程，你不仅会省钱，而且会使学习变得容易，因为你不需要每次想学习新东西的时候都去购买课程。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 最终你是唯一能控制它的人。好吧… …每个人学习的速度不同，但是学生……
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 2.React Redux 图书
 
@@ -78,7 +74,7 @@ Redux 项目只能用 React 创建，因为 Redux 本身只是一个状态管理
 
 一旦您熟悉了如何使用 React with Redux，您就可以创建一个 MERN 堆栈项目，就像电子商务网站或社交媒体网站一样。
 
-这些项目是巨大的，有几个组成部分和相互依赖的状态。所以你可以在这些项目中使用 Redux。如果你想使用 MERN 堆栈和 Redux 创建一个有效的电子商务网络应用程序，那么[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmern-ecommerce%2F)**MERN 电子商务是一个极好的课程。**
+这些项目是巨大的，有几个组成部分和相互依赖的状态。所以你可以在这些项目中使用 Redux。如果你想使用 MERN 堆栈和 Redux 创建一个有效的电子商务网络应用程序，那么<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmern-ecommerce%2F>**MERN 电子商务是一个极好的课程。**
 
 **[![](img/398e1d6ebd6f684b738e42f4421f372f.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmern-ecommerce%2F)
 
@@ -105,16 +101,8 @@ Redux 项目只能用 React 创建，因为 Redux 本身只是一个状态管理
 
 ****附言——**如果你渴望在 2023 年成为一名 React 开发人员，并且正在寻找一个在线课程这样的最佳资源，可以教你一名 React 开发人员需要知道的一切，那么我也推荐你去参加由 Maximillian Schwarzmuller 在 Udemy 上开设的[**React-完整指南(包括钩子、React 路由器、Redux)**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 课程。他最近更新了这个课程，这是最好的资源之一。你也可以在这里查看我的评论**
 
-**[](/javarevisited/is-react-the-complete-guide-incl-hooks-react-router-redux-on-udemy-worth-it-review-abbe51c33b65) [## Udemy 上的 React —完整指南(包括钩子、React 路由器、Redux)值得吗？[综述]
-
-### 我对 Udemy 的最佳反应课程——反应——完全指南的评论
-
-medium.com](/javarevisited/is-react-the-complete-guide-incl-hooks-react-router-redux-on-udemy-worth-it-review-abbe51c33b65) 
+**</javarevisited/is-react-the-complete-guide-incl-hooks-react-router-redux-on-udemy-worth-it-review-abbe51c33b65>  
 
 而且，如果你正在寻找学习 REact.js 的免费课程，那么你也可以查看我之前的一篇关于最好的免费 REact 课程的文章。
 
-[](/javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b) [## 2023 年学习 Angular 和 React.js 的 10 门最佳免费课程|在线教程
-
-### 这些是从 Udemy、Coursera 和 Pluralsight 学习 Angular 和 React.js 的最佳免费在线课程
-
-medium.com](/javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b)**
+</javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b> **

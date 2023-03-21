@@ -26,11 +26,7 @@ image_credit — [用 Java 开发现代安卓应用](https://www.educative.io/co
 
 顺便说一句，如果你不介意在学习像 Android 应用程序开发这样的有用技能的同时投资一些钱，那么我也强烈推荐 [**完整的 Android Oreo 开发者课程——构建 23 个应用程序！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) 课程讲解 Udemy。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) [## 构建 Android 应用程序:完整的 Android 奥利奥课程
-
-### 通过构建包括 Twitter、Instagram 和超级马里奥在内的真实应用程序，使用 Android 8.0 Oreo 学习 Android 应用程序开发…
-
-Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-android-oreo-developer-course%2F>  
 
 这不是免费的****而是完全值得你花费时间和金钱的**并且你将通过构建包括超级马里奥 Run、Whatsapp 和 Instagram 在内的真正应用来学习使用 Java & Kotlin 开发 Android 奥利奥应用！**
 
@@ -116,11 +112,7 @@ Udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 但是，如果你不能加入，你也可以参加 [**10 天的免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 没有任何承诺免费进入这个课程，因为试用会给你 200 分钟的手表，这是足够完成这个课程。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上是关于学习 Android 应用程序开发的一些**最佳免费课程**以及创建可以在谷歌 Play store 上销售并赚钱的酷 Android 游戏和应用程序。Android 也为几个移动应用开发者的工作打开了大门；如果你愿意为其他公司工作，你总能以你的 Android 技能找到合适的职位。
 
@@ -139,8 +131,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **P.S.** —如果你想从头到尾只找一门课程学习 Android，那么我建议你加入 Udemy 上的 [**完整的 Android N 开发者课程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-android-n-developer-course%2F) 。你只需花 10 美元就可以在 Udemy 的几次快闪拍卖上获得这门课程，这种活动每个月都会举行。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-android-n-developer-course%2F) [## 完整的 Android N 开发者课程
-
-### 请注意，对本课程的支持现已停止，并且有本课程的新版本(完整版…
-
-Udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-android-n-developer-course%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=634352.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcomplete-android-n-developer-course%2F> **

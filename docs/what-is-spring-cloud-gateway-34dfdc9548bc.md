@@ -4,11 +4,7 @@
 
 大家好。这篇文章是上一篇文章的延续
 
-[](https://blog.devgenius.io/what-is-spring-cloud-and-how-it-is-different-from-spring-and-spring-boot-128d276a1432) [## 什么是春云，它与春天和 Spring Boot 有什么不同？
-
-### 大家好。让我们在这篇文章中讨论春云。有很多术语像春天，Spring Boot，春天…
-
-blog.devgenius.io](https://blog.devgenius.io/what-is-spring-cloud-and-how-it-is-different-from-spring-and-spring-boot-128d276a1432) 
+<https://blog.devgenius.io/what-is-spring-cloud-and-how-it-is-different-from-spring-and-spring-boot-128d276a1432>  
 
 如果你还没有读过，请读一读，然后回到这里继续。
 

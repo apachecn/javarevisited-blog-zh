@@ -4,7 +4,7 @@
 
 ## Java 流中 IntStream 原语类型的详细解释
 
-> 最初发表于[](https://asyncq.com/how-to-use-java-streams-with-primitive-type)
+> 最初发表于<https://asyncq.com/how-to-use-java-streams-with-primitive-type>
 
 ## **介绍**
 

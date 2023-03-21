@@ -24,7 +24,7 @@
 
 创建 Thread 实例的应用程序必须提供将在该线程中运行的代码。有两种方法可以做到这一点:
 
-一种方法是创建一个扩展`Thread`的子类，并覆盖它的`run`方法。或者，你可以直接提供一个[可运行的](https://javarevisited.blogspot.com/2016/08/useful-difference-between-callable-and-Runnable-in-Java.html#axzz6e8hmwujv)对象作为参数。`Runnable`接口定义了一个方法`[run](https://javarevisited.blogspot.com/2012/03/difference-between-start-and-run-method.html#axzz6vPUwyVzv)` [](https://javarevisited.blogspot.com/2012/03/difference-between-start-and-run-method.html#axzz6vPUwyVzv)，其中包含了执行代码。
+一种方法是创建一个扩展`Thread`的子类，并覆盖它的`run`方法。或者，你可以直接提供一个[可运行的](https://javarevisited.blogspot.com/2016/08/useful-difference-between-callable-and-Runnable-in-Java.html#axzz6e8hmwujv)对象作为参数。`Runnable`接口定义了一个方法`[run](https://javarevisited.blogspot.com/2012/03/difference-between-start-and-run-method.html#axzz6vPUwyVzv)` <https://javarevisited.blogspot.com/2012/03/difference-between-start-and-run-method.html#axzz6vPUwyVzv>，其中包含了执行代码。
 
 `Runnable`对象被传递给`Thread`构造函数，如示例所示。哪个更好看？根据 [ORACLE](https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html) 文档，使用 Runnable 对象更加通用，因为您可以扩展除 Thread 之外的类。
 
@@ -52,16 +52,4 @@
 
 # 参考
 
- [## 定义和启动线程
-
-### 创建 Thread 实例的应用程序必须提供将在该线程中运行的代码。有两个…
-
-docs.oracle.com](https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html)  [## 什么是 Java 中的守护线程以及与非守护线程的区别——教程示例
-
-### Java 中的守护线程是那些在后台运行的线程，主要由 JVM 创建，用于执行…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2012/03/what-is-daemon-thread-in-java-and.html) [](https://www.toptal.com/software/introduction-to-concurrent-programming) [## 并发编程介绍:初学者指南
-
-### 并发性允许程序同时处理大量的任务。但是编写并发程序并不是一件特别…
-
-www.toptal.com](https://www.toptal.com/software/introduction-to-concurrent-programming)
+    <https://www.toptal.com/software/introduction-to-concurrent-programming> 

@@ -24,11 +24,7 @@ TypeScript 包含了几个很酷的特性，比如**类**、**模块**、**继�
 
 虽然这些免费课程开始时很好，但它们不如一些付费课程全面，如果你不介意为在线课程支付一些钱，那么 Max 的 [**理解 TypeScript**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F) 可能是目前你可以获得的在线学习 TypeScript 的最佳资源。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F) [## 学习 TypeScript(抛弃 JavaScript)
-
-### 大多数人都是从 Angular 2+认识 TypeScript 的。这是你必须使用的语言，对吗？不止如此！学习…
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstanding-typescript%2F>  
 
 # 2023 年为初学者提供的 10 门免费最佳打字稿课程
 
@@ -177,16 +173,4 @@ click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80
 
 ## 你可能喜欢的其他网络开发文章
 
-[](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [## 我最喜欢的初学者和有经验的开发人员的角度课程
-
-### 如果你是一个网页开发人员或者想学习网页开发的 Angular，并且正在寻找一些优秀的…
-
-medium.com](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) [](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094) [## 2023 年 Web 开发中最受欢迎的 10 个 JavaScript 框架和库
-
-### 毫无疑问，JavaScript 现在是世界上排名第一的编程语言，也是 web 开发之王…
-
-medium.com](/javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094)
+</javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc>  </hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/10-of-the-most-popular-javascript-frameworks-libraries-for-web-development-in-2019-a2c8cea68094> 

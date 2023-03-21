@@ -124,11 +124,7 @@ Eclipse 中的这个键盘快捷键是我最常用和最喜欢的快捷键。在
 
 如果你需要看到这些快捷方式的运行，你还可以加入 [Pluralsight](https://medium.com/u/50a6c7ef7431?source=post_page-----817be5337bd8--------------------------------) 上的[**日食导游——第一部分和第二部分**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1) 在线课程。它不是免费的，但每月订阅费用约为 29 美元，但也让你可以在 Pluralsight 上访问最新技术的 5000 多门课程，这完全值得。
 
-[](https://www.pluralsight.com/courses/eclipse-guided-tour-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklyeHWDAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) [## Eclipse 导游-第 1 部分
-
-### 对 Eclipse 的详细探索，Eclipse 是运行在 Windows、Mac OS X 上的开源集成开发环境…
-
-www.pluralsight.com](https://www.pluralsight.com/courses/eclipse-guided-tour-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklyeHWDAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2) 
+<https://www.pluralsight.com/courses/eclipse-guided-tour-part1?clickid=yo33dNx7GXIOyjqxhLyTY0btUklyeHWDAS9Y0M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2>  
 
 > 请记住，作为一名程序员，你需要不断学习新东西，提高你的知识，如果你不学习，你很可能会落后。
 
@@ -157,8 +153,4 @@ www.pluralsight.com](https://www.pluralsight.com/courses/eclipse-guided-tour-par
 
 **附言——**如果你是一个**Intellij DEA**的用户，并且正在寻找一些提高你在 IntelliJIDEA 上工作效率的技巧和诀窍，那么你也可以查看 Udemy 上的[**Intellij DEA Tricks to Boost Productivity for Java developers**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F)课程。由陶伟和李中清创建的这个课程充满了有用的技巧
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F) [## 提高 Java 开发人员生产力的 IntelliJ 点子
-
-### 如果你想成为一名真正的 pro-Java 程序员，你需要掌握你的键盘和 IntelliJ 思想。你需要…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F> 

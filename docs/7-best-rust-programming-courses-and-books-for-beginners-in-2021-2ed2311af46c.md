@@ -73,11 +73,7 @@ Rust 似乎提供了中间地带，同时它提供了极快的速度，这只有
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多超级吸引人和有用的 30+课程，这些课程是由像他这样的专家创建的。你也可以使用我的代码**朋友 10** 来获得你选择的任何套餐的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 3.[铁锈基础知识【多视觉课程](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Frust-fundamentals)
 
@@ -89,11 +85,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 正如我所说，你需要一个 Pluralsight 会员资格才能进入本课程，如果你没有，那么你可以利用他们的 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费进入本课程。提供 200 分钟的免费观看时间，足够完成这门课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[Rust 编程语言](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frust-lang%2F)【Udemy 最佳课程】
 
@@ -149,11 +141,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 这个课程最大的好处是它是完全免费的，你需要做的就是创建一个教育账号来访问这个课程，顺便说一句，他们也有很多有用的课程，比如系统设计面试课程。如果你喜欢这个平台，我建议你购买一个[教育订阅](https://www.educative.io/subscription?affiliate_id=5073518643380224)，只需 18 美元就可以获得 100 多门课程
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 # 2023 年学习 Rust 编程的 2 本最佳书籍
 
@@ -225,8 +213,4 @@ Rust 正迅速成为系统和嵌入式程序员中最受欢迎的语言之一，
 
 **P. S.** —如果你对学习 Rust 编程语言感兴趣，但正在寻找一个免费的在线培训课程来开始你的 Rust 之旅，那么你也可以在 Udemy 上查看[**Rust for undergents**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frust-for-undergrads%2F)—一个免费课程。这是一门学习 Rust 编程语言基础的很棒的课程，而且完全免费。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frust-for-undergrads%2F) [## 免费 Rust 编程语言教程-Rust For understand
-
-### Jayesh Katta Ramalingaiah 是一名网站开发人员。他很有创新精神，对技术和产品有着艺术感
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frust-for-undergrads%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frust-for-undergrads%2F> 

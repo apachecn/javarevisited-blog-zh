@@ -20,11 +20,7 @@
 
 顺便说一下，如果你不介意花几美元学习像微软 Azure 平台这样的有用技能，并寻找更全面和深入的课程来学习 Azure 服务，那么我也建议你在 Udemy 上查看 Scott Duffy 的[**AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F)课程。是学习 Azure 云平台最全面的课程之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F) [## AZ-300/AZ-303 Azure 架构技术考试准备 2023
-
-### 为 AZ-300 和 AZ-303 Azure Architect 技术考试做好充分准备。免费升级:本课程还…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F>  
 
 # 2023 年学习微软 Azure 云的 6 门最佳免费在线课程
 
@@ -87,27 +83,15 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 除此之外，Coursera 还有微软的免费课程来学习 Azure 云平台，如 [**微软 Azure 云服务介绍**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmicrosoft-azure-cloud-services) 和 [**微软 Azure 服务和生命周期**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmicrosoft-azure-services-lifecycles) ，它们都是免费的，你可以在那里免费学习 Azure 的关键概念。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmicrosoft-azure-services-lifecycles) [## 微软 Azure 服务和生命周期
-
-### 在本课程中，您将了解 Microsoft Azure 如何帮助您保护对云资源的访问，这对您来说意味着什么
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmicrosoft-azure-services-lifecycles) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmicrosoft-azure-services-lifecycles>  
 
 这两个课程都是 [**微软 Azure 基础 AZ-900 考试准备专业**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) 的一部分，是 Coursera 上最受欢迎的 Azure 专业之一，也是准备 AZ-900 或 Azure 基础考试的最佳计划。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) [## Microsoft Azure 基础知识 AZ-900 考试准备
-
-### 开启你的云计算生涯。准备微软 AZ-900 认证考试。获得 50%的 Microsoft 折扣…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900>  
 
 而且，如果你觉得 Coursera 的课程和认证有用，那么我也建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4. [AZ — 900 微软 Azure 基础](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-azure-tutorial%2F) (Udemy 免费课程)
 
@@ -156,11 +140,7 @@ youtube 上的 Cloud ranger network 专门为您提供了 azure cloud 的课程�
 
 顺便说一句，你需要一个 Pluralsight 会员才能观看这个课程，费用大约是每月 29 美元或每年 299 美元。如果你能负担得起，那么我向你强烈推荐这份订阅，因为它不仅提供了这门课程，还提供了 7000 多门其他课程。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是**学习微软 Azure** 并在 2023 年成为微软 Azure 认证云开发者的最佳免费在线课程。所有的课程都是在听取了一大群学习者和技术爱好者的反馈后选择的。
 
@@ -168,11 +148,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一下，如果你不介意花几块钱学习像微软 Azure 平台这样有用的技能，并寻找更全面和深入的课程来学习 Azure 服务，那么我也建议你在 Udemy 上查看 [**微软 Azure-初学者指南+AZ-900-更新的 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F) [## Microsoft Azure 管理员指南准备教程
-
-### 4.2 版-在考试部分增加了更多的练习题，更新了 Azure 区域的章节，部署了…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F>  
 
 这门课程不仅会帮助你学习 Azure 基础知识和核心服务，还会帮助你准备 Azure 基础知识——AZ 900 考试，这是标志你进入云计算世界的一个很好的方式。你也可以在 Udemy sales 上以 10 美元的价格购买这门课程，这种情况时有发生。
 
@@ -205,8 +181,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **附言** —如果你认真学习微软 Azure 平台，并寻找更全面、更深入的课程来学习 Azure 服务，那么我也建议你查看 Udemy 上的 [**微软 Azure —初学者指南+ AZ-900 —更新的 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F) [## Microsoft Azure 管理员指南准备教程
-
-### 4.2 版-在考试部分增加了更多的练习题，更新了 Azure 区域的章节，部署了…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F> 

@@ -32,11 +32,7 @@ MongoDB 构建在一个[横向扩展架构](https://www.mongodb.com/basics/scali
 
 ## 第一步:如何生成 Spring Boot 项目？
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成的 spring boot 项目正好是你快速启动所需要的！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## 步骤 2:我应该包括哪些依赖项？
 
@@ -102,11 +98,7 @@ Mongo 数据库
 
 ## 步骤 8:在哪里可以找到完整的代码库？
 
-[](https://github.com/Rohan2596/spring-boot-mongoDB) [## GitHub-rohan 2596/spring-boot-mongoDB
-
-### 在 GitHub 上创建一个帐户，为 Rohan2596/spring-boot-mongoDB 开发做贡献。
-
-github.com](https://github.com/Rohan2596/spring-boot-mongoDB) 
+<https://github.com/Rohan2596/spring-boot-mongoDB>  
 
 ## ⚡Conclusion:-
 
@@ -116,14 +108,6 @@ github.com](https://github.com/Rohan2596/spring-boot-mongoDB)
 
 ## ⚡Bibliography:-
 
-[](https://www.mongodb.com/what-is-mongodb) [## 什么是 MongoDB？
-
-### MongoDB 的文档模型对于开发人员来说很容易学习和使用，同时仍然提供所有需要的功能…
-
-www.mongodb.com](https://www.mongodb.com/what-is-mongodb) [](https://www.mongodb.com/why-use-mongodb) [## 为什么要用 MongoDB，什么时候用？
-
-### MongoDB 是一个文档数据库，用于构建高度可用和可伸缩的互联网应用程序。凭借其灵活的…
-
-www.mongodb.com](https://www.mongodb.com/why-use-mongodb) ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
+<https://www.mongodb.com/what-is-mongodb>  <https://www.mongodb.com/why-use-mongodb>  ![](img/414bc1c7402a217cfcaf8545c237ad01.png)
 
 谢谢观众们-罗汉·卡达姆

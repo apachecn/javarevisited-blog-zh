@@ -15,11 +15,7 @@
 
 除了解决实践问题，我还建议你去参加一个像 [**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 这样的综合性 Java 课程，深入学习 Java，填补你在理解上的任何空白。这帮助我的许多读者在第一次尝试中获得高分并通过考试，并为重考节省了 240 美元。*
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 通过 Java 程序员 OCPJP 8 认证(1Z0 -809)的 5 本最佳书籍、课程和实践测试
 
@@ -125,16 +121,8 @@ OCPJP 八中成功的口头禅绝对是读一本好书，写程序，然后解�
 
 **附:**如果你只是想现在开始，我建议你从[**OCPJP 8【1z 0–809】Udemy 上的 Whizlabs 提供的备考课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Focpjp-8-1z0-809%2F) 开始准备是合适的地方。它解释了 OCAJP 8 考试所需的 Java 8 的新特性
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Focpjp-8-1z0-809%2F) [## OCPJP 8 [1Z0-809]预科
-
-### 课程评级是根据单个学生的评级和各种其他信号计算的，如评级年龄和…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Focpjp-8-1z0-809%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Focpjp-8-1z0-809%2F>  
 
 **P. S. S. —** 如果你想获得最新的 Java 认证，即 Java SE 17 认证，那么你也可以查看 [**我的 Udemy 课程**](https://www.udemy.com/course/1z0-819-certification-oracle-java-17-exam-practice-test/?couponCode=LAUNCH5DAYS) 我在那里分享了 250 多个 5 倍长度测试中的问题，你可以使用它们来增加你在第一次尝试中通过这个预先设定的 Java 认证的机会。
 
-[](https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html) [## 1Z0-829 的 10 大 Java SE 17 认证练习题和模拟测试-免考试
-
-### 大家好，如果你正在准备 1Z0-829 认证考试，以成为 Oracle 认证的 Java SE 17 开发人员…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html)
+<https://javarevisited.blogspot.com/2023/02/250-java-se-17-certification-practice.html> 

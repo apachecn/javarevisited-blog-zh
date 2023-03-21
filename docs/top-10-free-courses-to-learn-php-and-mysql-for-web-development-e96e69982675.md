@@ -42,11 +42,7 @@ PHP 是专门为生成交互式动态网站而创建的，也被称为服务器�
 
 我学到了很多东西，并且已经能够将我学到的东西应用到客户身上。这位教师很容易理解，也很好听。强烈推荐这门课程，并期待埃德温的其他课程。太棒了。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F) [## PHP 初学者-成为 PHP 大师- CMS 项目
-
-### UDEMY 上评分最高的 PHP 课程......已经有超过 29，000 名学生选修了这门课程.........最佳评论 PHP…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F>  
 
 ## 2.[面向对象的 PHP & MVC](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobject-oriented-php-mvc%2F)
 
@@ -67,11 +63,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 我强烈推荐这门课程，下面是报名链接— [**面向对象 PHP & MVC**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobject-oriented-php-mvc%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobject-oriented-php-mvc%2F) [## 用面向对象的 PHP 和 MVC 编程(终极课程)
-
-### 在本课程中，我们将逐步构建一个完整的定制 MVC(模型视图控制器)框架，称为…
-
-udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobject-oriented-php-mvc%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fobject-oriented-php-mvc%2F>  
 
 ## [**3。初学 PHP 和 MySQL 教程**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fphp-mysql-tutorial%2F) **【免费课程】**
 
@@ -113,11 +105,7 @@ udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划[**Coursera Plu**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**s**
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。
 
@@ -183,11 +171,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你发现教育平台和他们的搜索课程，像[搜索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，搜索面向对象编程面试，然后考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就可以访问他们的 200 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 9.[通过 Codecademy 学习 PHP](https://www.pntrs.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-php)【免费在线课程】
 
@@ -208,11 +192,7 @@ PHP 是以下各项的基础:
 而且，如果你喜欢 Codecademy 平台，那么你也可以加入[**Codecademy PRO**](https://bit.ly/codecademypro)，这是一个面向程序员的高级订阅。它的年费大约是每月 15.99 美元，提供所有 Codecademy 的内容、课程、测验和项目。你可以用这个来挣钱，练习&
 应用现成的技能。
 
-[](https://bit.ly/codecademypro) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-bit.ly](https://bit.ly/codecademypro) 
+<https://bit.ly/codecademypro>  
 
 ## 10.[包含 5 个项目的完整 PHP MYSQL 专业课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-php-mysql-professional-course%2F)
 
@@ -238,11 +218,7 @@ bit.ly](https://bit.ly/codecademypro)
 
 这里是报名的链接— [**完整的 PHP MYSQL 专业课程 5 个项目**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-php-mysql-professional-course%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-php-mysql-professional-course%2F) [## 完整的 PHP MYSQL 专业课程，包含 5 个项目
-
-### 你有没有想过为什么有这么多 PHP Mysql 课程，却很少提供实用技能？即使…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-php-mysql-professional-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-php-mysql-professional-course%2F>  
 
 以上是关于从零开始学习 PHP 和 MySQL 的一些**最好的**和**免费在线培训课程**。这些课程真的是很棒的资源，其中一些课程，尤其是[**初级 PHP 和 MySQL 教程"**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fphp-mysql-tutorial%2F) 比许多付费课程都要好，182，255 名注册学生就是证明。
 
@@ -279,8 +255,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****附言——**如果你不介意花几块钱学习像 PHP 这样有用的技术技能，并寻找全面和最新的资源，那么我强烈推荐你在 Udemy 上查看 [**PHP for 初学者——成为 PHP 高手——CMS Project**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F)。你可以在 Udemy 网站上花 10 美元购买这门课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F) [## PHP 初学者-成为 PHP 大师- CMS 项目
-
-### UDEMY 上评分最高的 PHP 课程......已经有超过 90，000 名学生选修了这门课程.........最佳评论 PHP…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F)**
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fphp-for-complete-beginners-includes-msql-object-oriented%2F> **

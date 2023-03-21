@@ -4,7 +4,7 @@
 
 ## 使用 Java 流生成无限数据序列
 
-> 最初发表于[](https://asyncq.com/quick-way-to-generate-mock-data-in-java)
+> 最初发表于<https://asyncq.com/quick-way-to-generate-mock-data-in-java>
 
 **![](img/15491e4d3f32b26f1c5de28075b90cfa.png)**
 

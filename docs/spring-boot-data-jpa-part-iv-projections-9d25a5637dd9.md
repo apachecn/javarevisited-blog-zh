@@ -102,28 +102,4 @@
 
 请务必参考我关于弹簧靴的其他文章。
 
-[](https://maheshbonagiri.medium.com/getting-started-with-spring-data-jpa-7e949e0c5f2b) [## Spring Boot 数据 JPA 入门
-
-### 第二部分(分页和排序)|第三部分(审计)
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/getting-started-with-spring-data-jpa-7e949e0c5f2b) [](https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-ii-pagination-and-sorting-bec179029978) [## Spring Boot 数据 JPA —第二部分(分页和排序)
-
-### 在之前的帖子中，我解释了如何开始使用 Spring boot Data JPA。在这篇文章中，我们将讨论如何使用…
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-ii-pagination-and-sorting-bec179029978) [](https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-iii-auditing-1fa5d9595eb2) [## Spring Boot 数据 JPA —第三部分(审计)
-
-### 在以前的帖子中，我解释了如何开始使用 Spring boot Data JPA 进行分页和排序。在本帖中，我们将…
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-iii-auditing-1fa5d9595eb2) [](https://maheshbonagiri.medium.com/getting-started-with-spring-boot-eclipse-d3a297ca90a0) [## Spring Boot + Eclipse 入门
-
-### 概观
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/getting-started-with-spring-boot-eclipse-d3a297ca90a0) [](https://maheshbonagiri.medium.com/spring-boot-restfull-web-service-aa46fcd81d29) [## Spring Boot restful 网络服务
-
-### 在之前的帖子中，我解释了如何开始使用 Spring boot。在这篇文章中，我们将介绍如何创建…
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/spring-boot-restfull-web-service-aa46fcd81d29) [](https://maheshbonagiri.medium.com/spring-boot-and-content-negotiation-183b20eaa425) [## Spring Boot REST Web 服务内容协商
-
-### 介绍
-
-maheshbonagiri.medium.com](https://maheshbonagiri.medium.com/spring-boot-and-content-negotiation-183b20eaa425)
+<https://maheshbonagiri.medium.com/getting-started-with-spring-data-jpa-7e949e0c5f2b>  <https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-ii-pagination-and-sorting-bec179029978>  <https://maheshbonagiri.medium.com/spring-boot-data-jpa-part-iii-auditing-1fa5d9595eb2>  <https://maheshbonagiri.medium.com/getting-started-with-spring-boot-eclipse-d3a297ca90a0>  <https://maheshbonagiri.medium.com/spring-boot-restfull-web-service-aa46fcd81d29>  <https://maheshbonagiri.medium.com/spring-boot-and-content-negotiation-183b20eaa425> 

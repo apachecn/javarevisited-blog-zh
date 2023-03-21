@@ -117,8 +117,4 @@ shutterstock/斯蒂芬石膏
 
 而且，如果你想了解 JDK 8 和 JDK 13 之间增加的所有新功能，那么看看这个[课程列表](https://www.java67.com/2018/02/5-online-courses-to-learn-java-9-better.html):
 
-[](/javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13) [## 学习 Java 8 到 Java 13 新特性的前 5 门课程
-
-### 从 Java 8 到 Java 13 引入了许多有用的特性，如 lambda 表达式、流 API、新日期和…
-
-medium.com](/javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13)
+</javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13> 

@@ -133,16 +133,4 @@ sercvice-ribbon 端口是 8764，在服务注册中心注册
 
 sercvice-ribbon 通过 restTemplate 调用 service-hi 的 hi 接口时，因为与 ribbon 的负载均衡，会依次调用 service-hi 的 hi 接口:8762 和 8763 端口；
 
-[](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 10 大春季 MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [## Java 和 Spring 开发人员的 10 大 REST 面试问题
-
-### 这些是 Java 和 Spring 开发者快速准备的最好的 REST 面试问题
-
-medium.com](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5) [## 你应该为 2022 年的下一次 Spring Boot 面试准备的 13 个话题
-
-### 你应该为下一次 Java 和 Spring Boot 面试准备的 13 个基本主题的列表和学习资源…
-
-medium.com](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5)
+</javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82>  </javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029>  </javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5> 

@@ -88,11 +88,7 @@
 
 **您可能喜欢的其他 Java SE 11 文章和资源**
 
-[](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) [## 我在 Udemy 上的 Java SE 11[1z 0–819]模拟测试现已上线
-
-### 大家好，我很兴奋地宣布我今年的第三个项目，Java SE 11 练习测试[1z 0–819]现在已经出来了…
-
-medium.com](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) 
+</javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7>  
 
 # 我是如何参加 OCP Java 11 开发者考试的？提示和技巧。
 
@@ -182,16 +178,4 @@ medium.com](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-
 
 **您可能喜欢的其他 Java SE 11 文章和资源**
 
-[](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) [## 我在 Udemy 上的 Java SE 11[1z 0–819]模拟测试现已上线
-
-### 大家好，我很兴奋地宣布我今年的第三个项目，Java SE 11 练习测试[1z 0–819]现在已经出来了…
-
-medium.com](/javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7) [](/javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f) [## 破解 Java SE 11 认证的 7 本最佳书籍、课程和实践测试—OCAJP 11(1z 0–815)…
-
-### 大家好，如果你正在准备 OCAJP 11(1z 0–815)或 OCPJP 11(1z 0–816)的考试，并寻求一些建议…
-
-medium.com](/javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f) [](https://hackernoon.com/how-to-pass-the-oracle-certified-java-developer-certification-ocp-11-exam-yt4437ax) [## 如何通过甲骨文认证 Java 开发者认证 OCP 11 考试|黑客正午
-
-### OCP 甲骨文认证 Java SE 11 开发者认证，或 2021 年代码为 1Z0-819 的 OCP 11，是久负盛名的…
-
-hackernoon.com](https://hackernoon.com/how-to-pass-the-oracle-certified-java-developer-certification-ocp-11-exam-yt4437ax)
+</javarevisited/my-java-se-11-1z0-819-practice-test-on-udemy-is-live-now-b4e345718cd7>  </javarevisited/5-best-books-courses-and-practice-tests-to-crack-java-se-11-certification-ocajp-11-1z0-815-6c861d6d147f>  <https://hackernoon.com/how-to-pass-the-oracle-certified-java-developer-certification-ocp-11-exam-yt4437ax> 

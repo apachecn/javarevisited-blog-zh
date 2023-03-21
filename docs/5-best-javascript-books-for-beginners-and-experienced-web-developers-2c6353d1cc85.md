@@ -22,11 +22,7 @@ JavaScript 是网络上最流行的编程语言，远远领先于流行的语言
 
 如果你也遵循类似的套路，你也可以在 Udemy 上查看 Jonas 的 [**完整 JavaScript 课程 2023:构建真实项目**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 课程。这是一块真正的宝石，通过做项目和应用你所学的 JavaScript 概念，你会学到很多东西。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### “很棒的课程。Jonas 解释了 javascript 中的核心概念，这些概念在其他课程中通常会被忽略。还有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F>  
 
 # 2023 年初学者学习 JavaScript 的前 5 本书
 
@@ -50,11 +46,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你想把这本书和一门综合课程结合起来，我建议你从一开始就挑 [**现代 JavaScript**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript-from-the-beginning%2F)**Udemy 上 Brad Traversy 的一门动手操作、基于项目的课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript-from-the-beginning%2F) [## 现代 JavaScript 入门(包括 10 个真实项目)
-
-### 这是一门由前到后的 JavaScript 课程。我们从基本的基础开始，然后向高级学习…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript-from-the-beginning%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript-from-the-beginning%2F> ** 
 
 ## **2.[JavaScript 忍者的秘密](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X?tag=javamysqlanta-20)**
 
@@ -76,11 +68,7 @@ John Resig 和 Bear Bibeault 的《JavaScript Ninja 第 1 版的秘密》不是�
 
 **而且，如果你需要一门高级 Javascript 课程来配合这本书，我推荐 ZTM 学院的[安德烈·尼戈瓦](https://medium.com/u/942670ffec21?source=post_page-----2c6353d1cc85--------------------------------)的 [JavaScript:高级概念](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn)。**
 
-**[](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn) [## 高级 JavaScript 概念
-
-### 高级 JavaScript 实践“函数式编程”继承+原型链“闭包”JavaScript…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn) 
+**<https://academy.zerotomastery.io/p/advanced-javascript-concepts?affcode=441520_zytgk2dn>  
 
 顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)才能观看这个课程，这个课程每月花费大约 29 美元，但也提供了许多超级吸引人和有用的课程，如这个 [Python 课程](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn)和他的 [JavaScript Web 项目:20 个项目来建立你的投资组合](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)课程。** 
 
@@ -98,11 +86,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/advanced-javascript
 
 **你也可以把这本书和 [**ES6 Javascript:完整开发者指南**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F) 课程结合起来，学习 Javascript 的现代语法和改进的 OOP 特性，以便更好地开发。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F) [## 面向所有人的 ES6 JavaScript:完整的开发人员指南
-
-### 这就是你一直在寻找的掌握 ES6 Javascript 的教程。发电机？我们拿到了。箭头函数？的…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjavascript-es6-tutorial%2F> ** 
 
 ## **4. [JavaScript 模式](https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752/?tag=javamysqlanta-20)**
 
@@ -116,11 +100,7 @@ Stoyan Stefanov 的《JavaScript 模式:用编码和设计模式构建更好的�
 
 **而且，如果你需要一个在线课程来配合这本书并学习 JavaScript 设计模式，那么我强烈推荐@DmitriNestruk 在 Udemy 上的 Javascript 设计模式 [**课程。这是一个学习经典设计模式的现代实现的好课程。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-javascript%2F)**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-javascript%2F) [## 面向工程师、设计师和建筑师的 JavaScript 设计模式
-
-### 本课程从实用的角度全面概述了 JavaScript 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-javascript%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-javascript%2F> ** 
 
 ## **5.JavaScript:好的部分**
 
@@ -140,11 +120,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **Udemy 上还有一门 [**JavaScript:理解怪异部分**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F) 课程，有效补充了这本书。如果你感兴趣，你也可以看看 JavaScript 有时有多复杂。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F) [## JavaScript:理解奇怪的部分
-
-### 托尼刚刚在俄亥俄州克利夫兰结婚，这些天他主要集中精力做一个好丈夫。当……
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Funderstand-javascript%2F>  
 
 以上是关于学习 JavaScript 的一些**最佳书籍。这个列表包含了面向 JavaScript 初学者和有经验的程序员的书籍。还包括各种书籍，帮助你从不同角度理解 JavaScript，成为一名 [*专家 JavaScript 开发者*](/javarevisited/top-10-online-courses-to-become-a-fullstack-web-developer-in-2020-d608a6b63232) 。
 
@@ -175,8 +151,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **P. S. —** 如果您是 JavaScript 和前端开发的新手，并且正在寻找最好的 JavaScript 在线课程来启动您的 web 开发之旅，那么您也可以在 Udemy 上查看 J[**avaScript—2023 年完整指南(初级+高级)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-the-complete-guide-2020-beginner-advanced%2F) 课程，作者是 Maximilian Schwarzmuller。这是最全面的课程，有 52 个多小时的内容，你可以在 Udemy sale 上花 10 美元购买。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-the-complete-guide-2020-beginner-advanced%2F) [## JavaScript-2023 年完全指南(初级+高级)
-
-### 从开始的现代 JavaScript 一直到 JS 专家级！2023 年必备的 JavaScript 资源
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-the-complete-guide-2020-beginner-advanced%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjavascript-the-complete-guide-2020-beginner-advanced%2F> **

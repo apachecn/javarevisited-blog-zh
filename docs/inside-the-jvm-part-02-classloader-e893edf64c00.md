@@ -97,12 +97,4 @@
 
 **Java 类加载器—[https://www.youtube.com/watch?v=CQQzYCjNdIw](https://www.youtube.com/watch?v=CQQzYCjNdIw)**
 
-**[](https://www.baeldung.com/java-classloaders) [## Java 中的类装入器| Baeldung
-
-### 类加载器负责在运行时将 Java 类动态加载到 JVM (Java 虚拟机)中…
-
-www.baeldung.com](https://www.baeldung.com/java-classloaders) [](https://www.javatpoint.com/classloader-in-java) [## Java-Java point 中的类加载器
-
-### Java ClassLoader 是一个抽象类。它属于一个 java.lang 包。它从不同的资源加载类…
-
-www.javatpoint.com](https://www.javatpoint.com/classloader-in-java)**
+**<https://www.baeldung.com/java-classloaders>  <https://www.javatpoint.com/classloader-in-java> **

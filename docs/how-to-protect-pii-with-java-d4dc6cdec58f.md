@@ -4,7 +4,7 @@
 
 ## 使用 Javax 包保护 Java 中的敏感信息
 
-> 最初发表于[](https://asyncq.com/how-to-protect-pii-with-java)
+> 最初发表于<https://asyncq.com/how-to-protect-pii-with-java>
 
 ## **介绍**
 

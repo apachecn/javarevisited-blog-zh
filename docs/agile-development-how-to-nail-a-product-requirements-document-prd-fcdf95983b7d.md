@@ -53,8 +53,4 @@
 
 **一个有效的产品需求文档提供了每个利益相关者需要的所有东西的集中资源，从用户问题到技术改进。将它作为[敏捷开发](https://www.java67.com/2020/10/best-agile-and-scrum-courses-for-programmers-developers.html)的指导性文件，让每个团队保持一致，减少例会。**
 
-**[](/javarevisited/7-best-agile-and-scrum-online-training-courses-3b191e9b65eb) [## 2021 年 7 个最佳敏捷和 Scrum 在线初学者培训课程
-
-### 我最喜欢的在线培训课程，从 Udemy、Pluralsight、Coursera 和……
-
-medium.com](/javarevisited/7-best-agile-and-scrum-online-training-courses-3b191e9b65eb)**
+**</javarevisited/7-best-agile-and-scrum-online-training-courses-3b191e9b65eb> **

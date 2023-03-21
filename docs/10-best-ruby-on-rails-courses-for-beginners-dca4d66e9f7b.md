@@ -100,11 +100,7 @@ Ruby On Rails 的流行显示了 Ruby 的重要性。Rails 是一个现代的 we
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问本课程，还可以访问他们的 210 多门课程。它非常划算，非常适合准备编码面试
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 4.[剖析 Ruby on Rails 5](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fprofessional-rails-5-development-course%2F)【Udemy 课程】
 
@@ -228,8 +224,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你正在寻找免费的在线课程来学习 Ruby 编程语言以及 Ruby on Rails，那么你也可以在 Udemy 上查看这个[**30 天内 8 个漂亮的 Ruby on Rails 应用程序& TDD —沉浸式**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F8-beautiful-ruby-on-rails-apps-in-30-days%2F) 课程。这个长达 15 小时的 Ruby 实践课程是完全免费的。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F8-beautiful-ruby-on-rails-apps-in-30-days%2F) [## 免费的 Ruby on Rails 教程-30 天内 8 个漂亮的 Ruby on Rails 应用程序& TDD -身临其境
-
-### 用 Ruby on Rails 中的 8 个超酷的 web 应用程序构建您的 Rails 组合。用它来开始找工作作为证明…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F8-beautiful-ruby-on-rails-apps-in-30-days%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F8-beautiful-ruby-on-rails-apps-in-30-days%2F> 

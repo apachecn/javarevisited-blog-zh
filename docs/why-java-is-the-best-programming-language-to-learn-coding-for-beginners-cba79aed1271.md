@@ -103,16 +103,8 @@ Java 自带内置的垃圾收集功能，这对于完全的初学者来说是一
 
 **P. S.** —如果你喜欢书，也可以看看这份 [**必读 Java 编程书籍**](https://www.freecodecamp.org/news/must-read-books-to-learn-java-programming-327a3768ea2f/#f2fc) 的清单，深入学习 Java。
 
-[](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [## 我最喜欢的深入学习 Java 的书籍——必读
-
-### 大家好，今天是在线课程的世界。每个人都在谈论从在线培训、Youtube 学习…
-
-medium.com](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) 
+</javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99>  
 
 p . s . s——如果你更喜欢在线课程，那么你也可以查看 Medium 上的这个 [**最佳 Java 课程**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 列表，它包含了许多在线学习 Java 的免费资源。
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

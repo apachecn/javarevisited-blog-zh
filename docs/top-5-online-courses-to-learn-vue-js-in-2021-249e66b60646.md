@@ -63,11 +63,7 @@ Angular 和 React.js 改变了前端开发空间后，我认为他们将统治�
 
 **顺便说一句，你需要一个 [ZTM 会员](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)来观看这个课程，这个课程每月花费大约 23 美元，但也提供了许多超级吸引人和有用的课程，如他的 Python 和 JavaScript Web 项目:20 个项目来建立你的作品集课程。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。**
 
-**[](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) [## ZTM 学院
-
-### 无论你是刚刚开始学习编码，还是想提高你的技能，零到精通学院将教你…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn)** 
+**<https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn> ** 
 
 ## **3. [Vue.js 基础吉姆·库珀](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fvuejs-fundamentals)【plural sight 最佳课程】**
 
@@ -83,11 +79,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/academy?affcode=441
 
 无论如何，即使你没有会员资格，你也可以利用他们的 [**10 天免费试用期**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费学习他们的所有课程，为期 10 天。唯一的问题是你只有 200 分钟的观看时间。**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **4. [Hands-on Vue.js:在 Educative 上建立一个功能齐全的 SPA](https://www.educative.io/courses/hands-on-vue-js-build-fully-functional-spa?affiliate_id=5073518643380224)**
 
@@ -103,11 +95,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **此外，如果你觉得教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问这门课程，还可以访问他们的 500 多门课程。它非常划算，非常适合获得一些实践学习经验。**
 
-**[](/javarevisited/is-educative-courses-worth-it-6b6014ffbdb9) [## 教育性课程值得吗？
-
-### 如果你正在准备编码面试，那么 Educative 是最好的去处之一，他们的探索课程…
-
-medium.com](/javarevisited/is-educative-courses-worth-it-6b6014ffbdb9)** 
+**</javarevisited/is-educative-courses-worth-it-6b6014ffbdb9> ** 
 
 ## **5.[换行符全栈 Vue 3](https://gumroad.com/a/221148275/FAZuo)**
 
@@ -197,8 +185,4 @@ medium.com](/javarevisited/is-educative-courses-worth-it-6b6014ffbdb9)**
 
 **P. S.** —如果你不介意从免费资源中学习，并寻找免费的在线课程来学习 Vue.js，那么你也可以在 Udemy 上查看这个 [**免费的 Vue.js 速成班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-fast-crash-course%2F) 。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-fast-crash-course%2F) [## 免费 Vue JS 教程- Vue.js 快速速成班
-
-### 埃德温·迪亚兹是一名软件和网络技术工程师，一名生活教练培训师，也是一名连续企业家，拥有…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-fast-crash-course%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-fast-crash-course%2F> **

@@ -4,7 +4,7 @@
 
 ## Leetcode 590 的 Java 解决方案
 
-> 最初发表于[](https://asyncq.com/n-ary-tree-postorder-traversal-leetcode-590)
+> 最初发表于<https://asyncq.com/n-ary-tree-postorder-traversal-leetcode-590>
 
 **[![](img/ff6820908790a6bd8425649d766629db.png)](https://www.java67.com/2020/02/top-40-binary-tree-interview-questions.html)**
 

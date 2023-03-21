@@ -102,11 +102,7 @@ LinkedIn 学习平台最有趣的细节是指专业人士对其学习资料的�
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 17500 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.YouTube[免费]
 
@@ -159,8 +155,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **附言**。—如果你能负担得起，我强烈推荐你加入 [**101 区块链学院的 NFT 认证项目**](https://shareasale.com/r.cfm?b=1696402&u=880419&m=105464&urllink=https%3A%2F%2Facademy%2E101blockchains%2Ecom%2Fcourses%2Fcertified%2Dnft%2Dprofessional&afftrack=) ，这是学习 NFT 最好和最深入的课程之一，现在 101 区块链正在进行黑色星期五特卖，你还可以获得 50%的折扣。万事如意
 
-[](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html) [## 2023 年了解 NFT(不可替代代币)的 8 大课程-最佳选择
-
-### 你好伙计们，如果你想知道什么是 NFT 或不可替代的令牌，什么是 NFT 周围的嗡嗡声，并有问题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html)
+<https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-about-nfts-non.html> 

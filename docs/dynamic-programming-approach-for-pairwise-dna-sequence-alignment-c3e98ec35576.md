@@ -79,7 +79,7 @@
 *   **Smith-Waterman 方法通过进行局部序列比对来确定两串核酸或蛋白质序列之间的可比较区域。Smith-Waterman 算法分析所有可能长度的片段，并优化相似性度量，而不是查看整个序列。坦普尔·f·史密斯和迈克尔·s·沃特曼于 1981 年首次提出了这一方法。Smith-Waterman 是一种动态规划算法，就像 needle man–Wunsch 方法一样，它是该方法的变体。结果，它具有确保为所使用的评分系统找到最佳局部比对的理想品质。**
 *   **观看下面的视频，了解如何使用 Smith-Waterman 算法执行局部对齐。**
 
-****这里有一个使用史密斯-沃特曼算法**[](http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman)****进行局部比对的可视化工具。下图显示了一个可视化示例。******
+****这里有一个使用史密斯-沃特曼算法**<http://rna.informatik.uni-freiburg.de/Teaching/index.jsp?toolName=Smith-Waterman>****进行局部比对的可视化工具。下图显示了一个可视化示例。******
 
 ****[![](img/a04f9f476d3af5b3501398f1d7a21c44.png)](https://www.java67.com/2020/07/top-5-data-visualization-tools-every.html)
 

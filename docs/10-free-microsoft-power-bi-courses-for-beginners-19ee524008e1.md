@@ -22,11 +22,7 @@ image_credit — Udemy
 
 顺便说一句，如果你不介意花点钱，那么我也建议你去看看 Udemy 上的[**Microsoft Power BI-完整介绍**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F) 课程。这是 2023 年学习 Power BI 的最全面的课程之一，你可以在现在正在进行的 Udemy 销售中只花 9.9 美元购买。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F) [## 微软 Power BI - A 完整介绍[2023 版]
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F>  
 
 # 2023 年我最喜欢的免费学动力 BI 的课程
 
@@ -219,8 +215,4 @@ Udemy 的大部分免费商务智能课程，一旦达到他们的营销目标�
 
 **附言**——如果你不介意花点钱，我还建议你去看看 Udemy 上的[**Microsoft Power BI——完整介绍**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F) 课程。这是 2023 年学习 Power BI 的最全面的课程之一，你可以在现在正在进行的 Udemy 销售中只花 9.9 美元购买。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F) [## 微软 Power BI - A 完整介绍[2023 版]
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpowerbi-complete-introduction%2F> 

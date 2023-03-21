@@ -30,11 +30,7 @@ Git 解决版本控制问题的同时， [Github](http://github.com/) 解决代�
 
 Btw **，**如果你不介意花点钱学习 Git 这种有价值的技能，那么我也建议你看一看这本 [**Git Complete:权威指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) ，这是面向所有级别程序员的深入学习 Git 的最佳但付费的课程之一。虽然它很便宜，你可以在 Udemy 上只花 10 美元买到。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) [## Git 完整教程:Git 权威指南
-
-### Git 完成这一课程的目的是一个全面的 Git 方法，这意味着没有事先的知识或…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F>  
 
 # 2023 年免费学习 Git 的 11 个最佳网站和平台
 
@@ -70,11 +66,7 @@ Google 有一些学习 Python 最好的培训材料，Google Cloud，Coursera �
 
 而且，如果你觉得 Coursera 专业化和认证有用，特别是像这样的，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个伟大的订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[在 CodeCademy 上学习 Git](https://www.pjtra.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-git)【免费】
 
@@ -98,11 +90,7 @@ CodeCademy 是 2023 年学习 Git 命令和概念的另一个好地方。几年�
 
 如果你有 Pluralsight 会员资格，那么你可以使用这个课程来学习 Git，即使你没有，你也可以利用他们的 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费访问这个课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[比特桶 Git 教程](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
@@ -178,11 +166,7 @@ Educative 是另一个令人印象深刻的学习编码技能的网站。它提�
 
 而且，如果你找到了教育平台和他们的探索课程，比如探索系统设计面试，那么考虑购买**[**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元就能获得 100 多门课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上就是一些免费学习 Git 和 Github 的**网站和资源**。我真的鼓励所有计算机科学学生、程序员、Web 开发人员和初学者学习 Git，因为无论你去哪里都会需要它。几乎所有的公司都使用 Git 来存储代码和版本控制。
 
@@ -208,8 +192,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **p . s .**——如果你不介意为一项值得学习的技能支付一些钱，那么我也建议你看看这个 [**Git Complete:权威指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) ，它是所有级别的程序员深入学习 Git 的最佳资源之一。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F) [## Git 完整教程:Git 权威指南
-
-### Git 完成这一课程的目的是一个全面的 Git 方法，这意味着没有事先的知识或…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgit-complete%2F> **

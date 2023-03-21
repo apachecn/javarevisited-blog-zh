@@ -8,7 +8,7 @@
 
 图片由 [RF 提供。_.来自](https://www.pexels.com/@rethaferguson?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)[像素](https://www.pexels.com/photo/crop-focused-repairman-fixing-graphics-card-on-computer-3825582/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)的工作室
 
-*“不要使用嘲笑。”* [](https://www.yegor256.com/2014/09/23/built-in-fake-objects.html)*“莫须有皆蠢。”*[](https://medium.com/r?url=https%3A%2F%2Fwww.endoflineblog.com%2Ftesting-with-doubles-or-why-mocks-are-stupid-part-4)
+*“不要使用嘲笑。”* <https://www.yegor256.com/2014/09/23/built-in-fake-objects.html>*“莫须有皆蠢。”*<https://medium.com/r?url=https%3A%2F%2Fwww.endoflineblog.com%2Ftesting-with-doubles-or-why-mocks-are-stupid-part-4>
 
 说起来容易做起来难。嘲笑无处不在。没有模拟就不能测试。
 

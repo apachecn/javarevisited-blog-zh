@@ -64,11 +64,7 @@ image_credit —教育性
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[将并发和多线程应用于常见模式](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-patterns-concurrency-multi-threading)【plural sight 最佳课程】
 
@@ -90,11 +86,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [10 天免费通行证](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[实践捆绑包中的 Java 并发性](https://learning.javaspecialists.eu/courses/concurrency-in-practice-bundle?affcode=92815_johrd7r8)(Java 专家)
 
@@ -118,11 +110,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 《极限 Java——并发性能》课程大致基于 Brian Goetz and company 的经典著作《实践中的 Java 并发性》[**e**](http://www.amazon.com/dp/0321349601/?tag=javamysqlanta-20)**,但针对来自 Java 8 和 9 的现代结构(如 lambdas、fork-join pool、Phaser 和其他高级结构)进行了介绍。**
 
-**[](http://www.amazon.com/dp/0321349601/?tag=javamysqlanta-20) [## 实践中的 Java 并发
-
-### 实践中的 Java 并发[Goetz，Brian，Peierls，Tim，Bloch，Joshua，Bowbeer，Joseph，Holmes，David，Lea，Doug]
-
-www.amazon.com](http://www.amazon.com/dp/0321349601/?tag=javamysqlanta-20)** 
+**<http://www.amazon.com/dp/0321349601/?tag=javamysqlanta-20> ** 
 
 ## **5.[Java 中的多线程和并行计算](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmultithreading-and-parallel-computing-in-java%2F)【Udemy 课程】**
 
@@ -202,11 +190,7 @@ Java 通过在 JDK 1.5 中引入[Executor 框架](http://javarevisited.blogspot.
 
 **而且，如果你喜欢 Educative 作为一个平台，特别是他们的编码面试课程，比如[钻研系统设计](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)，那么你也可以只花 14 美元订阅。每月 96**(**[**56 折**](https://www.educative.io/subscription?affiliate_id=5073518643380224)**39.9 美元起)**，我有一个，强烈推荐你去弄一个。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### Educative 提供编程和编码面试准备课程，涵盖几乎每一个框架，语言，和…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是针对有经验的 Java 开发人员的**最佳 Java 多线程和并发性课程**。我提供了免费和付费的课程供你参考，你可以选择你喜欢的。有时从免费资源开始是个好主意，但我会推荐你喜欢的课程。
 
@@ -232,16 +216,8 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S.** —如果你刚刚开始 Java 编程，或者正在寻找一些免费的课程来开始 Java 编程，你也可以看看这份针对初学者的 [**免费 Java 编程课程**](https://javarevisited.blogspot.com/2017/11/top-5-free-java-courses-for-beginners.html) 列表。
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 2023 年要学习的 11 门最佳免费 Java 编程课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  
 
 **P. P. S.** —如果你现在只想做一件事，我建议你去看看 Udemy 上的 [**Java 多线程、并发和性能优化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) 课程。观看预览课程，开始成为 Java 并发专家的旅程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) [## Java 多线程、并发和性能优化
-
-### 如果你有自己的喷气式飞机，你会开着它去杂货店，还是开着它环游世界？今天…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F)**
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F> **

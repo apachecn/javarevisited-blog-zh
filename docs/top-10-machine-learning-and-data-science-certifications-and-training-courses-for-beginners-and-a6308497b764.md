@@ -110,11 +110,7 @@
 
 这使您可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 6.[data camp 机器学习简介](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fcourses%2Fintroduction-to-machine-learning-with-r)
 
@@ -221,8 +217,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你决心学习数据科学和机器学习技能但负担不起这些在线培训课程，并且需要一些免费课程来学习 2023 年的机器学习，那么你也可以看看这个面向程序员的学习 [**机器学习算法、软件、深度学习**](http://bit.ly/2DNKMdZ) 。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](http://bit.ly/2DNKMdZ) [## 免费机器学习教程-学习机器学习算法，软件，深度学习
-
-### 拥有 25 年以上的企业基础设施、数据、信息安全和项目管理经验。企业是…
-
-bit.ly](http://bit.ly/2DNKMdZ)
+<http://bit.ly/2DNKMdZ> 

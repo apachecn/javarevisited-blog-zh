@@ -40,19 +40,11 @@ All、 *Teachable、Thinkific 或 Udemy* 都有创建和托管在线课程以及
 
 例如，你可以阅读文章 [7 个步骤来推出你自己的盈利在线课程](https://teachable.sjv.io/c/1193463/1014938/12646)来学习关于创建盈利课程的一切。他们还有一个 [**免费网上研讨会**](https://teachable.sjv.io/c/1193463/998807/12646) ，你可以参加，学习如何在 2022 年创建在线课程
 
-[](https://teachable.sjv.io/c/1193463/998807/12646) [## 快速启动网上研讨会注册
-
-### 你有知识；我们有工具。观看快速入门网络研讨会，我们将教您如何创建和销售…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/998807/12646) 
+<https://teachable.sjv.io/c/1193463/998807/12646>  
 
 类似地，**thinkfic**也允许你创建并拥有自己的在线课程平台，但你需要带上你的听众。**thinkfic 是一个**伟大的平台，他们也有一个 [**一个月的免费试用**](http://try.thinkific.com/javinpaul8817-omf) 这是一个伟大的开始。
 
-[](http://try.thinkific.com/javinpaul8817-omf) [## 思维自由审判
-
-### 轻松上传您的教练计划内容，将其转变为在线课程。我们将向您介绍最佳的方法来…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf) 
+<http://try.thinkific.com/javinpaul8817-omf>  
 
 ## 2.所有权和控制权[你所谓的你自己的]
 
@@ -66,11 +58,7 @@ try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf)
 
 换句话说，从短期来看，Udemy 是好的，但是从长期来看，你应该明确地把你的学校建立在可教的或有思想的基础上，这是没有借口的。你也可以使用 thinkfic 的 [**一个月免费试用**](http://try.thinkific.com/javinpaul8817-omf) 为此，这是 thinkfic 给内容创作者社区的一份大礼。
 
-[](http://try.thinkific.com/javinpaul8817-omf) [## 思维自由审判
-
-### 轻松上传您的教练计划内容，将其转变为在线课程。我们将向您介绍最佳的方法来…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf) 
+<http://try.thinkific.com/javinpaul8817-omf>  
 
 ## 3.成本[费用]
 
@@ -88,11 +76,7 @@ Teachable 还提供许多免费的在线培训，如 Teachable Creator Challenge
 
 顺便说一句，当谈到创建自己的在线学校时，可教不是唯一的选择，**thinkfic**也是一个很好的平台，你也可以尝试一下。你甚至可以使用他们的 [**一个月免费试用**](http://try.thinkific.com/javinpaul8817-omf) 来检验这个平台，看看它是否适合你。
 
-[](http://try.thinkific.com/javinpaul8817-omf) [## 思维自由审判
-
-### 轻松上传您的教练计划内容，将其转变为在线课程。我们将向您介绍最佳的方法来…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf) 
+<http://try.thinkific.com/javinpaul8817-omf>  
 
 ## 4.社区[支持]
 
@@ -112,11 +96,7 @@ try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf)
 
 好消息是，所有前三名的在线课程平台 Teachable、Thinkific 和 Podia 现在都提供了一个免费计划，你可以用它来免费开始你的第一门在线课程。我向第一次创建课程的人强烈推荐它们。
 
-[](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) [## 获得一个免费网站。卖产品。建立你的社区。
-
-### 你的网站是免费的，简单的，漂亮的。Podia 处理开箱即用的技术，因此您可以设置…
-
-podia.sjv.io](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F) 
+<https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.podia.com%2F>  
 
 ## 结论
 
@@ -153,16 +133,8 @@ podia.sjv.io](https://podia.sjv.io/c/3294490/1274189/15666?u=https%3A%2F%2Fwww.p
 
 如果你加入 Teachable，我建议你参加他们的 [**专业计划**](https://teachable.sjv.io/c/1193463/1014949/12646) ，费用大约为 *$99 每月*。在这个计划中，您不需要支付在基本计划上销售您的课程所必须支付的 5%交易费，并且您还可以获得许多更有用的高级功能，如课程完成证书和支持，这对于销售在线课程非常重要。
 
-[](https://teachable.sjv.io/c/1193463/1014949/12646) [## 可教会员制定价:选择适合你的定价方案
-
-### 在一个地方比较所有可教的会员计划。关于可教计划你需要知道的一切。不确定…
-
-teachable.sjv.io](https://teachable.sjv.io/c/1193463/1014949/12646) 
+<https://teachable.sjv.io/c/1193463/1014949/12646>  
 
 顺便说一句，当谈到创建自己的在线学校时，可教不是唯一的选择，**thinkfic**也是一个很好的平台，你也可以尝试一下。你可以使用他们的 [**一个月免费试用**](http://try.thinkific.com/javinpaul8817-omf) 来检验这个平台，看看它是否适合你。
 
-[](http://try.thinkific.com/javinpaul8817-omf) [## 思维自由审判
-
-### 轻松上传您的教练计划内容，将其转变为在线课程。我们将向您介绍最佳的方法来…
-
-try.thinkific.com](http://try.thinkific.com/javinpaul8817-omf)
+<http://try.thinkific.com/javinpaul8817-omf> 

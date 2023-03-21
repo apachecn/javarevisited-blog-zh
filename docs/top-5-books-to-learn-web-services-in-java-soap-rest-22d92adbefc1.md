@@ -46,11 +46,7 @@ Java 为开发 [*SOAP 和 RESTful Web 服务*](/javarevisited/7-difference-betwe
 
 这也是一本准备 Oracle Certified Java expert for Web Services(OCEJWSD)认证(考试代码 1z 0–897)的优秀书籍，但是如果您需要更多资源，您也可以查看 Bharat Tippireaddy 的[**Java Web Services**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-web-services%2F)课程，了解 Java 中的 Web 服务。结合这本书是一门极好的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-web-services%2F) [## 学习 Web 服务:设计、创建、消费和保护 SOAP 和 REST
-
-### Bharath Thippireddy 是一名企业家、软件架构师和公共演说家，他已经培养了 350000 多名学生…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-web-services%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-web-services%2F>  
 
 ## [2。RESTful Java 与 JAX-RS 2.0](http://www.amazon.com/RESTful-Java-JAX-RS-Bill-Burke/dp/144936134X?tag=javamysqlanta-20)
 
@@ -66,11 +62,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 或者，如果您想使用 Jersey，那么您可以使用 Udemy 上的 Jersey 课程来查看 Java 中的 [**RESTFul 服务。使用 Jersey 用 Java 开发 REST 应用程序是一门实践性很强的课程。**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Frestful-services-java-using-jersey)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Frestful-services-java-using-jersey) [## 使用 Jersey 的 RESTFul 服务
-
-### 使用 Jersey 的 RESTFul 服务
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Frestful-services-java-using-jersey) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Frestful-services-java-using-jersey>  
 
 ## [3。Leonard Richardson 的 RESTful Web 服务](http://www.amazon.com/RESTful-Web-Services-Leonard-Richardson/dp/0596529260?tag=javamysqlanta-20)
 
@@ -84,11 +76,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 简而言之，这是一本从 web 开发者的角度学习 REST web 服务的好书，如果你想了解更多，你也可以将这本书与 RESTful Web 服务、Java、Spring Boot、Spring MVC 和 JPA Udemy 课程结合起来快速学习。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frestful-web-service-with-spring-boot-jpa-and-mysql%2F) [## RESTful Web 服务、Java、Spring Boot、Spring MVC 和 JPA
-
-### 这是一个非常实用的视频课程，旨在帮助初学 Java 的开发者构建他们的第一个 RESTful Web…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frestful-web-service-with-spring-boot-jpa-and-mysql%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frestful-web-service-with-spring-boot-jpa-and-mysql%2F>  
 
 ## [4。弹簧座](https://www.amazon.com/Spring-REST-Balaji-Varanasi/dp/1484208242/?tag=javamysqlanta-20)
 
@@ -121,8 +109,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **p . s .**——如果你想开始用 Java 开发 RESTful web 服务，但又想找一个免费的在线课程，首先，我建议你查看 Udemy 上的[**RESTful Web Services with Spring Framework**](http://bit.ly/2Dh2ma1)课程。这是完全免费的，你需要做的就是创建一个 Udemy 帐户，如果你没有的话，然后加入这个课程。
 
-[](http://bit.ly/2Dh2ma1) [## 免费的 RESTful Web 服务教程-使用 Spring 框架的 RESTful Web 服务-快速入门
-
-### 这个视频课程是学习如何使用 Spring Framework 构建 RESTful Web 服务的快速入门。当你走的时候…
-
-udemy.com](http://bit.ly/2Dh2ma1)
+<http://bit.ly/2Dh2ma1> 

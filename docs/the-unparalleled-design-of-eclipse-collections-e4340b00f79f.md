@@ -26,11 +26,7 @@
 
 有关融合方法的更多信息和示例，请查看下面的博客。
 
-[](/javarevisited/from-eager-to-fused-to-lazy-66450e290002) [## 从渴望到融合到懒惰
-
-### Eclipse 集合中迭代 API 的演变
-
-medium.com](/javarevisited/from-eager-to-fused-to-lazy-66450e290002) 
+</javarevisited/from-eager-to-fused-to-lazy-66450e290002>  
 
 Caramel 中并行 API 的最初实现是热切的。今天，Eclipse 集合中仍然有一个实用程序类提供了这种急切的并行功能。这个类被命名为`ParallelIterate`。该类最初使用了来自`EDU.oswego` 并发库中的 Fork/Join 框架。在没有 Fork/Join 框架的 Java 5 中引入了`java.util.concurrent`包之后，它后来被转换成使用`Executor`。当在 Java 7 中添加 Fork/Join 框架时，一个名为`FJIterate`的新实用程序类被添加到 GS 集合中。`FJIterate`包含在 Eclipse 集合中自己的模块中，并分布在一个单独的 jar 文件中。`FJIterate`从 2013 年年中就存在了，也就是 Java 7 发布(2011 年 7 月)两年后。如果您想使用它，将需要一个额外的 Maven 依赖项。
 
@@ -50,21 +46,13 @@ Caramel 中并行 API 的最初实现是热切的。今天，Eclipse 集合中�
 
 以下是`ParallelIterate`上可用的方法。
 
- [## 并行读写(Eclipse 集合- 10.4.0)
-
-### public final class parallel elevate extends object parallel elevate 类包含了几个并行算法…
-
-www.eclipse.org](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/parallel/ParallelIterate.html) 
+  
 
 ## FJIterate
 
 以下是`FJIterate`上可用的方法
 
- [## FJIterate (Eclipse 集合- 10.4.0)
-
-### 公共最终类 FJIterate extends object FJIterate 类包含几个并行算法，这些算法与…
-
-www.eclipse.org](https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/impl/forkjoin/FJIterate.html) 
+  
 
 ## 平行文学与自由比率
 
@@ -136,19 +124,11 @@ ParallelListIterable 和 ParallelIterate 方法的对称差和交
 
 几年前我写了一些基准测试，比较了串行、并行、急切、懒惰、对象和基本类型的组合`filter`、`map`、`reduce`和`filter` + `map` + `reduce`。基准测试的代码和结果记录在下面的博客中。正如你将在博客中看到的，我在 JDK 8 上运行了基准测试。
 
-[](/javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef) [## 凌晨 4 点詹姆斯敦-苏格兰渡轮和其他优化策略
-
-### 当性能很重要时，了解您的可用选项也很重要。
-
-medium.com](/javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef) 
+</javarevisited/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef>  
 
 当我开始写这个博客时，我决定要写新的基准。我想在 JDK 17 上运行基准测试，这样我就可以看到旧的 eager parallel 和 fork/join 实用程序类如何支持 JDK 最近九个版本中的所有优化。我还想让基准测试代码立即开源，供开发人员自己进行实验，并在他们自己的硬件上得出他们自己的结论。基准是 [BNYM Code Katas repo](https://github.com/BNYMellon/CodeKatas) 中 JMH Kata 模块的一部分。这次我关注的是`filter` + `map`的一个用例。在名为`collectIf`的`ParallelIterate`和`FJIterate`实用程序类上有一个用于`filter` + `map`的融合方法。该方法也可用于
 
-[](https://github.com/BNYMellon/CodeKatas/blob/master/jmh-kata/src/test/java/bnymellon/codekatas/jmhkata/FilterMapJMHBenchmark.java) [## code katas/filtermapjmhbenchmar . Java 位于主 BNYMellon/CodeKatas
-
-### BNY 梅隆代码卡塔斯。通过在 GitHub 上创建一个帐户，为 BNYMellon/CodeKatas 的开发做出贡献。
-
-github.com](https://github.com/BNYMellon/CodeKatas/blob/master/jmh-kata/src/test/java/bnymellon/codekatas/jmhkata/FilterMapJMHBenchmark.java) 
+<https://github.com/BNYMellon/CodeKatas/blob/master/jmh-kata/src/test/java/bnymellon/codekatas/jmhkata/FilterMapJMHBenchmark.java>  
 
 JMH 式是我所说的“沙盒式”。您可以将它作为一个沙箱来运行您自己的实验，测试您自己的基准。它可以运行一些初级的 JMH 基准测试，并节省您设置项目做同样事情的时间。
 
@@ -245,11 +225,7 @@ Memory: 64 GB
 
 尽管这些年来我在 MacPro 上运行了很多基准测试，但实际上我并没有对 Eclipse 集合中的任何并行算法进行太多的调优。我之前在以前的雇主那里用一台非常大的机器(24 个内核，256GB RAM)测试过 Eclipse 集合。我们已经看到了我们实现的许多并行急切和懒惰算法的良好加速。正如我上面提到的，我们的并行懒惰算法比并行渴望算法实现得更晚，但自 2014 年末以来也没有真正调整过。 [Craig Motlin](https://medium.com/u/82b613b921f6?source=post_page-----e4340b00f79f--------------------------------) 在 2014 年 6 月做了一个关于 Eclipse 集合并行惰性实现方法的精彩演讲。它对三种不同的实现(Java 8，Scala，Eclipse Collections，以前的 GS Collections)如何针对特定的并行算法进行调优做了很好的解释和总结。我将把它链接到这里，给那些想学习并行算法优化策略的人。
 
-[](https://www.infoq.com/presentations/java-streams-scala-parallel-collections/) [## 并行惰性性能:Java 8 vs Scala vs GS 集合
-
-### 由高盛赞助。Java 8 有流，Scala 有并行集合，GS 集合有…
-
-www.infoq.com](https://www.infoq.com/presentations/java-streams-scala-parallel-collections/) 
+<https://www.infoq.com/presentations/java-streams-scala-parallel-collections/>  
 
 # 未来
 

@@ -22,11 +22,7 @@
 
 如果你想在 2020 年学习人工智能，我们有一些[有用的资源](https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-artificial-intelligence-AI.html)可以开始:
 
-[](https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-artificial-intelligence-AI.html) [## 2020 年学习人工智能的 5 大课程-最佳课程
-
-### 如果你不是生活在岩石下，那么你可能在过去经常听到 AI 或人工智能…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-artificial-intelligence-AI.html) 
+<https://javarevisited.blogspot.com/2019/10/top-5-courses-to-learn-artificial-intelligence-AI.html>  
 
 # 增强现实/虚拟现实/磁共振
 
@@ -44,11 +40,7 @@ Statista 预测，到 2022 年，沉浸式技术的全球市场将达到 2092 �
 
 如果你刚刚起步，想学习云计算，这里是我们推荐的资源
 
-[](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) [## 2020 年学习云计算的 5 大在线课程-最佳选择
-
-### 随着越来越多的人开始使用云计算，云计算正成为任何软件开发人员或 IT 专业人员的一项基本技能
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) 
+<https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html>  
 
 # 边缘计算
 
@@ -66,11 +58,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-onl
 
 但是，如果你想在 2020 年学习编程和编码，你可以从这些很棒的资源开始:
 
-[](https://javarevisited.blogspot.com/2019/03/top-5-online-courses-to-learn-to-code.html) [## 2020 年学习编程的前 5 门课程——最好的
-
-### 编程和/或编码是当今技术世界的基本技能之一，对编码的认识是…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/03/top-5-online-courses-to-learn-to-code.html) [![](img/98f812a6d2a10cfcb35bfd871611dfc7.png)](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio)
+<https://javarevisited.blogspot.com/2019/03/top-5-online-courses-to-learn-to-code.html>  [![](img/98f812a6d2a10cfcb35bfd871611dfc7.png)](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio)
 
 # 渐进式网络应用
 
@@ -91,14 +79,6 @@ PWA 是一种类似于原生移动应用的网站，尽管它在浏览器中运�
 [2020 年学习 iOS 和 Swift 的 5 大课程](/swlh/top-5-course-to-learn-ios-12-and-swift-4-in-depth-5a7351785f8d)
 [2020 年学习的 10 个 JavaScript 框架和库](https://www.java67.com/2019/01/top-10-javascript-frameworks-and-libraries-for-web-developers.html)
 
-[](https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html) [## 2020 年移动开发者应该学会的 10 件事
+<https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html>  </javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
-### 大家好，移动应用程序开发对程序员来说是一个利润丰厚的领域，因为它有各种各样的机会…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html) [](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
-
-*原载于 2020 年 1 月 3 日 https://intexsoft.com*[](https://intexsoft.com/)**。**
+*原载于 2020 年 1 月 3 日 https://intexsoft.com*<https://intexsoft.com/>**。**

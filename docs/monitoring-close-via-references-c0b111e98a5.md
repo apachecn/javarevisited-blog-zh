@@ -50,7 +50,7 @@ var a = new A();
 
 ## 幻影可达
 
-当一个对象不是强可达的，并且不是由弱引用(或软引用)持有时，它就是幻影可达的。它还必须已经被最终确定，并且一个`[PhantomReference](https://javarevisited.blogspot.com/2014/03/difference-between-weakreference-vs-softreference-phantom-strong-reference-java.html)` [](https://javarevisited.blogspot.com/2014/03/difference-between-weakreference-vs-softreference-phantom-strong-reference-java.html)必须引用它。
+当一个对象不是强可达的，并且不是由弱引用(或软引用)持有时，它就是幻影可达的。它还必须已经被最终确定，并且一个`[PhantomReference](https://javarevisited.blogspot.com/2014/03/difference-between-weakreference-vs-softreference-phantom-strong-reference-java.html)` <https://javarevisited.blogspot.com/2014/03/difference-between-weakreference-vs-softreference-phantom-strong-reference-java.html>必须引用它。
 
 对于`PhantomReference`来说，泄漏对对象的引用是不可能的:`get()`方法总是返回 null
 

@@ -26,7 +26,7 @@
 
 每个程序员都知道什么是递归函数或 Java 中的递归，但是当涉及到将递归应用于一个问题时，许多人会感到困惑。根据我的经验，*递归是一个棘手的编程概念*，很少有人能很快理解它，但是对于一些程序员来说，理解递归并开发应用它的能力需要花费很长时间。
 
-如果你属于第二类程序员，对他们来说递归总是很棘手，那么我能建议的最好的办法就是做大量基于递归的编程练习[](https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html?ref=faun)**。**
+如果你属于第二类程序员，对他们来说递归总是很棘手，那么我能建议的最好的办法就是做大量基于递归的编程练习<https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html?ref=faun>**。**
 
 **我知道，对于一些人来说递归是很难掌握的，我也是其中之一，但是当你继续解决这样的问题时，从容易到困难，你会慢慢理解递归解决方案是如何工作的，并为任何新的编码问题提出递归解决方案。**
 
@@ -150,8 +150,4 @@
 
 ****P. S. —** 如果你需要一个资源来理解递归模式，我强烈推荐你学习 Coursera 上的这个[**Python 对象基础:函数、递归和对象**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-object-basics) 课程，学习如何识别递归问题，以及如何使用递归来分解它们。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-object-basics) [## Python 对象基础:函数、递归和对象
-
-### 无需安装任何东西，在几分钟内编写并运行您的第一个 python 程序！本课程是为学习者设计的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-object-basics)**
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-object-basics> **

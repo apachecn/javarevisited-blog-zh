@@ -72,11 +72,7 @@ mysql
 lomboksee more details : [pom.xml](https://github.com/sophea/springboot2-jwt/blob/master/pom.xml)
 ```
 
-[](https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html) [## Java 开发人员学习 Apache Maven 的前 5 门课程——最好的
-
-### Apache Maven 或通常称为“Maven”，是 Java 程序员的一个基本工具。它允许您构建…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html) 
+<https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html>  
 
 # 安全配置
 
@@ -213,12 +209,4 @@ curl -X GET [http://localhost:8080/secure](http://localhost:8080/secure) -H 'Aut
 
 这篇文章的完整源代码可以在 GitHub 上找到[。](https://github.com/sophea/springboot2-jwt)
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d) [## 学习 Java 和 Spring 框架中微服务的前 5 门课程
-
-### 微服务是软件开发领域的新术语，尤其是在 Java 方面，但它已经在实践中…
-
-medium.com](/javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  </javarevisited/top-5-courses-to-learn-microservices-in-java-and-spring-framework-e9fed1ba804d> 

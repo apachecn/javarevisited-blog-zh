@@ -26,11 +26,7 @@ Eclipse 和 JUnit 是 Java 开发人员的两个基本工具。Eclipse 是一个
 
 这是免费学习 Eclipse 基础知识的最棒的课程之一。这个课程是为初学者和第一次学习的人设计的，它不仅教授而且展示了如何在 Eclipse 中做一些事情。在本课程中，您将体验一次有趣的月食之旅。
 
-[](https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bnqMcMqrlUiAnqfZSSD.Fg) [## Eclipse 初学者教程:用 10 个步骤学习 Java IDE
-
-### Eclipse 是最流行的开源 Java IDE。使用 Eclipse 的开发人员比任何其他 Java 编程工具都多…
-
-www.udemy.com](https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bnqMcMqrlUiAnqfZSSD.Fg) 
+<https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bnqMcMqrlUiAnqfZSSD.Fg>  
 
 完成本课程后，您应该掌握了一些 Eclipse 技巧和诀窍。您还将了解 Eclipse 的各种特性——视图、透视图、调试器、保存操作、插件和代码生成。
 
@@ -87,11 +83,7 @@ JUnit 是许多 Java 开发人员拥有另一项技能，但还不够好。我�
 
 顺便说一句，这个课程并不是真正的免费课程。你需要一个[**pluar sight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能进入本课程。月费约为 29 美元，年费约为 299 美元，你可以参加 5000 多门编程和开发课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [## Pluralsight 订阅计划和定价:按月和按年
-
-### 多重视野要多少钱？点击此处了解月度和年度订购计划的价格。不要把你的技术技能放在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing>  
 
 虽然我鼓励你加入 Pluralsight 以促进你的学习，但如果你愿意，你也可以通过注册一个 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这门课程，这对完成这门课程来说绰绰有余。
 
@@ -101,11 +93,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 以下是加入课程的链接— [*用 JUnit 和 Mockito*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) 学习单元测试
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) [## 学习 Mockito 和 JUnit(30 个简单步骤中的单元测试)
-
-### 编写伟大的单元测试将优秀的程序员与伟大的程序员区分开来。在本课程中，您将学习如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F>  
 
 ## [7。面向初学者的 Java 单元测试:JUnit 5 适合你的第一份 it 工作](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjunit5-for-beginners%2F)
 
@@ -115,11 +103,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以下是加入课程的链接— [*面向初学者的 Java 单元测试(JUnit 5)*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjunit5-for-beginners%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjunit5-for-beginners%2F) [## 面向初学者的 Java 单元测试:JUnit 5 适合您的第一份 it 工作
-
-### 如果你想申请 Java 开发人员的第一份工作，但以前从未编写过单元测试——这是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjunit5-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjunit5-for-beginners%2F>  
 
 ## 8.[使用 Java、JUnit 和 Mockito 进行即时测试驱动开发](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F)
 
@@ -127,11 +111,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以下是加入课程的链接— [*TDD 与 Java、JUnit 和 Mockito*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F) [## 使用 Java、JUnit 和 Mockito 进行即时测试驱动开发
-
-### 本课程将通过即时演示、深入探讨等方式，让您迅速掌握 JUnit 和 TDD
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstant-test-driven-development-with-junit%2F>  
 
 ## [9。用 Java 构建自动化框架](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcucumber-tutorial%2F)
 
@@ -139,21 +119,13 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 本课程的覆盖面令人惊讶，并且每个概念都有一个实践环节，这是本课程最精彩的部分。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcucumber-tutorial%2F) [## 用 Java——用更少的代码构建自动化框架
-
-### 一步一步黄瓜 BDD 的方法来设计功能强大的测试框架(硒，应用程序，应用程序接口)与非常少的代码
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcucumber-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcucumber-tutorial%2F>  
 
 ## [10。带 Java 的 Selenium WebDriver 从基础到高级+框架](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F)
 
 如果你想在 Java 应用程序中进行自动化测试，这是一门很好的课程。它既详细又全面，涵盖了广泛的主题和工具，如 Maven、Git、Jenkins、TestNG、ANT、Log4j、Cucumber 等等。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) [## 带 Java 的 Selenium WebDriver 从基础到高级+框架
-
-### 课程最后更新于 9 月 3 日，最新的 Selenium 3.14 版本+框架面试问题热情…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fselenium-real-time-examplesinterview-questions%2F>  
 
 以上是一些**最好的 JUnit 和 Mockito 在线培训课程**，你可以参加这些课程来学习和提高你的 Java 单元测试技能。我还为高级测试和自动化提供了一些学习 Mockito、Cucumber 和 Selenium 的课程。
 
@@ -175,8 +147,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 如果你喜欢免费的 Java 课程，这里有一些我已经分享过的:
 
-[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

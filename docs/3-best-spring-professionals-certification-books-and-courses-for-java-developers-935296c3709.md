@@ -44,11 +44,7 @@ Iuliana Cosmina 的 Pivotal Certified Professional Spring Developer 考试的第
 
 你还可以做的一件事就是购买 [**大卫·梅尔的春季模拟考试**](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) ，这将帮助你熟悉考试模式和你在真实考试中可以预期的问题水平。你可以使用这个模拟器来提高你的速度和准确性，以及填补你的知识空白。这也会帮助你找到自己的强项和弱项。
 
-[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 ## 2.[动作中的弹簧](https://www.amazon.com/Spring-Action-Craig-Walls/dp/1617294942?tag=javamysqlanta-20)
 
@@ -64,11 +60,7 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 这也是 Pivotal 推荐的书籍，并在 5.0 版的官方春季认证学习指南和 5.0 版的学习指南中提到。您也可以将这本书与其近亲 [Spring Boot 在行动](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20)相结合，以涵盖 Spring Boot 主题。
 
-[](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20) [## Spring Boot 在行动
-
-### Amazon.com 的 Spring Boot 在行动。*符合条件的优惠可享受免费*运输。Spring Boot 在行动
-
-www.amazon.com](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20) 
+<https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540?tag=javamysqlanta-20>  
 
 ## 3.[探寻 Spring Boot 的面试](https://gumroad.com/l/hrUXKY)
 
@@ -129,11 +121,7 @@ www.amazon.com](https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292
 
 除了这两本书和课程，你还可以购买大卫·迈耶的 [**Spring Web 模拟器**](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 好好准备一下。它包含 400 多个关于各种考试主题的问题，并为您提供急需的练习，以提高您的速度和准确性。
 
-[](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 春季专业实践测试|
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/spring/professional?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 请记住，您需要取得大约 78%的分数才能通过春季认证，即您需要在 90 分钟内正确回答 50 个问题中的 38 个问题。
 
@@ -141,11 +129,7 @@ www.certification-questions.com](https://www.certification-questions.com/practic
 
 Udemy 课程包含 5 个模拟测试，每个测试有 *50 道真题*。我强烈建议您参加本课程，并在真实的考试场景中进行这些测试，以提高第一次通过这一艰难考试所需的速度和准确性。这是链接
 
-[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 2023 年春季专业认证考试 VMware EDU-1202
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 
+<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E>  
 
 以上就是准备 Spring Core 认证的一些**好书。即使是最好的书籍也会很快过时，但谢天谢地，Spring in Action 更新到了 Spring 4，它仍然是准备 Spring Professional V5.0 考试(VMware EDU-1202)的最佳书籍。
 
@@ -173,8 +157,4 @@ www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-qu
 
 **P. S.** —如果你正在寻找一些准备春季专业认证的在线课程，那么我强烈建议你查看 Udemy 上的 [**春季专业认证考试教程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F) 课程。这是一门 8 个模块的课程，回答了官方春季认证考试指南中的每一个问题。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F) [## 春季专业认证考试教程-模块 01
-
-### 容器、依赖项和 IoC
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-certified-tutorial%2F> 

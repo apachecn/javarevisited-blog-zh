@@ -16,11 +16,7 @@
 
 为什么要浪费这么多宝贵的时间？代客钥匙模式为这个问题创造了一个补救措施。
 
-[](https://verbosemode.dev/membership) [## 通过我的推荐链接- Mirco 加入媒体
-
-### 对技术感兴趣吗？订阅 Medium！你的会员费直接支持我和其他作家你…
-
-verbosemode.dev](https://verbosemode.dev/membership) 
+<https://verbosemode.dev/membership>  
 
 客户不再调用你的服务来上传东西。他们只调用您的服务来获得一个具有有限有效性的专用密钥。然后，他们使用此密钥将数据直接上传到存储系统。存储系统必须能够验证密钥是否有效。这样，您的应用程序就不必等待上传。
 
@@ -36,16 +32,4 @@ verbosemode.dev](https://verbosemode.dev/membership)
 
 *想了解更多关于云设计模式的知识吗？看看这些文章:*
 
-[](/javarevisited/fabulous-claim-check-design-pattern-explained-in-just-one-minute-5bac14df0edc) [## 神话般的索赔检查设计模式在短短一分钟内解释完毕
-
-### 不要阻塞你的消息总线。套用这个模式！
-
-medium.com](/javarevisited/fabulous-claim-check-design-pattern-explained-in-just-one-minute-5bac14df0edc) [](/javarevisited/circuit-breaker-pattern-in-30-seconds-79166ddedaed) [## 30 秒后断路器模式
-
-### 不要浪费资源调用死服务。
-
-medium.com](/javarevisited/circuit-breaker-pattern-in-30-seconds-79166ddedaed) [](/javarevisited/4-really-helpful-and-important-cloud-design-patterns-explained-in-short-time-4b087bebb97b) [## 在短时间内解释 4+1 有用且重要的云设计模式
-
-### 迁移到云并不是一项简单的任务。你必须将旧的服务分解成新的…
-
-medium.com](/javarevisited/4-really-helpful-and-important-cloud-design-patterns-explained-in-short-time-4b087bebb97b)
+</javarevisited/fabulous-claim-check-design-pattern-explained-in-just-one-minute-5bac14df0edc>  </javarevisited/circuit-breaker-pattern-in-30-seconds-79166ddedaed>  </javarevisited/4-really-helpful-and-important-cloud-design-patterns-explained-in-short-time-4b087bebb97b> 

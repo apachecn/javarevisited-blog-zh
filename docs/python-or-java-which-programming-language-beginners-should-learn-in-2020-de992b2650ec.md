@@ -18,11 +18,7 @@ Java 和 Python 是当今最流行和最有影响力的两种编程语言。初�
 
 谢天谢地，我们有一个信息图，它突出了 Python 和 Java 之间的一些重要的**区别**，我相信在看了这个信息图之后，你将能够决定从哪种编程语言开始。如果你已经下定决心学习 Java，那么由 Tim Buchalaka 在 Udemy 上开设的 Java 大师班课程是一个很好的开始。它不仅是最新的课程，涵盖了最近版本的最新 Java 特性，而且是最全面、结构最合理的课程，使学习变得简单。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 10 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # Python 还是 Java？2023 年初学者用哪种编程语言最好？[信息图表]
 
@@ -70,12 +66,4 @@ Python shell 可以直接解释 Python 命令，这对于程序员来说意味�
 
 感谢您阅读本文。如果你喜欢这篇文章，那么请分享给你的朋友和同事。如果您有任何问题或反馈，请留言。
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2023 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2023 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  <https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

@@ -131,7 +131,7 @@ public void reindeerNameGame2()
 
 *这个方法在 [Eclipse Collections 9.0](/@donraab/nine-features-in-eclipse-collections-9-0-a2ca97dfdf74) 中变得可用(查看第 3 项以获得与以前版本的比较)。第三种解决方案是最简单的。我使用方法`[countBy](https://www.eclipse.org/collections/javadoc/9.0.0/org/eclipse/collections/api/RichIterable.html#countBy-org.eclipse.collections.api.block.function.Function-)`，该方法可用于 Eclipse 集合中扩展`[RichIterable](https://www.eclipse.org/collections/javadoc/9.0.0/org/eclipse/collections/api/RichIterable.html)`的类型。*
 
-*最后，我用`[Stream](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)` [](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)搭配`[Collectors.groupingBy](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)`和`[Collectors.counting](https://www.java67.com/2014/04/java-8-stream-examples-and-tutorial.html)` ，这样就产生了`Integer`到`Long`的`Map`。*
+*最后，我用`[Stream](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)` </javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38>搭配`[Collectors.groupingBy](/javarevisited/7-best-java-collections-and-stream-api-courses-for-beginners-in-2020-3ad18d52c38)`和`[Collectors.counting](https://www.java67.com/2014/04/java-8-stream-examples-and-tutorial.html)` ，这样就产生了`Integer`到`Long`的`Map`。*
 
 ```
 **/**

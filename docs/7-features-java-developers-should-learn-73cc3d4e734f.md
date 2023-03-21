@@ -228,8 +228,4 @@ This **is** line 3.
 
 ****P. S. —** 如果您是 Java 世界的新手，并且想在学习这些高级框架之前掌握核心 Java，那么我建议您查看这些 [**学习核心 Java 的最佳课程**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 以提升您的技能并掌握基础知识。**
 
-**[](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html) [## 2023 年供初学者在线学习的 5 大 Java 编程课程——最好的
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)**
+**<https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html> **

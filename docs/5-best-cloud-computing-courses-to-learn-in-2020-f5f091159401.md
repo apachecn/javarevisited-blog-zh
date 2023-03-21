@@ -78,11 +78,7 @@
 
 *所以，如果你有 [**复数会员**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，这个课程就是为你准备的。如果你没有会员资格，它是值得的，因为你只需每月 29 美元或每年 299 美元就可以获得近 6000 多门顶级课程。如果你想尝试，你也可以通过参加他们的 [**10 天免费试用**](https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html) 来免费获得这门课程。*
 
-*[](https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html) [## 2023 年 Java 和 Web 开发人员需要学习的 10 大 Pluralsight 课程——最棒的
-
-### 从上周开始，我一直在分享我的 2023 年学习目标，以及 Java 程序员在 2023 年应该学些什么，但是我…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html)* 
+*<https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html> * 
 
 ## *4.[云计算入门—第 1 级](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgetting-started-with-cloud-computing-level-1%2F) [Udemy]*
 
@@ -146,11 +142,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/12/top-10-pl
 
 *顺便说一句，如果你觉得 Coursera 课程和专业有用，那么你也应该加入 Coursera Plus ，这是 Coursera 的一个订阅计划，为你提供无限制的访问**他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但是它完全物有所值，因为你得到了*无限证书****
 
-*[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+*<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是关于学习云计算的一些最好的在线课程。没有比今天更好的学习云计算的时间了，我建议每个程序员学习并熟悉云计算，因为无论你在做什么，你的工作都会受到云的影响，如果你现在不注意，你将来就会落后。
 
@@ -179,8 +171,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——如果你是云计算和 AWS 的新手，正在寻找一些学习亚马逊 Web 服务的免费课程，那么你也可以查看一下这个为初学者提供的 [**免费 AWS 课程列表**](http://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html) 。
 
-[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)*
+</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> *

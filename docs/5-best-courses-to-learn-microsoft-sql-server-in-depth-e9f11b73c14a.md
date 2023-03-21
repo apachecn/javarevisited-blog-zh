@@ -70,11 +70,7 @@
 
 或者，Pluralsight 还提供了 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 和 200 分钟免费观看时间，足以免费接入并完成本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[微软 SQL Server Reporting Services(SSRS)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-server-reporting-services-ssrs%2F)
 
@@ -126,8 +122,4 @@ Microsoft SQL Server Reporting Services 或 SSRS 是 SQL Server 最重要的功�
 
 **P. S.** —如果您是 SQL 和数据库的新手，并且希望在深入了解 PostgreSQL 之前学习数据库基础知识和 SQL 基础知识，那么您也可以在 Udemy 上查看这个 [**Microsoft SQL Server —简介**](http://bit.ly/2DpaKnJ) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](http://bit.ly/2DpaKnJ) [## 免费微软 SQL 教程-微软 SQL Server -简介(2018 版)
-
-### Phillip 是一名计算机顾问，在计算机系统开发和数据分析方面提供专家服务
-
-bit.ly](http://bit.ly/2DpaKnJ)
+<http://bit.ly/2DpaKnJ> 

@@ -23,11 +23,7 @@
 
 # 相关重构
 
-[](/javarevisited/refactoring-007-extract-class-5b0b5960d0e7) [## 重构 007 —提取类
-
-### 行为在整个系统中重复。但是我们忽略了一个概念
-
-medium.com](/javarevisited/refactoring-007-extract-class-5b0b5960d0e7) 
+</javarevisited/refactoring-007-extract-class-5b0b5960d0e7>  
 
 # 语境
 
@@ -73,27 +69,7 @@ public class Printer {
 
 # 关系
 
-[](https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0) [## 代码气味 124 —不同的变化
-
-### 你在课堂上改变了一些东西。你在同一个类中改变一些不相关的东西
-
-mcsee.medium.com](https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0) [](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19) [## 代码气味 143 —数据块
-
-### 有些物体总是在一起。我们为什么要分开他们？
-
-levelup.gitconnected.com](https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19) [](https://blog.devgenius.io/code-smell-94-too-many-imports-e8f44986db2) [## 代码气味 94 —太多导入
-
-### 如果你的类依赖别人太多，就会耦合，脆弱。长长的进口清单是一个很好的指标。
-
-blog.devgenius.io](https://blog.devgenius.io/code-smell-94-too-many-imports-e8f44986db2) [](https://blog.devgenius.io/code-smell-22-helpers-1d5057137ddb) [## 代码气味 22 —助手
-
-### 你需要帮助吗？你要给谁打电话？
-
-blog.devgenius.io](https://blog.devgenius.io/code-smell-22-helpers-1d5057137ddb) [](https://blog.devgenius.io/code-smell-34-too-many-attributes-2df68c7db040) [## 代码味道 34 —属性太多
-
-### 一个类定义了具有许多属性的对象。
-
-blog.devgenius.io](https://blog.devgenius.io/code-smell-34-too-many-attributes-2df68c7db040) 
+<https://mcsee.medium.com/code-smell-124-divergent-change-48825bcc74d0>  <https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19>  <https://blog.devgenius.io/code-smell-94-too-many-imports-e8f44986db2>  <https://blog.devgenius.io/code-smell-22-helpers-1d5057137ddb>  <https://blog.devgenius.io/code-smell-34-too-many-attributes-2df68c7db040>  
 
 # 更多信息
 
@@ -116,16 +92,8 @@ blog.devgenius.io](https://blog.devgenius.io/code-smell-34-too-many-attributes-2
 
 杰拉尔德·温伯格
 
-[](https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782) [## 软件工程名言
-
-### 有时一个简短的想法可以带来惊人的想法。
-
-blog.devgenius.io](https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782) 
+<https://blog.devgenius.io/software-engineering-great-quotes-3af63cea6782>  
 
 本文是 CodeSmell 系列的一部分。
 
-[](https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c) [## 如何找到你的代码中有问题的部分
-
-### 代码很难闻。让我们看看如何改变香味。
-
-blog.devgenius.io](https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c)
+<https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c> 

@@ -115,8 +115,4 @@ gceasy 报告的快照示例
 
 如果你需要复习一下[垃圾收集](/javarevisited/7-best-courses-to-learn-jvm-garbage-collection-and-performance-tuning-for-experienced-java-331705180686)，请参考我以前的博客
 
-[](/javarevisited/jvm-garbage-collection-basics-edce6791ae98) [## JVM 垃圾收集基础知识
-
-### 了解 JVM 垃圾收集和每种收集器算法背后的机制与…
-
-medium.com](/javarevisited/jvm-garbage-collection-basics-edce6791ae98)
+</javarevisited/jvm-garbage-collection-basics-edce6791ae98> 

@@ -68,11 +68,7 @@ Spring Framework 是最流行的、几乎是开发 java 应用程序的标准框
 
 如果你喜欢在亚马逊上购物，那么这本书现在也可以在亚马逊 Kindle 上预购，如果你喜欢从亚马逊订购，那么你可以使用这个链接— [**在亚马逊上搜索 Spring Boot 访谈**](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)
 
-[](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) [## 苦读 Spring Boot 的采访
-
-### Spring Boot 访谈- Kindle 版。下载一次，然后在你的 Kindle 设备上阅读…
-
-www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) 
+<https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20>  
 
 这本书触及了所有这些主题，并有问题来测试你对这些主题的了解。您可以使用这些问题快速修改那些基本的 Spring 概念，也可以使用这些问题进一步探索 [Spring 框架](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25)和 [Spring Boot](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e?source=---------39------------------) 。
 
@@ -286,11 +282,7 @@ www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)
 
 ****顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这个课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**** 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> **** 
 
 ****这就是为 Java 和 Spring 开发者面试准备的**基本主题**。为了通过 Java 开发人员面试，你还应该了解基本的 Java 框架，比如 Spring、Spring Boot 和 Hibernate。****
 
@@ -309,8 +301,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ****如果你的目标是今年的春季认证，那么你也可以在 Udemy 上参加我的 [**春季认证实践课程**](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 。它包含 5 个全程考试的 250 多个高质量练习题，以测试您在真实考试中的知识。****
 
-****[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 2023 年春季专业认证考试 VMware EDU-1202
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E)****
+****<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E> ****

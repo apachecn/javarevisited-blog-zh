@@ -30,39 +30,23 @@ Java 社区给了我这么多的爱，我真的很感激，我觉得我也应该
 
 感谢 John Selawsky[成为 Javarevisited 社区的一员，并保持这些优秀的作品不断出现。](https://medium.com/u/390a59d672a2?source=post_page-----7648edd18a22--------------------------------)
 
-[](/javarevisited/10-deadly-mistakes-to-avoid-when-learning-java-aead894e64f4) [## 学习 Java 时要避免的 10 个致命错误
+</javarevisited/10-deadly-mistakes-to-avoid-when-learning-java-aead894e64f4>  
 
-### 编码还是不编码？看来你已经做出了选择，支持第一个选项。编程是一个伟大的…
+顺便说一句，如果你正在学习 Java，我也建议你参加 Udemy 上的<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>**完整的 Java 大师班，这是学习 Java 的最好和最新的课程之一。**
 
-medium.com](/javarevisited/10-deadly-mistakes-to-avoid-when-learning-java-aead894e64f4) 
-
-顺便说一句，如果你正在学习 Java，我也建议你参加 Udemy 上的[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**完整的 Java 大师班，这是学习 Java 的最好和最新的课程之一。**
-
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 17 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> ** 
 
 # **2.直升机借助 GraalVM 飞得更快 [Dmitry Kornilov](https://medium.com/u/6026f9734714?source=post_page-----7648edd18a22--------------------------------)**
 
 **您是否一直想了解更多关于 Java 10[中引入的 GraalVM 的信息，但却一直没有机会看到一些真实的东西，这里有一篇有趣的文章:](https://javarevisited.blogspot.sg/2018/03/java-10-released-10-new-features-java.html#axzz5ALJyiIAt)**
 
-**[](/oracledevs/helidon-flies-faster-with-graalvm-eea85287d2dc) [## 直升机用 GraalVM 飞得更快
-
-### GraalVM 是由 Oracle 实验室开发的开源、高性能、多语言虚拟机。GraalVM 提供多种…
-
-medium.com](/oracledevs/helidon-flies-faster-with-graalvm-eea85287d2dc)** 
+**</oracledevs/helidon-flies-faster-with-graalvm-eea85287d2dc> ** 
 
 # **3.Jim 为 Java 开发人员提供的学习清单**
 
 **Java 开发人员学习 Java、 [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20) 、Gradle、Hadoop、Java EE 和 Jetty 的绝佳学习清单。如果您想了解在 Java 中应该学习什么，以及这篇文章可以如何帮助您。**
 
-**[](/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5) [## Java 开发人员的学习清单
-
-### 大约六年前，我成为了一名 Java 开发人员。虽然我不能说是每天，但我确实非常喜欢我的工作…
-
-medium.com](/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5) 
+**</@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5>  
 
 # 4.学习 Java 编程的必读书籍
 
@@ -72,11 +56,7 @@ medium.com](/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5)
 
 如果你真的想提高你的 Java 知识，并想成为每个公司都想成为的 Java 开发专家，这些是你应该读的书:
 
-[](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f) [## 学习 Java 编程的必读书籍
-
-### 必读的 Java 编程书籍清单，它帮助我成为一名更好的 Java 程序员。
-
-medium.freecodecamp.org](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f) 
+<https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f>  
 
 # 5.如何(以及为什么)用 Java 编写 equals()和 hashCode ()
 
@@ -86,21 +66,13 @@ Equals 和 hashCode 是最重要的核心 Java 概念之一，我相信每个 Ja
 
 到目前为止， [Effective Java 的建议](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/?tag=javamysqlanta-20)是我读过的关于这个主题的最好的一篇，但是这篇文章在深入探讨这个问题方面也做得很好。干得好[米科拉·舒门](https://medium.com/u/8f7b4aa5f2d1?source=post_page-----7648edd18a22--------------------------------)和伟大的工作[接下来](https://medium.com/u/5db23d2304f9?source=post_page-----7648edd18a22--------------------------------)发表这篇文章。
 
-[](https://itnext.io/how-and-why-to-cook-equals-and-hashcode-in-java-c108fd5b17dd) [## 如何(以及为什么)在 Java 中编写 equals()和 hashCode()
-
-### 你好。
-
-itnext.io](https://itnext.io/how-and-why-to-cook-equals-and-hashcode-in-java-c108fd5b17dd) 
+<https://itnext.io/how-and-why-to-cook-equals-and-hashcode-in-java-c108fd5b17dd>  
 
 # 6.Spring Boot 和微服务的发展
 
 我们的新社区成员 [Ajay Kumar S](https://medium.com/u/d6010e1c772d?source=post_page-----7648edd18a22--------------------------------) 撰写的另一篇关于 Spring Boot 和微服务的精彩文章。如果你有兴趣了解 Spring Boot 如何帮助你开发[微服务](https://javarevisited.blogspot.com/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html)，那么你应该阅读这篇文章。
 
-[](/javarevisited/evolution-of-spring-boot-and-microservices-4d1109b5a4d3) [## Spring Boot 和微服务的发展
-
-### 如果你在 5 年或 10 年前开发 web 应用程序，你会欣赏 web 应用程序的进步…
-
-medium.com](/javarevisited/evolution-of-spring-boot-and-microservices-4d1109b5a4d3) 
+</javarevisited/evolution-of-spring-boot-and-microservices-4d1109b5a4d3>  
 
 # 7.在 Java 中是可选的，反模式使用它
 
@@ -108,31 +80,19 @@ Optional 是在 [Java 8](https://medium.freecodecamp.org/these-are-the-best-free
 
 如果你也有同样的情况，请阅读这篇文章，找出如何在 Java 中不使用可选的。
 
-[](/@mervyn.mccreight/optional-in-java-and-anti-patterns-using-it-7d87038362ba) [## 在 Java 和使用它的反模式中是可选的
-
-### 作者:默文·麦克赖特和穆罕默德·艾明·托克
-
-medium.com](/@mervyn.mccreight/optional-in-java-and-anti-patterns-using-it-7d87038362ba) 
+</@mervyn.mccreight/optional-in-java-and-anti-patterns-using-it-7d87038362ba>  
 
 # 8.Spring Boot 和春天云的微服务。从配置服务器到 OAuth2 服务器(没有内存内容)—第 1 部分，作者:Marcus Hert Da corégio
 
 这是一篇由两部分组成的文章，将教你如何使用 [Spring Boot](http://www.java67.com/2018/06/5-best-courses-to-learn-spring-boot-in.html) 、 [Spring Cloud](https://javarevisited.blogspot.com/2018/04/top-5-spring-cloud-courses-for-java.html) 和 [MongoDB](https://javarevisited.blogspot.com/2019/01/top-5-mongodb-online-training-courses.html) 构建一个工作应用，在微服务架构中创建用户并认证/授权用户和客户端。
 
-[](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12) [## Spring Boot 和春天云的微服务。
-
-### 介绍
-
-itnext.io](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12) 
+<https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12>  
 
 # 9.Spring Boot 和春天云的微服务。从配置服务器到 OAuth2 服务器(没有内存方面的东西)——第 2 部分作者 [Marcus Hert Da Corégio](https://medium.com/u/5cfb26e8714b?source=post_page-----7648edd18a22--------------------------------)
 
 这是上述文章的第二部分，介绍了如何构建 auth 服务
 
-[](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7) [## Spring Boot 和春天云的微服务。
-
-### 介绍
-
-itnext.io](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7) 
+<https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7>  
 
 # 10.由 Kapila nishan tha[开发的带有 Eureka 服务器的春季启动微服务](https://medium.com/u/df74cbbfbe04?source=post_page-----7648edd18a22--------------------------------)
 
@@ -140,19 +100,11 @@ itnext.io](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f
 
 在本文中，您将学习如何使用 Spring boot 编写 java 微服务，以及如何使用 Eureka service discovery server 在这些微服务之间进行相互通信。
 
-[](/@kapilanishantha/spring-boot-microservices-with-eureka-server-5e3585a97f2) [## 使用 Eureka 服务器的 Spring boot 微服务
-
-### 当今最热门的话题之一是微服务架构。微服务可以用 Nodejs，Java，Python 写…
-
-medium.com](/@kapilanishantha/spring-boot-microservices-with-eureka-server-5e3585a97f2) 
+</@kapilanishantha/spring-boot-microservices-with-eureka-server-5e3585a97f2>  
 
 而如果想了解更多关于 Spring Boot 和春云的知识，还可以在 Udemy 上查看[**大师微服务与 Spring Boot 和春云**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 课程。这方面比较好的课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想和 Spring Boot 一起学习构建令人惊奇的 REST API 吗？你想了解微服务的宣传吗…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F>  
 
 伙计们，这些是我本周在 [Medium](https://medium.com/u/504c7870fdb6?source=post_page-----7648edd18a22--------------------------------) 上为 Java 开发人员找到的一些最好的文章。如果你喜欢我的策展，我可能会在未来继续这类文章。
 

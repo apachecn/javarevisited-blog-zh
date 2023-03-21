@@ -107,8 +107,4 @@ JavaScript 是一种高级编程语言，它可以让你在网站上添加很多
 
 **P. S. —** 如果你是 web 开发新手，正在寻找一个免费的在线培训课程来学习 web 开发，那么你也可以看看 Udemy 的这个[**Web Development By do:HTML/CSS From Scratch[FREE]**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F)课程。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F) [## 免费 HTML 教程- Web 开发实践:HTML / CSS 从头开始
-
-### 在作为餐厅经理每天工作 15 个小时后，我决定是时候改变一下了。学完基础…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F> 

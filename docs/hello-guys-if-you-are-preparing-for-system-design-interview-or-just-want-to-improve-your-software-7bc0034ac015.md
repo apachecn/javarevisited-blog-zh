@@ -205,8 +205,4 @@ YouTube 上的这个免费系统设计课程涵盖了理解系统设计基础所
 
 或者，你也可以加入 Alex Yu 的 [*系统设计面试——知情者指南*](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) 和 ByteByteGo，进行完整的系统设计面试准备。
 
-[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)
+<https://bytebytego.com?fpr=javarevisited> 

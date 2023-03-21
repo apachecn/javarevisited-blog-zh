@@ -63,7 +63,7 @@
 *   同样的道理也适用于 **JSON** ，例如:[https://foojay.social/@frankdelporte.json](https://foojay.social/@frankdelporte.json)
 *   是不是关注的人太多了？你想把你的乳齿象家庭时间线组织成几个更容易导航的主题迷你时间线吗？你可以在乳齿象上使用“**列表**功能来完成这项工作，这里有一个关于它的指南。
 *   蒂姆·赫顿创造了一个 [Python 工具](https://mathstodon.xyz/@timhutton/109316834651128246)来更容易地处理你的 **Twitter 档案**。
-*   看看 Marc R. Hoffmann 在 javabubble.org[](https://javabubble.org/)**创建的列表，跟踪所有在 Twitter、Mastodon 和 GitHub 上分享 Java 知识的人。如果你想开始关注这些人，这是一个很好的起点。并且可以通过 [GitHub 项目](https://github.com/marchof/javabubble)添加自己或他人。**
+*   看看 Marc R. Hoffmann 在 javabubble.org<https://javabubble.org/>**创建的列表，跟踪所有在 Twitter、Mastodon 和 GitHub 上分享 Java 知识的人。如果你想开始关注这些人，这是一个很好的起点。并且可以通过 [GitHub 项目](https://github.com/marchof/javabubble)添加自己或他人。**
 *   **如果你想同时使用推特和乳齿象，并且自动地从一个到另一个交叉发布你的信息，看看这个项目。**
 
 # **我们能处理什么？**

@@ -76,7 +76,7 @@ Java 库是包含属于某一类别的类或接口的包。这些类和接口包
 
 ****在 **J** [**SON 解析**](https://javarevisited.blogspot.com/2018/02/how-to-parse-json-with-date-field-in-java-jackson-example.html#axzz5Xl8EXHhY) **，**接收到的 JSON 数据被读取，然后被解释为 list 对象，以用户友好的方式呈现给最终用户。****
 
-****虽然 JDK 没有内置的 JSON 库，但是你可以使用第三方库，比如[](https://github.com/FasterXML/jackson)****，**[**Gson**](https://github.com/google/gson)**，**[**JSON . simple**](https://code.google.com/archive/p/json-simple/)**，**[**JSON parser**](https://javaee.github.io/javaee-spec/javadocs/javax/json/stream/JsonParser.html)**，**[**Genson**最适合你的项目必须由你来决定。****](http://genson.io/)******
+****虽然 JDK 没有内置的 JSON 库，但是你可以使用第三方库，比如<https://github.com/FasterXML/jackson>****，**[**Gson**](https://github.com/google/gson)**，**[**JSON . simple**](https://code.google.com/archive/p/json-simple/)**，**[**JSON parser**](https://javaee.github.io/javaee-spec/javadocs/javax/json/stream/JsonParser.html)**，**[**Genson**最适合你的项目必须由你来决定。****](http://genson.io/)******
 
 ****[这里的](https://blog.overops.com/the-ultimate-json-library-json-simple-vs-gson-vs-jackson-vs-json/)可以帮助你选择最适合你的项目的库。****
 

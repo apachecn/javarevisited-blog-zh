@@ -41,8 +41,4 @@ lettersList.stream();
 
 代码可在此处找到:
 
-[](https://github.com/forfireonly/MediumArticlesJava) [## forfireonly/MediumArticlesJava
-
-### 在 GitHub 上创建一个帐户，为 forfireonly/MediumArticlesJava 开发做贡献。
-
-github.com](https://github.com/forfireonly/MediumArticlesJava)
+<https://github.com/forfireonly/MediumArticlesJava> 

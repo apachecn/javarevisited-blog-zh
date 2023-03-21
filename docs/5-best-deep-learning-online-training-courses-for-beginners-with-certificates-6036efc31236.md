@@ -16,11 +16,7 @@
 
 我的机器学习之旅始于几年前，当时我在 Coursera 上偶然看到了吴恩达优秀的 [**机器学习课程**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)；这也是 Coursera 的第一门课程，因为吴恩达也是 Coursera 的创始人之一。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) [## 监督机器学习:回归和分类
-
-### 在机器学习专业化的第一门课程中，您将:*使用…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning>  
 
 除了课程之外，安德鲁还启发我学习机器学习和人工智能，从那以后，每当我阅读他在 Medium 上推出的深度学习课程时，我总是很兴奋地想了解更多关于这个领域的知识。
 
@@ -30,11 +26,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你是机器学习新手，那么就不要从这些课程开始；最好的起点还是 Coursera 上的[吴恩达原创的机器学习课程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning)。上完那门课，你要去查这些高级课程，深入学习神经网络和深度学习。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) [## 监督机器学习:回归和分类
-
-### 在机器学习专业化的第一门课程中，您将:*使用…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning>  
 
 # 面向初学者的 5 门最佳深度学习在线课程
 
@@ -97,11 +89,7 @@ Andrew 遵循自下而上的方法，这意味着您将从最小的组件开始�
 
 而且，如果你觉得 Coursera 课程、专业和认证有用，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个伟大的订阅计划，让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书**。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[fast . ai 针对编码员的实用深度学习](https://course.fast.ai/)
 
@@ -129,11 +117,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 你可以使用这些课程和在线培训中的任何一种来学习深度学习，但我强烈推荐你查看吴恩达和他的团队在 Coursera** 上的 [**深度学习专业化。这是迄今为止最全面的深度学习资源。**](https://javarevisited.blogspot.com/2020/10/deep-learning-specilization-andrew-ng-coursera-review.html)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) [## 深度学习
-
-### 从 deeplearning.ai 学习深度学习，如果你想打入人工智能(ai)，这个专精…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning>  
 
 如果您喜欢这篇文章，您可能也会喜欢我的其他 Python、数据科学和机器学习文章:
 
@@ -156,8 +140,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你喜欢从免费资源中学习，那么你也可以看看这份为数据科学家和程序员提供的 [**5 种免费资源学习机器学习**](https://www.java67.com/2018/09/top-5-free-R-programming-courses-for-Data-Science-Machine-Learning-Programmers.html) 。它包含一些来自 Udemy、Coursera、Pluralsight 和其他学习 ML 的地方的免费在线课程。
 
-[](/javarevisited/10-free-deep-learning-courses-for-beginners-37b5de61f8dc) [## 2023 年面向初学者的 10 门免费深度学习课程
-
-### 我最喜欢的免费在线课程，从零开始学习深度学习和神经网络。该列表包括最好的免费…
-
-medium.com](/javarevisited/10-free-deep-learning-courses-for-beginners-37b5de61f8dc)
+</javarevisited/10-free-deep-learning-courses-for-beginners-37b5de61f8dc> 

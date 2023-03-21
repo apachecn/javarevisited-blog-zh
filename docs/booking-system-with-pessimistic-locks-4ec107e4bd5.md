@@ -70,16 +70,4 @@
 
 您可能喜欢的其他 **Java 并发和多线程文章和资源**
 
-[](/javarevisited/8-best-multithreading-and-concurrency-courses-for-experienced-java-developers-8acfd3b25094) [## 2021 年 10 大最佳 Java 多线程和并发课程
-
-### 这些是学习 Java 中多线程和并发的最佳课程。1 是免费的
-
-medium.com](/javarevisited/8-best-multithreading-and-concurrency-courses-for-experienced-java-developers-8acfd3b25094) [](/javarevisited/6-multithreading-and-concurrency-books-every-java-programmer-should-read-b6a08d2aae54) [## 每个 Java 程序员都应该阅读的 6 本多线程和并发性书籍
-
-### 伙计们，你们可能知道书籍对于学习新事物是必不可少的，尽管身处电子时代…
-
-medium.com](/javarevisited/6-multithreading-and-concurrency-books-every-java-programmer-should-read-b6a08d2aae54) [](https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz6hX6XfwBD) [## 经验丰富的 50 个 Java 线程面试问题答案
-
-### 你去参加任何一个 Java 面试，无论是大四还是大三，无论是有经验的还是大一新生，你肯定会看到一些来自…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz6hX6XfwBD)
+</javarevisited/8-best-multithreading-and-concurrency-courses-for-experienced-java-developers-8acfd3b25094>  </javarevisited/6-multithreading-and-concurrency-books-every-java-programmer-should-read-b6a08d2aae54>  <https://javarevisited.blogspot.com/2014/07/top-50-java-multithreading-interview-questions-answers.html#axzz6hX6XfwBD> 

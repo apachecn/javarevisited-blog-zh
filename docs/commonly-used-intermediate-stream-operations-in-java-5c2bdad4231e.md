@@ -4,7 +4,7 @@
 
 ## Java 流中间操作的例子
 
-> 最初发表于[](https://asyncq.com/how-to-use-java-8-streams-skip-and-limit-operation)
+> 最初发表于<https://asyncq.com/how-to-use-java-8-streams-skip-and-limit-operation>
 
 **![](img/eb7c17d878fa22529b04624ad6e04a24.png)**
 

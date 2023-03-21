@@ -20,11 +20,7 @@
 
 如果你想成为一名[全栈 web 开发人员](https://dev.to/javinpaul/top-10-advanced-courses-for-full-stack-java-developers-kop)，你必须了解前端和后端技术，因此我强烈建议即使是 Java 开发人员也要学习 [Angular](/javarevisited/10-courses-to-learn-angular-for-web-development-6da1bd2856dc) 或 [React](/javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f) ，这是脸书支持的另一个类似的框架。这也是我列出的 Java 开发人员应该在 2023 年学习的事情
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 # 10 个最适合初学者的免费在线课程
 
@@ -46,7 +42,7 @@ medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c
 
 **而且，如果你更喜欢书本而不是在线课程，或者想把马克斯的课程和书本结合起来，那么我强烈推荐你看看内特·默里、费利佩·库里、阿里·勒纳和卡洛斯·塔沃尔达的电子书。**
 
-**这是一本关于角度的深入、完整和最新的书，受到角度专家的强烈推荐。如果你想检查，你可以在这里免费下载第一章[](https://gumroad.com/a/221148275/FlvVl)**。****
+**这是一本关于角度的深入、完整和最新的书，受到角度专家的强烈推荐。如果你想检查，你可以在这里免费下载第一章<https://gumroad.com/a/221148275/FlvVl>**。****
 
 ****[![](img/235c29e2f25a95089031c34fa857f031.png)](https://gumroad.com/a/221148275/FlvVl)****
 
@@ -86,11 +82,7 @@ medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c
 
 ****顺便说一句，这个课程并不是真正免费的，因为你需要**一个** [**Pluralsight 会员**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，但是 Pluralsight 确实提供了一个 **10 天的免费试用期**，这足以完成这个课程。通过这种方式，你不仅可以获得那门课程，还可以获得角度基础知识，这是另一门免费学习角度的好课程。****
 
-****[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**** 
+****<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> **** 
 
 ## ******5。** [前端 JavaScript 框架:Angular](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fangular)【Coursera】****
 
@@ -112,11 +104,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 ****这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书。****
 
-****[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**** 
+****<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **** 
 
 ## ****6. [Angular 和 Laravel 认证和密码重置。](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fangular-laravel-single-page-app-with-authentication-and-password-reset%2F)****
 
@@ -193,11 +181,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 ******p . s .**——如果你不介意花几块钱学习 Angular 这样有价值的东西，那么你也可以在 Udemy **上查看 Max 的[**Angular——完整指南**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F) 课程。**这是深入学习 Angular 的综合和最新课程之一。****
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F) [## 主角度 9(以前的角度 2):完整的课程
-
-### 掌握 Angular 9(以前的“Angular 2”)并使用 Angular.js 的继任者构建出色的反应式 web 应用程序
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F) 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fthe-complete-guide-to-angular-2%2F>  
 
 如果你更喜欢书本而不是网络课程，或者想把马克斯的课程和书本结合起来，那么我强烈推荐你看看内特·默里、菲利普·库里、阿里·勒纳和卡洛斯·塔沃尔达的电子书。这是一本关于 Angular13 的深入、完整、最新的书，被 Angular 专家强烈推荐。如果你想检查，你可以在这里免费下载第一章。
 

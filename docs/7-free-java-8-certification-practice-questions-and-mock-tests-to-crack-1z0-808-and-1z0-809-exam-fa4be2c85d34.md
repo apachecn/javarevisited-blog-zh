@@ -27,7 +27,7 @@ Whizlabs 以质量著称，因为我在准备 SCJP 考试时亲自用过，所�
 
 **我强烈推荐你购买 Whizlabs 模拟器，但是如果你不能或者你想自己评估质量，你可以看看这些 Java 8 认证问题的样本。**
 
-**此外，如果您喜欢 Whizlabs 问题和解释的质量，并发现他们的考试模拟器非常有用或有助于准备，那么您还可以从他们的网站上购买 Java SE 8 考试模拟器的完整版本[](http://shrsl.com/?g0ce)*，其中包含 650 多个问题和详细的解释。***
+**此外，如果您喜欢 Whizlabs 问题和解释的质量，并发现他们的考试模拟器非常有用或有助于准备，那么您还可以从他们的网站上购买 Java SE 8 考试模拟器的完整版本<http://shrsl.com/?g0ce>*，其中包含 650 多个问题和详细的解释。***
 
 ***[![](img/28308d0bb019cc1bd33acb6713738048.png)](http://shrsl.com/?g0ce)***
 
@@ -116,8 +116,4 @@ MyExamCloud OCAJP 8(考试代码 1z 0–808)练习模拟考试是一个在线考
 
 **P.S. —** 如果您正在寻找为 Java SE 8 认证做准备的课程，那么 [**Oracle Java 认证—通过准 1z 0–808 考试**！从 Udemy 开始是个好地方。它解释了 OCAJP 8 考试所需的 Java 8 的新特性。](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F)***
 
-***[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F) [## Oracle Java 认证(通过助理 1Z0-808 考试)
-
-### 你已经学了一些 Java，但还在努力争取面试机会，更别说找工作了。或者你陷入了低薪…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F)***
+***<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracle-java-associate-certification-exam-course-1z0-808%2F> ***

@@ -4,7 +4,7 @@
 
 ## 使用 ObjectMapper 在 Java 中读取嵌套的 JSON 对象
 
-> 最初发表于[](https://asyncq.com/how-to-read-nested-json-data-in-java)
+> 最初发表于<https://asyncq.com/how-to-read-nested-json-data-in-java>
 
 **[![](img/39d6f92683b706d7da80e5ab930391ea.png)](https://javarevisited.blogspot.com/2013/02/how-to-convert-json-string-to-java-object-jackson-example-tutorial.html)**
 

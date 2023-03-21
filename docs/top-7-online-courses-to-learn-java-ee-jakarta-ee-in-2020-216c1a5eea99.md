@@ -102,11 +102,7 @@ Java EE 是一个 Java 技术和 API 的集合，旨在支持“企业”应用�
 
 以下是加入本课程的链接— [**雅加达 EE 快速入门课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjakarta-ee-formerly-java-ee-quick-start-course%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjakarta-ee-formerly-java-ee-quick-start-course%2F) [## 雅加达 EE(原爪哇 EE)快速入门课程
-
-### 警告:如果你不想在 2019 年开始你的企业 Java 开发生涯，请不要参加本课程！什么…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjakarta-ee-formerly-java-ee-quick-start-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjakarta-ee-formerly-java-ee-quick-start-course%2F>  
 
 ## 7.[Java EE 8 的新特性](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-ee-8-whats-new)
 
@@ -139,8 +135,4 @@ Java EE 8 带来了一些非常酷的特性，比如 Servlet 4.0 API、HTTP 2.0 
 
 **P.S. —** 如果你正在寻找一些免费的课程以 Java EE 概念开始，你应该看看我的列表[免费 Servlet 和 JSP 课程](http://www.java67.com/2018/02/5-free-servlet-jsp-and-jdbc-online-courses-for-java-developers.html)。
 
-[](/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63) [## 2023 年学习 Servlet、JSP 和 Java FX 的 6 门免费课程——最好的
-
-### 如果你是一名从事 Java web 应用程序等 Java JEE 项目的 Java 开发人员，或者你想通过…
-
-medium.com](/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63)
+</javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63> 

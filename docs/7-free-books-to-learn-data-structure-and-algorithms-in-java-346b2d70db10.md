@@ -22,11 +22,7 @@ image_credit —教育性
 
 而且，如果你能在学习上花点钱，那么你应该总是去找最好的书或课程，比如 Udemy 上的 [**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 深入学习。它并不贵，因为大多数时候你只需花不到 10 美元就能买到，但无论你将学到什么，都会让你在职业生涯中受益多年。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### 所以你已经掌握了 Java(或另一种面向对象编程语言)中数据结构和算法的基础知识，但是…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 # Java 程序员的 7 本最佳免费数据结构和算法书籍
 
@@ -154,16 +150,8 @@ theparticle.com 的《Java 数据结构》是另一本免费的在线 Java 书�
 
 **附言——**如果你更喜欢在线课程而不是书籍，或者你想将这些书籍与一些免费的在线课程结合起来，那么你也可以查看一下[**Java 数据结构 for Noobs**](http://bit.ly/2hhloDL)——一门免费的 Udemy 课程。你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](http://bit.ly/2hhloDL) [## 免费数据结构教程——面向 Noobs 的 Java 数据结构(精简版)
-
-### 本课程将向您介绍以下数据结构单链表双链表，那么为什么还要…
-
-bit.ly](http://bit.ly/2hhloDL) 
+<http://bit.ly/2hhloDL>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末**](/javarevisited/pluralsight-free-weekend-2020-3e0ff26e7a31) 就在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

@@ -187,16 +187,8 @@ Oracle 是有史以来最流行的关系数据库之一。这个免费课程向�
 
 如果你不介意花点钱学习 Oracle 和 PL/SQL 这样有价值的技能，那么我也推荐你参加 Udemy 上的 [**Oracle PL/SQL 基础第一卷&第二卷**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-plsql-fundamentals-vol-i-ii%2F) 课程。这是一门学习 Oracle 和 PL/SQL 的很好的课程，你可以在每月疯狂的 Udemy 销售中只花 9.99 美元。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-plsql-fundamentals-vol-i-ii%2F) [## Oracle PL/SQL (PLSQL)基础第一卷和第二卷
-
-### PL/SQL 数据库编程语言的完整介绍
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-plsql-fundamentals-vol-i-ii%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-plsql-fundamentals-vol-i-ii%2F>  
 
 **P.P.S. —** 同样，如果你需要学习微软 SQL Server 的综合课程，那么我推荐 [**微软 SQL 初学者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F) ，一门使用微软 SQL Server 和 T-SQL 语言学习 SQL 查询的综合课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F) [## Microsoft SQL Server 和 T-SQL:从初级到高级
-
-### 这是一门综合性课程，教您如何使用 Microsoft SQL Server 和 T-SQL 语言完成 SQL 查询。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-sql-for-beginners%2F> 

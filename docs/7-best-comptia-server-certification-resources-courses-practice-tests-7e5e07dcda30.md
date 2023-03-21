@@ -41,11 +41,7 @@ T5*CompTIA Server+certification*如果你想在这个年薪 6.2 万美元左右�
 
 顺便说一句，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来访问这个课程和以前的课程，费用大约为每月 29 美元或每年 299 美元，但也提供超过 7000 个在线培训课程，以学习最新的技术和通过认证。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 2. [CompTIA 服务器+考试 SK0–004—练习【607 题】](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-server-exam-sk0-004-practice-qa-real-stuff%2F)
 
@@ -79,11 +75,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 顺便说一句，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 29.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn 学习价格|选择学习计划| LinkedIn
-
-### 为 LinkedIn Learning 选择按月付费或按年付费
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.[CompTIA Server+(SK0–004)认证考试模拟测试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomptia-server-sk0-004-certification-exam-practice-test%2F)
 
@@ -168,8 +160,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **P. S.** —如果你是服务器管理新手，正在寻找一门免费的课程来学习服务器部署和管理，那么你也可以在 Udemy 上查看由 Glady Self 开设的 [**Linux 基础知识和创建服务器**](http://bit.ly/2ENywtF) 课程。这是一个免费的课程，你只需要一个 Udemy 帐户就可以参加。
 
-[](http://bit.ly/2ENywtF) [## 免费的服务器管理教程——Linux 基础知识和创建服务器
-
-### 你有没有想过创建自己的网站？IRC 服务器怎么样？或许是许可证服务器？您的后端…
-
-bit.ly](http://bit.ly/2ENywtF)
+<http://bit.ly/2ENywtF> 

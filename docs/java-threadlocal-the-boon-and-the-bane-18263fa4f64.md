@@ -48,11 +48,7 @@
 
 为了缓解这个问题，我们有以下选择。
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) 
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  
 
 # 每条消息的生产者
 
@@ -114,11 +110,7 @@ ThreadLocals 不提供任何清理资源的机会，这可能会导致非常严�
 > 
 > 除非您能够完全控制线程池，并且愿意为保持空闲线程运行付出代价，否则最好避免使用 ThreadLocal 来缓存昂贵的资源。
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) 
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  
 
 # 潜在修复
 

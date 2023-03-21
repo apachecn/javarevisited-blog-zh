@@ -20,11 +20,7 @@
 
 不过，如果你喜欢课程，那么你也可以从 Udemy 上 Maximillian 的 React 16- Complete Guide 课程开始，它不仅包括 React 挂钩，还包括其他基本的 React 概念。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 投入其中，从头开始学习 React.js！学习 Reactjs、Hooks、Redux、React Routing、Animations、Next.js 等等！
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F>  
 
 # JavaScript 是什么？
 
@@ -36,11 +32,7 @@ React 只是众多 [JavaScript (JS)库](/javarevisited/10-of-the-most-popular-ja
 
 而且，如果你想在学习 React.js 之前先学习 JavaScript，那么你可以随时查看 hen，我还建议你查看 [**完整的 JavaScript 课程 2023:构建真正的项目！Jonas Schmedtmann 在 Udemy 上的课程。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-javascript-course%2F)
 
-[](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645) [## 2023 年初学者学习的 14 门最佳 JavaScript 在线课程
-
-### 对于初学者和有经验的 web 开发人员来说，最好的 JavaScript 在线课程值得你花费时间。还有…
-
-medium.com](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645) 
+</javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645>  
 
 # 2023 年初学者学习 React.js 的前 6 本书
 
@@ -62,11 +54,7 @@ medium.com](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af
 
 如果你愿意，你也可以将这本书与 Udemy 上 Maximillian 的[**React 16-完全指南**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 课程结合使用，该课程不仅涵盖了 React 挂钩，还涵盖了其他必要的 React 概念。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 投入其中，从头开始学习 React.js！学习 Reactjs、Hooks、Redux、React Routing、Animations、Next.js 等等！
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F>  
 
 顺便说一句，如果你喜欢这本书，你还可以在这里 免费下载一篇样章 [**。**](http://FullStack React)
 
@@ -88,11 +76,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 如果你愿意，你也可以将这本书与 Coursera 的 [**全栈 Web 开发和 React 专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) 结合起来，在那里你将从零开始学习 React Web 开发。这本书很好地补充了那门课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) [## 使用 React 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react>  
 
 ## 3.[学习 React:使用 React 和 Redux 进行功能性 Web 开发](https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620?tag=javamysqlanta-20)
 
@@ -106,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 而且，如果你需要一门课程来搭配这本书，我强烈推荐 Max 或 Stephen Grider 的[**Modern React With Redux**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-redux%2F)课程，它涵盖了 React 开发人员需要知道的一切，包括钩子。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-redux%2F) [## 现代反应与 Redux 培训课程
-
-### 课程上次更新为 React v16.6.3 和 Redux v4.0.1！所有内容都是全新的！更新包括以下方面的详细视频…
-
-udemyy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-redux%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-redux%2F>  
 
 ## 4.[罗宾·威鲁奇的《反应之路》](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX?tag=javamysqlanta-20)
 
@@ -138,11 +118,7 @@ Mark 为学习型开发人员提供了大量实际操作 React 组件的经验�
 
 Mark 是另一位值得信赖的软件开发人员，拥有丰富的 React 经验。如果你愿意，你也可以将这本书与 Pluralsight 上的[**react . js:Getting Started**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started)课程结合起来，这是一门由伟大的导师萨梅尔·布纳教授的伟大课程
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) [## 反应:开始
-
-### 课程概述大家好。我叫萨梅尔·布纳。我在 jsComplete 工作，我们在那里创造互动教育…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started>  
 
 ## 6.丹尼尔·布格尔学习 React Hooks
 
@@ -158,11 +134,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你需要一门课程来配合这本书，我强烈推荐你在 Udemy 上查看完整的 React Web Developer 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-2nd-edition%2F) [## 完整的 React 开发人员课程(带 Hooks 和 Redux)
-
-### 你以前有没有试着学过反应？很容易掉进图书馆和工具的兔子洞，结果却出来了…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-2nd-edition%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-2nd-edition%2F>  
 
 作者 Andrew Mead 是一名[全栈开发人员](https://javarevisited.blogspot.com/2019/01/10-web-development-frameworks-fullstack-developer-should-learn.html)，也是一名出色的教师，他对所教授的主题有着深入的了解。这门课程真的很棒，也很实用，我向所有想成为使用 [React](http://javarevisited.blogspot.sg/2018/01/10-frameworks-java-and-web-developers-should-learn.html) 的专业 web 开发人员强烈推荐这门课程。
 
@@ -191,8 +163,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **附言**——如果你喜欢从在线课程中学习，那么我也建议你去看看 Udemy 上 Maximillian 的[**React 16-完全指南**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) 课程。这是快速学习 React.js 的最佳课程之一
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 投入其中，从头开始学习 React.js！学习 Reactjs、Hooks、Redux、React Routing、Animations、Next.js 等等！
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Freact-the-complete-guide-incl-redux%2F> 

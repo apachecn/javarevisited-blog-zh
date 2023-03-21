@@ -72,11 +72,7 @@
 
 顺便说一句，你需要一个 Pluralsight 会员资格才能参加这个课程。如果您没有，请不要担心， [Pluralsight 在 4 月份有一个月的免费期](/javarevisited/7000-free-pluralsight-courses-to-build-in-demand-tech-skills-without-leaving-your-house-40edb50a8cf2)，您可以利用这段时间学习 Vim。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4. [Vim 基础知识—一小时达到熟练程度【免费 Vim 课程】](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvim-essentials%2F)
 
@@ -125,8 +121,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你正在寻找一些免费的在线课程来开始你的 Linux shell 脚本之旅，那么你也可以加入 Udemy 上的这个[**Linux Shell 脚本简介【免费**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-free%2F) 】课程。它是完全免费的，超过 83，000 名学生已经加入了这个课程。底线是，学习 shell 脚本来成为一个更有价值的程序员。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-free%2F) [## 免费 Shell 脚本教程 Linux Shell 脚本介绍(免费课程)
-
-### Jason 于 1999 年开始了他的 Unix 和 Linux 系统工程师生涯。从那时起，他开始利用他的 Linux 技能…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-free%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-shell-scripting-free%2F> 

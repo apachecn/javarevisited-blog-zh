@@ -8,11 +8,7 @@
 
 关于 Google OAuth 的设置和理论，我们已经讨论够了:
 
-[](/@hrishabhpurohit/google-oauth-2-0-securing-your-mail-scraping-application-b5520ef0f390) [## Google OAuth 2.0:保护您的邮件抓取应用
-
-### 免责声明:本文是对该解决方案的严格概述。详细的实施和设计不在…
-
-medium.com](/@hrishabhpurohit/google-oauth-2-0-securing-your-mail-scraping-application-b5520ef0f390) 
+</@hrishabhpurohit/google-oauth-2-0-securing-your-mail-scraping-application-b5520ef0f390>  
 
 现在让我们享受一些行动吧！
 

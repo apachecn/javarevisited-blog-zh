@@ -46,11 +46,7 @@
 
 像 HDFS HBASE 这样的数据源。如果你想了解更多关于 Hadoop 的知识，可以查看这些 [**大数据和 Hadoop 课程**](https://dev.to/javinpaul/top-5-courses-to-learn-big-data-and-hadoop-for-beginners-6g8) :
 
-[](/javarevisited/top-10-courses-to-learn-big-data-and-hadoop-best-of-lot-23ef8691633f) [## 我最喜欢的学习大数据和 Hadoop 的课程—最好的
-
-### 如果你正在学习大数据，或者想探索 Hadoop 框架，并且正在寻找一些很棒的课程，那么…
-
-medium.com](/javarevisited/top-10-courses-to-learn-big-data-and-hadoop-best-of-lot-23ef8691633f) 
+</javarevisited/top-10-courses-to-learn-big-data-and-hadoop-best-of-lot-23ef8691633f>  
 
 7) Apache Spark 具有自动内存调优功能: Apache spark 提供了一个
 
@@ -92,11 +88,7 @@ RDD 记得确定性运算的谱系
 
 它只处理已经存在的数据。如果你想了解更多关于 MapReduce 和 Spark 的知识，请查看这些[免费 Spark 课程](/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30):
 
-[](https://www.java67.com/2018/05/top-5-free-big-data-courses-to-learn-Hadoop-Apache-Spark.html) [## 学习 Hadoop 的五大免费大数据课程，Spark Online -最佳选择
-
-### 如果你想学习 2020 年的大数据技术，如 Hadoop、Apache Spark 和 Apache Kafka，并且你正在寻找…
-
-www.java67.com](https://www.java67.com/2018/05/top-5-free-big-data-courses-to-learn-Hadoop-Apache-Spark.html) 
+<https://www.java67.com/2018/05/top-5-free-big-data-courses-to-learn-Hadoop-Apache-Spark.html>  
 
 **14)经济高效:** Apache Spark 是经济高效的大数据解决方案
 
@@ -142,11 +134,7 @@ RDD 的位置。
 
 像 HDFS，HBASE，卡珊德拉，蒙哥数据库等生态系统。如果您想了解更多关于 HDFS 和 HBASE 的信息，请查看这些[大数据课程](https://hackernoon.com/top-5-hadoop-courses-for-big-data-professionals-best-of-lot-7998f593d138):
 
-[](https://javarevisited.blogspot.com/2019/04/top-10-hadoop-tutorials-for-big-data-developers.html) [## 面向初学者的 10 大大数据和 Hadoop 教程、书籍和课程
-
-### 大家好，如果你正在寻找学习 Hadoop 和寻找一些很棒的教程开始，那么你来了…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-10-hadoop-tutorials-for-big-data-developers.html) 
+<https://javarevisited.blogspot.com/2019/04/top-10-hadoop-tutorials-for-big-data-developers.html>  
 
 **22)多重商业支持:**不断增长的商业集
 
@@ -280,7 +268,7 @@ spark sql 中现有仓库的查询。利用现有的蜂箱数据，
 
 # 开始学习 Apache Spark -
 
-随着 Spark 继续用于交互式横向扩展数据处理需求和面向批量的需求，预计它将在下一代横向扩展 BI 应用中发挥重要作用。专业人士需要在 Spark 中进行全面的实践培训，以提高工作效率，特别是如果他们是 Scala 编程的新手。它要求专业人员熟悉像 Scala 这样的新编程范式。但是，也可以使用 Shark，即 Shark 上的 SQL 来开始学习 Apache Spark 的[](https://data-flair.training/blogs/spark-tutorials-home/)*。*
+随着 Spark 继续用于交互式横向扩展数据处理需求和面向批量的需求，预计它将在下一代横向扩展 BI 应用中发挥重要作用。专业人士需要在 Spark 中进行全面的实践培训，以提高工作效率，特别是如果他们是 Scala 编程的新手。它要求专业人员熟悉像 Scala 这样的新编程范式。但是，也可以使用 Shark，即 Shark 上的 SQL 来开始学习 Apache Spark 的<https://data-flair.training/blogs/spark-tutorials-home/>*。*
 
 *其他**免费在线编程与开发课程**你可能喜欢探索:
 [2020 devo PS 路线图](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html)

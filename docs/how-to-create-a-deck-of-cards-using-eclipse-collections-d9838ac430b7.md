@@ -32,16 +32,4 @@ cartesianProduct，groupBy，toList，shuffleThis，toStack，IntInterval，coll
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab) [## 50 多个面向初学者和有经验的程序员的 Java 集合面试问题
-
-### Java 集合和泛型是 Java 面试的一个非常重要的话题。他们还提出了一些最困难的…
-
-medium.com](/javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab) [](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/how-to-use-streams-map-filter-and-collect-methods-in-java-1e13609a318b) [## 如何在 Java Stream 中使用 map，filter，collect 方法？示例教程
-
-### 你们好，伙计们！我的许多读者给我发邮件，要求写一篇关于 Java 8 的地图和过滤功能的帖子，因为…
-
-medium.com](/javarevisited/how-to-use-streams-map-filter-and-collect-methods-in-java-1e13609a318b)
+</javarevisited/50-java-collections-interview-questions-for-beginners-and-experienced-programmers-4d2c224cc5ab>  </javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/how-to-use-streams-map-filter-and-collect-methods-in-java-1e13609a318b> 

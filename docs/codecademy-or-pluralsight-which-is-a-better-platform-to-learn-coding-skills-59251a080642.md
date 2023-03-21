@@ -12,7 +12,7 @@
 
 > 这是一个非常重要的问题，因为学习是职业程序员职业生涯中必不可少的一部分。如果你不学习新的东西，不提升自己，你会在工作和职业生涯中落后。
 
-我经常建议我的读者和程序员同事投入一些时间和金钱来学习一些平台，如[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F)**[**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)**one month**[**CodeCademy**](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership)[**LinkedIn Learning**](http://linkedin-learning.pxf.io/c/1193463/449670/8005)[**Educative**](https://www.educative.io?affiliate_id=5073518643380224)**Treehouse 写一篇关于复数视线 vs CodeCademy 的评论。
+我经常建议我的读者和程序员同事投入一些时间和金钱来学习一些平台，如<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F>**[**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F)**one month**[**CodeCademy**](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership)[**LinkedIn Learning**](http://linkedin-learning.pxf.io/c/1193463/449670/8005)[**Educative**](https://www.educative.io?affiliate_id=5073518643380224)**Treehouse 写一篇关于复数视线 vs CodeCademy 的评论。
 
 虽然在 [Udemy 和 Pluralsight](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html) 之间进行选择很容易，因为一个是课程市场，你可以购买你想要的方向，只需为此付费，Pluralsight 有一个基于订阅的模式，加入 Pluralsight 意味着你可以访问他们所有的 7000 多门在线课程、测验、评估等等。你不需要选择和购买课程，只需一次订阅，你就可以上你想上的所有课程，这有点方便。
 
@@ -60,11 +60,7 @@
 
 ****说到价格，Codecademy 比 Pluralsight 稍微便宜一些。 [**Codecademy Pro 会员**](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership) 每月花费约**15.99 美元**(账单为每年 191.88 美元)，这样你可以节省 48 美元，这也是他们最受欢迎的选择。****
 
-****[](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership) [## 学习编码最简单的方法:PRO | Codecademy
-
-### 您学习编码所需的一切都由我们内部的专家团队设计。这意味着我们所有的独家…
-
-www.codecademy.com](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership) 
+****<https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Fpro%2Fmembership>  
 
 他们还有一个 6 个月的计划，每月花费约 17.99 美元，还有一个月计划，每月花费约 19.99 美元，但相应地按 6 个月和每月计费。
 
@@ -90,11 +86,7 @@ www.codecademy.com](https://www.pjatr.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=htt
 
 如果你更喜欢互动学习，并且预算紧张，请加入 CodeCademy Pro 如果你想访问多样化的在线培训平台，并且可以支付 299 美元(因为现在提供 33%的折扣)，请加入 Pluralsight Premium 计划。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 # Educative.io vs Pluralsight 评论
 
@@ -102,15 +94,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 它有一些为编码面试做准备的最好的课程，像[钻研系统设计](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)和[钻研编码面试模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)。我强烈推荐他们。
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) [## 探索编码面试:编码问题的模式——互动学习
-
-### 编码面试一天比一天难。几年前，我温习了关键数据结构并浏览了…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  <https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224>  
 
 它也有很多像这个[免费 JavaScript 教程](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)这样的免费资源来学习必要的技术。
 
@@ -142,8 +126,4 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/567146485
 
 **p . p . s .**——如果你愿意，你也可以同时尝试 CodeCademy 和 Pluralsight，坚持选择你喜欢的那一个，但不要错过](http://linkedin-learning.pxf.io/c/1193463/449670/8005) [**Pluralsight 33%的优惠**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，它不是每天都有，注册他们的个人或高级计划，以利用这一优惠。
 
-[](https://pluralsight.pxf.io/c/1193463/871608/7490) [## Pluralsight 套餐可节省 33%的费用！
-
-### 跟上技术发展的步伐，让您的技能保持在最前沿，个人年费或高级卡享受 33%的优惠…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871608/7490)****
+<https://pluralsight.pxf.io/c/1193463/871608/7490> ****

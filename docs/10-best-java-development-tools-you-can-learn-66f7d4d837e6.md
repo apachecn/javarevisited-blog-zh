@@ -150,8 +150,4 @@ Jenkins 是 Java 开发人员的另一个重要工具，尤其是那些希望成
 
 **附言**。—如果你想以优异的成绩开始 2023 年，那么我建议你加入 [**完整 Java 大师班**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) ，这是一门最新的课程。它最近针对 Java 17 和更高版本进行了更新，并将在新的 Java 版本中进行更新。
 
-[](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html) [## 2023 年供初学者在线学习的 5 大 Java 编程课程——最好的
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)
+<https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html> 

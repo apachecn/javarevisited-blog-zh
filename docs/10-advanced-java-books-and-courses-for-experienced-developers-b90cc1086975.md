@@ -34,11 +34,7 @@
 
 学习如何分析堆转储、提高 Java 性能、理解 GC 日志以及解决内存泄漏，这是一门很棒的课程。我强烈推荐。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F) [## Java 应用程序性能和内存管理
-
-### 作为一名职业程序员，主要在银行业工作了 20 多年，Matt 现在为 Virtual Pair…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-application-performance-and-memory-management%2F>  
 
 ## 2.[有效 Java](http://www.amazon.com/dp/0321356683/?tag=javamysqlanta-20)
 
@@ -80,11 +76,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 你也可以将本书与 Udemy 上 Dmitri Nestruk 的**[**Java 设计模式**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) 课程结合起来，了解经典 Java 设计模式的现代实现。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) [## 面向工程师、设计师和架构师的 Java 设计模式
-
-### 本课程从实用的角度全面概述了 Java 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F> ** 
 
 ## **6.[基础扎实的 Java 开发人员](http://www.amazon.com/dp/1617290068/?tag=javamysqlanta-20)**
 
@@ -104,11 +96,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **顺便说一句，如果你需要一个在线课程来配合这本书，那么我也推荐你参加 Ranga Karnam 的 [**用 Java 编写干净的代码:学习简单的设计，重构& TDD**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) 课程，他是我最喜欢的 Udemy Java 主题讲师之一。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F) [## 用 Java 清理代码:学习简单的设计、重构和 TDD
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F)** 
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-clean-code-with-refactoring-and-tdd%2F> ** 
 
 ## **8.[重构](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672?tag=javamysqlanta-20)**
 
@@ -120,11 +108,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **如果你需要一个在线培训课程来配合这本书进行主动学习，我强烈推荐你参加 Udemy 的 Wlodek Karkowski 的 [**重构金字塔课程。**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F)**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F) [## 用简单的步骤解释重构金字塔(Java)
-
-### 我叫沃德克·克拉科夫斯基。我是一名独立的技术培训师，团队教师，也是一名开发人员-以提高我的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F)** 
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpyramid-of-refactoring-java-interpreter-factories%2F> ** 
 
 ## **9.[试驾](http://www.amazon.com/Test-Driven-Acceptance-Java-Developers/dp/1932394850?tag=javamysqlanta-20)**
 
@@ -136,11 +120,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 **我向每一位 Java 开发人员强烈推荐这本书，无论是初学者还是有经验的，如果你需要一门课程来配合这本书，我推荐你参加 Udemy 的 [**用 Junit & Mockito 学习 Java 单元测试的 30 步**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) 课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F) [## 学习 Mockito 和 JUnit 教程(单元测试)
-
-### Ranga 是经认证的谷歌云助理云工程师、AWS 认证解决方案架构师助理、AWS 认证…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F)** 
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmockito-tutorial-with-junit-examples%2F> ** 
 
 ## **10.[Java 中的函数式编程](http://www.amazon.com/Functional-Programming-Java-Harnessing-Expressions/dp/1937785467?tag=javamysqlanta-20)**
 
@@ -172,8 +152,4 @@ Java 8 已经是既定的标准，我相信在未来几年，它将很快成为�
 
 ****P. S.** —如果你正在寻找一些深入学习 Java 的课程，请查看这份针对中级初学者和中级开发者的 [**十大 Java 课程**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 列表。它包含从零开始学习 Java 的课程，以及掌握有用的主题，如集合、并发和 JVM 内部。**
 
-**[](https://javarevisited.blogspot.com/2020/04/top-10-advanced-core-java-courses-for-experienced-developers.html#axzz6dTMJOE7W) [## 面向资深程序员的十大高级核心 Java 课程
-
-### 大家好，我的许多读者一直向我询问高级 Java 课程，以改进 Java 集合等主题…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/04/top-10-advanced-core-java-courses-for-experienced-developers.html#axzz6dTMJOE7W)**
+**<https://javarevisited.blogspot.com/2020/04/top-10-advanced-core-java-courses-for-experienced-developers.html#axzz6dTMJOE7W> **

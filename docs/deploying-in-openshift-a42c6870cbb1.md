@@ -34,11 +34,7 @@ OpenShift 是一个基于 Kubernetes 的基于云的容器编排平台。它提�
 
 如果你想在本地设置**打开**，查看以下帖子
 
-[](https://medium.suriyaprakhash.com/openshift-local-setup-a22130731bc2) [## OpenShift 本地设置
-
-### 2 分钟内 OC 码就绪容器
-
-medium.suriyaprakhash.com](https://medium.suriyaprakhash.com/openshift-local-setup-a22130731bc2) 
+<https://medium.suriyaprakhash.com/openshift-local-setup-a22130731bc2>  
 
 将应用程序部署到 OpenShift 有多种方式。
 
@@ -143,11 +139,7 @@ oc set env deployment/mysql-img \
 
 下面是运行本地图像存储库的步骤，
 
- [## 私人码头登记处
-
-### 下面的帖子将有助于运行一个私人 docker 注册表。在本地工作时，玩起来真的很方便…
-
-medium.suriyaprakhash.com](https://medium.suriyaprakhash.com/private-docker-registry-adef3a6d2dee) 
+  
 
 在构建 **docker 映像**并使用 **docker 构建**和 **docker 推送将其推送到[本地映像库](https://medium.suriyaprakhash.com/private-docker-registry-adef3a6d2dee#311e)之后。**运行以下**将图像从[本地图像库](https://medium.suriyaprakhash.com/private-docker-registry-adef3a6d2dee#311e)导入 *OpenShift 的* **内部图像流**。**
 

@@ -156,8 +156,4 @@ AWS 和亚马逊还为他们的 AWS 解决方案架构师助理(SAA-C03)认证�
 
 **P. S.** —如果你不熟悉亚马逊网络服务的奇妙世界，那么你也可以在 Udemy 上查看这个 [***AWS 认证解决方案架构师助理介绍课程***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-in-30-days%2F) ，开始你的云计算之旅。
 
-[](https://javarevisited.blogspot.com/2019/08/top-5-free-aws-solution-architect-Associate-certification-dumps-practice-questions.html) [## 前 5 名免费 AWS 解决方案架构师助理认证(SAA-C03)模拟测试、模拟考试和…
-
-### 大家好，似乎现在每个人都很开心。无论我走到哪里，人们都会谈论云计算和云…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/08/top-5-free-aws-solution-architect-Associate-certification-dumps-practice-questions.html)
+<https://javarevisited.blogspot.com/2019/08/top-5-free-aws-solution-architect-Associate-certification-dumps-practice-questions.html> 

@@ -6,7 +6,7 @@
 
 [![](img/4302e837b09c4bce44bfce4be70935cc.png)](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-groovy%2F)
 
-大家好，如果你正在寻找 2022 年最好的 Groovy 框架，那么你来对地方了。在过去的几篇文章中，我已经分享了微服务的最佳 Java 框架[](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651)****，[最佳 Java 库](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7)以及 Java 开发人员可以学习的最佳 Scala 框架[](/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)**，在这篇文章中，我将分享 Java 开发人员的最佳 Groovy 框架。******
+大家好，如果你正在寻找 2022 年最好的 Groovy 框架，那么你来对地方了。在过去的几篇文章中，我已经分享了微服务的最佳 Java 框架</javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651>****，[最佳 Java 库](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7)以及 Java 开发人员可以学习的最佳 Scala 框架</javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a>**，在这篇文章中，我将分享 Java 开发人员的最佳 Groovy 框架。******
 
 ******如果您不知道的话，Groovy 是另一种基于 JVM 的编程语言，它以其简洁明了的语法和编程的便利性补充了 Java。它是为 Java 开发人员创建脚本的最佳编程语言之一。******
 
@@ -58,11 +58,7 @@
 
 ****如果你喜欢书，那么这本关于 Manning 的关于 Spock 的 Java 测试的书可能就是你开始学习 Spock 所需要的全部。****
 
-****[](https://www.amazon.com/Java-Testing-Spock-Konstantinos-Kapelonis/dp/1617292532?tag=javamysqlanta-20) [## 用 Spock 进行 Java 测试
-
-### 与 Spock [Kapelonis，Konstantinos]在 Amazon.com 进行 Java 测试。*符合条件的优惠可享受免费*运输。Java 测试…
-
-www.amazon.com](https://www.amazon.com/Java-Testing-Spock-Konstantinos-Kapelonis/dp/1617292532?tag=javamysqlanta-20) 
+****<https://www.amazon.com/Java-Testing-Spock-Konstantinos-Kapelonis/dp/1617292532?tag=javamysqlanta-20>  
 
 这就是 Java 开发人员在 2022 年可以学到的最好的 Groovy 框架和工具。很有可能你已经知道了其中的一些工具，因为它们在 Java 世界中非常流行，尤其是 Gradle，但是如果你不知道，2022 年是学习它们的最佳时机。Groovy 工具和框架简单易学，可以大大提高您的生产率。
 
@@ -85,8 +81,4 @@ www.amazon.com](https://www.amazon.com/Java-Testing-Spock-Konstantinos-Kapelonis
 
 **P. S. —** 如果你真的想学习 Groovy 和 Gradle、Grails 之类的框架，并且正在寻找最好的 Groovy 课程，那么你也可以在 Udemy 上查看由 Dan Vega 撰写的完整的 Apache Groovy 开发人员 **课程**。这个 13 小时 30 分钟的在线课程是在线学习 Groovy 的最佳课程。
 
-[](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-groovy-and-grails.html#axzz6vD2PZFID) [## 2022 年在线学习 Groovy 和 Grails 的 5 大课程——最好的
-
-### 大家好，如果你想在 2022 年学习 Groovy 或 Grails，并寻找一些很棒的资源，如书籍、课程…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-groovy-and-grails.html#axzz6vD2PZFID)****
+<https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-groovy-and-grails.html#axzz6vD2PZFID> ****

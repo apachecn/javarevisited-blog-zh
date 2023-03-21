@@ -26,7 +26,7 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 org.springframework.boot.autoconfigure.aop.AopAutoConfiguration
 ```
 
-在`[BeanFactory](https://javarevisited.blogspot.com/2012/11/difference-between-beanfactory-vs-applicationcontext-spring-framework.html)` [](https://javarevisited.blogspot.com/2012/11/difference-between-beanfactory-vs-applicationcontext-spring-framework.html)被创建后，spring boot 将调用一个特定的`beanFactoryPostProcessor` - `ConfigurationClassPostProcessor`来完成配置类解析。目的是将 spring 容器中配置类的`[@Bean](https://www.java67.com/2021/10/pring-bean-example-what-does-bean-annotation-does.html)` [注释](https://www.java67.com/2021/10/pring-bean-example-what-does-bean-annotation-does.html)修改的方法注册为特殊 beans。配置类中定义的 beans 由 spring 容器管理，我们可以用 [spring](/javarevisited/5-advanced-spring-framework-books-experienced-java-developers-should-read-in-2020-best-of-lot-2a786fc5ad31?source=collection_home---4------4-----------------------) 做任何事情。这就是弹簧靴的自动配置原理。
+在`[BeanFactory](https://javarevisited.blogspot.com/2012/11/difference-between-beanfactory-vs-applicationcontext-spring-framework.html)` <https://javarevisited.blogspot.com/2012/11/difference-between-beanfactory-vs-applicationcontext-spring-framework.html>被创建后，spring boot 将调用一个特定的`beanFactoryPostProcessor` - `ConfigurationClassPostProcessor`来完成配置类解析。目的是将 spring 容器中配置类的`[@Bean](https://www.java67.com/2021/10/pring-bean-example-what-does-bean-annotation-does.html)` [注释](https://www.java67.com/2021/10/pring-bean-example-what-does-bean-annotation-does.html)修改的方法注册为特殊 beans。配置类中定义的 beans 由 spring 容器管理，我们可以用 [spring](/javarevisited/5-advanced-spring-framework-books-experienced-java-developers-should-read-in-2020-best-of-lot-2a786fc5ad31?source=collection_home---4------4-----------------------) 做任何事情。这就是弹簧靴的自动配置原理。
 
 ## 创建自定义初学者库
 
@@ -56,16 +56,4 @@ org.springframework.boot.autoconfigure.aop.AopAutoConfiguration
 
 现在试着用 spring boot 打包你的类库。感谢阅读。
 
-[](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5) [## 你应该为 2022 年的下一次 Spring Boot 面试准备的 13 个话题
-
-### 你应该为下一次 Java 和 Spring Boot 面试准备的 13 个基本主题的列表和学习资源…
-
-medium.com](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5) [](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 10 大春季 MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491) [## 2022 年 Java 程序员和架构师可以学习的 25 项基本技能
-
-### Java 开发人员可以在 2022 年学习的 22 项基本技术技能，以进一步改善他们的形象，并成为…
-
-medium.com](/javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491)
+</javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5>  </javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82>  </javarevisited/top-22-skills-professional-java-programmers-can-learn-in-2022-to-upgrade-themselves-bc3da73d7491> 

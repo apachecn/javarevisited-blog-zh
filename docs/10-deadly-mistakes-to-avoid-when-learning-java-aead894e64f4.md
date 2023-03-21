@@ -128,8 +128,4 @@
 
 混合来源，但在研究和实践之间保持适当的平衡。当然，祝你在追逐自己的目标时好运:)
 
-[](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)
+</javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> 

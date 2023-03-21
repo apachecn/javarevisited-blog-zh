@@ -10,7 +10,7 @@ image_credit — Coursera
 
 大家好，如果你正在寻找免费的在线 Coursera 课程来学习新的技术技能，如云计算、AWS、谷歌云、网络、编程、android 应用程序开发和机器学习，那么你来对地方了。
 
-之前，我已经分享了最好的 Coursera 课程来学习[](/javarevisited/10-best-software-development-courses-certifications-from-coursera-4ccc59aae201)**[**云计算**](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7)[**商业&**](/javarevisited/10-best-courses-courses-and-certifications-for-business-finance-and-entrepreneurship-616b80cbd0e6)和 [**Web 开发**](/javarevisited/10-best-coursera-courses-for-web-development-and-web-design-9ec54ed92dd9) ，在这篇文章中，我将分享最好的在线课程，在这篇文章中，我将分享你可以加入的最好的免费 Coursera 课程来学习按需技能。**
+之前，我已经分享了最好的 Coursera 课程来学习</javarevisited/10-best-software-development-courses-certifications-from-coursera-4ccc59aae201>**[**云计算**](/javarevisited/10-best-aws-google-cloud-and-azure-courses-and-certification-from-coursera-to-join-in-2021-5c5e2029a8e7)[**商业&**](/javarevisited/10-best-courses-courses-and-certifications-for-business-finance-and-entrepreneurship-616b80cbd0e6)和 [**Web 开发**](/javarevisited/10-best-coursera-courses-for-web-development-and-web-design-9ec54ed92dd9) ，在这篇文章中，我将分享最好的在线课程，在这篇文章中，我将分享你可以加入的最好的免费 Coursera 课程来学习按需技能。**
 
 **列表中既有永久免费的课程，我指的是从一开始就免费的课程，也有一些*在有限的时间内*为印度的学习者提供的免费课程，比如这个月底，但是他们也提供免费的 Coursera 证书**
 
@@ -277,11 +277,7 @@ image_credit — Coursera
 
 **顺便说一句，如果你发现 Coursera 的课程很有用，因为它们是由世界各地的知名公司和大学创建的，我建议你加入 Coursera Plus 的[课程，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 **还有，你在 Coursera 的** [**第一周是免费的**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) **，也就是说你可以报名参加任何课程，免费完成 7 天。**
 
@@ -314,8 +310,4 @@ Coursera 还通过免费提供高质量的课程和证书来支持印度的学�
 
 **附言——**如果你喜欢 Udemy 课程，那么你也可以看看这个 [**免费 Udemy 课程列表**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F) 免费学习新的技术技能。这份清单包括免费的编程、编码、云计算和在线数据科学。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F) [## Udemy 免费资源中心:查找免费在线课程
-
-### 我们理解现在的事情让人感到不确定，我们都在寻找我们可以帮助的方法。在 Udemy，我们的使命是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F)**
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourses%2Ffree%2F> **

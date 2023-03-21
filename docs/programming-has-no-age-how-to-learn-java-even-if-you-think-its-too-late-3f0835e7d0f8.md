@@ -121,8 +121,4 @@ Harvey Nash 的首席执行官 Bev White 也表示，英国 82%的 IT 经理预�
 
 相反，把你的年龄看作是能帮助你注意到年轻专业人士注意不到的事情。简而言之，学习编程会让你的注意力和专注度保持在一个较高的水平。
 
-[](/javarevisited/can-you-learn-programming-and-become-a-web-developer-in-the-40s-and-50s-f9e117f32721) [## 40、50 年代学编码能成为网页开发者吗？
-
-### 大家好，许多人认为编程和 Web 开发是年轻人的事，是花花公子、极客、书呆子或…
-
-medium.com](/javarevisited/can-you-learn-programming-and-become-a-web-developer-in-the-40s-and-50s-f9e117f32721)
+</javarevisited/can-you-learn-programming-and-become-a-web-developer-in-the-40s-and-50s-f9e117f32721> 

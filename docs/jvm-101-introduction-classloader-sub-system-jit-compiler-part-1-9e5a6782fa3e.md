@@ -181,12 +181,4 @@ JIT 编译器或实时编译器对 Java 的快速执行贡献最大。它的主�
 
 也要注意安全，❤️
 
-[](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) [## 学习 JVM 内部机制、内存管理、GC 和 Java 性能调优的前 5 门课程
-
-### 对于一个高级 Java 开发人员来说，了解 JVM 的工作原理以及如何解决与…相关的问题是非常重要的
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) [](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html) [## 深入学习 Java 虚拟机、垃圾收集和性能的前 5 本书
-
-### 在过去的几年里，我看到了一种趋势，许多 Java 开发人员想要学习更多关于 JVM 的知识…
-
-www.java67.com](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html)
+<https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html>  <https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html> 

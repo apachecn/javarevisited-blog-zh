@@ -54,21 +54,13 @@ Eclipse Collections 是目前我所知道的唯一一个 Java 库，它从每个
 
 更多`groupBy`的例子，可以参考下面的博客。
 
-[](/oracledevs/ec-by-example-groupby-7ca219358c3b) [## EC by 示例:GroupBy
-
-### 了解如何使用 Eclipse 集合对集合的元素进行分组。
-
-medium.com](/oracledevs/ec-by-example-groupby-7ca219358c3b) 
+</oracledevs/ec-by-example-groupby-7ca219358c3b>  
 
 # 关于 Eclipse 集合 Multimap 的更多信息
 
 几年前，Nikhil Nanivadekar 写了一篇关于 Eclipse 集合中多地图的博客。他对实现做了更深入的解释。
 
-[](/oracledevs/multimap-how-it-works-a3430f549d35) [## 多地图——工作原理
-
-### 在我以前的博客中，我解释了 Eclipse 集合 UnifiedMap 和 UnifiedSet 是如何工作的。在这个博客中，我们将采取…
-
-medium.com](/oracledevs/multimap-how-it-works-a3430f549d35) 
+</oracledevs/multimap-how-it-works-a3430f549d35>  
 
 # 摘要
 
@@ -78,16 +70,4 @@ medium.com](/oracledevs/multimap-how-it-works-a3430f549d35)
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [## 2022 年每个程序员都应该学习的前 22 个 Java 库和 API
-
-### 成为更好的 Java 开发人员可以学习的最基本的 Java 库。它包括用于日志记录的 Java 库…
-
-medium.com](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 10 大春季 MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7>  </javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82> 

@@ -37,11 +37,7 @@
 
 您也可以将此模拟测试与我的主题式 AZ-900 Udemy 课程 结合起来，以便更好地准备和练习，我在这里分享了 300 多个涵盖 Azure 基础认证每个主题的问题。
 
-[](https://www.udemy.com/course/az-900-practice-test-azure-fundamentls-certification-exam/?referralCode=C335B28D838A48DEDFA1) [## 2023 微软 Azure 基础 AZ-900 考试模拟测试
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/az-900-practice-test-azure-fundamentls-certification-exam/?referralCode=C335B28D838A48DEDFA1) 
+<https://www.udemy.com/course/az-900-practice-test-azure-fundamentls-certification-exam/?referralCode=C335B28D838A48DEDFA1>  
 
 ## 2.[微软 Azure 考试 AZ-900 认证模拟测试(Whizlabs)](https://www.shareasale.com/r.cfm?b=1325595&u=880419&m=43514&urllink=&afftrack=)
 
@@ -168,11 +164,7 @@ www.udemy.com](https://www.udemy.com/course/az-900-practice-test-azure-fundament
 
 5)都很有好处。你可以在[微软 Azure 考试门户](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)上阅读 AZ-900 或 Azure 基础考试的考试指南。它有一些对考试有用的信息。
 
-[](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) [## 考试 AZ-900:微软 Azure 基础知识-学习
-
-### 本次考试内容更新于 2020 年 11 月 9 日。请下载下面的技能测试文档以查看…
-
-docs.microsoft.com](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900) 
+<https://docs.microsoft.com/en-us/learn/certifications/exams/az-900>  
 
 以上是为 AZ-900 或微软 Azure 基础认证做准备的一些**最佳模拟考试和实践测试。我强烈建议你至少完成这里列出的一个模拟测试，如果你需要选择一个，那么选择 Udemy 的第一个或者 Whizlabs 的第二个，两个都很好，是最新的，并且与真正的考试非常相关。
 
@@ -196,8 +188,4 @@ docs.microsoft.com](https://docs.microsoft.com/en-us/learn/certifications/exams/
 
 **P. S.** —如果你是云世界的新手，正在寻找一些学习云计算的免费课程，那么你也可以看看亚马逊网络服务的云计算课程列表 Medium 上针对初学者的免费 AWS 课程 。它包含一些最好的免费在线培训课程，用于学习亚马逊网络服务和 Clod 工程师和架构师的热门技能。
 
-[](/javarevisited/10-free-courses-to-learn-cloud-computing-for-beginners-4f3cd984ddb1) [## 2023 年初学者学习云计算的 10 门免费课程
-
-### 你好，如果你想在 2023 年学习云计算(这真的很棒！！)和寻找最好的免费…
-
-medium.com](/javarevisited/10-free-courses-to-learn-cloud-computing-for-beginners-4f3cd984ddb1)
+</javarevisited/10-free-courses-to-learn-cloud-computing-for-beginners-4f3cd984ddb1> 

@@ -84,11 +84,7 @@ image_credit — Scrappy
 
 或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费进入这个课程。因为它允许 200 分钟免费观看他们 7000 多门在线培训课程中的任何一门。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[面向初学者的 Web 抓取:Python | Scrapy| BS4](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-for-beginners-with-python-scrapy-bs4%2F) (Udemy)
 
@@ -104,11 +100,7 @@ udemy 上的另一个高级短期课程，教你如何使用不同的技术，�
 
 以下是加入本课程的链接—[Python 初学者的网络搜集](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-for-beginners-with-python-scrapy-bs4%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-for-beginners-with-python-scrapy-bs4%2F) [## 面向初学者的 Web 抓取:Python | Scrapy| BS4
-
-### 网页抓取是自动下载网页数据并从中提取特定信息的过程…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-for-beginners-with-python-scrapy-bs4%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-for-beginners-with-python-scrapy-bs4%2F>  
 
 ## 5.[使用 Scrapy Splash Selenium 的 Python 现代网页抓取](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-scraping-in-python-using-scrapy-and-splash%2F)
 
@@ -155,8 +147,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P. S.** —如果你热衷于学习使用 Python 和 Scrapy 工具进行网络抓取，但正在寻找一个免费的在线课程，那么你也可以在 Udemy 上查看这个[**Python Scrapy 简介**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintro-scrapy-create-a-reddit-bot-with-python%2F) 免费课程。该课程完全免费，已经有超过 16，000 名学生加入了该课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintro-scrapy-create-a-reddit-bot-with-python%2F) [## 免费 Python 教程——用 Python 介绍 Scrapy
-
-### 正如吴恩达所说“人工智能是新的电力”，在不久的将来，人工智能将在我们的世界中扮演非常重要的角色…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintro-scrapy-create-a-reddit-bot-with-python%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintro-scrapy-create-a-reddit-bot-with-python%2F> 

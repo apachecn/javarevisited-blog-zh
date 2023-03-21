@@ -12,11 +12,7 @@
 
 2004 年，我是一家大型金融服务公司的 Java 架构师。Java 缺少我在 Smalltalk 中拥有的大部分集合生产力特性，所以我决定“就这么做”，并开始在最终成为开源 Java 库的 [Eclipse Collections](https://github.com/eclipse/eclipse-collections) 中构建第一个实用程序类。一年前我在博客上写了这个。
 
-[](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) [## Java 流很棒，但现在是更好的 Java 集合的时候了
-
-### 25 年后，Java 是时候进行集合升级了。
-
-medium.com](/javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1) 
+</javarevisited/java-streams-are-great-but-its-time-for-better-java-collections-42d2c04235d1>  
 
 # 40 年来每天供应全套菜单晚餐
 
@@ -35,7 +31,7 @@ Smalltalk -> Java 等价物
 *   `asOrderedCollection`->-`Collectors.toList`
 *   `asSet`->-
 
-Java 对`[Collectors](https://www.java67.com/2018/11/10-examples-of-collectors-in-java-8.html)` [](https://www.java67.com/2018/11/10-examples-of-collectors-in-java-8.html)类中的转换器方法以及`Collection`和`Stream`上的`toArray`使用前缀“to”。Smalltalk 中可用的其他方法在今天的`Collectors`中没有对等物。
+Java 对`[Collectors](https://www.java67.com/2018/11/10-examples-of-collectors-in-java-8.html)` <https://www.java67.com/2018/11/10-examples-of-collectors-in-java-8.html>类中的转换器方法以及`Collection`和`Stream`上的`toArray`使用前缀“to”。Smalltalk 中可用的其他方法在今天的`Collectors`中没有对等物。
 
 那么 Smalltalk 为什么要在 40 年前增加`List`、`Bag`、`Set`、`Map`、`IdentitySet`、`OrderedMap`、`SortedList`的对称转换器方法呢？我相信这是因为收益远远超过了每种方法的成本。
 
@@ -102,11 +98,7 @@ Java 对`[Collectors](https://www.java67.com/2018/11/10-examples-of-collectors-i
 
 如果您想了解当今 Eclipse 集合中可用的许多转换器方法，我在 2020 年底写了一篇博客，其中有一个相关的[代码 kata](https://github.com/eclipse/eclipse-collections-kata/tree/master/converter-method-kata) 。
 
-[](/javarevisited/converter-methods-in-eclipse-collections-6b9bfc0f2490) [## Eclipse 集合中的转换器方法
-
-### 从一种集合类型转换到另一种集合类型
-
-medium.com](/javarevisited/converter-methods-in-eclipse-collections-6b9bfc0f2490) 
+</javarevisited/converter-methods-in-eclipse-collections-6b9bfc0f2490>  
 
 # 摘要
 

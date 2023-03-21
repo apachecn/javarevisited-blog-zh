@@ -60,7 +60,7 @@ SQL 数据库是 CRM 软件的后台工具，有多个表。当您浏览 [SQL �
 
 首先，你需要确保数据是干净的，没有错误。这是过程中最重要的步骤，需要耐心和专注。
 
-为此使用了各种工具和技术，如[](https://dev.to/javinpaul/7-python-online-courses-for-beginners-and-intermediate-programmers-1h4k)**[*R*](https://hackernoon.com/5-free-r-programming-courses-for-data-scientists-and-ml-programmers-5732cb9e10)*[*SQL*](https://javarevisited.blogspot.com/2018/05/top-5-sql-and-database-courses-to-learn-online.html)等。***
+为此使用了各种工具和技术，如<https://dev.to/javinpaul/7-python-online-courses-for-beginners-and-intermediate-programmers-1h4k>**[*R*](https://hackernoon.com/5-free-r-programming-courses-for-data-scientists-and-ml-programmers-5732cb9e10)*[*SQL*](https://javarevisited.blogspot.com/2018/05/top-5-sql-and-database-courses-to-learn-online.html)等。***
 
 **然后，你开始回答这些问题:**
 
@@ -98,7 +98,7 @@ SQL 数据库是 CRM 软件的后台工具，有多个表。当您浏览 [SQL �
 
 **您需要有效地传达之前指出的问题的结果:**
 
-***用工具将信息图形化或图表化展示-*[](http://www.java67.com/2018/09/top-5-free-R-programming-courses-for-Data-Science-Machine-Learning-Programmers.html)**[*Python*](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912)*、Tableau、Excel*****
+***用工具将信息图形化或图表化展示-*<http://www.java67.com/2018/09/top-5-free-R-programming-courses-for-Data-Science-Machine-Learning-Programmers.html>**[*Python*](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912)*、Tableau、Excel*****
 
 ***使用“讲故事”来拟合结果***
 

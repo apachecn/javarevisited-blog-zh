@@ -16,11 +16,7 @@
 
 虽然课程很多，但我推荐你从 Udemy 上的 [**以结果为导向的 Web 开发者课程——boot camp 2020**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F)课程开始。对于那些想快速学习 web 开发的人来说，这是最好的课程之一，但是你不会很容易在 Udemy 上找到它，因为没有多少人加入它，这就是像这样的一篇文章可以帮助你的地方。此外，没有编程经验是必要的。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) [## 面向结果的 Web 开发人员课程- BOOTCAMP 2020
-
-### 嗨！欢迎参加以结果为导向的 web 开发人员课程，这是学习 Web 开发所需的唯一课程…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F>  
 
 不言而喻，虽然滑板、自行车和汽车会把你带到目的地，但它们之间有重要的区别:**即速度和便利性**。学习 web 开发也不例外。
 
@@ -56,11 +52,7 @@ Vertex Academy 在制作[***面向结果的 Web 开发人员课程***](https://c
 
 *首先，仅仅看理论课是不够的。为了以最有效的方式学习 web 开发，你不仅应该看着老师写代码，还应该在你的电脑上重复他们。其次，你必须用解决方案做大量不同的练习来练习解决编码任务，并且能够检查你的解决方案。这也是包含在 [**所有顶点学院的课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Ff8d5433a-2f80-45d1-9eff-db4bae354197%2F) **中的一个特色。***
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Ff8d5433a-2f80-45d1-9eff-db4bae354197%2F) [## 顶点学院|拥有 7 年以上经验的专业软件工程师| Udemy
-
-### Vertex Academy 是一个真正的国际开发团队，几乎遍布世界各地。他们写在所有…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Ff8d5433a-2f80-45d1-9eff-db4bae354197%2F) 
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Ff8d5433a-2f80-45d1-9eff-db4bae354197%2F>  
 
 ## **3。** **构建真实世界的项目**
 
@@ -82,11 +74,7 @@ Vertex Academy 是一个真正的国际开发团队，几乎遍布世界各地�
 
 今天就报名参加 [**以结果为导向的网页开发课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) ，以超乎你想象的速度获得你作为网页开发人员的第一份工作。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) [## 面向结果的 Web 开发人员课程- BOOTCAMP 2020
-
-### 嗨！欢迎参加以结果为导向的 web 开发人员课程，这是学习 Web 开发所需的唯一课程…
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fresult-oriented-web-developer-course%2F>  
 
 **来自 Udemy 点评:**
 
@@ -110,8 +98,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 感谢阅读本文至今。 如果你觉得这些文章有用，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。如果你有任何其他的工具、技术、框架、库和技能是 Web 开发者应该学习的，欢迎发表评论。
 
-[](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html) [## 完整的前端和后端开发路线图
-
-### 大家好，2020 年新年快乐。我相信你们现在都已经制定了自己的目标，并在思考如何…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html)*
+<https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html> *

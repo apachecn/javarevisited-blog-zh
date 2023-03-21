@@ -45,14 +45,6 @@ import utils.VeracodeUtil.*secureArguments;* public class Test{
 
 ## 参考
 
- [## 社区
-
-### 编辑描述
-
-community.veracode.com](https://community.veracode.com/s/article/How-to-Fix-CWE-117-Improper-Output-Neutralization-for-Logs) [](https://stackoverflow.com/questions/46564555/pass-veracode-cwe-117-improper-output-neutralization-for-logs-only-with-replac) [## 仅使用 replaceAll("\r"…)传递 Veracode CWE 117(日志的不正确输出中和)
-
-### 感谢贡献一个堆栈溢出的答案！请务必回答问题。提供详细信息并分享…
-
-stackoverflow.com](https://stackoverflow.com/questions/46564555/pass-veracode-cwe-117-improper-output-neutralization-for-logs-only-with-replac) 
+  <https://stackoverflow.com/questions/46564555/pass-veracode-cwe-117-improper-output-neutralization-for-logs-only-with-replac>  
 
 [https://stack overflow . com/questions/16225935/security-flaw-vera code-report-crlf-injection/49804999 # 49804999](https://stackoverflow.com/questions/16225935/security-flaw-veracode-report-crlf-injection/49804999#49804999)

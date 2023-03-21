@@ -66,12 +66,4 @@ java 程序员有时很容易掉入陷阱，认为因为 Java 有自动垃圾收
 
 您可能也喜欢其他 Java 文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72) [## 2021 年 Java 开发人员应该阅读的 21 本书
-
-### 大家好，如果你是 Java 开发人员，想知道在 2020 年剩下的时间里读些什么，那么你已经来到了…
-
-medium.com](/javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/10-books-java-developers-should-read-in-2020-e6222f25cc72> 

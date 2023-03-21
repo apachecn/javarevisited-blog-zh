@@ -52,11 +52,7 @@
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 23 美元，但也提供了许多超级吸引人和有用的课程，比如这个 [J *avaScript Web 项目:20 个项目来建立你的投资组合课程* e](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn) 。您还可以使用我的代码朋友 10 获得您选择的任何订阅的 10%的折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习编码。被录用。加入零至掌握学院。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 500，000 多名学生的行列，学习编程，获得聘用并在以下领域取得成功…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 3.[用 Google Go 专门化编程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgoogle-golang) (Coursera)
 
@@ -80,11 +76,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 这种单一订阅让你可以无限制地访问他们最受欢迎的**课程**、**专业化**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值你的钱，因为你得到了**无限证书**。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.奈杰尔·波尔顿的围棋基础
 
@@ -102,11 +94,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，费用大约是每月 29 美元，每年 299 美元(14%的折扣)，但是完全值得。另类。你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 为个人培养更好的技术技能| Pluralsight
-
-### 培养从网络安全到软件开发等各方面的技能。然后利用这些技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[学习继续代码学院](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-go)
 
@@ -178,11 +166,7 @@ Boot.dev 上的[“Go Mastery”课程](https://boot.dev/course/3b39d0f6-f944-4f
 
 **以下是参加本课程** — [Golang Mastry by Boot 的链接。开发](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b/?via=javin)
 
-[](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b/?via=javin) [## Go Mastery | Boot.dev
-
-### Go 是一种开源编程语言，被成千上万的公司用来提供快速、高效和可靠的…
-
-启动.开发](https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b/?via=javin) 
+<https://boot.dev/course/3b39d0f6-f944-4f1b-832d-a1daba32eda4/9e6acea2-8081-404d-9c34-3b5f677fa580/a74a68e0-9e85-4328-8868-5db0089ea11b/?via=javin>  
 
 ## 11.[围棋大师(Golang)编程:完整的围棋训练营 202](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-go-programming-complete-golang-bootcamp%2F) 3 (Udemy 最佳课程)
 
@@ -219,11 +203,7 @@ Boot.dev 上的[“Go Mastery”课程](https://boot.dev/course/3b39d0f6-f944-4f
 
 顺便说一句，你需要一个 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 来加入这个课程，它不仅提供了对这个课程的访问，而且提供了 500 多个课程来学习基本的技术技能，为编码面试做准备，并作为一个开发人员提高自己。如果你想投资自己并提升你的技术技能，这是一个你绝对需要的订阅。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上是关于学习 Go 或 Golang 编程语言的一些**最佳课程。正如我所说的，Go 被设计成可伸缩、快速、高效和使用有趣的，它得到了像网飞、优步、CodeCademy，当然还有谷歌这样的公司的开发者的信任。**
 
@@ -247,10 +227,6 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 如果你对学习 Go 编程语言感兴趣，但正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看[**get going:Golang 简介**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以进入这个课程，现在已经有 9500 多名学生注册学习围棋了。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F) [## 免费 API 教程-get going:Golang 简介
-
-### 服务器端开发人员、解决方案架构师和 DevOps 系统管理员。之前在 Atlan 担任后端开发人员…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgetgoing%2F>  
 
 祝 Golang 之旅一切顺利。

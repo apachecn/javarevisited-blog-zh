@@ -22,11 +22,7 @@
 
 我们在本文中列出了所有最好的免费课程，通过这些课程，您可以通过 AWS 开发人员助理考试。它们不像夏羽·马瑞克的 [**AWS 开发者课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F) 那样全面，是最全面和最好的 AWS 开发者认证课程之一，但它们仍然足够好，足以做好准备。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F) [## 终极 AWS 认证开发人员助理 2023 -新！
-
-### 2020 年 12 月更新]:为了适应 AWS 用户界面的变化，S3 部分已全部重新录制[2020 年 5 月更新]…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F>  
 
 # 2023 年将加入 7 门免费的 AWS 开发人员助理认证课程
 
@@ -58,19 +54,11 @@ Coursera 上还有几个免费的 AWS 课程，是这个专业的一部分，你
 
 本课程是 [**AWS 基础专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) **w** 的一部分，包含更多 AWS 课程，以便更好地准备。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) [## AWS 基础知识
-
-### 这一专业为当前或有抱负的 IT 专业人员提供了特性、优势和能力的概述…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Faws-fundamentals>  
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每月花费大约 59 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.AWS 认证开发者-2023 联盟[FreeCodeCamp]
 
@@ -166,8 +154,4 @@ Udemy 的另一门课程将帮助您围绕 AWS 服务建立基础。在本课程
 
 **附言——**如果你真的想第一次就通过 AWS 开发人员助理认证，并且可以花 10 美元购买高质量的培训材料，那么我强烈建议你去看看[**2023 年 AWS 认证开发人员助理终极考试——新！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F) 课程由夏羽·马瑞克在 Udemy 上完成。这是最好的也是最实惠的课程之一，它将帮助你在第一次尝试中通过考试，在重试中节省 200 美元。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F) [## 终极 AWS 认证开发人员助理 2023 -新！
-
-### 2020 年 12 月更新]:为了适应 AWS 用户界面的变化，S3 部分已全部重新录制[2020 年 5 月更新]…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-dva-c01%2F> 

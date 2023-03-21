@@ -88,8 +88,4 @@ System.out.println(result.get().booleanValue()); // result future will return re
 
 在本教程中，我谈到了什么是 Runnable 和 Callable 接口，以及它们之间的区别。我希望你喜欢它。
 
-[](https://github.com/kurular4/medium-java/tree/master/runnable-callable) [## medium-Java/runnable-可在主 kurula 4/medium-Java 上调用
-
-### 关于 Java 的文章中的代码。在 GitHub 上创建一个帐户，为 kurura 4/medium-Java 开发做贡献。
-
-github.com](https://github.com/kurular4/medium-java/tree/master/runnable-callable)
+<https://github.com/kurular4/medium-java/tree/master/runnable-callable> 

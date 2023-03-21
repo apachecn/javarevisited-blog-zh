@@ -84,16 +84,4 @@ Maven 和 Gradle 之间的一些关键区别是:
 
 你可能喜欢的其他 **Maven 和 Gradle 文章**
 
-[](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89) [## 2021 年 6 门最适合初学者的 Maven 在线课程
-
-### 这些是从 Udemy、Pluralsight 和其他在线网站为 Java 开发人员学习 Apache Maven 的最佳在线课程…
-
-medium.com](/javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89) [](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e) [## 2021 年要学的 5 门最佳研究生课程和书籍
-
-### 这些是 Java 开发人员和 DevOps 工程师学习 Gradle 的最佳书籍和课程。
-
-medium.com](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e) [](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6) [## 我最喜欢的 2021 年学 Maven，Jenkins，和 Docker 的免费课程
-
-### Maven 和 Jenkins 是 Java 世界中最流行的两个工具。Maven 帮助组织您的项目并提供…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
+</javarevisited/6-best-maven-courses-for-beginners-in-2020-23ea3cba89>  </javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e>  </javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6> 

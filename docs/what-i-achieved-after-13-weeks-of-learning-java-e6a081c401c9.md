@@ -99,7 +99,7 @@ Pacman 的类层次结构/ UML 图
 
 这个特殊的资源有助于学习如何解析 JSON 文件。
 
-[](https://stackoverflow.com/a/46888601/14304605) [## 如何使用 Java 和一个简单的 JSON 库读入 JSON 文件
+<https://stackoverflow.com/a/46888601/14304605> [## 如何使用 Java 和一个简单的 JSON 库读入 JSON 文件
 
 stackoverflow.com](https://stackoverflow.com/a/46888601/14304605) 
 

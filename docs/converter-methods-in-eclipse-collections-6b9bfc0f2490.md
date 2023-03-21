@@ -20,11 +20,7 @@
 
 我将展示在代码中使用 Eclipse 集合从一种类型转换到另一种类型的许多途径。为了这个特殊的目的，我做了一个代码形。
 
-[](https://github.com/eclipse/eclipse-collections-kata/tree/master/converter-method-kata) [## eclipse/eclipse-集合-kata
-
-### Converter Method Kata 是一个基本的代码 Kata，带有一组练习，开发人员可以完成这些练习来熟悉…
-
-github.com](https://github.com/eclipse/eclipse-collections-kata/tree/master/converter-method-kata) 
+<https://github.com/eclipse/eclipse-collections-kata/tree/master/converter-method-kata>  
 
 我将使用 Eclipse 集合中可用的三种不同的 API 来演示转换器方法— `RichIterable`、`IntIterable`(适用于所有原始可迭代对象)和`Collectors2`。
 

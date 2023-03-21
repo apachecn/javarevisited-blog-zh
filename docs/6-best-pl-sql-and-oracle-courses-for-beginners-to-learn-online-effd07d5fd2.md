@@ -117,11 +117,7 @@ Oracle 在可伸缩性、弹性、复制等方面有许多优势，但它也提�
 
 顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 5. [PL/SQL 示例—初级到高级 PL/SQL](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fplsql-by-example%2F)【Udemy】
 
@@ -189,8 +185,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果您是 Oracle 和 PL/SQL 编程的新手，并且正在寻找免费的在线培训课程来学习 Oracle 数据库基础知识，那么您也可以在 Udemy 上查看这个 [**Oracle SQL —完整介绍**](http://bit.ly/2xaoka3) 课程。这是完全免费的，你只需要一个免费的 Udemy 帐户就可以参加这个课程。
 
-[](http://bit.ly/2xaoka3) [## 免费 Oracle SQL 教程- Oracle SQL -完整介绍
-
-### 我是一名软件顾问，对数据库和教学充满热情。我在…方面有七年多的经验
-
-bit.ly](http://bit.ly/2xaoka3)
+<http://bit.ly/2xaoka3> 

@@ -30,11 +30,7 @@
 
 在深入研究之前，如果您正在寻找创建一个[自签名证书](https://javarevisited.blogspot.com/2013/07/how-ssl-https-and-certificates-works-in-java-web-application.html)，那么请随意查看这个帖子，
 
-[](https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327) [## 自签名证书
-
-### 本地主机
-
-suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327) 
+<https://suriyaprakhash.medium.com/self-signed-certificate-d545d6054327>  
 
 ## ***那些钥匙是什么？***
 
@@ -103,11 +99,7 @@ suriyaprakhash.medium.com](https://suriyaprakhash.medium.com/self-signed-certifi
 
 **这里详细说明了如何在[***SSL***](/javarevisited/best-https-ssl-and-tls-courses-for-beginners-4437661250b3)***证书*** 中使用它的示例，**
 
-**[](/@suriyaprakhash/ssl-certificate-67b4e3bdee38) [## SSL 证书
-
-### 了解 SSL 基础知识
-
-medium.com](/@suriyaprakhash/ssl-certificate-67b4e3bdee38) 
+**</@suriyaprakhash/ssl-certificate-67b4e3bdee38>  
 
 也用在 [SSH](https://javarevisited.blogspot.com/2020/05/10-example-of-ssh-command-in-linux-and.html) ，IOT，许可证，电子邮件，通信协议等。
 

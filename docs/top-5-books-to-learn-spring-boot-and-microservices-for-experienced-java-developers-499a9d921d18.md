@@ -56,11 +56,7 @@
 
 总的来说，对于有 Spring 经验，想用 Java 开发微服务应用的 Java 开发者来说，这是一本理想的书。为了更好的效果，你也可以把这本书和 28 分钟官方的 [**大师微服带 Spring Boot 和春云**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 课程结合起来，更好的学习 Spring Boot 和春云。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) [## 借助 Spring Boot 和春云掌握微服务
-
-### 你想学习用 Spring Boot 构建一个惊人的 REST API 吗？你想了解微服务的宣传吗…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F>  
 
 ## 3.[云原生 Java](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646?tag=javamysqlanta-20)
 
@@ -78,11 +74,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 如果你需要一些实例，那么参加 Chad Darby 的在线课程，如 [**将 Java Spring Apps 在线部署到亚马逊云(AWS)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-apps-online%2F) 真的可以帮到你。在本课程中，您不仅将学习最受欢迎的云平台之一 AWS 的基本知识，还将学习如何将 Spring Boot REST API 部署到 AWS，这将让您充满信心。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-apps-online%2F) [## 将 Java Spring 应用在线部署到亚马逊云(AWS)
-
-### 部署您的 Java Spring 应用程序，实现实时互联网访问！没有更多的“本地主机”:-)包括部署一个 MySQL 数据库在…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-apps-online%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-apps-online%2F>  
 
 ## 4.[学习 Spring Boot 2.0](https://www.amazon.com/Learning-Spring-Boot-2-0-microservices-ebook/dp/B01LPRN0Z8?tag=javamysqlanta-20)
 
@@ -133,8 +125,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ******P. S. —** 如果你更喜欢在线课程而不是书本，那么我也建议你去看看由 28 分钟官方推出的 [**大师微服务与 Spring Boot 和春云**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fmicroservices-with-spring-boot-and-spring-cloud%2F) 课程，更好地了解 Spring Boot 和春云。****
 
-****[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)****
+****</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd> ****

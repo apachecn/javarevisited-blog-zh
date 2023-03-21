@@ -49,11 +49,7 @@
 
 在我接受采访的几个小时后，我收到一封邮件，说亚马逊不再与我进一步合作。总之，这是我第一次在任何以产品为基础的公司工作。所有的搜索都是为了人才和逻辑建设，而不是技术专家。下面是亚马逊最常问的编码问题的链接。
 
-[](https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1) [## 亚马逊最终面试问题| SDE1 - LeetCode 讨论
-
-### 提高你的编码技能，迅速找到工作。这是扩展你的知识和做好准备的最好地方…
-
-leetcode.com](https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1) 
+<https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1>  
 
 迈胡尔·科塔里的采访视频
 

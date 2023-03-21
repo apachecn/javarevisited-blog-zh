@@ -48,11 +48,7 @@
 
 ***确保数据科学适合您非常重要。***
 
-[](/javarevisited/top-10-resources-to-learn-data-science-and-machine-learning-best-of-lot-f153e1f44e89) [## 用 Python 和 R 学习数据科学和机器学习的 10 多本书籍和课程—最好的
-
-### 用 Python 和 R 学习数据科学的书籍、教程和交互式课程
-
-medium.com](/javarevisited/top-10-resources-to-learn-data-science-and-machine-learning-best-of-lot-f153e1f44e89) 
+</javarevisited/top-10-resources-to-learn-data-science-and-machine-learning-best-of-lot-f153e1f44e89>  
 
 ## 数据科学家做什么？
 
@@ -89,8 +85,4 @@ medium.com](/javarevisited/top-10-resources-to-learn-data-science-and-machine-le
 
 如果你想在 2020 年成为数据科学家，这里有一些免费的最好的数据科学课程
 
-[](/@javinpaul/9-data-science-and-machine-learning-courses-by-harvard-ibm-udemy-and-others-12a0c7c23ec1) [## 9 哈佛、IBM、Udemy 和其他公司的数据科学和机器学习课程
-
-### 数据科学、机器学习、深度学习和人工智能在这个时候真的很热，并提供了一个…
-
-medium.com](/@javinpaul/9-data-science-and-machine-learning-courses-by-harvard-ibm-udemy-and-others-12a0c7c23ec1)
+</@javinpaul/9-data-science-and-machine-learning-courses-by-harvard-ibm-udemy-and-others-12a0c7c23ec1> 

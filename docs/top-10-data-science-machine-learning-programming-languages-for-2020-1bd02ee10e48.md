@@ -24,11 +24,7 @@
 
 Python 在所有其他编程语言中占有重要地位。它是一种面向对象的、开源的、易于学习的、适应性强的编程语言，并且拥有为数据科学创建的丰富的库和工具。同样，Python 有一个巨大的网络基础，开发者和数据科学家可以在这里提出他们的问题，并回答其他人的问题。数据科学使用 Python 已经有一段时间了，它一直是数据科学家和开发人员的首选。
 
-[](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) [## 2020 年学习 Python 3 的前 5 门课程——最好的
-
-### 2018 年学习 Python 3 的一些最好的在线课程的集合。Python 是最强大而简单的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) 
+<https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html>  
 
 **2。R:**
 
@@ -96,8 +92,4 @@ MATLAB 本地支持传感器、图片、视频、遥测、二进制和其他格�
 
 如果你想学 Python，需要资源，也可以看看这个 2020 年顶级 Python 课程[列表:](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)
 
-[](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) [## 2020 年学习 Python 3 的前 5 门课程——最好的
-
-### 2018 年学习 Python 3 的一些最好的在线课程的集合。Python 是最强大而简单的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html)
+<https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html> 

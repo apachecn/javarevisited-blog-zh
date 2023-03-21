@@ -101,8 +101,4 @@ Gradle 是另一个类似于 Maven 的构建工具，但它使用 Groovy 而不�
 
 **P. S. —** 如果你正在寻找一些免费的课程来学习 Maven、Jenkins 和其他 Java 开发人员必备的工具，那么我也建议你查看一下这份为中型 Java 开发人员提供的 [**10 门免费课程的列表。**](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
 
-[](https://www.java67.com/2018/02/6-free-maven-and-jenkins-online-courses-for-java-developers.html) [## 面向 Java 程序员的 6 大免费 Maven 和 Jenkins 在线课程[更新]
-
-### 你好 Java 程序员，如果你想学习 Maven 和 Jenkins 并寻找免费资源如免费在线课程…
-
-www.java67.com](https://www.java67.com/2018/02/6-free-maven-and-jenkins-online-courses-for-java-developers.html)
+<https://www.java67.com/2018/02/6-free-maven-and-jenkins-online-courses-for-java-developers.html> 

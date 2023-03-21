@@ -30,7 +30,7 @@ Swagger 是 SmartBear 提供的一个实现该规范的开源工具。它可以�
 </dependency>
 ```
 
-> [](/javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e)*:*
+> </javarevisited/5-best-gradle-courses-and-books-to-learn-in-2021-93f49ce8ff8e>*:*
 
 ```
 *implementation group: ‘io.springfox’, name: ‘springfox-boot-starter’, version: ‘3.0.0’*
@@ -202,18 +202,6 @@ paths:
 
 *您可能喜欢的其他 **REST API 教程和课程***
 
-*[](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [## Java 和 Spring 开发人员的 10 大 REST 面试问题
+*</javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029>  </javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d>  <https://javarevisited.blogspot.com/2022/01/top-5-courses-to-learn-swagger-or-open.html>  
 
-### 这些是 Java 和 Spring 开发者快速准备的最好的 REST 面试问题
-
-medium.com](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [](/javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d) [## 初学者在线学习的 10 个最佳 Java Web 服务[REST + SOAP]课程
-
-### 我最喜欢的在线课程，学习如何使用 Spring、JAX RS 和其他
-
-medium.com](/javarevisited/10-best-java-web-services-rest-soap-and-api-courses-for-beginners-724a8f51298d) [](https://javarevisited.blogspot.com/2022/01/top-5-courses-to-learn-swagger-or-open.html) [## 初学者学习 Swagger 或 Open API 的 5 大课程——最佳选择
-
-### 大家好，如果你想学习 Swagger 并寻找最好的在线课程，那么你来对地方了…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/01/top-5-courses-to-learn-swagger-or-open.html) 
-
-如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入介质**[](/@somasharma_81597/membership)*
+如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入介质**</@somasharma_81597/membership>*

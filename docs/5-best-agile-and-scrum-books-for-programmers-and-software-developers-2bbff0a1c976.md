@@ -22,11 +22,7 @@
 
 顺便说一句，如果你更喜欢课程，那么你也可以看看 [**敏捷速成班:敏捷项目管理；Udemy 上的敏捷交付**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) 。这是一门很好的课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) [## 敏捷速成班:敏捷项目管理；敏捷交付
-
-### 简而言之，我是一名连续创业者、技术人员、生活黑客、专业 PM 和 MBA (x2)。但在内心里，我也是一个…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F>  
 
 # 软件开发人员的 5 本最佳敏捷、Scrum 和 XP 书籍
 
@@ -56,11 +52,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 如果你愿意，你也可以将这本书与 Jeremy 和 Vivek Khatri 在 Udemy 上开设的 [**敏捷基础**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-fundamentals-scrum-kanban-scrumban%2F) 课程结合起来，该课程也涵盖了 Scrum 和看板以及敏捷基础并进行更新。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-fundamentals-scrum-kanban-scrumban%2F) [## 敏捷基础:包括 Scrum 和看板
-
-### 通过学习如何帮助组织更快地进行变革，让自己成为团队中更有价值的一员
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-fundamentals-scrum-kanban-scrumban%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fagile-fundamentals-scrum-kanban-scrumban%2F>  
 
 ## 2.[基本 Scrum:最流行敏捷过程的实用指南](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/?tag=javamysqlanta-20)
 
@@ -74,11 +66,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 这本书也可以帮助你准备 Scrum Master 认证，但是如果你想准备得更好，我也推荐你加入 Udemy 上 Paul Ashun 的 Scrum 认证大师班 。通过 PSM 和在线 scrum 认证的绝佳课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-certification%2F) [## 高级敏捷 Scrum 大师培训:在线认证准备
-
-### 学生怎么说？“我喜欢这门课程。它既快速又容易理解，而且非常完整。谢谢大家。”“谢谢……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-certification%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-certification%2F>  
 
 ## 3.[迈克·科恩的《敏捷评估和规划》](https://www.amazon.com/Agile-Estimating-Planning-first-Text/dp/B005GP91NG/?tag=javamysqlanta-20)
 
@@ -90,11 +78,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 此外，计划扑克是一个很好的主意，你应该在你的团队中尝试一下。这很有趣，有助于项目管理中最棘手的任务评估。我还推荐你参加 Udemy 上的 [**敏捷速成班:敏捷项目管理** t](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) 课程，更好地学习敏捷。它和这本书很相配。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) [## 敏捷速成班:敏捷项目管理；敏捷交付
-
-### 简而言之，我是一名连续创业者、技术人员、生活黑客、专业 PM 和 MBA (x2)。但在内心里，我也是一个…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fagile-crash-course%2F>  
 
 ## 4. [Scrum:用一半的时间做两倍工作的艺术](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/?tag=javamysqlanta-20)
 
@@ -108,11 +92,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 如果你愿意，你也可以把这本书和 David Starr 的 课程上的**[**Scrum Fundamentals 结合起来。顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元。**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fscrum-fundamentals)**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fscrum-fundamentals) [## Scrum 基础
-
-### 本课程介绍了 Scrum 的商业案例，核心 Scrum…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fscrum-fundamentals)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fscrum-fundamentals> ** 
 
 ## **5.[截止日期:一部关于项目管理的小说](https://www.amazon.com/Deadline-Novel-about-Project-Management/dp/0932633390/?tag=javamysqlanta-20)**
 
@@ -126,21 +106,13 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **顺便说一下，如果你对项目管理很认真，我强烈推荐你加入 Coursera 上的 [**谷歌项目管理:专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management) 。这是最受欢迎的 Coursera 项目管理认证之一，由谷歌提供。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management) [## 谷歌项目管理:
-
-### 开始你的项目管理职业生涯。在这个项目中，你将学到一些受欢迎的技能，让你…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-project-management>  
 
 它设计得非常好，内容也是最新的，你会学到很多关于项目实施的有用细节。因为这是一个专业证书，你也可以把它添加到你的简历或 LinkedIn 个人资料中，以展示你的项目管理技能。
 
 你可以单独加入这个证书，或者你可以获得一个[**Coursera Plus subscription**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)n，它允许无限制地访问许多流行的认证、课程和班级。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上是关于学习敏捷开发方法的一些最好的书，比如 Scrum、看板、水晶、精益、冲刺故事和极限编程。你可以挑选自己喜欢的书，但是如果你想要我的推荐，并且对敏捷毫无概念，那么你应该从学习敏捷和 Scrum 的第一本书开始。
 
@@ -165,8 +137,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 感谢阅读这篇文章。如果你喜欢这些书，请与你的朋友和同事分享。如果你有任何学习敏捷的好书，但不在这个列表中，或者有任何问题或反馈，请留下你的评论。
 **p . s .**——如果你更喜欢在线课程，并且你需要一个免费的课程来学习敏捷和项目管理，那么你也可以看看这个为程序员提供的 [**5 个免费敏捷课程的列表**](http://javarevisited.blogspot.sg/2018/01/top-5-free-agile-courses-for-programmers.html) **。它包含来自 Udemy、Pluralsight 和 Coursera 的关于敏捷、Scrum 和项目管理的免费课程。**
 
-[](/javarevisited/10-free-online-courses-to-learn-agile-and-scrum-for-beginners-e028711532ce) [## 10 门免费在线课程，帮助初学者学习敏捷和 Scrum
-
-### 我最喜欢的学习敏捷的免费在线课程，适用于初学者、程序员、开发人员以及新手
-
-medium.com](/javarevisited/10-free-online-courses-to-learn-agile-and-scrum-for-beginners-e028711532ce)**
+</javarevisited/10-free-online-courses-to-learn-agile-and-scrum-for-beginners-e028711532ce> **

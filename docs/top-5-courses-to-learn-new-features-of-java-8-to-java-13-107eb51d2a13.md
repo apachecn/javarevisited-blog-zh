@@ -21,11 +21,7 @@ Java 14(2020 年 3 月):16 个特性
 
 Btw，如果你是初学者，2021 年学习 Java，我建议你加入由 Tim Buchalaka 在 Udemy 上开设的 [**Java 编程大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程，这是深入学习 Java 的最佳课程之一，他还针对 Java 11 和 Java 17 进行了更新。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 17 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udem.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 从 Java 8 到 Java 17 学习 Java 新特性的 10 个最佳在线课程
 
@@ -68,11 +64,7 @@ udem.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offe
 
 用迭代器模式解决的许多问题，现在用 Stream API 带来的模式解决起来要有效得多。但是 Java 8 不仅仅是关于 lambdas、streams 和 collectors，还有一个新的 Java 日期和时间 API，本课程将对此进行介绍。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-8-whats-new) [## Java 8 的新特性
-
-### Java 8 大部分新特性的快速概述。本课程涵盖了 lambda 表达式和流 API，但是…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-8-whats-new) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-8-whats-new>  
 
 ## 3.Java 9 的新特性
 
@@ -82,11 +74,7 @@ Java 9 包含了许多新特性。在本课程中，[**Java 9 的新特性**](ht
 
 完成本课程后，您就可以在自己的项目中充分利用 Java 9 了。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new) [## Java 9 的新特性
-
-### 是时候跟上 Java 9 的发布及其发展了。在本课程中，您将了解…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-whats-new>  
 
 ## 4.Java 10 的新特性:局部变量类型推理
 
@@ -96,11 +84,7 @@ Java 10 仅比 Java 9 晚发布 6 个月。在本课程[**Java 10 的新特性:�
 
 最后，您将发现其他新功能，如 G1 垃圾收集器的性能改进、应用程序类数据共享的引入以及 JDK 10 的 Docker 意识的提高。完成本课程后，您就可以在自己的项目中充分利用 Java 10 了。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-java-10-local-variable-type-inference) [## Java 10 的新特性:局部变量类型推理
-
-### 课程概述大家好，我是 Sander Mak，欢迎来到我的课程“Java 10 的新特性”。我是一名研究员…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-java-10-local-variable-type-inference) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-java-10-local-variable-type-inference>  
 
 ## 5.Sander Mak 的 Java 11 新特性
 
@@ -110,11 +94,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 还有新的库和语言特性可以探索，比如全新的`HttpClient` API。最后，您将了解此版本中的性能和安全性增强。完成本课程后，您就可以在自己的项目中充分利用 Java 11 了。
 
- [## Java 11 的新特性:长期支持
-
-### 本课程概述了 Java 11 中最重要的特性，例如新的库和语言…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-11-whats-new) 
+  
 
 ## 6.Sander Mak 的《Java 12 的新特性》
 
@@ -124,11 +104,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 接下来，您将发现一个名为 Switch Expressions 的预览 Java 语言特性。最后，您将探索如何使用 JMH，这是一个 Java 代码的微型基准测试工具，在 JDK 12 中被大量使用。完成本课程后，您就可以在自己的项目中充分利用 Java 12 了。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-12-whats-new) [## Java 12 的新特性
-
-### 本课程概述了 Java 12 中最重要的特性，例如预览语言特性，如…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-12-whats-new) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-12-whats-new>  
 
 ## 7.Sander Mak 的《Java 13 的新特性》
 
@@ -140,15 +116,11 @@ Java 13 是 2019 年 Java 的第二个版本，没错就在 Java 12 发布 6 个
 
 完成本课程后，您将可以在自己的项目中充分利用 Java 13。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-in-java-13) [## Java 13 的新特性
-
-### 本课程概述了 Java 13 中最重要的特性，如文本等预览语言特性…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-in-java-13) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fwhats-new-in-java-13>  
 
 你可以看到所有这些课程都来自 Pluralsight，你只需要一个会员就可以访问它们，你不需要购买单独的课程。顺便说一句，如果你没有 Pluralsight 会员，那么这可能是获得一个会员来促进你学习的最佳时机。
 
-他们现在对他们的年度和高级会员提供 33%的折扣[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**，这是非常罕见的。如果您已经拥有 [Pluralsight 会员资格](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)，现在也是以折扣价续订的好时机。**
+他们现在对他们的年度和高级会员提供 33%的折扣<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>**，这是非常罕见的。如果您已经拥有 [Pluralsight 会员资格](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)，现在也是以折扣价续订的好时机。**
 
 **[![](img/0964d672cd6974b638547afca67b4045.png)](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing)**
 
@@ -156,11 +128,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **对于那些喜欢购买课程而不是会员资格的人，我仍然可以推荐一门课程，它包含了 JDK 从 Java 8 到 Java 12 的所有变化，它是 Udemy 上的 [**Java 新特性(Java 12，Java 11，Java 10，Java9 & Java8)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjava-new-features%2F) 课程。它并没有涵盖 Java 13，但仍然是学习其他特性的好材料。你可以在每个月举行的几次 Udemy 闪购中以不到 10 美元的价格买到它。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjava-new-features%2F) [## Java 新特性(Java 12、Java 11、Java 10、Java9 和 Java8)
-
-### 您是否正在寻找一个单一的平台来学习 Java 7、Java 8、Java 9、Java……
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjava-new-features%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fjava-new-features%2F>  
 
 以上是一些**最好的课程，让你了解从 JDK 8 到 JDK 17 引入的 Java 新特性。**这些课程规模小且切题，这意味着你可以在短时间内完成它们，并且只学习有意义和必要的功能，而不是学习所有内容。
 
@@ -168,11 +136,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 对于初学者，我推荐何塞·波尔蒂利亚和 Udemy 团队的课程，如 [**完整的 Java 开发训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-java-development-bootcamp%2F) 。它是为初学者设计的，不仅教你 Java，还教你编程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-java-development-bootcamp%2F) [## 完整的 Java 开发训练营
-
-### Java 是最常用的编程语言之一。它简单易学，可以在任何机器上运行。您可以将 Java 用于…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-java-development-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-java-development-bootcamp%2F>  
 
 您可能喜欢的其他**编程文章**
 
@@ -186,8 +150,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P. S. —** 如果你是初学者，2023 年开始学习 Java，我建议你加入 Tim Buchalaka 在 [Udemy](https://medium.com/u/b32aa0132f1b?source=post_page-----3f0b2207dfc4----------------------) 开设的 [**Java 编程大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程，这是深入学习 Java 的最佳课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java Masterclass(针对 Java 17 进行了更新)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> **

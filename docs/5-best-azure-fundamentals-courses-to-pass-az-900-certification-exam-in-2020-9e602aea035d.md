@@ -74,11 +74,7 @@
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[微软 Azure —初学者指南+ AZ-900 准备](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-beginners-guide%2F)
 
@@ -171,16 +167,8 @@ whiz labs 上的微软 Azure Fundamentals 或 AZ-900 模拟测试也不例外。
 
 **P. S.** —如果你是 Azure 云世界的新手，正在寻找一些学习云计算的免费课程，那么你也可以在 2023 年使用 Microsoft Azure 查看这个 [**免费云计算课程列表。**](https://www.java67.com/2020/07/5-free-courses-to-learn-microsoft-azure-cloud.html)
 
-[](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531) [## 2023 年我最喜欢的免费微软 Azure 云课程初学者学习
-
-### 大家好，云计算是软件开发人员的必备技能，但云计算也随之而来…
-
-medium.com](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531) 
+</javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531>  
 
 另外，如果你感觉亲切，你也可以在 Udemy 上购买我的 [**题目式 AZ-900 模拟试题**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-practice-test-azure-fundamentls-certification-exam%2F) 。它包含 250 多个高质量的问题，根据 AZ-900 课程分为 5 个主题，并为您提供全面的练习。你可以利用考试来找出你的强项和弱项，并在实际考试前加以改进。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-practice-test-azure-fundamentls-certification-exam%2F) [## 2023 AZ-900 微软 Azure 基础考试模拟测试
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-practice-test-azure-fundamentls-certification-exam%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-practice-test-azure-fundamentls-certification-exam%2F> 

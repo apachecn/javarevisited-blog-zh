@@ -162,7 +162,7 @@ Java 最初是作为替代 C++的轻量级解决方案而创建的，现在已�
 
 ![](img/0ef69be3157d63c46bc1bda4d8e2d69b.png)
 
-[](http://www.modulecounts.com/)**—Java vs node . js 的开发**
+<http://www.modulecounts.com/>**—Java vs node . js 的开发**
 
 *目前，根据请求数量，以及我自己的感觉，node.js 已经超过 Java 了。JS 正在积极开发，并将继续这样做。但是，目前还没有潜在的竞争者可以取代 Java 或 node.js。*
 

@@ -46,11 +46,7 @@ REST API 使用 HTTP 方法来执行操作。一些不修改服务器端资源�
 
 甚至可以使用多个 PUT 请求来更新服务器上的资源，并且将给出相同的最终结果。你可以参加 Pluralsight 的[**HTTP Fundamentals**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fxhttp-fund)课程，学习更多关于 HTTP 协议和一般 HTTP 的幂等方法。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fxhttp-fund) [## HTTP 基础知识
-
-### 初学者 2012 年 2 月 17 日 2h 50m 描述 HTTP 是 web 的协议，本课程将从 web…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fxhttp-fund) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fxhttp-fund>  
 
 ## 5.REST 是可伸缩的和/或可互操作的吗？
 
@@ -128,8 +124,4 @@ REST 通常是不安全的，但是您可以使用 Spring Security 来保护它�
 
 **附言——**如果你是春天的新手，正在寻找最好的春天课程来建立你的春天概念，那么我强烈推荐你 Udemy 上的 [**初学春天和冬眠(包括 Spring Boot)**](https://click.linksynergy.com/link?id=JVFxdTr9V80&offerid=323058.647428&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fspring-hibernate-tutorial%2F) 课程。这一门课程涵盖了春季、冬季和 Spring Boot 这三个季节。
 
-[](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244) [## 2023 年学习的 8 门最佳 Spring 和 Hibernate 在线培训课程
-
-### 这些是 Java 程序员学习 Spring、Spring Boot 和 Hibernate 的最佳在线培训课程。
-
-medium.com](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244)
+</javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244> 

@@ -12,11 +12,7 @@
 
 在我的`TodoListApplication`的第三次迭代中，我添加了一个带有表情符号`String`的`ToDoCategory` enum，并用它来填充一个 JavaFX `ComboBox`。
 
-[](https://donraab.medium.com/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65) [## 在 JavaFX 中试验 Java 枚举、表情符号和组合框
-
-### 了解如何在 JavaFX 组合框中使用枚举和表情符号。
-
-donraab.medium.com](https://donraab.medium.com/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65) 
+<https://donraab.medium.com/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65>  
 
 在本系列的第三篇博客的结尾，我说我会在下一篇博客中解释如何让 ToDoList 持久化。我终于来了，做我说过要做的事。这是我第一次尝试使用带有 [Eclipse 集合](https://github.com/eclipse/eclipse-collections)、Java 日期时间和 Java 记录的 [Jackson](https://github.com/FasterXML/jackson) 库。我边走边学习，并打算与你，读者，分享这种学习，同时它也发生在我身上。很有可能有人会看到我在这里所做的，并给我宝贵的反馈意见，告诉我如何改进。
 
@@ -30,11 +26,7 @@ donraab.medium.com](https://donraab.medium.com/experimenting-with-java-enums-emo
 
 Jackson JSON 库是一个非常棒的库。你可以在这里找到更多信息。
 
-[](https://github.com/FasterXML/jackson) [## GitHub-faster XML/Jackson:Jackson 项目的主门户页面
-
-### 这是杰克逊项目的主页。2022 年 11 月 2 日:杰克逊的 AdaLogics 安全审计发布-见…
-
-github.com](https://github.com/FasterXML/jackson) 
+<https://github.com/FasterXML/jackson>  
 
 你也可以通过关注 Medium 上的 [@cowtowncoder](https://medium.com/u/b9b3ec1cfbf7?source=post_page-----8a4b31917c09--------------------------------) 来了解杰克逊的最新消息。
 
@@ -91,27 +83,15 @@ module example.todolist {
 
 让我陷入循环的是`jackson.datatype.eclipse.collections`的模块名不一致。我不得不去 Jackson GitHub 网站查找模块的名称。
 
-[](https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/eclipse-collections/src/moditect/module-info.java) [## Jackson-data types-collections/module-info . Java at 2.15 faster XML/Jackson-data types-collections
-
-### 包含各种面向集合的数据类型库的 Jackson 项目:Eclipse Collections，Guava，HPPC…
-
-github.com](https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/eclipse-collections/src/moditect/module-info.java) 
+<https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/eclipse-collections/src/moditect/module-info.java>  
 
 不幸的是，这遵循了一个不同的模块命名惯例，而不是 Google Guava 的模块，它包含在同一个项目中。
 
-[](https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/guava/src/moditect/module-info.java) [## Jackson-data types-collections/module-info . Java at 2.15 faster XML/Jackson-data types-collections
-
-### 包含各种面向集合的数据类型库的 Jackson 项目:Eclipse Collections，Guava，HPPC…
-
-github.com](https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/guava/src/moditect/module-info.java) 
+<https://github.com/FasterXML/jackson-datatypes-collections/blob/2.15/guava/src/moditect/module-info.java>  
 
 看起来，在 jackson-datatypes-collections 中，番石榴和 HPPC 遵循一个 JPMS 模块命名约定，而 Eclipse 集合和 PCollections 遵循另一个命名约定。
 
-[](https://github.com/FasterXML/jackson-datatypes-collections) [## GitHub-faster XML/Jackson-data types-collections:包含各种…
-
-### 这是一个多模块伞式项目，用于各种 Jackson 数据类型模块，以支持第三方收藏库…
-
-github.com](https://github.com/FasterXML/jackson-datatypes-collections) 
+<https://github.com/FasterXML/jackson-datatypes-collections>  
 
 ## 为 Json 序列化对 ToDoItem 进行更改
 
@@ -675,8 +655,4 @@ module example.todolist {
 *   [Java 解析 JSON 时如何忽略未知属性？](http://javarevisited.blogspot.sg/2018/01/how-to-ignore-unknown-properties-parsing-json-java-jackson.html#axzz56KqU1RoL)
 *   [如何从 Spring MVC 控制器返回 JSON？](https://javarevisited.blogspot.com/2022/05/how-to-return-json-xml-or-thymeleaf-.html)
 
-[](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html) [## 在 Java 中将 JSON 字符串解析为对象的 3 种方法[Jackson、Gson 和 JSON——简单的例子]
-
-### Java web 应用程序，尤其是处理 RESTful web 服务的应用程序的常见任务之一是解析…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html)
+<https://javarevisited.blogspot.com/2022/03/3-examples-to-parse-json-in-java-using.html> 

@@ -156,8 +156,4 @@
 
 **【p . s .】**——如果你真的想在第一次尝试中通过 ITIL 4 基础认证，那么我建议你解决尽可能多的模拟测试。我已经分享了一个但是如果你需要更多，你也可以看看 Subrata Das 的这个 [**ITIL 4 基础练习测试(240 题)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitil-4-foundation-practice-exams-o%2F) ，里面有 240 个问题，有详细的解释。
 
-[](https://javarevisited.blogspot.com/2020/07/top-5-courses-to-crack-itil-foundation-certification.html#axzz6mtjws1ez) [## 2023 年前 5 名 ITIL 基础认证课程和实践测试-最佳
-
-### 大家好，如果你是技术支持或 IT 服务管理专业人员，想通过以下考试来验证你的技能…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/07/top-5-courses-to-crack-itil-foundation-certification.html#axzz6mtjws1ez)
+<https://javarevisited.blogspot.com/2020/07/top-5-courses-to-crack-itil-foundation-certification.html#axzz6mtjws1ez> 

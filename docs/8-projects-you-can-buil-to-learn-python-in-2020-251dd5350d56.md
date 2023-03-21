@@ -36,11 +36,7 @@ image_credit — [钻研系统设计面试](https://www.educative.io/collection/
 
 这篇 Medium.com 的文章作者是 randerson112358
 
-[](/@randerson112358/build-a-virtual-assistant-using-python-2b0f78e68b94) [## 使用 Python 构建虚拟助手
-
-### 在这篇文章中，我将向你展示如何使用 Python 编程语言来构建你自己的虚拟助手！一个…
-
-medium.com](/@randerson112358/build-a-virtual-assistant-using-python-2b0f78e68b94) 
+</@randerson112358/build-a-virtual-assistant-using-python-2b0f78e68b94>  
 
 ## 2.建造一个侦察扫描仪
 
@@ -124,11 +120,7 @@ image_credit — [参加系统设计面试](https://www.educative.io/collection/
 10.  创建地理编码 web 应用程序
 11.  使用 Python 根据计算机事件安排程序。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-python-mega-course%2F) [## Python 大型课程:构建 10 个真实世界的应用程序
-
-### Python Mega 课程是你今天在网上能找到的最实用的课程。到目前为止，超过 140，000 名学生已经…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-python-mega-course%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-python-mega-course%2F>  
 
 如果你真的想深入学习 Python，这里有更多免费和付费的资源供你进一步学习
 
@@ -148,24 +140,8 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **p . s .**——如果你更喜欢互动阅读和边做边学，而不是看书或看视频，那么你也可以看看 [**Codecademy 的学习 Python 3 课程**](https://bit.ly/learnpython3codecademy) ，这是一门边做边学 Python 的很棒的课程。这是他们职业套装的一部分，但值得学习。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上针对 Python 编程语言的最全面、最直接的课程！你是否…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomplete-python-bootcamp%2F>  
 
 ## 您可能喜欢的其他媒体文章:
 
- [## 我最喜欢在线学习的 SQL 和数据库课程
-
-### 大家好，如果你是一名计算机科学毕业生或编程新手，并且对学习感兴趣…
-
-medium.com](/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
+  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>  </swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf> 

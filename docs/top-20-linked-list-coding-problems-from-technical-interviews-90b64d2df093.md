@@ -14,7 +14,7 @@
 
 它还会让你成为一名更好的程序员，因为你在解决这些问题的同时发展了逻辑和编码意识，这对你的编程生涯大有帮助。
 
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。您可以在 这里**加入介质**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。您可以在 这里**加入介质**</@somasharma_81597/membership>
 
 # **什么是链表数据结构？**
 
@@ -85,7 +85,7 @@
 17.  **如何反转一个链表？( [**解**](http://www.java67.com/2016/07/how-to-reverse-singly-linked-list-in-java-example.html) **)****
 18.  **如何在没有递归的情况下反转一个单链表？( [**解**](http://javarevisited.blogspot.sg/2017/03/how-to-reverse-linked-list-in-java-using-iteration-and-recursion.html) **)****
 19.  ****未排序链表中的重复节点是如何去除的？(** [**)解**](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) **)****
-20.  ****如何求单链表的长度？(**[](http://javarevisited.blogspot.sg/2016/05/how-do-you-find-length-of-singly-linked.html)****)******
+20.  ****如何求单链表的长度？(**<http://javarevisited.blogspot.sg/2016/05/how-do-you-find-length-of-singly-linked.html>****)******
 
 ****这些问题将帮助你发展解决问题的技能，并提高你对链表数据结构的了解。****
 
@@ -136,26 +136,10 @@
 
 > ******附言**——如果你需要一些免费的资源，你可以查看 Java 中的[Data Structures for Noobs](http://v)开始准备。****
 
-****[](http://bit.ly/2hhloDL) [## 免费数据结构教程——面向 Noobs 的 Java 数据结构(精简版)
-
-### 本课程将向您介绍以下数据结构单链表双链表，那么为什么还要…
-
-bit.ly](http://bit.ly/2hhloDL) 
+****<http://bit.ly/2hhloDL>  
 
 ## 你可能喜欢的其他算法文章
 
-[](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
+</free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a>  </hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>  </hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927>  
 
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [## 50+数据结构和算法程序员面试问题
-
-### 有很多计算机科学毕业生和程序员申请编程、编码和软件…
-
-medium.com](/hackernoon/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) [## 10 门数据结构、算法和编程课程，破解任何编码面试
-
-### 许多初级开发人员梦想在大型科技公司工作，但是，说实话，获得你的…
-
-medium.com](/hackernoon/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)****
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>****

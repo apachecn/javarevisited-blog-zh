@@ -32,19 +32,11 @@ java 是一种现代编程语言，支持面向对象编程( [**)和面向对象
 
 [**苏珊·h·罗杰**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fsusan-rodger) **:** 她在普渡大学获得了计算机科学领域的博士和硕士学位，她是达克大学计算机科学系的教授，从事过许多不同的计算机项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fsusan-rodger) [## 苏珊·h·罗杰，讲师| Coursera
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fsusan-rodger>  
 
-### 苏珊·h·罗杰是杜克大学计算机科学系的实践教授。她收到了她的…
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fowen-astrachan>****:**他在这所大学任教超过 15 年，是达克大学计算机科学系的讲师，拥有布朗大学的计算机科学硕士学位。**
 
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fsusan-rodger) 
-
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fowen-astrachan)****:**他在这所大学任教超过 15 年，是达克大学计算机科学系的讲师，拥有布朗大学的计算机科学硕士学位。**
-
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fowen-astrachan) [## Owen Astrachan，讲师| Coursera
-
-### Owen Astrachan 是杜克大学计算机科学系的实践教授。他教过…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fowen-astrachan) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fowen-astrachan>  
 
 **Owen astra chan:**Duck 大学最优秀的教授之一，在教授学生计算机科学方面拥有超过 25 年的经验，他帮助创建了一些与计算机科学相关的项目。
 
@@ -124,11 +116,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 Coursera 广受欢迎的 **Java 编程和软件工程基础专业**的全部内容。这篇文章回顾了学习编程概念和如何像计算机一样思考的最伟大的课程之一，以及日渐流行的 Java 语言，现在你离开始你的新事业又近了一步。
 
@@ -154,8 +142,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你热衷于学习 Java，但负担不起这门课程，并在寻找免费的在线培训课程来学习 Java，那么我强烈推荐你在 Udemy 上查看 [**Java 完全初学者教程(免费)**](http://bit.ly/2zO3AHT) 。这个课程是完全免费的，已经有 100 多万开发人员加入了这个课程来免费学习 Java。
 
-[](http://bit.ly/2zO3AHT) [## 免费 Java 教程-免费 Java 教程-完全初学者学习 Java
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/2zO3AHT)**
+<http://bit.ly/2zO3AHT> **

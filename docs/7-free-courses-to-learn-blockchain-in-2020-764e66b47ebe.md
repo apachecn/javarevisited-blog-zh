@@ -138,11 +138,7 @@
 
 如果你能负担得起，那么这是一个伟大的投资，因为你可以获得 5000 多门最新技术的课程，但如果你不能，不要失望。你仍然可以通过报名参加为期 10 天的免费试听来免费学习这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) [## Pluralsight 订阅计划和定价:按月和按年
-
-### 多重视野要多少钱？点击此处了解月度和年度订购计划的价格。不要把你的技术技能放在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing>  
 
 ## [7。edX 的区块链技术](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fblockchain-technology)
 
@@ -194,10 +190,6 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **p . s .**——如果你只是想追求一门课程，那么你也可以看看更全面的 [**区块链 A-Z:学习如何建立你的第一个区块链**](http://bit.ly/2F70NeE) 是最好的开始课程。
 
-[](http://bit.ly/2F70NeE) [## 区块链 A-Z:了解如何构建您的第一个区块链
-
-### 学习关键的区块链概念、直觉和实践培训，让你快速掌握所有加密技术…
-
-bit.ly](http://bit.ly/2F70NeE) 
+<http://bit.ly/2F70NeE>  
 
 **P.P.S.** —如果你正在寻找一个区块链认证来启动你在分布式平台技术方面的职业生涯，那么我强烈推荐 [**企业区块链专业认证**](https://www.shareasale.com/r.cfm?b=1713885&u=880419&m=105464&urllink=&afftrack=) 。他们现在也在打折。您可以使用代码 **BCHAIN20** 获得 **30%的折扣**。

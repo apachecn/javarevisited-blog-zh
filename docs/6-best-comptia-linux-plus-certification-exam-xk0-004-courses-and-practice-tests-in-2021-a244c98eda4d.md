@@ -130,11 +130,7 @@ Udemy 上的这个课程可能是最大的课程，它用 17 个小时的时间�
 
 如果你更喜欢书籍，那么你也可以将这些在线课程与类似于[**CompTIA Linux+Powered by Linux Professional Institute 学习指南**](https://www.amazon.com/CompTIA-Linux-Powered-Professional-Institute/dp/1119021219?tag=javamysqlanta-20)Christine Bresnahan(作者)、Richard Blum(作者)的书籍结合起来，进行更好的准备。这是极力推荐的 CompTIA Linux+认证书籍
 
-[](https://www.amazon.com/CompTIA-Linux-Powered-Professional-Institute/dp/1119021219?tag=javamysqlanta-20) [## CompTIA Linux+由 Linux Professional Institute 提供支持学习指南:考试 LX0-103 和考试 LX0-104…
-
-### CompTIA Linux+由 Linux Professional Institute 提供支持学习指南:考试 LX0-103 和考试 LX0-104 (Comptia Linux +…
-
-www.amazon.com](https://www.amazon.com/CompTIA-Linux-Powered-Professional-Institute/dp/1119021219?tag=javamysqlanta-20) 
+<https://www.amazon.com/CompTIA-Linux-Powered-Professional-Institute/dp/1119021219?tag=javamysqlanta-20>  
 
 许多人现在在他们的笔记本电脑或台式电脑上使用 Linux 作为他们的默认操作系统，运行数十亿部手机和平板电脑设备的 android 实际上是内置在 Linux 内核上的，如果你想学习这些技能，你应该检查一下 CompTIA Linux+认证。
 
@@ -162,8 +158,4 @@ www.amazon.com](https://www.amazon.com/CompTIA-Linux-Powered-Professional-Instit
 
 **【p . s .】**—如果您是 Linux 新手，并且正在寻找免费的在线培训课程来学习 Linux，那么我也推荐您在 Udemy 上查看这个 [**Red Hat Enterprise Linux 技术概述(免费)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fred-hat-enterprise-linux-technical-overview%2F) 。它是由 Red Hat Inc .创建的，完全免费，超过 5 万名学生已经加入了这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fred-hat-enterprise-linux-technical-overview%2F) [## 免费红帽企业 Linux (RHEL)教程-红帽企业 Linux 技术概述
-
-### 红帽培训和认证缩小了你所需要的和你所知道的之间的差距。您是否需要优化…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fred-hat-enterprise-linux-technical-overview%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fred-hat-enterprise-linux-technical-overview%2F> 

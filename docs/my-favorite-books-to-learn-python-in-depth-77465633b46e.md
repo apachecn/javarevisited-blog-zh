@@ -70,11 +70,7 @@ Eric Matthes 的《Python 速成课程:基于项目的编程实践入门》是�
 
 如果你觉得 Coursera 的课程有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera 的订阅计划
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 这种单次订阅可以让你无限制地访问他们最受欢迎的**课程**、**专业**、**专业证书**和**指导项目**。它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了无限的证书。
 
@@ -135,24 +131,8 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你更喜欢互动阅读和边做边学，而不是阅读书籍或观看视频，那么你也可以看看[**CodeCademy Learn Python 3 课程**](https://bit.ly/learnpython3codecademy) ，这是一门边做边学 Python 的很棒的课程。这是他们职业套装的一部分，但值得学习。
 
-[](https://bit.ly/learnpython3codecademy) [## 学习 Python 3 | Codecademy
-
-### 学习世界上最流行的编程语言的最新和最棒的版本！
-
-codecademy.com](https://bit.ly/learnpython3codecademy) 
+<https://bit.ly/learnpython3codecademy>  
 
 如果你需要更多的选择，你可以查看这些中型文章:
 
-[](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 2023 年学习 Python 的 10 大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56) [## 2023 年学习 Python 可以搭建的 8 个项目
-
-### 大家好，今天，我将分享一些基于项目的免费课程，你们不仅可以用它们来建立…
-
-medium.com](/javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56)
+</better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec>  </swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf>  </javarevisited/8-projects-you-can-buil-to-learn-python-in-2020-251dd5350d56> 

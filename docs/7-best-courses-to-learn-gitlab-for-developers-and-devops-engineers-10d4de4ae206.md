@@ -8,7 +8,7 @@
 
 image_credit — Udemy
 
-大家好，如果你想在 2023 年学习 GitLab 并寻找最好的在线课程，那么你来对地方了。之前，我已经分享了经验丰富的程序员的最佳 DevOps 课程[](https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html#axzz6hB6A1qlY)**，今天，我将分享 DevOps 工程师的最佳 GitLab 课程。**
+大家好，如果你想在 2023 年学习 GitLab 并寻找最好的在线课程，那么你来对地方了。之前，我已经分享了经验丰富的程序员的最佳 DevOps 课程<https://javarevisited.blogspot.com/2018/09/10-devops-courses-for-experienced-java-developers.html#axzz6hB6A1qlY>**，今天，我将分享 DevOps 工程师的最佳 GitLab 课程。**
 
 ***披露——顺便说一句，其中一些链接是附属链接，如果你使用我的链接加入这些课程，我可能会得到报酬。***
 
@@ -16,7 +16,7 @@ image_credit — Udemy
 
 **像高盛、英伟达、西门子这样的公司正在使用 GitLab 创建一个端到端的 DevOps 平台。你可以像 [Github](https://javarevisited.blogspot.com/2019/05/10-free-websites-to-learn-git-online.html#axzz6q75zU54y) 一样做源代码管理，像 [Jenkins](https://javarevisited.blogspot.com/2018/09/top-5-jenkins-courses-for-java-and-DevOps-Programmers.html) 和 TeamCity 一样做 CI/CD，像 [Ansible](/javarevisited/5-best-ansible-courses-for-devops-engineers-cc87692fdf52) 和 [Puppet](/javarevisited/7-best-puppet-online-courses-for-system-administrators-and-devops-engineers-889b5ab8aeca) 一样配置基础设施，等等。**
 
-**如果你的目标是在 2023 年成为一名[](/hackernoon/the-2018-devops-roadmap-31588d8670cb)**devo PS 工程师，那么学习 GitLab 可能会改变游戏规则，因为有 GitLab 经验的人不多，而对拥有 GitLab 技能的 IT 专业人士的需求很大。****
+**如果你的目标是在 2023 年成为一名</hackernoon/the-2018-devops-roadmap-31588d8670cb>**devo PS 工程师，那么学习 GitLab 可能会改变游戏规则，因为有 GitLab 经验的人不多，而对拥有 GitLab 技能的 IT 专业人士的需求很大。****
 
 ****如果你已经在考虑在 2023 年学习 GitLab，并寻找*最好的 Gitlab CI/CD 课程*，那么你来对地方了。这份名单包括来自 [Udemy](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F) 、 [Pluralsight](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 和 [LinkedIn Learning](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 等网站的最佳 GitLab 课程，这些课程被数百万开发者用来学习技术技能。****
 
@@ -174,8 +174,4 @@ GitLab 帮助高盛每两周进行一次构建，到每天成千上万次构建�
 
 ******P. S. —** 如果你是 DevOps 世界的新手，并且正在寻找通用的 DevOps 课程来开始你的 DevOps 之旅，那么你也可以看看[**devo PS——入门课程**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-devops%2F) ，这是由[kode cloud](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fkodekloud%2F)提供的 Udemy 免费课程，已经有超过 50，000 人加入了这个课程，你也可以加入。它是免费的。****
 
-****[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-devops%2F) [## 免费 DevOps 教程- DevOps -入门课程
-
-### Mumshad 是一名 IT 解决方案架构师，擅长云计算、自动化和开发运维。他是…的作者之一
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-devops%2F)****
+****<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-devops%2F> ****

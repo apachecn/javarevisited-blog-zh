@@ -22,11 +22,7 @@ React 的主要目的是成为快速、可伸缩和简单的 UI 应用程序，�
 
 顺便说一句，如果你喜欢从 Udemy 课程中学习，那么我强烈推荐你加入 Udemy 上 Maximillian Schwarzmuler 的[**React——完整指南(包括钩子、React 路由器、Redux)**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 课程。在线学习 React 的最好和最新的课程之一，你可以在 Udemy sales 上只花 9.9 美元。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 它在 20e 年 5 月被完全更新和重新录制——它教授 React 的最新版本…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F>  
 
 # 从初学者到高级 Web 开发人员的 10 个最佳 React.js 课程
 
@@ -150,11 +146,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 如果你还没有 [Pluralsight 会员资格](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)，我鼓励你去办一个，因为它可以让你访问他们 7000 多门关于所有最新主题的在线课程，比如前端和后端开发、机器学习等。它还包括交互式测验、练习和最新的认证材料。他们还有 10 天的免费试用期，你可以用它来试用第一批课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 刚刚通过#思科 DEVASC 200-901 考试！考试很难，但这是一次很棒的经历。我很高兴能成为……
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 以上就是 Pluralsight 上的 **best React.js 课程。一旦你完成了这些，你就学会了构建一些重要的应用程序。因此，这些因素的组合将使您处于开始开发 React 应用程序的正确位置。你不会成为专家，但你将能够开发应用程序。在你可能喜欢的课程
 
@@ -175,8 +167,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 另外，如果你喜欢 Udemy 的课程，我还建议你去看看 Udemy 网站上 Maximillian Schwarzmuler 的[**React——完全指南(包括钩子、React 路由器、Redux)**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 课程。这个长达 48 小时的课程是在线学习 React 的最佳和最新课程之一，您只需在 Udemy sales 上支付 9.9 美元。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 它在 2023 年 5 月被完全更新和重新录制——它教授 React 的最新版本…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F> 

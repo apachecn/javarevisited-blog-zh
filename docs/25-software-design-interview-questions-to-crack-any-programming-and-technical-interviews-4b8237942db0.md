@@ -12,11 +12,7 @@
 
 我有自己的问题列表，这些问题是我从与朋友和同事的各种采访中收集的，但当我偶然发现关于教育的 [**探索系统设计采访**](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 课程时，我需要更多的问题来写这篇文章。
 
-[](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224>  
 
 这就像是天赐的资源，因为它不仅给了你很多系统设计问题，还提供了解决这些问题所需的所有知识和工具。
 
@@ -30,11 +26,7 @@ www.educative.io](https://www.educative.io/courses/grokking-the-system-design-in
 
 只有当你有一些编码经验和计算机科学和软件设计的基础知识时，这种方法才是最好的。如果你完全是这方面的初学者，那么我建议你首先从基础课程开始学习，比如 Coursera 上的 [**Java 编程:软件设计原理**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) 或者教育团队本身的 [**Web 应用&软件架构 101**](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) 。
 
-[](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) [## 网络应用和软件架构 101 -互动学习
-
-### 本课程是网络应用和软件架构的基础课程。它会带您一步一步地了解不同的组件…
-
-www.educative.io](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224) 
+<https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224>  
 
 本课程不仅会教你如何使用 Java 和多个类来解决现实世界中的问题，还会教你软件设计，软件设计不仅仅是编码，还包括逻辑思维和设计，这对于成为一名成功的软件开发人员非常重要。
 
@@ -64,11 +56,7 @@ www.educative.io](https://www.educative.io/courses/web-application-software-arch
 
 如果你需要复习数据结构，那么你可以查看 Java 课程中的 [**数据结构和算法，如果你觉得卡住了，你可以在这里查看我的解决方案。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-data-structure-algorithms-with-java-interview%2F)
 
-[](https://www.udemy.com/course/learn-data-structure-algorithms-with-java-interview/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-swb05MQNQKoCJQSIsLN1.g&LSNPUBID=JVFxdTr9V80) [## 学习数据结构和算法:赢得编码面试
-
-### 课程评级是根据单个学生的评级和各种其他信号计算的，如评级年龄和…
-
-www.udemy.com](https://www.udemy.com/course/learn-data-structure-algorithms-with-java-interview/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-swb05MQNQKoCJQSIsLN1.g&LSNPUBID=JVFxdTr9V80) 
+<https://www.udemy.com/course/learn-data-structure-algorithms-with-java-interview/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-swb05MQNQKoCJQSIsLN1.g&LSNPUBID=JVFxdTr9V80>  
 
 **5。如何设计一个像 Pastebin 这样的网站？Pastebin 允许你粘贴文本或代码，然后在任何你想要的地方分享代码的链接。这不是一个在线代码编辑器，但你可以用它来存储任何类型的文本。**
 
@@ -93,11 +81,7 @@ Instagram 是一个照片共享应用程序，它提供了一些自定义滤镜�
 
 **如果你需要一些提示，那么我建议你去 Udemy 上查看 [**摇摆系统设计课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frocking-system-design%2F) ，在那里你会找到一个完整的案例研究来解决这个问题。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpreparing-for-system-design-interviews%2F) [## 准备系统设计面试
-
-### 系统设计面试在大型软件公司非常普遍。它们不同于编码采访或数据…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpreparing-for-system-design-interviews%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpreparing-for-system-design-interviews%2F> ** 
 
 ****9。你如何设计一个 Twitter 的克隆？Twitter 是一种流行的信息服务，可以让你向你所有的关注者发布信息。你发微博，你的追随者看到这些信息，他们可以喜欢或转发。****
 
@@ -109,11 +93,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **可以去看看这个[系统设计课程](https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html)学习如何处理这类问题。Alex Xu 已经解释了如何设计 YouTube，作为他的 [**系统设计面试课程**](https://bytebytego.com?fpr=javarevisited) 的一部分，你可以免费访问这一课。**
 
-**[](https://bytebytego.com/courses/system-design-interview/design-youtube?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com/courses/system-design-interview/design-youtube?fpr=javarevisited)** 
+**<https://bytebytego.com/courses/system-design-interview/design-youtube?fpr=javarevisited> ** 
 
 **11。如何设计一台 ATM 机？ATM 机允许用户存取现金。它还允许用户查看自己的余额。你如何设计这样一个系统？你面临的主要挑战是什么？**
 
@@ -126,11 +106,7 @@ bytebytego.com](https://bytebytego.com/courses/system-design-interview/design-yo
 
 **你可以先自己尝试这个问题，但是如果你卡住了，你也可以通过指数 加入这个 [**系统设计课程，看看这个问题以及其他流行的系统设计问题的解决方案，比如设计 YouTube、抖音、Facebook Messenger 等等。**](https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2)**
 
-**[](https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2) [## 系统设计面试课程跟踪指数
-
-### 本专题讲座提供了最常见系统设计问题的深入演练和视频…
-
-www.tryexponent.com](https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2)** 
+**<https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2> ** 
 
 ****15。如何设计脸书的新闻订阅？你会用什么样的算法？**
 新闻订阅是脸书的重要组成部分，它让用户可以看到他周围发生的事情，包括朋友和家人，他喜欢的页面，他关注的群体，当然还有脸书的广告。**
@@ -200,15 +176,7 @@ www.tryexponent.com](https://www.tryexponent.com/courses/system-design-interview
 8.  **[**网络应用&软件架构 101**](https://www.educative.io/courses/web-application-software-architecture-101?affiliate_id=5073518643380224)**
 9.  **探索系统设计面试教育课程**
 
-**[](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224) [](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html) [## 如何准备系统设计面试？概念、实践和资源
-
-### 这是我如何进入 FAANG 的，软件工程就业市场火了！尤其是如果你有几年的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html) 
+**<https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=5073518643380224>  <https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html>  
 
 你可能喜欢的其他 Java 设计模式教程
 
@@ -229,10 +197,6 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/how-to-pr
 
 **P.S.-** 如果你正在寻找一些学习设计模式和软件架构的免费课程，我也建议你去看看 Udemy 上 John Purcell 的 [**Java 设计模式和架构**](http://bit.ly/java-design-patterns-tutorial) 课程。这是完全免费的，你需要做的就是创建一个 Udemy 帐户来访问这个课程。
 
-[](http://bit.ly/java-design-patterns-tutorial) [## 免费 Java 教程——Java 设计模式和架构
+<http://bit.ly/java-design-patterns-tutorial>  
 
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/java-design-patterns-tutorial) 
-
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)**
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以**在这里加入介质**</@somasharma_81597/membership>**

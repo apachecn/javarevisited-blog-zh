@@ -96,11 +96,7 @@ Apache Maven 或通常称为“Maven”，是 Java 程序员的一个基本工�
 
 在学习上的一点点投入，可以获得丰厚的红利；因此，我建议所有程序员加入 Pluralsight。但是，即使你没有会员资格，你仍然可以利用他们的 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) **，**免费参加本课程，该通行证允许 200 分钟的观看时间，足以完成本课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6. [Java:用 Maven 构建自动化](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjava-build-automation-with-maven)
 
@@ -116,11 +112,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 29.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。
 
- [## LinkedIn 学习价格|选择学习计划| LinkedIn
-
-### 为 LinkedIn Learning 选择按月付费或按年付费
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 # Java 开发人员应该知道的关于 Maven 的 6 件事
 
@@ -161,8 +153,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **P. S. —** 如果你是 Apache Maven 的完全初学者，并且如果你正在寻找一些免费的资料来开始你的 Maven 之旅，那么你也可以查看这个为 Java 程序员提供的 [**免费 Maven 课程**](http://www.java67.com/2018/02/6-free-maven-and-jenkins-online-courses-for-java-developers.html) 列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6) [## 我最喜欢的 2023 年学 Maven，Jenkins，和 Docker 的免费课程
-
-### Maven 和 Jenkins 是 Java 世界中最流行的两个工具。Maven 帮助组织您的项目并提供…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
+</javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6> 

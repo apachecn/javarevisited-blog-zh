@@ -20,71 +20,39 @@
 
 它用于创建独立的、生产级的基于 spring 的应用程序。提供自以为是的“初学者”依赖项，以简化您的构建配置。尽可能自动配置 Spring 和第三方库。不需要代码生成和 XML 配置。
 
-[](https://spring.io/projects/spring-boot) [## Spring Boot
-
-### 提高您的 Java 代码水平，探索 Spring 能为您做什么。
-
-spring.io](https://spring.io/projects/spring-boot) 
+<https://spring.io/projects/spring-boot>  
 
 ## ✅什么是阿帕奇骆驼？
 
 Camel 是一个开源集成框架，使您能够快速轻松地集成各种使用或产生数据的系统。它基于企业集成模式。它可以独立运行在任何地方，这使得它更容易使用。它们包含数百个用于访问数据库和消息队列的组件&帮助我们集成一切。
 
-[](https://camel.apache.org/) [## 主页
-
-### Camel 是一个开源集成框架，使您能够快速轻松地集成各种系统…
-
-camel.apache.org](https://camel.apache.org/) 
+<https://camel.apache.org/>  
 
 ## ➡️UseCase
 
 ## ✅Apache 骆驼🦒:如何写第一条路线？
 
-[](https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a) [## 阿帕奇骆驼🦒:如何写第一条路线？
-
-### 你好，我是罗汉·卡达姆😊,
-
-rohankadam965.medium.com](https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a) 
+<https://rohankadam965.medium.com/apache-camel-how-to-write-first-route-7f7767c86c2a>  
 
 ## ✅How 使用 Apache Camel 实现异常处理？
 
-[](/javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f) [## 如何使用 Apache Camel 实现异常处理？
-
-### 你好，🖐，我自己，罗汉·拉温德拉·卡达姆
-
-medium.com](/javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f) 
+</javarevisited/how-to-implement-exception-handling-using-apache-camel-26faad831e8f>  
 
 ## ✅How 将使用 Apache Camel 消费公共 API？
 
-[](/javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab) [## 如何使用 Apache Camel 消费公共 API？
-
-### Hello🖐我自己 Rohan Ravindra Kadam，全栈开发者
-
-medium.com](/javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab) 
+</javarevisited/how-to-consume-public-api-using-apache-camel-70f7382959ab>  
 
 ## ✅How 使用选择和当在阿帕奇骆驼？
 
-[](/javarevisited/how-to-use-choice-and-when-in-apache-camel-4f16c67bfa80) [## 如何在阿帕奇骆驼中使用 Choice 和 When？
-
-### Hello🖐我自己 Rohan Ravindra Kadam，全栈开发者
-
-medium.com](/javarevisited/how-to-use-choice-and-when-in-apache-camel-4f16c67bfa80) 
+</javarevisited/how-to-use-choice-and-when-in-apache-camel-4f16c67bfa80>  
 
 ## ✅How 将在 Apache Camel 中实现多播模式？
 
-[](/javarevisited/how-to-implement-multi-cast-pattern-in-apache-camel-8626518b8044) [## 如何在 Apache Camel 中实现多播模式？
-
-### 你好，🖐，我是印度全栈开发者罗汉·拉温德拉·卡达姆
-
-medium.com](/javarevisited/how-to-implement-multi-cast-pattern-in-apache-camel-8626518b8044) 
+</javarevisited/how-to-implement-multi-cast-pattern-in-apache-camel-8626518b8044>  
 
 ## ✅How 将在阿帕奇骆驼上创建可重复使用的路线？
 
-[](/javarevisited/how-to-create-re-usable-routes-in-apache-camel-c4e57956e6e3) [## 如何在 Apache Camel 中创建可重用的路线？
-
-### 你好，🖐，我是印度全栈开发者罗汉·拉温德拉·卡达姆
-
-medium.com](/javarevisited/how-to-create-re-usable-routes-in-apache-camel-c4e57956e6e3) 
+</javarevisited/how-to-create-re-usable-routes-in-apache-camel-c4e57956e6e3>  
 
 ## ➡️Conclusion
 

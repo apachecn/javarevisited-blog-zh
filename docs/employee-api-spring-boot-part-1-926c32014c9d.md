@@ -96,7 +96,7 @@ Spring Web- 为我们提供了制作 [REST API](/javarevisited/10-best-java-web-
 
 *我们已经遵循了服务层的 [**接口**模型](https://www.java67.com/2014/02/what-is-actual-use-of-interface-in-java.html)，因为我们可以有许多服务层的实现，但它们都需要遵循相同的参数和由我们的接口指定的返回类型。*
 
-*该类用 **@Service** 注释，它告诉 spring 将它包含在服务层中，如果我们有服务接口的多个实现，并且它在控制器中是[](https://javarevisited.blogspot.com/2017/04/difference-between-autowired-and-inject-annotation-in-spring-framework.html)**， **@Qualifier** 可以用来指定使用哪个接口实现。***
+*该类用 **@Service** 注释，它告诉 spring 将它包含在服务层中，如果我们有服务接口的多个实现，并且它在控制器中是<https://javarevisited.blogspot.com/2017/04/difference-between-autowired-and-inject-annotation-in-spring-framework.html>**， **@Qualifier** 可以用来指定使用哪个接口实现。***
 
 ***service 中的其余代码非常简单，利用了我们为 API 编写的异常， *getAllEmployees* ()函数中的查询是通过我们提到的规范类生成的，实体在发送到控制器之前被转换为 d to。***
 
@@ -108,11 +108,7 @@ Spring Web- 为我们提供了制作 [REST API](/javarevisited/10-best-java-web-
 
 *****Github 回购链接:-*****
 
-***[](https://github.com/drunkenlegend/Employee-API) [## GitHub-drunken legend/Employee-API:这是我在学习 Spring Boot 时制作的模拟 API…
-
-### 这是我在星展银行实习期间做的模拟 api，作为我学习 Spring Boot 的一部分。- GitHub …
-
-github.com](https://github.com/drunkenlegend/Employee-API) 
+***<https://github.com/drunkenlegend/Employee-API>  
 
 嘿，我们已经按照一些行业标准编写了我们的第一个 API，如果你想知道 **Swagger 文档**看起来怎么样…..给你！！！
 

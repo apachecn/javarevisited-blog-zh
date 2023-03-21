@@ -66,10 +66,6 @@ const myfunction =() =>{
 
 这是我以前的博客，我试图解释组件:
 
-[](/javarevisited/react-components-functional-class-components-84026d7c3a39) [## React:组件、功能和类组件
-
-### 当我们研究 React 时，首先映入眼帘的是组件。当我开始学习反应…
-
-medium.com](/javarevisited/react-components-functional-class-components-84026d7c3a39) 
+</javarevisited/react-components-functional-class-components-84026d7c3a39>  
 
 > ***谢谢！*** *对于阅读，我希望你学到了一些新的东西，并喜欢它。* ***关注*** *获取更多此类内容丰富的博客并给予👏并做* ***评论*** *，它给了我写更多博客的鼓励，* ***快乐学习！！祝你愉快！！！***

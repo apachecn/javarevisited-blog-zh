@@ -100,8 +100,4 @@
 
 **P. S.** —如果你是初学者，并且正在寻找学习 MERN 堆栈的最佳 Coursera 课程，那么我建议你也看看这个[**React 专业化的全堆栈 Web 开发**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) 。Coursera 上的课程。这是从零开始学习基于 React 的全栈开发的最佳课程之一。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) [## 使用 React 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react)**
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react> **

@@ -85,12 +85,4 @@ POST: /book/payload: { pageNumbersToDelete: [1, 2, 3] }// *pageNumbersToDelete i
 
 **你可能喜欢的其他 REST 文章**
 
-[](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4) [## 为什么 Spring 是用 Java 开发 REST APIs 的最佳框架？
-
-### REST 现在已经成为开发 web 服务的标准方法，而说到 Java，有许多框架和…
-
-medium.com](/javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4) [](/javarevisited/how-to-perform-http-calls-using-spring-resttemplate-d29116cd4b5a) [## 如何使用 Spring RestTemplate 执行 HTTP 调用
-
-### 用 Spring 框架执行 GET、POST、PUT、DELETE 调用的简单方法
-
-medium.com](/javarevisited/how-to-perform-http-calls-using-spring-resttemplate-d29116cd4b5a)
+</javarevisited/why-spring-is-the-best-framework-for-developing-rest-apis-in-java-784590e484a4>  </javarevisited/how-to-perform-http-calls-using-spring-resttemplate-d29116cd4b5a> 

@@ -12,7 +12,7 @@
 
 当我第一次开始准备系统设计面试时，没有太多可用的资源，我在 Udemy 中搜索系统设计课程，只找到了过时的，半生不熟的课程，YouTube 有一些视频，但没有资源可以提供面试所需的良好结构的准备。
 
-当时我偶然看到了设计大师讲授的系统设计面试课程[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)*，并立刻爱上了它。该课程结构良好，内容详细，并深入分析讨论了流行的系统设计问题，他们对图表的使用令人惊叹。Educative 的互动学习平台是蛋糕上的另一颗樱桃。*
+当时我偶然看到了设计大师讲授的系统设计面试课程<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>*，并立刻爱上了它。该课程结构良好，内容详细，并深入分析讨论了流行的系统设计问题，他们对图表的使用令人惊叹。Educative 的互动学习平台是蛋糕上的另一颗樱桃。*
 
 *此后情况发生了很大变化，现在有许多专门的系统设计平台和网站，如 [**ByteByteGo**](https://bytebytego.com?fpr=javarevisited) ， [**Exponent**](https://www.tryexponent.com/courses/system-design-interview?ref=javinpaul2) ，它们甚至为 FAANG 公司提供模拟面试，甚至 Udemy 也有令人惊叹的系统设计课程，如 Frank Kane(前亚马逊招聘经理)的 [**【掌握系统设计面试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsystem-design-interview-prep%2F) ，甚至 Educative 获得了两个[系统设计面试](https://www.educative.io/courses/grokking-adv-system-design-intvw?affiliate_id=5073518643380224)的续集，但它仍然是其中之一*
 
@@ -30,11 +30,7 @@
 
 *如果你最近参加了一家大型科技企业的面试，那么你几乎肯定上过 Educative.io 上最受欢迎的课程——“探索系统设计面试 ”*
 
-*[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 这个由设计大师们开设的课程已经帮助了 6 万多名用户破解了他们的系统设计面试(SDI)。系统设计…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+*<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 这种基于文本的交互式系统设计课程是市场上最好的课程之一。成千上万的人通过本课程学习了*基本系统设计概念*方法，并了解了 [*常见系统设计问题*](/javarevisited/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67) 的解决方案。
 
@@ -181,11 +177,7 @@ www.educative.io](https://www.educative.io/collection/5668639101419520/564905022
 
 *他们还提供了一个 7 天的免费体验，这是你可以免费探索教育平台的另一种方式。*
 
-*[](https://www.educative.io/trial?affiliate_id=5073518643380224) [## 教育免费试用:加速你的职业生涯
-
-### 提升你的编码技能。不再被动学习。交互式浏览器环境让您参与并测试…
-
-www.educative.io](https://www.educative.io/trial?affiliate_id=5073518643380224) 
+*<https://www.educative.io/trial?affiliate_id=5073518643380224>  
 
 这些都在这个**从教育性**开始的系统设计课程的复习中。这无疑是为系统设计面试做准备的最佳在线课程之一。我认为，钻研系统设计课程是完全值得的。
 
@@ -217,8 +209,4 @@ www.educative.io](https://www.educative.io/trial?affiliate_id=5073518643380224)
 
 **P. S.** —如果你想深入学习系统设计，那么你也可以看看这个 [**最佳系统设计课程的列表**](/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65) 来建立你的基础，填补你理解中的空白。学习系统设计还可以提高您的编码意识和编码技能，将现实世界的需求转化为代码。
 
-[](https://javarevisited.blogspot.com/2022/07/best-system-design-and-object-oriented.html) [## 十佳系统设计、软件设计和面向对象程序设计课程
-
-### 你好伙计们，如果你正在准备系统设计面试和寻找最佳资源，那么你已经来到了…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/07/best-system-design-and-object-oriented.html)*
+<https://javarevisited.blogspot.com/2022/07/best-system-design-and-object-oriented.html> *

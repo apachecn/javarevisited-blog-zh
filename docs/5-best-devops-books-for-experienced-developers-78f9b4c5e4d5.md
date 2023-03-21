@@ -20,21 +20,13 @@ devo PS 工具链是软件编码、构建、测试、打包、发布、配置、
 
 如果你想了解一些关于 DevOps 的事情，或者想了解一些关于 DevOps 的债务信息，那么这几本书可能就是你的起点。顺便说一句，如果你是 DevOps 世界的完全初学者，那么[**devo PS:plural sight 上的大图**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdevops-big-picture) 课程也是一个很好的开始材料。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdevops-big-picture) [## DevOps:大局
-
-### 本 DevOps 培训将教您:什么是 DevOps 如何过渡到 DevOps 方法哪些技术在…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdevops-big-picture) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdevops-big-picture>  
 
 您将了解自动化和技术如何在开发运维中发挥关键作用，以及为什么开发运维对各种规模的公司都很重要。
 
 此外，如果你有开发背景，负责设置、构建和部署管道，或者想了解更多关于现实世界的专业级 CI 和 CD 流程，那么弗吉尼亚大学 Courser 上的 [**连续交付& DevOps 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops) 也是一个很好的资源。你也可以免费审计。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops) [## 持续交付和开发运营
-
-### 众所周知，亚马逊每 11.6 秒发布一次新代码。就在几年前，这是不可思议的:许多“尖端”…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops>  
 
 # 2022 年 DevOps 工程师应该阅读的 5 本最佳书籍
 
@@ -52,11 +44,7 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 顺便说一下，如果你觉得这本书有点难读，那么我也建议你将这本书与 Udemy 上 John Hanoi 的 [**DevOps、CI/CD(初学者的持续集成/交付**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fci-cd-devops%2F) )等课程结合起来，以获得一些积极的学习体验。
 
-[](/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c) [## 2022 年高级开发者学习 DevOps 的 13 大课程
-
-### 这些是 Udemy、Coursera 和 Pluralsight 的最佳 DevOps 课程，将于 2022 年在线学习
-
-medium.com](/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c) 
+</javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c>  
 
 回到这本书，第三章涵盖了 DevOps 和作为运营商的开发人员的历史，专有软件和标准化的软件工程的出现，网络时代，全球社区的开始，应用程序和 Web 的时代，软件开发方法的发展，开源软件，专有服务和敏捷基础设施。
 
@@ -82,11 +70,7 @@ medium.com](/javarevisited/13-best-courses-to-learn-devops-for-senior-developers
 
 你也可以把这本书和类似 [**Docker 的课程结合起来——动手 DevOps**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-docker%2F) 也可以学习具体的关键工具，比如 Docker、Jenkins、Ansible、Puppet 和 Kubernetes，这些工具对任何 DevOps 工程师来说都是必不可少的。
 
-[](/javarevisited/5-best-docker-courses-for-java-and-spring-boot-developers-bbf01c5e6542) [## 2022 年面向 Java 和 Spring Boot 开发者的 5 门最佳 Docker 课程
-
-### 我最喜欢的在线培训课程，从 Udemy、Coursera 和 Pluralsight 学习 Docker 和 Containers from 和…
-
-medium.com](/javarevisited/5-best-docker-courses-for-java-and-spring-boot-developers-bbf01c5e6542) 
+</javarevisited/5-best-docker-courses-for-java-and-spring-boot-developers-bbf01c5e6542>  
 
 ## 3.[面向开发者的 DevOps】](https://www.amazon.com/DevOps-Developers-Experts-Voice-Development/dp/1430245697?tag=javamysqlanta-20)
 
@@ -138,8 +122,4 @@ medium.com](/javarevisited/5-best-docker-courses-for-java-and-spring-boot-develo
 
 **P. S.** —如果您需要一些免费的在线课程来启动您的 DevOps 之旅，那么您也可以看看 Udemy 上的这个 [**免费 DevOps 基础课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-devops-essentials%2F) ，与 Jenkins、Docker 和 Kubernetes 一起为程序员和开发人员从头开始学习 DevOps。
 
-[](/javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee) [## 我最喜欢的为前端开发者学习 Docker 和 DevOps 的免费课程
-
-### 面向开发人员和 DevOps 专业人员的免费 Docker 课程精选列表
-
-medium.com](/javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee)
+</javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee> 

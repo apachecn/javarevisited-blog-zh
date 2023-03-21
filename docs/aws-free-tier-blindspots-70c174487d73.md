@@ -92,10 +92,6 @@ ELB 用于跨多个 Amazon EC2 实例分发传入的应用程序流量。在非�
 
 感谢您阅读本文。如果你喜欢这篇文章，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-**P. S.** —如果你是云计算和 AWS 的新手，正在寻找一些学习亚马逊 Web 服务的免费课程，那么你也可以在 HackerNoon 上查看这个针对初学者的免费 AWS 课程列表[](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7)**。**
+**P. S.** —如果你是云计算和 AWS 的新手，正在寻找一些学习亚马逊 Web 服务的免费课程，那么你也可以在 HackerNoon 上查看这个针对初学者的免费 AWS 课程列表<https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7>**。**
 
-**[](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-crack-aws-solutions-architect-associate-certification-exam-SAA-C01.html#axzz5rHwAwycj) [## 通过 AWS 解决方案架构师助理考试的前 5 门课程(SAA-C01)
-
-### 大家好，你们在准备 AWS 解决方案架构师助理考试吗？还是想成为亚马逊 Web…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-crack-aws-solutions-architect-associate-certification-exam-SAA-C01.html#axzz5rHwAwycj)**
+**<https://javarevisited.blogspot.com/2019/05/top-5-courses-to-crack-aws-solutions-architect-associate-certification-exam-SAA-C01.html#axzz5rHwAwycj> **

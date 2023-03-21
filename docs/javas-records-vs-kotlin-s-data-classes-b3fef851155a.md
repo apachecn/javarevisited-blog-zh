@@ -35,7 +35,7 @@ data class Sample (val key, val value)
 
 数据类是 [Kotlin 的](/javarevisited/7-free-courses-to-learn-kotlin-in-2020-327c3872c1e1?source=collection_home---4------2-----------------------)数据容器类，它的一些关键特性是:
 
-*   属性可以是最终的，也可以不是(将属性声明为`[var](https://javarevisited.blogspot.com/2018/03/finally-java-10-has-var-to-declare-local-variables.html)` [](https://javarevisited.blogspot.com/2018/03/finally-java-10-has-var-to-declare-local-variables.html)会使它们不是最终的，因此它们可以被更改)。
+*   属性可以是最终的，也可以不是(将属性声明为`[var](https://javarevisited.blogspot.com/2018/03/finally-java-10-has-var-to-declare-local-variables.html)` <https://javarevisited.blogspot.com/2018/03/finally-java-10-has-var-to-declare-local-variables.html>会使它们不是最终的，因此它们可以被更改)。
 *   与记录类类似，将类声明为数据类会自动生成`[equals()](https://javarevisited.blogspot.com/2015/01/why-override-equals-hashcode-or-tostring-java.html)`、`[hashcode()](http://www.java67.com/2013/04/example-of-overriding-equals-hashcode-compareTo-java-method.html)`和`[toString()](https://javarevisited.blogspot.com/2012/12/3-example-to-print-array-values-in-java.html)`方法。
 
 抛开基本定义不谈，让我们来谈谈一些关键的相同点和不同点:

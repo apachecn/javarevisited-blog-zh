@@ -44,11 +44,7 @@ Coursera 已经成为科技界的一个主要参与者，因为它的设计和�
 
 这也是我觉得这些 [*元专业证书值得的最重要原因之一。*](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) 简而言之，这些令人兴奋的元开发者证书为进入前端和后端开发的热门领域铺平了全新的道路，如果你想在前端和后端开发领域开始你的职业生涯，这是值得加入的。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) [## 元前端开发人员
-
-### 在整个课程中，您将参与实践活动，这些活动提供了实践和实施以下内容的机会…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer>  
 
 # 什么是 Coursera 元开发者证书？它们有助于在 2023 年成为专业软件开发人员吗？
 
@@ -58,11 +54,7 @@ Coursera Meta Developer Certificate 是一个精心设计的认证项目，由�
 
 [**Meta 前端开发人员职业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) 是一个 9 门课程的项目，由 Meta 的软件工程专家设计，为学习者做好前端开发人员的职业准备。这些课程将教你使用 [CSS](/javarevisited/10-best-html-and-css-courses-for-beginners-in-2021-6757eec00032) 、 [JavaScript](/javarevisited/10-best-online-courses-to-learn-javascript-in-2020-af5ed0801645) 、 [HTML5](https://javarevisited.blogspot.com/2019/05/top-5-html-5-and-css-3-courses-for-web-developers.html) 、 [Bootstrap](/javarevisited/6-best-bootstrap-online-courses-for-web-designers-and-developers-a688e192b2e2) 、 [React](https://javarevisited.blogspot.com/2018/08/top-5-react-js-and-redux-courses-to-learn-online.html) 和 [Figma](https://javarevisited.blogspot.com/2021/05/top-5-courses-to-learn-figma-for-ui-and.html) 的按需编码技能，以及构建专业页面布局的设计技能。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) [## 元前端开发人员
-
-### 在整个课程中，您将参与实践活动，这些活动提供了实践和实施以下内容的机会…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fmeta-front-end-developer>  
 
 学习者还将构建作品集项目来展示他们的学习成果(您可以将它们添加到您的 git 存储库中),并获得编码面试支持以及独家访问 **Meta 职业计划工作板。**
 
@@ -151,8 +143,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一下，在 Coursera 上加入 Meta Developer certification，你有两个选择，你可以单独加入这个计划，每个月花费大约 39 美元进行专业化，或者你也可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，每年花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)**
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> **

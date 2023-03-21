@@ -14,7 +14,7 @@
 
 作为一名经验丰富的 Java 开发人员，我参加过会议的双方，也面试过数百名软件工程师候选人。系统设计面试一直是一个具有挑战性的循环——即使对于最熟练的程序员也是如此。
 
-这就是 Educative 推出新课程的原因:面向软件工程师和经理的[](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224)**现代系统设计面试，包含 13 个常见系统设计面试问题的逐步分解，包括 [**Design TinyURL**](https://bit.ly/3S98WSc) (您今天可以免费试用)。**
+这就是 Educative 推出新课程的原因:面向软件工程师和经理的<https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224>**现代系统设计面试，包含 13 个常见系统设计面试问题的逐步分解，包括 [**Design TinyURL**](https://bit.ly/3S98WSc) (您今天可以免费试用)。**
 
 **在本课程中，你将获得系统设计基础的实践知识，这样你就可以在面试中回答任何系统设计问题，甚至是你从未听说过的问题。**
 
@@ -22,11 +22,7 @@
 
 **我甚至分享了一份[准备系统设计面试的完整指南](/javarevisited/how-to-crack-system-design-interviews-in-2022-tips-questions-and-resources-fcad05e2dab)，其中我列出了关键主题和关键系统设计问题，如果你还没有阅读，我建议你也浏览一下。**
 
-**[](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html) [## 2023 年系统设计面试怎么准备？主题、问题和资源
-
-### 任何系统设计面试肯定会要求你为任何系统提出一个基本的高层次设计…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)** 
+**<https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html> ** 
 
 ## **教育是准备系统设计面试的正确地方吗？**
 
@@ -38,11 +34,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/how-to-pr
 
 **它也可以指定义、开发和设计系统的过程。这些设计必须满足公司或组织的特定需求。**
 
-**[](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224) [## 工程师和经理的现代系统设计访谈——互动学习
-
-### 分布式系统是部署应用程序和服务的标准。移动和云计算与…
-
-www.educative.io](https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/courses/grokking-modern-system-design-software-engineers-managers?affiliate_id=5073518643380224> ** 
 
 ## **软件工程师和教育管理人员的现代系统设计回顾**
 
@@ -174,11 +166,7 @@ www.educative.io](https://www.educative.io/courses/grokking-modern-system-design
 
 **顺便说一句，如果你发现 Educative platform 和他们的搜索课程，如搜索系统设计面试、搜索面向对象编程面试，并想加入 Educative 的多个课程，那么你应该获得一个[**Educative Subscription**](https://www.educative.io/subscription?affiliate_id=5073518643380224)，每月只需 14.9 美元就可以访问他们的 100 多个课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我想表达我的无限感激，让您的多功能教育平台可用和访问。我…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 祝你的系统设计面试一切顺利。如果您有任何疑问、问题或系统设计问题，请随时在回复中提问。你也可以给我发邮件。
 
@@ -206,8 +194,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 或者，您也可以参加 Alex Yu 的 [*系统设计面试—知情人指南*](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/?tag=javamysqlanta-20) 和 ByteByteGo，进行完整的系统设计面试准备。
 
-[](https://bytebytego.com?fpr=javarevisited) [## ByteByteGo | Ace 您的下一次系统设计面试
-
-### 让您的系统设计技能更上一层楼所需的一切
-
-bytebytego.com](https://bytebytego.com?fpr=javarevisited)**
+<https://bytebytego.com?fpr=javarevisited> **

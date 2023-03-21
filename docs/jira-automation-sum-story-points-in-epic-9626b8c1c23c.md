@@ -105,8 +105,4 @@
 
 如果你还不是中等会员，点击[这里加入](/@mariochiadev/membership)！
 
-[](/@mariochiadev/membership) [## 李嘉云-中型
-
-### 在媒介上阅读云的作品。刚从大学毕业的学生。总是对新技术和……
-
-medium.com](/@mariochiadev/membership)
+</@mariochiadev/membership> 

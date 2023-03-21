@@ -26,11 +26,7 @@
 6.  ****健壮性*** :由字节码验证器保证*
 7.  ****支持多种语言***:Scalar、Ruby 等语言可以被编译成有效的字节码，因此可以被 JVM 执行。*
 
-*[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 我最喜欢的深入学习 Java 的免费课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 
+*</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>  
 
 # 编译与解释
 
@@ -68,11 +64,7 @@ Java 将编译和解释这两个过程结合起来，保留了两者的优点。
 
 与机器码不同，字节码是独立于平台的，因此没有任何特定于操作系统的东西。那么，计算机，或者更确切地说，操作系统，如何理解字节码呢？🙄这得感谢 ***JVM*** 或者 [***Java 虚拟机***](/@phantomgrin/jvm-101-introduction-classloader-sub-system-jit-compiler-part-1-9e5a6782fa3e) 。
 
-[](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) [## 学习 JVM 内部结构、内存管理和 Java 性能调优的前 5 门课程
-
-### 对于一个高级 Java 开发人员来说，了解 JVM 的工作原理以及如何解决与…相关的问题是非常重要的
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html) 
+<https://javarevisited.blogspot.com/2019/04/top-5-courses-to-learn-jvm-internals.html>  
 
 Java 虚拟机是一个抽象的、依赖于平台的虚拟机，能够执行字节码。它有自己的机制来处理与之对话的操作系统。因此，平台无关的字节码和平台相关的 JVM 保证了 Java 程序的平台无关性。
 
@@ -94,12 +86,4 @@ Java 虚拟机是一个抽象的、依赖于平台的虚拟机，能够执行字
 [2020 年要学习的 5 大 Java 框架](http://javarevisited.blogspot.sg/2018/04/top-5-java-frameworks-to-learn-in-2018_27.html)
 [每个 Java 开发者都应该知道的 10 个测试库](https://javarevisited.blogspot.sg/2018/01/10-unit-testing-and-integration-tools-for-java-programmers.html)
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 面向初学者的 10 大 Java 在线课程
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758)*
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758> *

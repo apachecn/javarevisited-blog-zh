@@ -114,8 +114,4 @@ JavaScript 在过去的 25 年里有了很大的发展。有几个特性被认�
 
 ****附言——**如果你喜欢从免费资源中学习，并寻找免费书籍和在线课程来学习 JavaScript，那么你也可以查看这个最佳 [**免费 JavaScript 课程**](/javarevisited/12-free-courses-to-learn-javascript-and-es6-for-beginners-and-experienced-developers-aa35874c9a32) 和[书籍](/javarevisited/5-free-books-to-learn-javascript-for-beginners-4cca79834262)的列表。它包含了从零开始学习 JavaScript 的最好的免费资源。**
 
-**[](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html) [## 2023 年学习 JavaScript 的 5 大免费在线课程——最好的
-
-### 大家好，如果你想在 2023 年自学 JavaScript，并寻找一些免费资源，如书籍、网站…
-
-www.java67.com](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html)**
+**<https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html> **

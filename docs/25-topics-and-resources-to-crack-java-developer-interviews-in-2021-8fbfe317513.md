@@ -22,11 +22,7 @@ Java 面试与科技巨头和基于产品的公司如谷歌、亚马逊、微软
 
 此外，Java EE 面试与[核心 Java 面试](http://www.java67.com/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html)完全不同，因为核心 Java 面试主要关注核心 Java 概念，如并发性、集合和 JVM 内部机制，而 Java EE 面试是基于一个框架，如 JSF、Spring、Hibernate 等。准备 Java 面试的最好方法是参加像 [**Java 面试指南:200+面试问题和答案**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) 这样的课程，尽管没有什么可以替代你通过认真准备 Java 面试而获得的经验。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) [## 准备 Java 面试(200 多个练习题)
-
-### Ranga 是 AWS 认证解决方案架构师助理、AWS 认证开发人员助理和 AWS 认证云…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-interview-questions-and-answers%2F>  
 
 # 核心 Java 访谈的 25 个以上基本主题
 
@@ -68,7 +64,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 *   **JUnit (** [**提问**](https://javarevisited.blogspot.com/2021/04/junit-interview-questions-with-answers.html) **)**
 *   **编程题(** [**题**](https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Interviews.html#axzz5bGNdvWgs) **)**
 
-除了这些话题之外，你还可以从《Java 面试暴露[](http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20)**和《破解编码面试 》等书中得到帮助。这些都是很棒的书，尤其是从面试的角度来看，它会让你对 Java 编程工作面试有一个很好的想法。你还会发现脸书、谷歌等科技公司以及巴克莱、花旗、德意志银行、摩根士丹利等投资银行提出的问题。
+除了这些话题之外，你还可以从《Java 面试暴露<http://www.amazon.com/Java-Programming-Interviews-Exposed-Markham/dp/1118722868?tag=javamysqlanta-20>**和《破解编码面试 》等书中得到帮助。这些都是很棒的书，尤其是从面试的角度来看，它会让你对 Java 编程工作面试有一个很好的想法。你还会发现脸书、谷歌等科技公司以及巴克莱、花旗、德意志银行、摩根士丹利等投资银行提出的问题。
 
 对于一个想要成为专家而不仅仅是专注于清除面试的更认真的开发人员，我建议你看看我的 [12 本面向有经验程序员的高级 Java 书籍](http://www.java67.com/2016/06/12-must-read-advance-java-books-for-intermediate-programmers.html)文章。它包含了 Java 中每个重要主题的书籍。**
 
@@ -76,11 +72,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **如果你在某个主题上有所欠缺，你可以随时回到你读过的书或者你学过的课程去学习类似 Java 的课程。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)** 
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> ** 
 
 # **Java 面试的最佳课程和书籍**
 
@@ -124,11 +116,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **而且，如果你喜欢这个平台，我建议你购买一个 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月花费**【18】美元(现在有 50%的折扣)**，对于需要不断学习的程序员和软件工程师来说完全值得。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 以上就是关于**如何准备 Java 面试的家伙们**。java 生态系统是巨大的，但根据工作描述，你可以进一步缩小准备范围，如果你要参加核心 Java 面试，那么你应该更多地关注核心 Java 概念，如多线程、集合和 JVM 内部机制。
 
@@ -159,8 +147,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你是 Java 开发领域的新手，需要一门全面的课程来学习 Java 并为面试做准备，那么我推荐你去看看 Udemy 网站上由 Tim Buchalaka 开设的[**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程。这个 80+小时的课程是互联网上最全面的 Java 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> **

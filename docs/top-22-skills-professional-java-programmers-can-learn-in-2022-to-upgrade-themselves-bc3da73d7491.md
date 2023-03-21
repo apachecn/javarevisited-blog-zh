@@ -134,7 +134,7 @@ Maven 不仅解决了依赖管理的问题，还为 Java 项目提供了一个�
 
 亚马逊网络服务是当今最流行的云平台，这也是它成为一项技能的原因。对知道如何使用 AWS 工具和环境(如 EC2、S3 和虚拟私有云)的人有巨大的需求。
 
-我看到我的许多朋友也在近几年蜂拥着去获得 AWS 认证。如果你对 AWS 感兴趣，想了解更多，这里有一个免费的 AWS 课程[](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html)**列表，你可以加入在线学习。**
+我看到我的许多朋友也在近几年蜂拥着去获得 AWS 认证。如果你对 AWS 感兴趣，想了解更多，这里有一个免费的 AWS 课程<https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html>**列表，你可以加入在线学习。**
 
 **[![](img/70071211d9f2f410a746bf4d529603ae.png)](https://javarevisited.blogspot.com/2020/05/top-5-amazon-web-services-aws-courses-for-beginners-and-experienced-programmers.html#axzz6f4s58Ml9)**
 
@@ -322,22 +322,10 @@ Maven 不仅解决了依赖管理的问题，还为 Java 项目提供了一个�
 
 **如果你想在 2023 年成为一名前端和后端开发人员，那么你也可以查看 web 开发人员路线图，它包含了成为一名专业 Web 开发人员所需的所有技术和资源。**
 
-**[](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [## 2023 年 Fullstack Web 开发者路线图[更新]
-
-### 2021 年成为网页开发者的图解指南，并附有相关课程的链接
-
-medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) 
+**</javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e>  
 
 如果你想在 2023 年成为一名 DevOps 工程师，那么你应该看看这个棒极了的 [**完整的 DevOps 工程师路线图**](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html) ，它也包含了成为一名专业 web 开发人员所需的所有技术和资源。
 
-[](/javarevisited/the-2018-devops-roadmap-31588d8670cb) [## 2023 年开发运维工程师和 SRE 路线图[更新]
-
-### 2023 年成为 DevOps 工程师的图解指南及课程链接
-
-medium.com](/javarevisited/the-2018-devops-roadmap-31588d8670cb) [](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2023 年 Java 程序员路线图[更新]
-
-### 2023 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) 
+</javarevisited/the-2018-devops-roadmap-31588d8670cb>  </javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  
 
 此外，我根据自己的经验以及对 Java 开发人员的重要性对这些技能进行了排名。*如果非要给他们排名，你会排到哪个顺序？一定要让我知道回应。***

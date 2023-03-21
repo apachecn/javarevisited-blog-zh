@@ -40,11 +40,7 @@ pom.xml
 
 如上所示，`<executable>`参数为真。 ***昭然若揭。MF*** 文件用此参数添加到 JAR 包中。这个清单包含一个 *Main-Class* 条目，指定哪个类定义了应用程序的 Main 方法。如果你不了解 Maven，想了解一下，也可以看看这些 [Maven 课程](https://dev.to/javinpaul/10-free-devops-courses-to-learn-jenkins-docker-and-maven-for-programmers-ohp)
 
-[](https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html) [## Java 开发人员学习 Apache Maven 的前 5 门课程——最好的
-
-### Apache Maven 或通常称为“Maven”，是 Java 程序员的一个基本工具。它允许您构建…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html) 
+<https://javarevisited.blogspot.com/2019/03/top-5-course-to-learn-apache-maven-for.html>  
 
 完成这些配置后，您应该编写下面的命令来将您的应用程序打包成 JAR。
 

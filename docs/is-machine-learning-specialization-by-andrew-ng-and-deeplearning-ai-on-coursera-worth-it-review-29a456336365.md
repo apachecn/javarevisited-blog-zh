@@ -16,11 +16,7 @@ image_credit — Coursera
 
 但是，在我对 Andrew N 和 DeepLearnin 的机器学习专门化进行评论之前。AI，让我告诉你更多关于机器学习到底是什么。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fandrewng) [## 吴恩达，讲师| Coursera
-
-### 吴恩达是深度学习的创始人。艾，艾基金的普通合伙人，Coursera 的联合创始人和主席，安…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fandrewng) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Fandrewng>  
 
 用最基本的术语来说，机器学习是机器学习某种东西的能力，而不必为那种特定的东西编写程序。在机器学习中，计算机使用大量数据并应用算法来训练自己并做出准确的预测。
 
@@ -154,11 +150,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，当谈到参加这个课程，你有两个选择，你可以单独参加这个课程，每个月花费大约 39 美元，你也可以 [**参加 Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 每个月花费 399 美元，这是 Coursera 的一个订阅计划，让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 Coursera 现在在 Coursera Plus 上提供 100 美元的折扣。你可以点击这里了解更多信息。
 
@@ -188,8 +180,4 @@ Coursera 现在在 Coursera Plus 上提供 100 美元的折扣。你可以点击
 
 **附言** —如果你正在寻找学习 Python 的最佳 Udemy 课程，那么我强烈推荐你加入 Udemy 网站上何塞·波尔蒂利亚的 [**完整 Python 训练营:从零到英雄**](http://bit.ly/2BY5LJC) 课程。这是最受欢迎的 Python 课程，已经有超过 100 万学生在学习这门课程。它也很实惠，你可以在 Udemy 上只花 10 美元就能买到。
 
-[](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) [## 2022 年学习 Python 3 的前 5 门课程——最好的
-
-### 2018 年学习 Python 3 的一些最好的在线课程的集合。Python 是最强大而简单的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html)
+<https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html> 

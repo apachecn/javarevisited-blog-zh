@@ -18,11 +18,7 @@ Kotlin 已经存在了一段时间，但它真正腾飞是在 2017 年，当时�
 
 这就是为什么，在这篇文章里，我要分享一些**2023 年学习科特林的最好的免费在线课程**。我从网上不同的网站上收集了这些课程，比如 Udemy、Pluralsight、Coursera 和 T21，谷歌甚至提供了一个完全免费的学习科特林的课程。你可以利用这些课程来学习 Kotlin 编程语言，包括基础和高级概念，以及服务器端 Java 开发和创建 Android 应用程序，Kotlin 在这两方面都有很大的发展。顺便说一下，如果你不介意花几块钱学习像 Kotlin 这样有价值的技能，那么我强烈推荐你去看看 Udemy 上的面向 Java 开发人员的 Kotlin 课程。您可以通过本课程学习用于服务器端 Java 开发以及 Android 平台移动应用开发的 Kotlin。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F) [## 面向 Java 开发人员的 Kotlin:构建自己的 Kotlin 程序
-
-### 您是一名 Java 开发人员，想知道是否需要学习 Kotlin 吗？也许你是一个有经验的 Java 开发人员，想要…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F>  
 
 # 2023 年学习 Kotlin 编程的 7 门最佳免费在线课程
 
@@ -142,11 +138,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 顺便说一句，你需要一个[多重视野会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing)才能进入这个课程。如果您没有 Pluralsight 会员资格，那么您也可以利用他们的 [10 天免费试用](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来免费访问该课程，因为他们的免费试用提供 200 分钟免费访问他们所有 5000 多个最新的在线培训课程，包括 Kotlin 和 Java。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 培养你在职业生涯中更快发展所需的技术技能。掌握最新的技术与数以千计的…
-
-多元视觉](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是学习 Kotlin 编程语言的一些**免费课程。Java 已经有将近 25 年的历史了，它没有太大的变化，Kotlin 就像是 Java 的现代版，解决了它的许多缺点，比如冗长。**
 
@@ -173,8 +165,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **附言——**如果你不介意花点钱学习像 Kotlin 这样有价值的技能，那么我强烈推荐你去看看 Udemy 上的[**kot Lin for Java Developer**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F)课程，它既全面又非常吸引人。您可以通过本课程学习用于服务器端 Java 开发以及 Android 平台移动应用开发的 Kotlin。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F) [## 面向 Java 开发人员的 Kotlin:构建自己的 Kotlin 程序
-
-### 您是一名 Java 开发人员，想知道是否需要学习 Kotlin 吗？也许你是一个有经验的 Java 开发人员，想要…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F)
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fkotlin-for-java-developers%2F> 

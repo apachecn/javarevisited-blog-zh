@@ -248,16 +248,4 @@ String text = """
 
 您可能喜欢的其他 Java 文章:
 
-[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2020 年 Java 程序员该学什么？
-
-### 2020 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [](/javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13) [## 学习 Java 8 到 Java 13 新特性的前 5 门课程
-
-### 从 Java 8 到 Java 13 引入了许多有用的特性，如 lambda 表达式、流 API、新日期和…
-
-medium.com](/javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13) [](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1) [## 高科技领域的高级开发人员接下来会做什么？项目经理、技术架构师或 DevOps 工程师
-
-### 是时候考虑职业生涯的下一个层次了。
-
-medium.com](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1)
+</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83>  </javarevisited/top-5-courses-to-learn-new-features-of-java-8-to-java-13-107eb51d2a13>  </javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1> 

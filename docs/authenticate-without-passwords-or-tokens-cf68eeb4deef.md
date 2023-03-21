@@ -349,11 +349,7 @@ Default Kerberos version 5 ***realm***: **KERBEROS.COM**
 
 **实现它有不同的方法。一种方法是使用 [ktutil](https://web.mit.edu/kerberos/krb5-1.12/doc/admin/admin_commands/ktutil.html) 工具。我在这里有一个单独的帖子来解释它，**
 
-**[](https://medium.suriyaprakhash.com/avoid-entering-passwords-to-fetch-ticket-granting-ticket-d37704248503) [## 避免输入密码来获取票证授予票证
-
-### Kerberos 本地主机
-
-medium.suriyaprakhash.com](https://medium.suriyaprakhash.com/avoid-entering-passwords-to-fetch-ticket-granting-ticket-d37704248503) 
+**<https://medium.suriyaprakhash.com/avoid-entering-passwords-to-fetch-ticket-granting-ticket-d37704248503>  
 
 ## 为什么是 Keytabs？
 

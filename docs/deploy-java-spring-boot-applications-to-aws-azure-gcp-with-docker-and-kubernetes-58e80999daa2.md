@@ -107,11 +107,7 @@ PAAS 的例子是由不同的云提供商提供的托管服务。提供的数据
 
 如果您想了解更多关于 AWS 的信息，您还可以查看以下免费课程:
 
-[](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7) [## 5 大亚马逊网络服务或 AWS 在线学习课程-免费和最好的
-
-### 一些免费的 AWS 课程列表，可以让你按照自己的进度在线学习亚马逊网络服务
-
-hackernoon.com](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7) 
+<https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-to-learn-online-free-and-best-of-lot-d94e192054b7>  
 
 # 平台即服务的深度
 
@@ -154,11 +150,7 @@ hackernoon.com](https://hackernoon.com/top-5-amazon-web-services-or-aws-courses-
 
 如果您想了解更多关于云计算的知识，您也可以查看以下资源:
 
-[](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) [## 2020 年学习云计算的 5 大在线课程-最佳选择
-
-### 随着越来越多的人开始使用云计算，云计算正成为任何软件开发人员或 IT 专业人员的一项基本技能
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html) 
+<https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html>  
 
 # 从 Spring Boot 到 AWS、Azure、GCP、Docker 和 Kubernetes
 
@@ -190,11 +182,7 @@ https://rebrand.ly/MISC-DOCKER
 
 如果你需要更多的选择，你可以看看这篇文章:
 
-[](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) [## 2020 年学习 Docker 和 Kubernetes 的 5 大课程-最佳课程
-
-### 伙计们，你们好吗？你有望实现今年的目标吗？我相信你在…的时候已经有了目标
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html) 
+<https://javarevisited.blogspot.com/2019/05/top-5-courses-to-learn-docker-and-kubernetes-for-devops.html>  
 
 # 了解 AWS——将 Java Spring Boot 部署到 AWS 弹性豆茎
 
@@ -255,11 +243,7 @@ https://rebrand.ly/MISC-FARGATE
 
 此外，如果你想有更多的选择来学习 Spring Boot 的微服务，这里有更多的资源可以查看:
 
-[](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) [## Java 程序员学习 Spring Boot 和微服务的 10 大课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) 
+<https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg>  
 
 # 借助 Spring Boot 微服务的 Master Pivotal 云代工厂
 
@@ -338,8 +322,4 @@ Kubernetes 针对 Java 开发人员的 Google Cloud 速成课程是一门非常�
 7.  [学习 React JS 框架的 5 门免费课程](http://www.java67.com/2018/02/5-free-react-courses-for-web-developers.html)
 8.  [2020 年学习网页开发的五大课程](https://javarevisited.blogspot.com/2018/02/top-5-online-courses-to-learn-web-development.html)
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

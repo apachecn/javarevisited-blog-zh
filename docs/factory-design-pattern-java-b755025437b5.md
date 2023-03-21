@@ -54,16 +54,4 @@ age : 99
 
 以下是你可能喜欢的其他**设计模式文章**
 
-[](/javarevisited/7-best-online-courses-to-learn-object-oriented-design-pattern-in-java-749b6399af59) [## 学习 Java 面向对象设计模式的 7 门最佳在线课程
-
-### 每个程序员都应该学习设计模式来编写干净的代码，并成为更好的开发人员。
-
-medium.com](/javarevisited/7-best-online-courses-to-learn-object-oriented-design-pattern-in-java-749b6399af59) [](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [## 2021 年你可以学到的 10 个 OOP 设计原则
-
-### 想要写出更好、更可靠的代码，能够经受住生产中时间的考验吗？这些设计原则会有所帮助。
-
-medium.com](/javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31) [](/javarevisited/7-best-books-to-learn-design-patterns-for-java-programmers-5627b93eefdb) [## Java 程序员学习设计模式的 7 本最佳书籍
-
-### 设计模式是面向对象程序员的基本话题，比如 Java 和 C++开发人员。它甚至变得…
-
-medium.com](/javarevisited/7-best-books-to-learn-design-patterns-for-java-programmers-5627b93eefdb)
+</javarevisited/7-best-online-courses-to-learn-object-oriented-design-pattern-in-java-749b6399af59>  </javarevisited/10-oop-design-principles-you-can-learn-in-2020-f7370cccdd31>  </javarevisited/7-best-books-to-learn-design-patterns-for-java-programmers-5627b93eefdb> 

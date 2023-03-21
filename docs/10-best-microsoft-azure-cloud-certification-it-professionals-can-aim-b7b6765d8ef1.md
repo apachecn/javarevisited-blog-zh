@@ -59,11 +59,7 @@ Microsoft Azure 根据您的技能、经验和角色提供不同种类的认证�
 
 ****顺便说一下，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。****
 
-****[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)**** 
+****<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> **** 
 
 ## ****3.考试 DP-900:微软 Azure 数据基础****
 
@@ -176,8 +172,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 ******P. S.** —如果你是 Azure 和云计算的完全初学者，并且正在寻找一些学习微软 Azure 的免费课程，那么你也可以查看这些 [**免费 Azure 课程**](https://www.java67.com/2020/07/5-free-courses-to-learn-microsoft-azure-cloud.html) 。这是一门很好的入门课程，你可以免费学习。你只需要一个 Udemy 帐户就可以进入本课程。****
 
-****[](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531) [## 2023 年我最喜欢的免费微软 Azure 云课程初学者学习
-
-### 大家好，云计算是软件开发人员的必备技能，但云计算也随之而来…
-
-medium.com](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531)****
+****</javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531> ****

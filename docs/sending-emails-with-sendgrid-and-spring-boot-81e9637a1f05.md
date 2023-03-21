@@ -10,11 +10,7 @@ SendGrid 是一个基于云的 SMTP 提供商，允许你发送电子邮件，�
 
 # 创建帐户:
 
- [## 新帐户|发送网格
-
-### 编辑描述
-
-signup.sendgrid.com](https://signup.sendgrid.com/) 
+  
 
 然后登录您的帐户:
 
@@ -150,10 +146,6 @@ post:[http://localhost:8080/API/send](http://localhost:8888/api/send-text)
 
 您可以在这里找到源代码:
 
- [## HamdiBouallegue/带弹簧靴的 sendGrid
-
-### SendGrid 与 spring boot 的集成。通过…为 HamdiBouallegue/send grid-with spring-boot 开发做出贡献
-
-github.com](https://github.com/HamdiBouallegue/sendGrid-with-spring-boot) 
+  
 
 **如果你喜欢这篇文章，请鼓掌**👏**分享它，让其他人也能找到它！关注我，了解我更多信息**😄。

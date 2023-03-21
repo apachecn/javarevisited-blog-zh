@@ -18,11 +18,7 @@
 
 每个人都可以分享他的课程，即使是知道使用工具但不理解这些漏洞背后的概念以及它们是如何被利用的业余爱好者。尽管如此，我还是在 Coursera 平台上找到了一门由马里兰大学该领域专家创建的课程，名为 [**网络安全专业**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcyber-security) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcyber-security) [## 网络安全
-
-### 网络安全基础。安全系统的建设网络安全专业涵盖了基本的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcyber-security) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fcyber-security>  
 
 # Coursera 上的网络安全专精值得吗？回顾
 
@@ -148,8 +144,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你渴望学习网络安全并成为一名安全工程师，但负担不起这些课程，或者正在寻找一门免费的网络安全课程，你也可以在 Udemy 上查看这门 [**初学者网络安全课程【免费】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcertified-secure-netizen%2F) 课程。完全免费，已经有超过 90K 的学生加入了这门课程。
 
-[](/javarevisited/5-best-free-cyber-security-courses-for-beginners-a4abec9d5e6c) [## 2023 年初学者学习的 5 门最佳免费网络安全课程
-
-### 我为初学者策划的 2023 年从零开始学习网络安全的最佳免费在线课程和教程列表…
-
-medium.com](/javarevisited/5-best-free-cyber-security-courses-for-beginners-a4abec9d5e6c)
+</javarevisited/5-best-free-cyber-security-courses-for-beginners-a4abec9d5e6c> 

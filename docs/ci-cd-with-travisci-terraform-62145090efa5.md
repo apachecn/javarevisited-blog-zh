@@ -32,11 +32,7 @@
 
 此时，您将需要一个 AWS IAM 用户设置，具有编程访问权限和相关凭据。如果你还没有这些，看看上周关于如何用 [AWS](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) 设置 Terraform 的教程。
 
-[](/devops-dudes/setting-up-terraform-with-amazon-web-services-aws-afb2fde6cf18) [## 使用 AWS 设置 Terraform
-
-### 借助 AWS 和 Terraform，您可以获得设置、部署和自动化工作流程所需的一切
-
-medium.com](/devops-dudes/setting-up-terraform-with-amazon-web-services-aws-afb2fde6cf18) 
+</devops-dudes/setting-up-terraform-with-amazon-web-services-aws-afb2fde6cf18>  
 
 在 Travis 仪表板的最左侧，您会看到一个带有`+`按钮的`My Repositories`面板，单击它可以添加一个新的存储库
 
@@ -124,7 +120,7 @@ CI 合并检查
 
 **特拉维斯·茨**:【https://travis-ci.com/signin】T2
 
-https://docs.travis-ci.com/user/customizing-the-build**特拉维斯构建命令**:[](https://docs.travis-ci.com/user/customizing-the-build)
+https://docs.travis-ci.com/user/customizing-the-build**特拉维斯构建命令**:<https://docs.travis-ci.com/user/customizing-the-build>
 
 **用 AWS 设置 terra form**:[https://medium . com/startup chronicles/Setting-up-terra form-with-Amazon-we B- services-AWS-af B2 FDE 6 cf 18](/startupchronicles/setting-up-terraform-with-amazon-web-services-aws-afb2fde6cf18)
 

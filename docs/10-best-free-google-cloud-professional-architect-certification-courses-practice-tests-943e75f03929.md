@@ -24,11 +24,7 @@
 
 顺便说一下，如果你真的想成为一名认证的谷歌云架构师，那么我也建议你加入 Udemy 上的 [**终极谷歌认证专业云架构师 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F) 课程。它不是免费的，但它是通过这个著名的谷歌云认证的最佳课程，它是由谷歌云平台本身创建的。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F) [## 谷歌专业云架构师认证
-
-### 超过 25300 多名学生回应说，他们通过了认证，因为这个课程！成功 40.5 万+…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F>  
 
 # 2023 年通过 GCP 专业云架构师认证考试的 10 门免费最佳课程
 
@@ -120,11 +116,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgcp-architecture) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgcp-architecture) [## 使用谷歌计算引擎进行架构设计
-
-### 开启您在云架构领域的职业生涯。设计、开发和管理云解决方案以推动业务目标。87%…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgcp-architecture) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fgcp-architecture>  
 
 ## 7.[准备专业云架构师考试— Pluralsight](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpreparing-google-cloud-professional-cloud-architect-exam-update)
 
@@ -140,11 +132,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要 Pluralsight 会员资格才能参加这个课程，费用为每月 29 美元或每年 299 美元，有 14%的折扣。该会员资格还让您可以访问更多的在线课程和测验。或者，你也可以参加他们的 [**10 天免费试用期**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费参加这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需的技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## [8。谷歌云认证专家—架构师—训练营](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-certified-professional-architect-bootcamp%2F)
 
@@ -230,8 +218,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **【p . s .】**—如果你认真学习谷歌云平台并通过云架构师认证，那么我也建议你参加 Udemy 上的 [**终极谷歌认证专业云架构师 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F) 课程。它不是免费的，但它是通过这个著名的谷歌云认证的最佳课程，它是由谷歌云平台本身创建的。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F) [## 谷歌专业云架构师认证
-
-### 超过 25300 多名学生回应说，他们通过了认证，因为这个课程！成功 40.5 万+…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-architect-certifications%2F> 

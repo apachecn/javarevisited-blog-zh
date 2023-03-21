@@ -20,11 +20,7 @@
 
 如果你问我，我会建议你选择一个基于项目的课程，这样你就可以通过做和创建一些有用的东西来学习，如 [**Python 和 Flask Bootcamp:使用 Flask 创建网站！**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-flask-bootcamp-create-websites-using-flask%2F) 何塞·波尔蒂利亚的课程，你将使用 Flask 建立一个全功能的社交网站。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-flask-bootcamp-create-websites-using-flask%2F) [## Python 和 Flask Bootcamp(用 Flask 创建网站！)
-
-### 我是何塞·波尔蒂利亚，我开设这门课程是为了帮助你真正理解创作的来龙去脉…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-flask-bootcamp-create-websites-using-flask%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-and-flask-bootcamp-create-websites-using-flask%2F>  
 
 # 2023 年学习 Flask 和 Python 的 5 门最佳在线课程
 
@@ -72,11 +68,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，你需要一个 [Pluralsight 会员](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能参加这个课程。没有的话就去弄一个，完全值得。Pluralsight 拥有超过 6000 门关于最新技术的高质量在线课程，您只需每月支付 29 美元或每年支付 299 美元就可以获得所有这些课程，但是，现在您只需支付**179 美元**就可以获得这些课程，因为 Pluralsight 在年度计划上提供高达 [**40%的折扣**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 。如果你今年真的想提高自己的技能，Pluralsight 会员资格对你来说是一笔极好的财富。而且，是的，他们还有一个 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，这足以免费获得这门课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4. [Flask:用 Python 开发 Web 应用](https://www.educative.io/courses/flask-develop-web-applications-in-python?affiliate_id=5073518643380224)
 
@@ -94,11 +86,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 如果你也厌倦了观看视频和跳过讲座，你应该尝试 Educative 的基于文本的课程。你既可以购买这门课程，也可以购买一份 [**教育性订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 以每月 22 美元的费用访问他们的所有课程，这是一个合理的要求。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 5.面向初学者的 Python Flask:使用 Flask 构建一个 CRUD web 应用
 
@@ -140,8 +128,4 @@ Flask 不仅是一个优秀的后端框架，如果你希望在今年成为 [**�
 
 **P. S. —** 如果你是一个完全的 Python 初学者，或者想在进入 Flask 之前以一种更有条理的方式学习 Python，那么我强烈推荐你在 Udemy 上阅读一下何塞·波尔蒂利亚的 [**完整的 Python 3 训练营:在 Python 中从零到英雄**](http://bit.ly/2BY5LJC) 。
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-bit.ly](http://bit.ly/2BY5LJC)
+<http://bit.ly/2BY5LJC> 

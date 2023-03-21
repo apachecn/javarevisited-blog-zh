@@ -108,16 +108,4 @@ Hadoop 是一个数据存储框架，也是 Java 开发人员所熟知的。虽�
 
 **你可能喜欢的其他 Java 文章**
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html) [## 2021 年 Java 程序员应该学会的 10 件事[更新]
-
-### 现在是 12 月 24 日，离 2020 年只剩下几天了，这是没有人会忘记的一年…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html) [](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio) [## 2021 年软件开发人员应该学习的 11 项基本技能
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  <https://javarevisited.blogspot.com/2017/12/10-things-java-programmers-should-learn.html>  <https://dev.to/javinpaul/11-essential-skills-software-developers-should-learn-in-2020-1bio> 

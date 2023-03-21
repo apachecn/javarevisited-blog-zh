@@ -85,28 +85,4 @@ pop()、push()、top()、isFull()、isEmpty()和 size()。栈中常用的数据�
 
 [https://raw . githubusercontent . com/menhaj 007/generic stack/main/main . Java](https://raw.githubusercontent.com/menhaj007/genericStack/main/Main.java)
 
-[](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29) [## 堆栈(抽象数据类型)-维基百科
-
-### 在计算机科学中，栈是一种抽象的数据类型，作为元素的集合，有两个主要的作用…
-
-en.wikipedia.org](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)  [## 开放式数据结构
-
-### 书中介绍的数据结构包括堆栈、队列、队列和实现为数组和链表的列表…
-
-opendatastructures.org](https://opendatastructures.org/)  [## 动态类型与静态类型
-
-### 这个主题只是出于尊重而提供的，因为它解释了动态和静态类型之间的区别…
-
-docs.oracle.com](https://docs.oracle.com/cd/E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.html) [](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/) [## 堆栈数据结构(简介和程序)- GeeksforGeeks
-
-### 堆栈是一种线性数据结构，它遵循操作执行的特定顺序。订单可能会…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/) [](https://algs4.cs.princeton.edu/13stacks/) [## 包、队列和堆栈。算法，第四版由罗伯特·塞奇威克和凯文·韦恩。
-
-### 几种基本的数据类型涉及对象的集合。具体来说，该组值是一组…
-
-algs4.cs.princeton.edu](https://algs4.cs.princeton.edu/13stacks/) [](/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588) [## 学习数据结构和算法的 7 门最佳课程
-
-### 这些都是学习数据结构和算法的最好的课程，既适合面试，也适合成为一个更好的软件…
-
-medium.com](/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588)
+<https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29>      <https://www.geeksforgeeks.org/stack-data-structure-introduction-program/>  <https://algs4.cs.princeton.edu/13stacks/>  </javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588> 

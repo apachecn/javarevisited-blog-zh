@@ -242,12 +242,4 @@ printCarInfo 方法在第 16 行使用 getCarInfo 函数从汽车中获取信息
 [前 30 名 Scala 编程面试问题](https://javarevisited.blogspot.com/2017/03/top-30-scala-and-functional-programming.html)
 [一个案例介绍 Java 世界中的 Scala](/@sderosiaux/a-guide-to-introduce-scala-in-a-java-world-327b932699b4)
 
-[](/javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e) [## 2021 年 7 门面向初学者的免费 Scala 和函数式编程课程
-
-### 我最喜欢的 2021 年学习 Scala 和函数式编程的免费在线课程、认证和教程来自…
-
-medium.com](/javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e) [](/javarevisited/10-best-scala-and-functional-programming-online-courses-for-beginners-b6461b27bf) [## 2021 年面向初学者的 10 门最佳 Scala 和函数式编程在线课程
-
-### 我最喜欢的从 Udemy，Coursera，和 Pluralsight 学习和掌握 Scala 编程语言的课程，包括…
-
-medium.com](/javarevisited/10-best-scala-and-functional-programming-online-courses-for-beginners-b6461b27bf)
+</javarevisited/7-free-scala-and-functional-programming-courses-for-beginners-370f3cd41a4e>  </javarevisited/10-best-scala-and-functional-programming-online-courses-for-beginners-b6461b27bf> 

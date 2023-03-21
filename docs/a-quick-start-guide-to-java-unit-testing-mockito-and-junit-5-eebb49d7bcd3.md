@@ -56,11 +56,7 @@ EmailService 是一个简单的服务，作为执行电子邮件功能的抽象�
 
 在编写测试用例时，有许多常见的命名约定；然而，我们不会在本文中讨论所有的约定。您可以在这里查看它们，看看哪一个最适合您的使用案例:
 
-[](https://dzone.com/articles/7-popular-unit-test-naming) [## 7 个流行的单元测试命名约定— DZone Agile
-
-### 本文提供了一个单元测试命名策略的汇编列表，人们可以按照它来命名他们的单元测试…
-
-dzone.com](https://dzone.com/articles/7-popular-unit-test-naming) 
+<https://dzone.com/articles/7-popular-unit-test-naming>  
 
 就个人而言，我更喜欢使用 **given_when_then** 的格式，并尽可能全面地命名该方法，这样，如果测试被破坏，就可以更容易地理解什么被破坏了。
 
@@ -149,11 +145,7 @@ public boolean sendEncryptedEmailMsg(String message) {
 
 **你可以在这里读到更多关于 Java 反射 API 的信息:**
 
-**[](https://www.baeldung.com/java-reflection) [## Java 反射指南| Baeldung
-
-### 在本文中，我们将探索 Java 反射，它允许我们检查或/和修改…
-
-www.baeldung.com](https://www.baeldung.com/java-reflection) 
+**<https://www.baeldung.com/java-reflection>  
 
 # 检查测试覆盖率
 
@@ -179,26 +171,14 @@ www.baeldung.com](https://www.baeldung.com/java-reflection)
 
 **如果你需要一些参考，我已经把所有的例子上传到我的知识库中:**
 
-**[](https://github.com/JaysonGCS/Mockito-JUnit5-Simple-Examples) [## JaysonGCS/mock ITO-JUnit 5-简单-示例
-
-### 在 GitHub 上创建一个帐户，为 JaysonGCS/mock ITO-JUnit 5-Simple-Examples 开发做贡献。
-
-github.com](https://github.com/JaysonGCS/Mockito-JUnit5-Simple-Examples) 
+**<https://github.com/JaysonGCS/Mockito-JUnit5-Simple-Examples>  
 
 如果您对从 Java 对象生成 TypeScript 感兴趣，请查看我的下一篇文章:
 
-[](/javarevisited/generate-typescript-interfaces-from-java-classes-d53f8c590500) [## 从 Java 类生成 TypeScript 接口
-
-### 当你可以享受一杯午后的平淡无奇时，为什么还要花时间写界面呢？
-
-medium.com](/javarevisited/generate-typescript-interfaces-from-java-classes-d53f8c590500) 
+</javarevisited/generate-typescript-interfaces-from-java-classes-d53f8c590500>  
 
 或者您可能希望通过使用 Lombok 用更少的 Java 做更多的事情:
 
-[](/javarevisited/do-more-with-less-java-lombok-and-experimental-features-8d71d0bcb27c) [## 用更少的 Java 做更多的事— Lombok 和实验性特性
-
-### Lombok 让 Java 再次变酷
-
-medium.com](/javarevisited/do-more-with-less-java-lombok-and-experimental-features-8d71d0bcb27c) 
+</javarevisited/do-more-with-less-java-lombok-and-experimental-features-8d71d0bcb27c>  
 
 如果你喜欢这样的故事，请考虑成为一名 [*中级会员*](https://jsongcs.medium.com/membership) *。每月 5 美元，你可以无限制地访问媒体内容。如果你通过* [*链接*](https://jsongcs.medium.com/membership) *报名，我会得到一点佣金。***

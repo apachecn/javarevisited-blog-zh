@@ -79,18 +79,6 @@ merging them into one sorted list:
 
 其他**你可能喜欢的数据结构和算法问题**
 
-[](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [## 50 大数据结构和算法程序员面试问题
+</javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>  </javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0>  </javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45>  
 
-### 准备编程工作面试？这里有 50 多个数据结构和算法问题，你可以练习…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [## 破解任何编程和技术面试的 25 个软件设计面试问题
-
-### 常见系统设计问题和有用资源的链接
-
-medium.com](/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0) [](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) 
-
-如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以**在这里加入介质**[](/@somasharma_81597/membership)
+如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以**在这里加入介质**</@somasharma_81597/membership>

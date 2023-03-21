@@ -18,11 +18,7 @@ Docker 是 IT 行业的顶级趋势之一。这是一项具有挑战性的技术
 
 顺便说一句，如果你不熟悉 DevOps、容器和 Dockers，Coursera 也有一个名为 [**IBM DevOps 和软件工程专业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fdevops-and-software-engineering) 的专业证书，你可以用它来学习与 Docker 和 DevOps 相关的一切，并获得证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fdevops-and-software-engineering) [## IBM DevOps 和软件工程
-
-### 开启你的 DevOps 和软件工程生涯。精通 DevOps、敏捷、Scrum、CI/CD 和云原生，并亲自动手…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fdevops-and-software-engineering) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fdevops-and-software-engineering>  
 
 # 2023 年面向开发人员的 10 门最佳 Docker 助理认证课程
 
@@ -94,17 +90,13 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 为了更好地准备，您还可以将本课程与 Whizlab 的[*Docker Certified Associate Practice Tests*](https://www.shareasale.com/r.cfm?b=1366997&u=880419&m=43514&urllink=&afftrack=)结合起来，这样您可以在真正考试之前提高速度和准确度。你也可以用它们来找到你的强项和弱项，并专注于它们以取得更好的分数。
 
-而且，如果你从 Whizlabs 购买多门课程和练习题，那么订阅 Whizlabs 的[](https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=)**可以帮你节省一些钱。**
+而且，如果你从 Whizlabs 购买多门课程和练习题，那么订阅 Whizlabs 的<https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=>**可以帮你节省一些钱。**
 
 **只需每年 99 美元(现在有 50%的折扣)，您就可以完全访问他们所有的在线培训课程和不同认证的实践测试，如 AWS、Java、Cloud、Docker 和 Kubernetes。**
 
 **我强烈推荐这个订阅计划，因为 Whizlabs 有最好的材料来准备 IT 认证。**
 
-**[](https://www.whizlabs.com/subscription/?sscid=21k5_d5a21) [## 最实惠的订阅计划- Whizlabs
-
-### 为了您的方便，我们提供最实惠的订购计划。立即注册，向前迈出一步，提升您的…
-
-www.whizlabs.com](https://www.whizlabs.com/subscription/?sscid=21k5_d5a21)** 
+**<https://www.whizlabs.com/subscription/?sscid=21k5_d5a21> ** 
 
 ## **5.[Docker 简介:建立自己的作品集网站](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fintroduction-to-docker-build-portfolio-site)**
 
@@ -124,11 +116,7 @@ www.whizlabs.com](https://www.whizlabs.com/subscription/?sscid=21k5_d5a21)**
 
 **顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **6.[奈杰尔·波尔顿的《多克深潜》](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fdocker-deep-dive-update)**
 
@@ -146,11 +134,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **7.[介绍 Docker 和 DCA 认证](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-and-the-dca-certification%2F)**
 
@@ -188,11 +172,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **此外，如果你喜欢教育平台和他们的互动课程，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需**14.9 美元**就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们使用 cookies 来确保您在我们的网站上获得最佳体验。请查看我们的隐私政策以了解更多信息…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **9. [Docker 认证助理(DCA)实践测试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-certified-associate-dca-practice-tests%2F)**
 
@@ -246,8 +226,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你是 Docker 新手，正在寻找一门免费课程，那么你也可以在 Udemy 上查看这门 [**Docker 基础知识(免费)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-essentials%2F) 课程。它们是完全免费的，你需要的只是一个免费的 Udemy 帐户来注册这个在线培训课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-essentials%2F) [## 免费 Docker 教程- Docker 精要
-
-### 天蓝色画布对我们来说意味着天空大小的梦想和想象空间，在这里你可以画任何东西！我们是一个小…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-essentials%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-essentials%2F> **

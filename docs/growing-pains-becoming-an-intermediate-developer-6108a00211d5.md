@@ -37,7 +37,7 @@
 *   是可插拔的吗？第三方可以用替代实现来扩展你的库吗？
 *   垃圾收集呢？你是否创建了太多的对象？
 
-Log4j2 在记录自己的设计方面做得非常出色。做完这道题后，去看一看[](https://logging.apache.org/log4j/2.0/manual/architecture.html)*。*
+Log4j2 在记录自己的设计方面做得非常出色。做完这道题后，去看一看<https://logging.apache.org/log4j/2.0/manual/architecture.html>*。*
 
 *我还没能找到任何其他低设计的好资源。如果你发现任何有用的东西，请在下面的评论中留言。*
 
@@ -121,27 +121,7 @@ Log4j2 在记录自己的设计方面做得非常出色。做完这道题后，�
 
 ## *附录*
 
-*[](https://logging.apache.org/log4j/2.0/manual/architecture.html) [## Log4j - Log4j 2 架构- Apache Log4j 2
-
-### 使用 Log4j 2 API 的应用程序将向日志管理器请求一个具有特定名称的日志记录器。日志管理器将…
-
-logging.apache.org](https://logging.apache.org/log4j/2.0/manual/architecture.html) [](https://github.com/donnemartin/system-design-primer) [## donne Martin/系统设计初级读本
-
-### 学习如何设计大型系统。准备系统设计面试。包括 Anki 抽认卡。…
-
-github.com](https://github.com/donnemartin/system-design-primer) [](https://www.educative.io/collection/5668639101419520/5649050225344512) [## 系统设计面试
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512) [](https://www.educative.io/collection/5307417243942912/5707702298738688) [## 面向高级工程面试的 Java 多线程
-
-### Java 中的并发性是高级工程师面试中提出的最复杂和高级的话题之一…
-
-www.educative.io](https://www.educative.io/collection/5307417243942912/5707702298738688) [](https://stackoverflow.com/a/2707195) [## Java 核心库中的 GoF 设计模式示例
-
-### 我正在学习 GoF Java 设计模式，我想看一些它们的真实例子。有哪些好的例子…
-
-stackoverflow.com](https://stackoverflow.com/a/2707195) 
+*<https://logging.apache.org/log4j/2.0/manual/architecture.html>  <https://github.com/donnemartin/system-design-primer>  <https://www.educative.io/collection/5668639101419520/5649050225344512>  <https://www.educative.io/collection/5307417243942912/5707702298738688>  <https://stackoverflow.com/a/2707195>  
 
 [https://www.youtube.com/watch?v=eq3KiAH4IB](https://www.youtube.com/watch?v=eq3KiAH4IBI)—关于使用智能智能的技巧和诀窍的有趣演讲。
 

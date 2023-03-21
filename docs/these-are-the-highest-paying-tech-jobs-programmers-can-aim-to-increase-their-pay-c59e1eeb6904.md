@@ -52,11 +52,7 @@
 
 如果你从事数据分析业务，那么提高你的统计和数学技能也将对你的职业生涯有很大帮助，如果你想提高你的数据分析数学和统计技能，我建议你参加杜克大学[Coursera](https://medium.com/u/f69fb1ad537a?source=post_page-----8d72b6b1861c----------------------)的[Coursera](https://medium.com/u/99c0fb464c1f?source=post_page-----8d72b6b1861c----------------------)上的[和**统计，这将帮助你掌握统计，包括推理、建模和贝叶斯方法。**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fstatistics)
 
-[](https://www.coursera.org/specializations/statistics?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&siteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80) [## 使用 R | Coursera 进行统计
-
-### 在这个专业中，你将学习在 R 中分析和可视化数据，并创建可再现的数据分析…
-
-www.coursera.org](https://www.coursera.org/specializations/statistics?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&siteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80) 
+<https://www.coursera.org/specializations/statistics?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&siteID=JVFxdTr9V80-1ByOY2S1l0HqhLovbeFaAg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80>  
 
 如果你发现 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera PlusT3 的[课程，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
@@ -90,11 +86,7 @@ DevOps 运动的主要特征是强烈提倡从集成、测试到部署的软件�
 
 此外，如果您需要指导，那么这个 [DevOps 路线图](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb?gi=8829080e6d7d)完全可以遵循:
 
-[](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html) [## 2023 DevOps 开发人员路线图——成为 DevOps 工程师的指南
-
-### DevOps 目前非常热门，我认识的大多数朋友、同事和高级开发人员都在努力工作…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html) 
+<https://javarevisited.blogspot.com/2018/09/the-2018-devops-roadmap-your-guide-to-become-DevOps-Engineer.html>  
 
 ## 5.嵌入式应用开发人员
 
@@ -138,11 +130,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/09/the-2018-
 
 **如果你热爱桌面应用程序编程，并想成为一名桌面应用程序开发人员，我建议你加入 [**电子桌面应用程序:完整的开发人员指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Felectron-react-tutorial%2F) 课程(在 [Udemy](https://medium.com/u/b32aa0132f1b?source=post_page-----c59e1eeb6904--------------------------------) 上)**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Felectron-react-tutorial%2F) [## 桌面应用的电子化:完整的开发者指南
-
-### 使用电子框架，利用最新的 web 开发技术构建引人注目的跨平台桌面应用程序
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Felectron-react-tutorial%2F)** 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Felectron-react-tutorial%2F> ** 
 
 ## **9.系统管理员**
 
@@ -223,16 +211,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ## **你可能喜欢的其他媒体文章**
 
-**[](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 完整的 DevOps 路线图
-
-### 成为前端或后端开发人员的图解指南，提供课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587) [## 十大 Coursera 证书，开启你在云计算、数据科学、人工智能、大型机和 IT 领域的职业生涯…
-
-### 大家好，如果你想在信息技术、数据科学和 IT 支持领域开始或发展你的职业生涯…
-
-medium.com](/javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587)**
+**</hackernoon/the-2018-devops-roadmap-31588d8670cb>  </hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </javarevisited/top-10-coursera-certificates-to-start-your-career-in-cloud-data-science-ai-mainframe-and-it-558690c83587> **

@@ -229,12 +229,4 @@ echo '127.0.0.1 dev.localhost.com'>> /etc/hosts'
 
 完整的示例源代码可以在 [GitHub](https://github.com/sophea/ssl-spring-boot) 上获得。
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  <https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

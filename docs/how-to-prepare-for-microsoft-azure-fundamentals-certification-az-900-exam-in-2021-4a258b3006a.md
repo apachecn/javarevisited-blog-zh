@@ -98,11 +98,7 @@
 
 这是最受欢迎的 Udemy 课程之一，用于准备 AZ-900 或 Azure Fundamentals 考试。该课程由 Scott Duffy 创建，现已更新，涵盖了最新的考试课程。该课程还包括一个更好准备的模拟测试。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure%2F) [## AZ-900: Microsoft Azure 基础知识考试准备
-
-### 你好，我叫斯科特·达菲。我喜欢让复杂的技术话题变得简单易懂。这是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure%2F>  
 
 **2。** [**微软 Azure 基础 AZ-900 考试备考专业化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900%3F)
 
@@ -112,21 +108,13 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 关于如何加入该课程，您可以直接加入该课程，也可以参加 [**Coursera Plus**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是一个订阅计划，可以加入 7000 多个 Coursera 课程和认证。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900%3F) [## Microsoft Azure 基础知识 AZ-900 考试准备
-
-### 开启你的云计算生涯。准备微软 AZ-900 认证考试。获得 50%的 Microsoft 折扣…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900%3F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmicrosoft-azure-fundamentals-az-900%3F>  
 
 **3。** [**AZ-900 备考:微软 Azure 基础(2023 年 1 月)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-azure-exam-prep-understanding-cloud-concepts%2F)
 
 这是 Udemy 的另一个很棒的课程，我强烈推荐给想要参加 Azure 基础或 AZ 900 考试的开发者。本课程不仅是最新的，涵盖了所有的考试主题，还配有交互式实验、闪存卡和一个 50 题的模拟考试。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-azure-exam-prep-understanding-cloud-concepts%2F) [## AZ-900 考试准备:微软 Azure 基础(2023 年 1 月)
-
-### 涵盖截至 20232 年 1 月的所有 AZ-900 考试目标。加入已经注册的 30，000 多名学生的行列…
-
-udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-azure-exam-prep-understanding-cloud-concepts%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-900-azure-exam-prep-understanding-cloud-concepts%2F>  
 
 4. [**微软 Azure Fundamentals (AZ-900)在 Pluralsight 上的路径**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fazure-fundamentals)
 
@@ -134,19 +122,11 @@ udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl
 
 对于那些希望在 Azure 领域开始使用云服务和解决方案的人来说，这是一个很好的起点。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fazure-fundamentals) [## 微软 Azure 基础知识
-
-### 关于作者，Matt 是一名独立顾问，擅长 web 应用程序设计和开发以及系统…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fazure-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fazure-fundamentals>  
 
 顺便说一下，你需要一个[**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [10 天免费通行证](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 2.书籍和阅读材料
 
@@ -178,21 +158,13 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 AZ-900 Azure 基础知识考试的三个完整的定时模拟测试，150 个问题，100%原始材料
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure-tests%2F) [## AZ-900: Microsoft Azure 基础知识原始练习测试
-
-### 你好，我叫斯科特·达菲。我喜欢让复杂的技术话题变得简单易懂。这是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure-tests%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz900-azure-tests%2F>  
 
 **2。** [**AZ-900 模拟测试|微软 Azure 基础| 1 月 21 日**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-az-900-certification-exam-practice-tests%2F)
 
 这个模拟考试完全符合新的要求。针对考试的最新变化，增加了新的问题。它包含 6 个全长的实践测试，以建立速度和准确性。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-az-900-certification-exam-practice-tests%2F) [## AZ-900 模拟测试|微软 Azure 基础| 1 月 21 日
-
-### 针对考试的最新变化添加了新问题，本模拟考试完全与…保持同步
-
-udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-az-900-certification-exam-practice-tests%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmicrosoft-azure-az-900-certification-exam-practice-tests%2F>  
 
 3. [**微软 Azure 考试 AZ-900 认证**](https://shrsl.com/25qjo)
 
@@ -208,11 +180,7 @@ udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl
 
 从这些来源中，你可以找到许多相关的 Azure 文档。此外，请确保订阅 Azure 通知，以帮助您了解最新的 Azure 更新。
 
-[](https://azure.microsoft.com/en-us/resources/whitepapers/) [## 白皮书、报告和电子书| Microsoft Azure
-
-### 无论您是 Azure 新手，还是准备在云中部署业务关键型工作负载，请浏览这些白皮书…
-
-azure.microsoft.com](https://azure.microsoft.com/en-us/resources/whitepapers/) 
+<https://azure.microsoft.com/en-us/resources/whitepapers/>  
 
 ## 5.微软在线学习平台
 
@@ -255,8 +223,4 @@ azure.microsoft.com](https://azure.microsoft.com/en-us/resources/whitepapers/)
 
 **P. S. —** 如果你是 Azure 云平台的新手，正在寻找免费的在线培训课程来学习 Azure 基础知识并为 Azure 基础认证做准备，那么你还可以在 Udemy 上看到[**微软 Azure 概念**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F)——Linux academy 的免费课程。这是完全免费的，你只需要一个免费的 Udemya 帐户就可以在线参加这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F) [## 免费微软 Azure 教程-微软 Azure 概念
-
-### Linux 学院是建立在这样一个信念上的，即提供高质量的，深入的培训应该在一个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-academy-microsoft-azure-concepts%2F> 

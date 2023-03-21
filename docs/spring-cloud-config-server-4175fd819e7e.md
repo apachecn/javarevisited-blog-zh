@@ -111,10 +111,6 @@ curl -L -X POST ‘http://127.0.0.1:8081/actuator/refresh' \
 
 可以访问我的微服务项目(用 Spring Cloud 实现)GitHub url 获取样例代码:
 
-[](https://github.com/senoritadeveloper01/nils-spring-microservices) [## GitHub-senoritadeveloper 01/nils-spring-微服务:一个微型 Spring Boot 微服务项目
-
-### 这是一个由 Spring Boot 和 Spring Cloud 使用 Java 版本 16 开发的示例微服务项目。命名…
-
-github.com](https://github.com/senoritadeveloper01/nils-spring-microservices) 
+<https://github.com/senoritadeveloper01/nils-spring-microservices>  
 
 编码快乐！

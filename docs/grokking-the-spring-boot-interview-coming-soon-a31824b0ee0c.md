@@ -6,7 +6,7 @@
 
 [![](img/329c0a1a708e7c95391b7006d0d28e0c.png)](https://gum.co/hrUXKY)
 
-大家好，经过几个月的辛勤工作和辛劳，我非常兴奋地宣布，我的新书《寻访 Spring Boot 的[](https://gum.co/hrUXKY)**的预购现已开放，你可以在 [Gumroad](https://medium.com/u/4e3295cc7a0b?source=post_page-----a31824b0ee0c--------------------------------) 以特价 **$10.90** 预购。**
+大家好，经过几个月的辛勤工作和辛劳，我非常兴奋地宣布，我的新书《寻访 Spring Boot 的<https://gum.co/hrUXKY>**的预购现已开放，你可以在 [Gumroad](https://medium.com/u/4e3295cc7a0b?source=post_page-----a31824b0ee0c--------------------------------) 以特价 **$10.90** 预购。**
 
 **自从我谈到写一本关于 Spring 框架和 Spring book 的书，我收到了很多积极的回应，这激励我写这本书，我真的希望我的关于 Java 面试的书能帮助你找到你一直渴望的 Java 开发人员工作。**
 
@@ -62,11 +62,7 @@
 
 ****如果你喜欢在亚马逊上购物，那么这本书现在也可以在亚马逊 Kindle 上预购，如果你喜欢从亚马逊订购，那么你可以使用这个链接— [**在亚马逊上搜索 Spring Boot 访谈**](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)****
 
-****[](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) [## 苦读 Spring Boot 的采访
-
-### Spring Boot 访谈- Kindle 版。下载一次，然后在你的 Kindle 设备上阅读…
-
-www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20) 
+****<https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20>  
 
 这本书对于准备 [Spring 专业认证考试](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7)的 Java 开发人员也很有用，因为我已经尝试回答了官方 Spring 认证考试指南中的大部分问题。这意味着您也可以将此作为春季认证准备的复习学习指南。
 
@@ -84,8 +80,4 @@ www.amazon.com](https://www.amazon.com/dp/B08V1NN4LW/?tag=javamysqlanta-20)
 
 **附言——**如果你正在准备春季认证，那么你也可以在 Udemy 上参加我的 [**春季认证实践课程**](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) 。它包含 5 个完整长度考试的 250 多个高质量问题，以测试您在真实考试中的知识。
 
-[](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E) [## 春季认证考试模拟测试[250 题]
-
-### 我们是一个拥有扎实技术技能的团队，对在线教学充满热情。我一直在把我对 Java 的想法写在…
-
-www.udemy.com](https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E)****
+<https://www.udemy.com/course/spring-professional-practice-test-questions-vmware-edu-certification/?referralCode=7419B0A2C8AB79F0520E> ****

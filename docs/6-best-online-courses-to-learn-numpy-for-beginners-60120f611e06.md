@@ -20,11 +20,7 @@
 
 顺便说一下，如果你是 Python 的新手，那么我强烈推荐你参加一个全面的 Python 课程，比如 Coursera 的[**Python for Everybody Specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython)。这将帮助您快速掌握 Python，并帮助您轻松学习其他 Python 库，如 NumPy、SciPy 或 Pandas。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [## 面向所有人的 Python
-
-### 学习用 Python 编程和分析数据。开发收集、清理、分析和可视化数据的程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython>  
 
 # 2023 年学习 NumPy 的 6 门最佳课程和教程
 
@@ -62,11 +58,7 @@ Coursera project 最棒的一点是，所有东西都已经直接安装在你的
 
 如果你发现 Coursera 的课程很有用，因为它们是由知名公司如谷歌、IBM、亚马逊和世界上最好的大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[使用 Python Numpy 做更多事情](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdoing-more-with-python-numpy%2F)【Udemy 课程】
 
@@ -110,11 +102,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 *标准计划为您提供 350 多门课程、14 个职业轨道、50 多个技能轨道、无限实践挑战和现场代码。按年度计划，每月大约花费 25 美元，这是值得的。也可以 [**免费试用 DataCamp 七天**](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fpricing) ，值得一试。*
 
-*[](https://javarevisited.blogspot.com/2021/09/7-free-datacamp-courses-for-beginners.html) [## 2023 年在线学习的 7 门最佳免费 Datacamp 课程[更新]
-
-### 大家好，如果你正在寻找免费的 Datacamp 课程来学习热门的技术和数据技能，如 Python、SQL、Data…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/7-free-datacamp-courses-for-beginners.html)* 
+*<https://javarevisited.blogspot.com/2021/09/7-free-datacamp-courses-for-beginners.html> * 
 
 ## *6.[使用 NumPy 处理多维数据](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fnumpy-working-with-multidimensional-data)*
 
@@ -132,11 +120,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/7-free-da
 
 *我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这门课程。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 以上就是 2023 年**初学者学习 NumPy 的最佳在线课程**。这是一个重要的用于数值计算的 Python 库。无论你是创建人工模型的机器学习工程师还是分析数据的数据科学家，Numpy 库都应该一直在你的腰带上。这个库将使你的工作变得容易，并节省你大量的时间和精力。
 
@@ -164,8 +148,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **p . s .**——如果你热衷于学习 Numpy，并在寻找免费的 NumPy 在线课程，你也可以在 Udemy 上查看这个 [**深度学习先决条件:360 careers 的 Python V2**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fnumpy-python%2F) 课程中的 NumPy 堆栈。这个 2 小时长的课程是完全免费的，由 Udemy 上一位著名的讲师创建。我强烈推荐参加这个课程，你所需要的只是一个免费的 Udemy 账户。
 
-[](https://javarevisited.blogspot.com/2019/08/top-5-courses-to-learn-deep-learning.html) [## 2023 年学习深度学习的 5 大在线课程-最佳选择
-
-### 学习深度学习深入？听起来递归？没有吗？的确如此。毫无疑问，机器学习是一种…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/08/top-5-courses-to-learn-deep-learning.html)*
+<https://javarevisited.blogspot.com/2019/08/top-5-courses-to-learn-deep-learning.html> *

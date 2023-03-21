@@ -140,8 +140,4 @@ SQL 是与数据库对话的语言，从数据库中获得你的答案和见解�
 
 顺便说一句，如果你喜欢从一些免费的东西开始，你也可以看看这个[免费 MySQL 课程](http://www.java67.com/2018/02/5-free-php-and-mysql-courses-for-web-developers.html)的列表。
 
-[](/javarevisited/top-10-free-courses-to-learn-php-and-mysql-for-web-development-e96e69982675) [## 学习 PHP 和 MySQL 进行 Web 开发的 10 大免费课程
-
-### Udemy、Coursera、Pluralsight 和 Educative 的最佳 PHP 和 MySQL 课程
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-php-and-mysql-for-web-development-e96e69982675)
+</javarevisited/top-10-free-courses-to-learn-php-and-mysql-for-web-development-e96e69982675> 

@@ -142,4 +142,4 @@ Tableau: Tableau 兼容健壮的云平台，如[微软 Azure](/javarevisited/10-
 2.  [微软 Power BI —完整介绍](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fpowerbi-complete-introduction%2F)
 3.  [掌握 Qlik 感觉](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fmastering-qlik-sense%2F)
 
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**</@somasharma_81597/membership>

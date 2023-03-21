@@ -20,11 +20,7 @@
 
 **顺便说一下，如果你正在寻找一个完整的课程来准备技术面试，没有比 Udemy 上 Andrei Negaoie 的 [**掌握编码面试:大技术(FAANG)面试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-the-coding-interview-big-tech-faang-interviews%2F) 课程更好的资源了。这是编写采访代码的绝佳资源。**
 
-**[](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn) [## 精通编码面试:大技术(FAANG)面试|零到精通
-
-### 我们向你保证，这是最好的 FAANG 面试准备课程，你可以找到，如果你是认真的…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn) 
+**<https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn>  
 
 # 2022 年 5 门最佳前端开发者面试课程
 
@@ -68,13 +64,9 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_rml6679s/extern
 
 **![](img/d72c86386345a9c9d991d035a892fd1c.png)**
 
-**你既可以单独购买这些课程，也可以每月花 14.9 美元订阅[](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-prepare-for-frontend)**教育课程，以获取他们所有 250 多门基于文本的在线互动课程。它们确实是准备编码和开发面试的最佳场所，我强烈推荐给任何准备技术面试的人。****
+**你既可以单独购买这些课程，也可以每月花 14.9 美元订阅<https://javarevisited.blogspot.com/2021/10/top-5-courses-to-prepare-for-frontend>**教育课程，以获取他们所有 250 多门基于文本的在线互动课程。它们确实是准备编码和开发面试的最佳场所，我强烈推荐给任何准备技术面试的人。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我想表达我的无限感激，让您的多功能教育平台可用和访问。我…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****3.[前端面试准备— Udacity](https://imp.i115008.net/c/3294490/786224/11298?u=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Ffront-end-interview-prep--ud250)****
 
@@ -154,8 +146,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 ******p . s .**——如果你正在准备一个全栈开发者面试，那么你也需要准备后端问题，这些问题主要集中在硬代码编码、数据结构和算法，以及设计模式和编码实践上。如果你需要资源，我强烈推荐你去参加 Udemy 上 Andrei Negaoie 的 [**掌握编码面试:大科技(FAANG)面试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-the-coding-interview-big-tech-faang-interviews%2F) 课程。这是编写采访代码的绝佳资源。****
 
-****[](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn) [## 精通编码面试:大技术(FAANG)面试|零到精通
-
-### 我们向你保证，这是最好的 FAANG 面试准备课程，你可以找到，如果你是认真的…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn)****
+****<https://academy.zerotomastery.io/a/aff_rml6679s/external?affcode=441520_zytgk2dn> ****

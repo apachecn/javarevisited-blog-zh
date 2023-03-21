@@ -48,11 +48,7 @@ OpenShift 的目标是为开发人员和系统管理员开发、部署和运行�
 
 我不确定是谁整理了大部分的讲座(我怀疑是红帽)，但是从他的 [**Kubernetes/Docker 课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-docker%2F) 中学习 Mumshad 自己的材料是一种可爱的接触。如果你是 OpenShift 的新手，但有一些其他技术的背景，这对你来说是一个极好的入门课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-docker%2F) [## 面向绝对初学者的 Docker 动手开发
-
-### KodeKloud 是一个在线培训机构，旨在提供 DevOps 和自动化方面的优质实践培训…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-docker%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-docker%2F>  
 
 ## 2.[开发者实用 OpenShift 新课程 2023](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fopenshift-for-developers%2F)【Udemy】
 
@@ -140,11 +136,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 顺便说一句，如果你觉得 Coursera 的课程和认证有用，那么我建议你加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2023 年学习 Openshift 容器的**最佳课程。在当今以云为中心的世界中，它是一个必不可少的工具，Java 开发人员应该学习它。OpenShift 是 Kubernetes 的封闭版本，帮助您扩展基于云的服务。**
 
@@ -168,8 +160,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **附言——**如果你正在寻找学习 Openshift 的免费在线课程，那么你也可以在 Udemy 上查看 [**主 open shift——容器编排课程**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-openshift-quickly%2F) 。它是完全免费的，已经有超过 790 名学生加入了这门课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-openshift-quickly%2F) [## 免费 OpenShift 教程-主 Openshift-容器编排
-
-### 本课程完全基于实用主义的方法，没有任何虚假的内容。简短、精确且实用的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-openshift-quickly%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-openshift-quickly%2F> 

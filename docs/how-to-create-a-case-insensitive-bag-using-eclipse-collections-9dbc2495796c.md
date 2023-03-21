@@ -44,11 +44,7 @@ HashingStrategy<String> hashingStrategy =
 
 我希望你觉得这很有用。Eclipse 集合也有基于`HashingStrategy`的`Sets`和`Maps`。您可以在下面的博客中找到更多关于这些鲜为人知的数据结构的信息。
 
-[](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969) [## 没有人告诉过你的缺失的 Java 数据结构—第 1 部分
-
-### Eclipse Collections 提供了 JDK 中没有的其他集合类型。
-
-medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969) 
+</javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969>  
 
 感谢您的阅读！
 
@@ -56,16 +52,4 @@ medium.com](/javarevisited/the-missing-java-data-structures-no-one-ever-told-you
 
 ## 您可能喜欢的其他 Java 文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)  [## 50 大数据结构和算法程序员面试问题
-
-### 准备编程工作面试？这里有 50 多个数据结构和算法问题，你可以练习…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0) [](https://faun.pub/20-dynamic-programming-interview-questions-with-solutions-2a144b1a1e07) [## 20 个动态规划面试问题及解答
-
-### 准备编码面试？这里有 20 个动态编程问题来测试你的技能，好好准备。
-
-faun.pub](https://faun.pub/20-dynamic-programming-interview-questions-with-solutions-2a144b1a1e07)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>    <https://faun.pub/20-dynamic-programming-interview-questions-with-solutions-2a144b1a1e07> 

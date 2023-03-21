@@ -6,11 +6,7 @@
 
 我最近发表了一个故事:
 
-[](/@andrejss88/my-top-10-lessons-in-software-testing-458c929c4500) [## 我在软件测试中的前 10 课
-
-### 从自己的错误中吸取教训是可以的。但是向别人学习是明智的。
-
-medium.com](/@andrejss88/my-top-10-lessons-in-software-testing-458c929c4500) 
+</@andrejss88/my-top-10-lessons-in-software-testing-458c929c4500>  
 
 这些经验是我个人最喜欢的，来自《软件测试中的经验教训》这本书，我会讨论为什么它们特别重要，但是我故意忽略了《T2》第五章:自动化测试中的经验教训。
 
@@ -176,15 +172,7 @@ medium.com](/@andrejss88/my-top-10-lessons-in-software-testing-458c929c4500)
 
 **掌握这些主题需要几年时间，但只要个人和团队不断努力，他们应该会没事的。但是没有它们，任何长期的测试自动化努力注定会失败。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftest-automation-java-fundamentals) [## Java 测试自动化基础
-
-### 对缓慢、不稳定和难以维护的测试感到沮丧？本课程将教你如何应用基础…
-
-pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftest-automation-java-fundamentals) [](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-writing-readable-maintainable-code) [## Java:编写可读和可维护的代码
-
-### 课程概述大家好，我的名字是安德鲁·多罗宁斯，欢迎来到我的课程《Java:编写可读和…
-
-pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-writing-readable-maintainable-code) 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Ftest-automation-java-fundamentals>  <https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-writing-readable-maintainable-code>  
 
 # 荣誉奖:鼓励单元测试套件的开发
 
@@ -215,15 +203,7 @@ pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%
 
 您可能还对以下内容感兴趣:
 
-[](/javarevisited/my-top-10-lessons-in-software-testing-458c929c4500) [## 我在软件测试中的前 10 课
-
-### 从自己的错误中吸取教训是可以的。但是向别人学习是明智的。
-
-medium.com](/javarevisited/my-top-10-lessons-in-software-testing-458c929c4500) [](/javarevisited/so-you-want-to-become-a-test-automation-engineer-16cad0db257c) [## 所以你想成为一名测试自动化工程师？
-
-### 我看到许多人和我个人有几个朋友和熟人对成为一名测试者感兴趣…
-
-medium.com](/javarevisited/so-you-want-to-become-a-test-automation-engineer-16cad0db257c) 
+</javarevisited/my-top-10-lessons-in-software-testing-458c929c4500>  </javarevisited/so-you-want-to-become-a-test-automation-engineer-16cad0db257c>  
 
 *本文是“固执己见的 SDET 的故事”系列的一部分。*
 

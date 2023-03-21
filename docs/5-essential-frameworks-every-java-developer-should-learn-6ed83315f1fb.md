@@ -116,16 +116,4 @@ Spring security 的新版本 5.0 包括许多错误修复和一个完整的新 O
 
 **P.S. —** 如果你是 Java 世界的新手，想在学习这些高级框架之前掌握核心 Java，那么我建议你查看这些学习核心 Java 的 [**最佳课程**](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) 来提升你的技能并掌握基础知识。
 
-[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [## 面向初学者和有经验的程序员的 10 大免费 Java 课程
-
-### 互联网上充满了有用的资源，无论你想学什么，都有一些有用的东西可以提供给…
-
-www.java67.com](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651) [## 2023 年 Java 开发人员可以学习的微服务开发 5 大框架
-
-### Java 程序员们好，2023 年新年快乐。如果你正在考虑用 Java 进行微服务开发，并且正在寻找…
-
-medium.com](/javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651) [](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html) [## 十大微服务设计模式和原则-示例
-
-### 让我们看看微服务架构构建的原则。1.可扩展性 2。灵活性 3…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
+<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html>  </javarevisited/top-5-frameworks-java-developers-can-learn-for-microservices-development-in-2022-848da66d6651>  <https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html> 

@@ -92,11 +92,7 @@ Hyperledger 是一个开源项目，它支持基于区块链技术构建分布�
 
 不过，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Fskills)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 5.[Kubernetes 上 Hyperledger Fabric v2.x 的完整指南](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fhyperledger-fabric-on-kubernetes-complete-guide%2F)
 
@@ -142,8 +138,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P. S. —** 如果你正在寻找一个免费的课程来开始你的区块链职业生涯，那么你也可以查看 [**企业区块链基础**](http://shrsl.com/34mvm) ，这是一个来自 101 Blockchain 的免费区块链课程，是一个很好的开始。我向想要开始区块链职业生涯的初学者和有经验的开发者强烈推荐这门课程。如果你需要更多的选择，你也可以看看这些 [**最好的免费区块链课程**](/javarevisited/7-free-courses-to-learn-blockchain-in-2020-764e66b47ebe) 。
 
-[](https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html) [## 2023 年要学习的 5 门免费区块链开发人员课程和认证-最好的
-
-### 大家好，如果你想学习区块链开发，并且正在寻找一些免费的区块链课程，你来了…
-
-www.java67.com](https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html)
+<https://www.java67.com/2018/02/5-free-blockchain-technology-courses.html> 

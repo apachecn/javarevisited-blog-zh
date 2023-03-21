@@ -20,7 +20,7 @@
 
 如果你有兴趣，你可以找到一个更详尽的单独博客锅列表，我已经在进一步学习部分列出了。无论如何，让我们通过这个 *Java 开发者路线图来了解如何在 2023 年成为一名 Java 开发者。顺便说一句，要成为一名 rockstar 开发人员，你不需要理解这个路线图上的所有内容。事实上，如果你不愿意，你甚至不需要把它们看得那么严重。相反，使用这些地图作为起点来帮助指导你的学习。***
 
-> **如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入中等**[](/@somasharma_81597/membership)**
+> **如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在 这里**加入中等**</@somasharma_81597/membership>**
 
 ****![](img/59f7dce446f2cbf65661aeaa4132223f.png)****
 
@@ -34,11 +34,7 @@
 
 ****我强烈建议 Java 程序员学习 Git 和 Github，如果你已经使用过 Git，那么你也可以提升你的 Git 技能，如果你需要资源，那么你可以从 Udemy 上的[**Git 完整指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F) 开始。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F) [## Git 完整教程:Git 权威指南
-
-### Git 完成这一课程的目的是一个全面的 Git 方法，这意味着没有事先的知识或…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F)**** 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fgit-complete%2F> **** 
 
 ## ******2。Linux******
 
@@ -48,11 +44,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****如果你需要一个资源来提升你的 Linux 技能，我推荐你去看看 Udemy 上的[**Linux Mastery:11.5 小时掌握 Linux 命令行**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) 课程。对于任何想从头开始学习 Linux 命令的人来说，这是一门很棒的课程。****
 
-****[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) [## 精通 Linux:掌握 Linux 命令行
-
-### 感言= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =“迄今为止 Udemy 上关于 Linux 的最佳课程，我绝对推荐”…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) 
+****<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F>  
 
 如果你需要更多的资源，那么你可以使用这些免费的 Linux 课程开始学习 Linux。**** 
 
@@ -62,11 +54,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 如果你知道像 Trie、B 树、AVL 树这样的高级数据结构，那就再好不过了。但是，如果你不知道，那么我建议你参加一个综合课程，比如 [**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 的深度学习，它会教你所有这些基础知识。****
 
-****[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### Tim 从事专业软件开发已经超过 35 年了。在他的职业生涯中，他曾为几家大公司工作过…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F)**** 
+****<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F> **** 
 
 ## ******4。HTTP / HTTPS******
 
@@ -78,11 +66,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ****它基本上告诉你的浏览器如何显示你的数据。如果你想了解更多关于计算机科学的知识，你也可以查看 Udemy 上的计算机科学 101:掌握编程课程背后的理论。****
 
-****[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-science-101-master-the-theory-behind-programming%2F) [## 计算机科学理论 101:编程背后的理论
-
-### 我是一个自学成才的多媒体设计师和计算机科学家，帮助客户实现创造性的愿景…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-science-101-master-the-theory-behind-programming%2F)**** 
+****<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcomputer-science-101-master-the-theory-behind-programming%2F> **** 
 
 ## ****6.结构化查询语言****
 
@@ -92,21 +76,13 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 ****如果你需要资源，我建议你去看看 Andrei Negaoie 在 ZTM 学院开设的 [**完整的 SQL +数据库训练营:零到精通**](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery?affcode=441520_zytgk2dn) 课程。****
 
-****[](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery?affcode=441520_zytgk2dn) [## 完整的 SQL +数据库训练营:零到精通
-
-### 成为 SQL 和数据库概念的专家将 SQL、PostgreSQL、MySQL、Redis、数据库管理/设计添加到您的…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery?affcode=441520_zytgk2dn)**** 
+****<https://academy.zerotomastery.io/p/complete-sql-database-bootcamp-zero-to-mastery?affcode=441520_zytgk2dn> **** 
 
 ## ****7 **。设计模式******
 
 ****毫无疑问，每个程序员都应该知道 Git 和 Github，因为它们是版本控制和代码库方面的标准。如果你想学习和掌握设计模式，尤其是 OOP 设计模式，那么我建议你参加由 Dmitri Nestruk 在 Udemy 上开设的 Java 课程中的 [**设计模式。这是学习经典设计模式在 Java 中的现代实现的绝佳课程。**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F)****
 
-****[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) [## 面向工程师、设计师和架构师的 Java 设计模式
-
-### 本课程从实用的角度全面概述了 Java 中的设计模式。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F) 
+****<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdesign-patterns-java%2F>  
 
 如果你需要更多的资源，你也可以查看我之前关于最佳设计模式的文章[书籍](https://www.java67.com/2016/10/top-5-object-oriented-analysis-and-design-patterns-book-java.html)和[课程](https://javarevisited.blogspot.com/2018/02/top-5-java-design-pattern-courses-for-developers.html)来深入学习面向对象设计模式。
 
@@ -124,11 +100,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 我建议你掌握 IDEA 快捷方式、视图和它提供的所有其他特性，成为一名真正的 Java 高手，如果你需要资源，我认为 IntelliJ IDEA Tricks to Boost Productivity for Java Devs 是一个很好的起点。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F) [## 提高 Java 开发人员生产力的 IntelliJ 点子
-
-### 如果你想成为一名真正的专业 Java 程序员，你需要掌握你的键盘和 IntelliJ 思想。你需要…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintellij-idea-secrets-double-your-coding-speed-in-2-hours%2F>  
 
 ## 1.2 构建工具
 
@@ -136,19 +108,11 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 如果你既想学 Maven 又想学 Gradle，可用的资源并不多。要我说，我推荐 Udemy 上约翰·汤姆逊的 [**阿帕奇 Maven:初学者到宗师**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-maven-beginner-to-guru%2F) 。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-maven-beginner-to-guru%2F) [## Apache Maven:Java 和 Spring Boot 应用程序的初学者到大师
-
-### Apache Maven 是最流行的 Java 构建工具。世界各地的公司和开源社区，请考虑…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-maven-beginner-to-guru%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fapache-maven-beginner-to-guru%2F>  
 
 而且，如果你热衷于学习 Gradle，我建议你去看看另一位伟大的 UDemy 导师 Bharat Thippireddy 为 Java 开发人员编写的 Gradle。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-for-java-developers%2F) [## 面向 java 开发人员的 Gradle
-
-### 样本评论:课程内容丰富，基础知识用真实世界的例子很好地解释了…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-for-java-developers%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgradle-for-java-developers%2F>  
 
 ## 1.3 容器和开发工具
 
@@ -160,11 +124,7 @@ Kubernetes 是一个下一级工具，并不是所有的 JAva 开发人员都真
 
 我建议对 Docker 有很好的了解，对 Java 开发人员有 Kubernetes 的基础知识，如果你需要资源，我推荐 Maximillian SchwaurzMuller 在 Udemy 上的 [**Docker & Kubernetes:实用指南**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F) 课程。您可以在一门课程中学习这两种工具。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F) [## Docker & Kubernetes:实用指南
-
-### 从 13 岁开始，我从未停止学习新的编程技能和语言。早期我开始创作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-kubernetes-the-practical-guide%2F>  
 
 如果您对学习这些工具感兴趣，这里有一些有用的课程，可以用来学习构建工具和 ide
 
@@ -194,11 +154,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 另一方面，如果价格是一个问题，你也可以查看这个 Udemy 课程—[**Java 中的并发性、多线程和并行计算**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmultithreading-and-parallel-computing-in-java%2F) ，如果你在每个月举行的 Udemy flash sales 上购买，花费不会超过 10 美元。这也是学习 Java 并发和 Java 多线程的一门极好的课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmultithreading-and-parallel-computing-in-java%2F) [## Java 中的并发、多线程和并行计算
-
-### 本课程是关于多线程和并发编程的基础知识以及一些并行概念。在 21 世纪…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmultithreading-and-parallel-computing-in-java%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmultithreading-and-parallel-computing-in-java%2F>  
 
 ## 2.3 Java IO
 
@@ -246,11 +202,7 @@ Java 最好的一点是它有一个充满活力的生态系统，这意味着几
 
 顺便说一句，如果你真的想精通 Hibernate 或者寻找高级 Hibernate 课程，那么 Vlad Mihalcea 的 [**高性能 Java 持久性**](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-1?utm_source=javarevisited&utm_medium=web&utm_campaign=hpjpmach1&affcode=172599_kuoszt8s) 书和课程是任何人的最佳资源。
 
-[](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-1?utm_source=javarevisited&utm_medium=web&utm_campaign=hpjpmach1&affcode=172599_kuoszt8s) [## 高性能 Java 持久性- Mach 1 -下载版
-
-### Vlad Mihalcea 是 Java 的拥护者，也是 Hibernate ORM 项目的主要成员之一。他创造了超持续性…
-
-vladmihalcea.teachable.com](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-1?utm_source=javarevisited&utm_medium=web&utm_campaign=hpjpmach1&affcode=172599_kuoszt8s) 
+<https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-1?utm_source=javarevisited&utm_medium=web&utm_campaign=hpjpmach1&affcode=172599_kuoszt8s>  
 
 ## 3.3 Spring Boot
 
@@ -332,11 +284,7 @@ Java 为开发 GUI 客户机提供了很好的 API，如 Swing 和 Java FX。Swi
 
 如果你想在 2023 年学习 Java FX 并需要资源，那么你也可以在 Udemy 上查看[**Java FX Concepts boot camp 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-fx-concepts-with-practical-examples%2F)课程。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-fx-concepts-with-practical-examples%2F) [## Java Fx 概念训练营 2023
-
-### 在 2023 年，学习 JavaFx 的概念和实际例子，创建令人敬畏的图形，然后参加本课程。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-fx-concepts-with-practical-examples%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-fx-concepts-with-practical-examples%2F>  
 
 您还可以在 Raspberry PI 上构建和部署 Java FX 应用程序，Raspberry PI 是一种小巧但功能强大的计算机。如果你对此感兴趣，[弗兰克·德尔博特](https://medium.com/u/a6ee926d3fc8?source=post_page-----f9db163ef2c2--------------------------------)有一个很棒的课程[为初学者提供在树莓平台上使用 Java 和 Java FX](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fuse-java-11-and-java-fx-11-on-a-raspberry-pi%2F)。你可以先看一下那门课程。
 
@@ -361,10 +309,6 @@ Java 是巨大的，但仍然有几个领域我没有触及，如消息传递，
 
 ****P. S. —** 如果你是一个完全的 Java 初学者，并且正在寻找一个免费的在线课程来学习 Java，那么你也可以在 Udemy 上查看 [**完全初学者 Java 教程(免费)**](http://Java Tutorial for Complete Beginners(FREE)) 课程。它是完全免费的，超过 120 万人加入了这个在线学习 Java 的课程。**
 
-**[](http://bit.ly/2zO3AHT) [## 免费 Java 教程-免费 Java 教程-完全初学者学习 Java
+**<http://bit.ly/2zO3AHT>  
 
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/2zO3AHT) 
-
-> 如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以在 这里**加入介质**[](/@somasharma_81597/membership)******
+> 如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以在 这里**加入介质**</@somasharma_81597/membership>******

@@ -58,11 +58,7 @@
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[数字营销基础](https://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdigital-marketing-foundations)【领英学习】
 
@@ -84,11 +80,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，你需要一个 LinkedIn Learning 会员才能观看这个课程，费用大约为每月*29.99 美元*，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这个课程，这是一个探索他们 17000 多门最新技术在线课程的好方法。
 
- [## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 
+  
 
 ## 4.[数字营销基础](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Ffundamentals-of-digital-marketing)【edX】
 
@@ -160,8 +152,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **附言——**如果你热衷于从数字营销开始，那么 Instagram 营销是建立你的受众的好方法，如果你需要免费课程，那么你也可以在 Udemy 上查看 [**完整的 Instagram 营销大师班:成为专业的**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Finstagram-marketing-3-tip-get-real-instagram-followers-course-learn%2F) 课程。这个 1.5 小时的课程是完全免费的，已经有超过 30，000 名学生加入了这个课程。
 
-[](https://javarevisited.blogspot.com/2021/12/5-best-courses-to-learn-facebook.html) [## 2023 年学习脸书营销的 5 大在线课程-最佳选择
-
-### 背后的公司是 Coursenvy。Coursenvy 是一家位于洛杉矶的广告公司，在 Udemy 上拥有超过 40 万名学生
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/12/5-best-courses-to-learn-facebook.html)
+<https://javarevisited.blogspot.com/2021/12/5-best-courses-to-learn-facebook.html> 

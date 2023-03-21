@@ -28,7 +28,7 @@
 
 # 10 面向对象编程和程序员坚实的设计原则
 
-尽管学习任何设计原则或模式的最佳方式是一个真实世界的例子，并理解违反该设计原则的后果，但本文的主题是为 Java 程序员介绍[](https://hackernoon.com/top-5-object-oriented-programming-and-design-courses-for-programmers-ad49f0870de4?source=user_profile---------7---------------------)*面向对象的设计原则，这些程序员要么没有接触过它，要么还处于学习阶段。*
+尽管学习任何设计原则或模式的最佳方式是一个真实世界的例子，并理解违反该设计原则的后果，但本文的主题是为 Java 程序员介绍<https://hackernoon.com/top-5-object-oriented-programming-and-design-courses-for-programmers-ad49f0870de4?source=user_profile---------7--------------------->*面向对象的设计原则，这些程序员要么没有接触过它，要么还处于学习阶段。*
 
 *[![](img/b97c04db541a945c51b4313534d707f5.png)](https://dev.to/javinpaul/5-courses-to-learn-object-oriented-programming-in-2019-l0o)*
 
@@ -50,11 +50,7 @@
 
 *所以要小心这种耦合，不要组合任何使用相似代码但不相关的代码。你可以进一步查看 Udemy 上的 Java 课程中的 [**软件架构基础&设计模式**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbasics-of-software-architecture-design-in-java%2F) ，了解更多关于编写正确代码和设计系统时遵循的最佳实践。*
 
-*[](https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html?utm_source=dlvr.it&utm_medium=twitter) [## 2023 年有经验的程序员学习软件架构的前 5 门课程-最佳
-
-### 在他们的职业生涯中，但这并不容易，如果你不注意你的工作，你会…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html?utm_source=dlvr.it&utm_medium=twitter)* 
+*<https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html?utm_source=dlvr.it&utm_medium=twitter> * 
 
 ## *2.封装什么变化*
 
@@ -70,11 +66,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/03/5-courses
 
 *顺便说一句，如果你有兴趣学习更多关于 Java 和面向对象编程中的设计模式，那么你一定要查看这个 [**设计模式库**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library) 课程 Pluralsight。这是设计模式和如何在现实世界中使用它们的建议的最佳集合之一。*
 
-*[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library) [## 设计模式库
-
-### 获取本课程以及技术技能和其他热门话题的顶级精选。10 天试用期后每月扩展…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library)* 
+*<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpatterns-library> * 
 
 ## *3.开放封闭设计原则*
 
@@ -94,11 +86,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 *顺便说一下，开闭原则是“O”从固体缩写。如果你想进一步了解这个原则，Udemy 上的 [**面向对象设计和架构的坚实原则**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fsolid-principles-object-oriented-design-architecture%2F) 课程是最好的参考资源之一。*
 
-*[](/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26) [## 十大面向对象的分析和设计面试问题和有经验的问题…
-
-### 检查您的面向对象的分析和设计技能，解决这些面向对象的设计问题之前，你的下一个…
-
-medium.com](/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26)* 
+*</javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26> * 
 
 ## *4.单一责任原则*
 
@@ -132,17 +120,13 @@ medium.com](/javarevisited/top-10-object-oriented-analysis-and-design-interview-
 
 *你可以进一步看到[使用可靠的原则编写更好的代码 Udemy 上的速成课程](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2F1-hour-crash-course-using-solid-to-write-better-code%2F),学习更多关于依赖倒置原则和如何解决这类问题的知识。*
 
-*[](https://www.udemy.com/course/1-hour-crash-course-using-solid-to-write-better-code/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-y0Qmzd2ILFMd4mpEfXBAwQ) [## 使用坚实的原则编写更好的代码——速成班
-
-### 编写有效的代码很容易——但是，仅仅“有效”的代码还不够好。很容易…
-
-www.udemy.com](https://www.udemy.com/course/1-hour-crash-course-using-solid-to-write-better-code/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-y0Qmzd2ILFMd4mpEfXBAwQ)* 
+*<https://www.udemy.com/course/1-hour-crash-course-using-solid-to-write-better-code/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-y0Qmzd2ILFMd4mpEfXBAwQ> * 
 
 ## *6.偏爱合成而非遗传*
 
 *重用你已经写好的代码一般有两种方式，继承和复合；两者都有各自的优点和缺点，但是，一般来说，如果可能的话，您应该总是更喜欢组合而不是继承。*
 
-> **有些人可能会反驳这一点，但我发现*[](https://javarevisited.blogspot.com/2014/02/ifference-between-association-vs-composition-vs-aggregation.html#axzz5bnktTXS4)**比* [*继承*](http://javarevisited.blogspot.sg/2012/10/what-is-inheritance-in-java-and-oops-programming.html) *灵活得多。***
+> **有些人可能会反驳这一点，但我发现*<https://javarevisited.blogspot.com/2014/02/ifference-between-association-vs-composition-vs-aggregation.html#axzz5bnktTXS4>**比* [*继承*](http://javarevisited.blogspot.sg/2012/10/what-is-inheritance-in-java-and-oops-programming.html) *灵活得多。***
 
 **通过在运行时设置属性，组合允许在运行时改变一个类的行为，通过使用接口来组合一个类，我们使用[多态](http://javarevisited.blogspot.com/2011/08/what-is-polymorphism-in-java-example.html)，这提供了在任何时候用更好的实现替换的灵活性。**
 
@@ -184,11 +168,7 @@ www.udemy.com](https://www.udemy.com/course/1-hour-crash-course-using-solid-to-w
 
 **顺便说一句，你需要一个 Pluralsight 会员才能进入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。即使您没有会员资格，也可以免费参加本课程，方法是利用他们的 [**10 天免费试用期**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，无需任何承诺，这不仅是免费参加本课程的好方法，也是在加入 Pluralsight 之前检查课程质量的好方法**
 
-**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **8.接口隔离原则(ISP)**
 
@@ -289,8 +269,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 *****附:如果你对你的编码很认真，并且想提高你的编码技能，没有比* [***更好的书了***](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=javamysqlanta-20) *作者* [*罗伯特·马丁*](https://medium.com/u/ffa32c7b39eb?source=post_page-----f187436caf65----------------------) *和**[***作者***](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672?tag=javamysqlanta-20) **[重构](https://medium.com/u/8cc65672c5d?source=post_page-----f187436caf65----------------------)** *去看看吧。******
 
-*****[](/javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c) [## 干净的代码——程序员必读的代码书
-
-### 想学习将糟糕的代码转换成好代码的艺术吗？这本书会有所帮助
-
-medium.com](/javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c)*****
+*****</javarevisited/clean-code-a-must-read-coding-book-for-programmers-9dc80494d27c> *****

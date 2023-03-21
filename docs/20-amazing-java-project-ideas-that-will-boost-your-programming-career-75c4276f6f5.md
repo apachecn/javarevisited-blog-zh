@@ -212,18 +212,6 @@ SM 是一个简单的运动管理解决方案，包括事件、运动员和奖�
 
 ***饿了求更？这里是我们其他最好的文章阅读***
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 完整的 Java 程序员路线图
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7>  </javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd>  
 
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [## 每个程序员都应该学习的 20 多个基本 Java 库和 API
-
-### 成为更好的 Java 开发人员可以学习的最基本的 Java 库。它包括用于日志记录的 Java 库…
-
-medium.com](/javarevisited/20-essential-java-libraries-and-apis-every-programmer-should-learn-5ccd41812fc7) [](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) [## 深入学习 Spring 框架的 10 个最佳在线课程
-
-### 学习 Spring 框架、Spring Boot、Spring 安全和 RESTful Web 服务的最佳在线课程
-
-medium.com](/javarevisited/10-best-online-courses-to-learn-spring-framework-in-2020-f7f73599c2fd) 
-
-> 如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以在这里 中**加入**[](/@somasharma_81597/membership)
+> 如果你不是 Medium 会员，我强烈推荐你加入 Medium，阅读来自真实领域的伟大作家的伟大故事。你可以在这里 中**加入**</@somasharma_81597/membership>

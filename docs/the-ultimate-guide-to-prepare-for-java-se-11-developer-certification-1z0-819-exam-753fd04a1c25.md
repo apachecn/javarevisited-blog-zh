@@ -43,7 +43,7 @@ Btw，不用担心。如果你遵循这个考试指南，那么你一定会通�
 
 ## 2.参加一门好课程
 
-除了学习指南，在线课程也是甲骨文 Java 认证的重要组成部分。因为良好的 Java 知识是通过这些认证考试的必要条件，所以在参加考试之前，参加几门综合课程是个好主意，比如[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**完整的 Java 大师班，来复习你的知识，填补你理解中的空白。
+除了学习指南，在线课程也是甲骨文 Java 认证的重要组成部分。因为良好的 Java 知识是通过这些认证考试的必要条件，所以在参加考试之前，参加几门综合课程是个好主意，比如<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>**完整的 Java 大师班，来复习你的知识，填补你理解中的空白。
 
 我还建议参加一个关于 Java 模块系统的课程，比如 Java 9 模块化:首先查看 Pluralsight，深入学习这个高级主题。你会在 Java 11 认证或 OCAJP 11 和 OCJP 11 中发现与模块相关的概念。
 
@@ -81,11 +81,7 @@ Btw，不用担心。如果你遵循这个考试指南，那么你一定会通�
 
 **顺便说一句，如果你觉得这本书很难，因为题目本身有点难，你也可以从 Pluralsight 上 Sander Mak 的 [Java 9 模块化:First Look](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-modularity-first-look) 课程中得到帮助。对我深入理解这个话题帮助很大。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-modularity-first-look) [## Java 9 模块化:初看
-
-### 先看看全新的 Java 模块系统。在本课程中，您将了解模块化概念，例如…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-modularity-first-look)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-9-modularity-first-look> ** 
 
 ## **4.模拟测试**
 
@@ -154,8 +150,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你是一个 Java 初学者，正在准备认证以增加你的工作和实习机会，那么我强烈建议你参加一个全面的 Java 课程来学习。如果你需要免费课程，那么你可以查看 Medium 上的 [**我最喜欢的免费 Java 课程**](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) 来获得一些想法和参考。**
 
-**[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [## 2023 年 Java 开发人员在线学习的 10 大免费课程——最好的
-
-### 大家好，网上到处都是有用的资源，不管你想学什么，都有有用的东西…
-
-www.java67.com](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html)**
+**<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html> **

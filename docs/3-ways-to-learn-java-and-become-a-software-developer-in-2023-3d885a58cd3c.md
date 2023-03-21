@@ -106,10 +106,6 @@ Java 不仅直到今天还存在，而且在那些年里还一直占据着顶级
 
 感谢您阅读本文。如果你喜欢这些*在线学习 Java 并在 2023 年*成为 Java 开发者的 3 个最好方法，那么请分享给你的朋友和同事。如果您有任何建议或反馈或任何其他文本想要与我们分享，请留言。
 
-**P. S. —** 如果你想学习 Java 编程和开发，但需要免费的资源，比如免费的书籍和免费的在线课程，那么你也可以看看这份清单，里面列出了 10 门最好的免费 Java 课程[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html)****s**，让你在 2023 年从头开始学习 Java。**
+**P. S. —** 如果你想学习 Java 编程和开发，但需要免费的资源，比如免费的书籍和免费的在线课程，那么你也可以看看这份清单，里面列出了 10 门最好的免费 Java 课程<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html>****s**，让你在 2023 年从头开始学习 Java。**
 
-**[](https://javarevisited.blogspot.com/2018/07/top-5-websites-to-learn-coding-in-java.html) [## 免费学习 Java 编码的五大网站——最好的
-
-### 大家好，如果你想学习 Java 编程并寻找最好的网站免费学习 Java 编码，那么…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/top-5-websites-to-learn-coding-in-java.html)**
+**<https://javarevisited.blogspot.com/2018/07/top-5-websites-to-learn-coding-in-java.html> **

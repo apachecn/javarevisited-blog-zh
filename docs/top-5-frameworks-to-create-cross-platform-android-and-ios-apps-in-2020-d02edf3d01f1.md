@@ -111,8 +111,4 @@ Ionic Framework 是免费和开源的，它提供了一个可移植的 UI 工具
 
 ****P.S. —** 如果你对这么多技术、编程语言和框架感到困惑，那么我建议你从 Flutter 开始，如果你需要免费的在线课程，你也可以在 Udemy 上查看[**Flutter**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-flutter%2F)简介——由 [Google 开发者](https://medium.com/u/991272e72e68?source=post_page-----e0b91391cade----------------------)提供的免费课程。你只需要一个免费的 Udemy 帐户就可以参加这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-flutter%2F) [## 免费手机 App 设计教程 Flutter 入门
-
-### 一个面向大学生的谷歌开发者项目，旨在给年轻的开发者一个学习的平台，一个社区…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-flutter%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-flutter%2F> **

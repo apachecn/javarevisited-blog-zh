@@ -130,8 +130,4 @@
 
 **P. S. —** 如果你是 JavaScript 新手，正在寻找免费的 JavaScript 课程，你也可以看看 Udemy 的这个 [**免费的 Javascript 基础课程**](http://bit.ly/2zNH9Tj) 。这是完全免费的，你只需要一个 Udemy 账号就可以加入这个课程
 
-[](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html) [## 2021 年学习 JavaScript 的 5 大免费在线课程——最好的
-
-### 大家好，如果你想在 2021 年自学 JavaScript，并寻找一些免费资源，如书籍、网站…
-
-www.java67.com](https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html)
+<https://www.java67.com/2018/04/top-5-free-javascript-courses-to-learn.html> 

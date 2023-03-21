@@ -28,7 +28,7 @@
 
 React 拥有大量的社区支持，是高要求的技能组合。有一些优势。
 
-**可复用代码** : React 具有省时省力的可复用能力，这是它的一大亮点，在 [**React**](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) 、[](/javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b?source=---------44----------------------------)****、****Vue**中也可以复用组件。**
+**可复用代码** : React 具有省时省力的可复用能力，这是它的一大亮点，在 [**React**](/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56) 、</javarevisited/10-free-angular-and-react-js-courses-from-udemy-and-coursera-best-of-lot-e67f7d811e6b?source=---------44---------------------------->****、****Vue**中也可以复用组件。**
 
 ****React 拥有基于组件的架构**:传统网站可以被拆分为组件，如页眉、页脚、侧边导航、主要内容等。**
 
@@ -50,19 +50,11 @@ React 拥有大量的社区支持，是高要求的技能组合。有一些优�
 
 1.  **从安装 [**Node.js**](https://javarevisited.blogspot.com/2018/01/top-5-nodejs-and-express-js-online-courses-for-web-developers.html) 开始。Node 基本上允许您在浏览器之外读取和运行 JavaScript。要安装 **Node.js** ，请访问以下站点:**
 
-**[](https://nodejs.org/en/) [## 节点. js
-
-### Node.js 是基于 Chrome 的 V8 JavaScript 引擎构建的 JavaScript 运行时。
-
-nodejs.org](https://nodejs.org/en/) 
+**<https://nodejs.org/en/>  
 
 2.现在，如果你已经有了一个文本编辑器，那就安装你喜欢的文本编辑器，比如[***Visual Studio Code***](/javarevisited/8-best-vs-code-courses-for-beginners-to-learn-online-bd5c169f59b7)。
 
-[](https://code.visualstudio.com/) [## Visual Studio 代码-代码编辑。重新定义的
-
-### Visual Studio Code 是一个重新定义和优化的代码编辑器，用于构建和调试现代 web 和云…
-
-code.visualstudio.com](https://code.visualstudio.com/) 
+<https://code.visualstudio.com/>  
 
 # 创建 React 应用程序
 

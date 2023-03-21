@@ -20,11 +20,7 @@ image_credit — Educative.io
 
 简而言之， [**教育平台**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 作为一个平台提供了很多东西，值得一看，但只有平台是不够的，除非你有一些利用平台全部潜力的优秀课程，并为你提供令人惊叹的学习体验，而且教育充满了它们。在这篇文章中，我将与你分享程序员和软件工程师的 11 大教育课程。你可以查看这些课程来提升程序员的基本技能，比如系统设计、算法、Docker、库本内特、反应、JavaScript、T42、C++和动态编程。这些是需要掌握的真正有用的技能，Educative 的互动学习平台将帮助你快速掌握它们。
 
-[](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) [## 探索系统设计面试——互动学习
-
-### 系统设计问题已经成为软件工程面试过程的标准部分。在这些方面的表现…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224) 
+<https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224>  
 
 # 2023 年我最喜欢的编程面试和软件开发教育课程
 
@@ -194,8 +190,4 @@ AWS 是我认为每个开发人员都应该掌握的另一项技能，不仅是�
 
 **P. S.** —如果你正在寻找一些免费的课程来探索教育平台和他们的交互式学习工具，那么我也建议你看看我早先的一篇关于 [**程序员和开发人员的 10 门免费教育课程**](https://javarevisited.blogspot.com/2020/01/top-10-free-interactive-online-courses.html) 的文章。在那里我提到了免费的 Educative.io 课程，供程序员学习 Java、Python、C++、JavaScript 和 Web 开发。
 
-[](https://www.educative.io/courses/learn-python-from-scratch?affiliate_id=5073518643380224) [## 从头开始学习 Python 3-免费互动课程
-
-### 通过这个交互式课程免费学习 Python 3，并掌握世界上最流行的编程语言…
-
-www.educative.io](https://www.educative.io/courses/learn-python-from-scratch?affiliate_id=5073518643380224)
+<https://www.educative.io/courses/learn-python-from-scratch?affiliate_id=5073518643380224> 

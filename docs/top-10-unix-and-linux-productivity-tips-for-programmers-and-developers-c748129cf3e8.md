@@ -20,11 +20,7 @@
 
 *顺便说一句，如果您是 Linux 或命令行的新手，那么我也推荐您参加一个不错的课程，如* [***Linux 掌握:在 11.5 小时内掌握 Linux 命令行***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F)**您将从零开始学习 Linux 命令行，并通过世界上最有趣的基于项目的 Linux 课程改善您的职业生涯！**
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) [## 精通 Linux:掌握 Linux 命令行
-
-### 感言= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =“目前为止 Linux o n Udemy 上最好的课程，我绝对推荐”…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) 
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F>  
 
 # 程序员和开发人员提高 Linux 命令行效率的 10 个技巧
 
@@ -140,11 +136,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 *顺便说一句，它还提供了 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 没有任何义务，允许你观看 200 分钟的内容。您可以通过注册试用免费观看本课程。*
 
-*[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)* 
+*<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> * 
 
 ## *8.使用 pushd、popd、cd -、~在目录中移动*
 
@@ -170,11 +162,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 *如果你正在寻找一些资源，那么你可以查看 [**在 5 天内学习 Linux 并升级你的职业**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F)*
 
-*[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) [## 在 5 天内学会 Linux，提升你的职业生涯
-
-### 如果你想学习如何使用 Linux 和……加入其他 20，000 名世卫组织的成功学生的行列
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 
+*<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F>  
 
 这个列表并不完整，所以请分享你在 UNIX 中的工作方式，当然还有**你在 UNIX 中的工作速度有多快？**
 
@@ -203,8 +191,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 > ****P.S.*** *—如果你只是想从一门课程开始学习 Linux，我认为* [**Linux 精通:11.5 小时掌握 Linux 命令行**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) *是最好的入门课程。您将从零开始学习 Linux 命令行，并通过世界上最有趣的基于项目的 Linux 课程改善您的职业生涯！**
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) [## 精通 Linux:掌握 Linux 命令行
-
-### 感言= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =“目前为止 Linux o n Udemy 上最好的课程，我绝对推荐”…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F)*
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F> *

@@ -168,8 +168,4 @@ udemy 上的一门名为 [**AWS 认证高级网络专业**](https://click.linksy
 
 **P. S.** —如果你是 AWS 和云计算的完全初学者，并且正在寻找一些学习 AWS 的免费课程，那么你也可以在 Udemy 上查看来自 Linux Academy 的这个 [**AWS 要点**](http://bit.ly/2hjzvZ4) **(免费课程)**。这是一门很好的入门课程，你可以免费学习。你只需要一个 Udemy 帐户就可以进入本课程。
 
-[](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html) [## 2023 年最值得学习的 5 大免费亚马逊网络服务或 AWS 课程-精选[更新]
-
-### 大家好，如果你正在考虑学习云技术或云计算，并关注各种云…
-
-www.java67.com](https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html)
+<https://www.java67.com/2018/05/top-5-amazon-web-services-or-aws-courses-to-learn-online.html> 

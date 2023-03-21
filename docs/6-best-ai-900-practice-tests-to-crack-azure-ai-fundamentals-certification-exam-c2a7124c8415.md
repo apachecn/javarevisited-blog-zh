@@ -184,8 +184,4 @@ AI-900 Azure 人工智能基础认证考试是为对机器学习感兴趣并希�
 
 **【p . s .】**—如果你是 Azure 云世界的新手，正在寻找在 Azure 上学习云计算的免费课程，那么你也可以在 Medium 上使用 Azure 查看这个 [**最佳免费云计算课程列表。它包含一些最好的免费在线培训课程，用于学习亚马逊网络服务和 Clod 工程师和架构师的热门技能。**](/javarevisited/my-favorite-free-microsoft-azure-cloud-courses-for-beginners-to-learn-in-2020-3418524bb531)
 
-[](https://www.java67.com/2020/07/5-free-courses-to-learn-microsoft-azure-cloud.html) [## 2023 年学习微软 Azure 云平台的 6 大免费课程-最佳选择
-
-### 大家好，如果你想学习微软 Azure 的概念和服务，并寻找免费的在线培训课程和…
-
-www.java67.com](https://www.java67.com/2020/07/5-free-courses-to-learn-microsoft-azure-cloud.html)
+<https://www.java67.com/2020/07/5-free-courses-to-learn-microsoft-azure-cloud.html> 

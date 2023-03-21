@@ -91,11 +91,7 @@ Bose SoundLink 彩色蓝牙扬声器 II —柔和黑色
 
 如果你是亚马逊 Prime 会员，那么你已经知道成为 Prime 会员的好处，但如果你不是，我建议你试试亚马逊 Prime 的 [**30 天试用期，并查看 prime day 交易。**](http://amazon.com/primeday?tag=javamysqlanta-20)
 
-[](http://amazon.com/primeday?tag=javamysqlanta-20) [## Amazon.com |黄金日 2022
-
-### Prime Day 是专为 Prime 会员举办的年度交易活动，提供为期两天的特别优惠，可购买大量…
-
-Amazon.com](http://amazon.com/primeday?tag=javamysqlanta-20) 
+<http://amazon.com/primeday?tag=javamysqlanta-20>  
 
 虽然你只需要小心一点，但这很容易上瘾，一旦你登录购买一件商品，你最终会购买 10 多件商品。以前我提前几个月给孩子买生日礼物和回礼的时候就发生过。
 

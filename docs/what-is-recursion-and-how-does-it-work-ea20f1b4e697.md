@@ -23,7 +23,7 @@ For all integers *n* > 1, Fib(*n*) = Fib(*n* − 1) + Fib(*n* − 2)
 
 ![](img/d564e64dcc41292aa571780e5f845950.png)
 
-现在，让我们来看看并了解一下[递归如何工作](https://javarevisited.blogspot.com/2012/12/recursion-in-java-with-example-programming.html)，尽管研究**递归函数**并写下解决各种算法问题的代码[](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)****很容易，但你有没有尝试去理解它，看看它在屏幕后面实际上是如何工作的，以及你如何做出必要的改变来操纵你的函数来执行一些不仅仅是刚刚提到的事情？好吧，如果不是，那么不要担心！我将通过一个二叉树的**前序遍历的例子使你的工作变得容易，并帮助你理解它实际上是如何工作的！******
+现在，让我们来看看并了解一下[递归如何工作](https://javarevisited.blogspot.com/2012/12/recursion-in-java-with-example-programming.html)，尽管研究**递归函数**并写下解决各种算法问题的代码</javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0>****很容易，但你有没有尝试去理解它，看看它在屏幕后面实际上是如何工作的，以及你如何做出必要的改变来操纵你的函数来执行一些不仅仅是刚刚提到的事情？好吧，如果不是，那么不要担心！我将通过一个二叉树的**前序遍历的例子使你的工作变得容易，并帮助你理解它实际上是如何工作的！******
 
 ****现在，在跳转到我们的代码和理解更多关于**递归之前，**让我们来看看一个新术语，即**递归堆栈或调用堆栈******
 
@@ -106,8 +106,4 @@ preorderTraversal(node->right);}**
 
 **更多有趣和信息丰富的文章和提示请关注我的 [**Medium**](https://swapnilkant11.medium.com/) **和**[**Linkedin**](https://www.linkedin.com/in/swapnil-kant-279a3b148/)**
 
-**[](https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html?m=0) [## 编码面试的前 25 个递归面试问题
-
-### 程序员经常害怕递归，因为许多程序员很难想象和理解它，但是…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html?m=0)**
+**<https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html?m=0> **

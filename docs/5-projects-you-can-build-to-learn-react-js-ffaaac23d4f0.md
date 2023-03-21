@@ -80,21 +80,13 @@ Udemy 上的这个免费课程基于一个名为 [**的项目，构建您的第�
 
 **在这个 1 小时 20 分钟长的基于项目的课程中，您将学习如何使用 React.js 库为 Twitter 创建一个全功能的前端。您将学习如何使用 *create-react-app* 从头开始一个项目，如何构建功能性 react 组件并沿组件树向下传递属性，如何实现组件状态，如何从外部 API 获取数据以及如何存储和显示数据。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Ftwitter-clone-frontend) [## 用 ReactJS 构建一个 Twitter 克隆前端
-
-### 在 2 小时内完成这个指导项目。在这个 1 小时 20 分钟长的基于项目的课程中，您将学习如何…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Ftwitter-clone-frontend) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Ftwitter-clone-frontend>  
 
 最后，您将能够使用 Bootstrap 和 CSS 来设计组件的样式。在你完成任何一个 react 教程之后，我强烈推荐你使用这个。
 
 顺便说一句，如果你计划参加多个 Coursera 课程、项目或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 以上就是 2023 年**最适合初学者的**best react . js 项目。本文中提供的资源将使你成为一名 react 开发人员，如果你想作为一名自由开发人员申请工作或开始自己的事业，你将获得一些可以依赖的经验。
 
@@ -138,8 +130,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你此刻只想做一件事来启动你的 React.js 之旅，就去参加 Udemy 上 Stephen Grider 的[**The Modern React with Redux【2023 Update】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-redux%2F)课程吧。你将很快学会 React.js，并且永远不会后悔你的决定，如果你喜欢简单的东西，现在就开始这个 Coursera 项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-first-react-website) [## 建立你的第一个 React 网站
-
-### 在 2 小时内完成这个指导项目。在这个 1 小时长的基于项目的课程中，您将获得动手…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-first-react-website)**
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fbuild-first-react-website> **

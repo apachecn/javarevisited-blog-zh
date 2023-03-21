@@ -154,19 +154,11 @@ Swing UI 对于这种特殊的比较可能更有用，因为在这两种情况�
 
 `ClassComparer`的代码将在即将发布的 Eclipse Collections 11.0 版本中提供。它位于`eclipse-collections-testutils`模块中。如果您想查看代码，现在可以在下面链接的 Eclipse Collections repo 中找到。
 
-[](https://github.com/eclipse/eclipse-collections/blob/master/eclipse-collections-testutils/src/main/java/org/eclipse/collections/impl/test/ClassComparer.java) [## 主 eclipse/eclipse-collections 上的 eclipse-collections/class comparer . Java
-
-### Eclipse Collections 是一个面向 Java 的集合框架，具有优化的数据结构和丰富的、功能性的…
-
-github.com](https://github.com/eclipse/eclipse-collections/blob/master/eclipse-collections-testutils/src/main/java/org/eclipse/collections/impl/test/ClassComparer.java) 
+<https://github.com/eclipse/eclipse-collections/blob/master/eclipse-collections-testutils/src/main/java/org/eclipse/collections/impl/test/ClassComparer.java>  
 
 下面的博客中有一个旧版本的代码，这是我第一次开始探索如何更容易理解富 API 之间的差异。
 
-[](/oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f) [## 从最简到丰富的 Java APIs
-
-### 将简单易学与减少代码重复相结合，以提高生产率。
-
-medium.com](/oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f) 
+</oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f>  
 
 我已经使用了`ClassComparer`工具来生成这个博客中的所有例子。Swing UI 代码是一个单独类的一部分，还没有包含在 Eclipse 集合中。我需要与其他 Eclipse 集合提交者讨论包含 swing 代码的可能性。Eclipse Collections `eclipse-collections-testutils`模块包含任何 UI 代码是独一无二的，所以我不能对它的到来做出任何承诺。现在，这里是实验性 Swing UI 代码的要点。
 
@@ -176,16 +168,4 @@ medium.com](/oracledevs/graduating-from-minimal-to-rich-java-apis-c50192c8322f)
 
 您可能想探索的其他 Java 资源文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a) [## 2021 年将加入 11 门高级核心 Java 在线课程
-
-### 这些是核心 java 开发人员学习多线程、集合、JVM 等技能的最佳在线课程
-
-medium.com](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a) [](/javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995) [## 面向 Java 程序员的 7 门最佳 WebFlux 和反应式 Spring Boot 课程
-
-### 我最喜欢的课程 2021 年学习 Java 中的反应式编程使用 WebFlux、RxJava 和反应式 Spring Boot 来自…
-
-medium.com](/javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a>  </javarevisited/7-best-webflux-and-reactive-spring-boot-courses-for-java-programmers-33b7c6fa8995> 

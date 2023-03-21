@@ -26,11 +26,7 @@ image_credit — Udemy
 
 顺便说一句，如果你可以，如果你不介意花几块钱学习像 Vue.js 这样有用的技能，那么我也强烈推荐你去看看 Udemy 上 Maximillian Scwarzmuller 的[**Vue JS 2——完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F) (包括 Vue 路由器& Vuex)课程。这个长达 75 小时的马拉松课程是最好的课程之一，Max 是一位知识渊博、富有魅力的教练，内容丰富。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F) [## 使用 VueJS 2 开发(完成 Vue.js 路由器和 Vuex 课程)
-
-### Vue.js 是一个非常棒的 JavaScript 框架，用于构建前端应用程序！VueJS 混合了最好的角度+反应！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F>  
 
 # 2023 年学习 Vue.js 和 Nuxt.js 的 10 门最佳免费课程
 
@@ -231,11 +227,7 @@ Vue.js 与其他框架相比如何？
 
 这门课程并不完全免费，但你可以通过使用 Pluralsight 的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费获得，它允许你观看 200 分钟的免费内容。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是 2023 年 FRE 学习 Vue.js 和 Nuxt.js 的 b **est 在线课程。所有上述课程都将为你提供一个很好的学习体验。Vue 在提升网页性能方面非常出色。阅读他们的描述，找到适合你特殊技能和要求的完美课程。如果你仍然困惑，试着去参观每一个课程，这会给你更好的洞察力。这些免费的 Vue.js 课程是从成千上万名学生的反馈中挑选出来的，同时也考虑到了批评性的评论。希望你找到了你要找的东西**
 
@@ -258,8 +250,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你可以，如果你不介意花几块钱学习像 Vue.js 这样有用的技能，那么我也强烈推荐你去看看 Udemy 上 Maximillian Scwarzmuller 的[**Vue js2——完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F) (包括 Vue 路由器& Vuex)课程。这是最好的课程之一，Max 是一位知识渊博、引人入胜的讲师，能够提供一流的内容。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F) [## 使用 VueJS 2 开发(完成 Vue.js 路由器和 Vuex 课程)
-
-### Vue.js 是一个非常棒的 JavaScript 框架，用于构建前端应用程序！VueJS 混合了最好的角度+反应！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fvuejs-2-the-complete-guide%2F> 

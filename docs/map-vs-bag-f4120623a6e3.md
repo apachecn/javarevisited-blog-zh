@@ -58,19 +58,11 @@
 
 还有一些博客提供了关于 Eclipse 集合中的`Bag`类型和支持方法(如`countBy`)的更多细节。以下博客由 Nikhil Nanivadekar 撰写。它描述了 Eclipse 集合中`Bag`类型的许多实现细节，这可以带来内存和性能方面的好处。
 
-[](/oracledevs/bag-the-counter-2689e901aadb) [## 包——柜台
-
-### 我经常遇到计算物体数量的需要。我体验到了数数的必要性…
-
-medium.com](/oracledevs/bag-the-counter-2689e901aadb) 
+</oracledevs/bag-the-counter-2689e901aadb>  
 
 我还写了一篇单独的博客，描述 Eclipse 集合中的`countBy`方法，它提供了`Bag`作为其返回类型。
 
-[](/oracledevs/ec-by-example-countby-a2d6411e95e1) [## EC 示例:CountBy
-
-### 了解如何在 Eclipse 集合中使用 countBy 方法。
-
-medium.com](/oracledevs/ec-by-example-countby-a2d6411e95e1) 
+</oracledevs/ec-by-example-countby-a2d6411e95e1>  
 
 我希望你喜欢阅读这篇博客，并在这个过程中学到了一些关于`Map`和`Bag`类型的有用知识！
 
@@ -78,16 +70,4 @@ medium.com](/oracledevs/ec-by-example-countby-a2d6411e95e1)
 
 你可能喜欢的其他 Java 文章
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [## 2022 年免费在线学习 Java 的 10 个最佳地点
-
-### 我最喜欢的免费在线学习 Java 的网站，适合初学者和想学习 Java 编码的人…
-
-medium.com](/javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2) [](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5) [## 你应该为 2022 年的下一次 Spring Boot 面试准备的 13 个话题
-
-### 你应该为下一次 Java 和 Spring Boot 面试准备的 13 个基本主题的列表和学习资源…
-
-medium.com](/javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/10-best-places-to-learn-java-online-for-free-ce5e713ab5b2>  </javarevisited/13-topics-you-should-prepare-for-your-next-spring-boot-interview-5f2993a04ff5> 

@@ -349,12 +349,4 @@ alias = "wso2carbon"
 *   [https://is . docs . WSO 2 . com/en/latest/administrator/configuring-key stores-in-WSO 2-products/](https://is.docs.wso2.com/en/latest/administer/configuring-keystores-in-wso2-products/)
 *   [http://blog . facile log in . com/2008/03/keystore-management-part-I . html](http://blog.facilelogin.com/2008/03/keystore-management-part-i.html)
 
-[](https://javarevisited.blogspot.com/2012/09/difference-between-truststore-vs-keyStore-Java-SSL.html) [## Java - SSL 中信任库和密钥库的区别
-
-### 虽然信任库和密钥库都用于存储 Java 中的 SSL 证书，但它们之间的主要区别在于…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2012/09/difference-between-truststore-vs-keyStore-Java-SSL.html) [](https://www.java67.com/2012/09/keytool-command-examples-java-add-view-certificate-ssl.html) [## 如何在 Java keyStore 或 trustStore 中添加或查看 SSL 证书？keytool 命令示例
-
-### Java 中的 keytool 命令是一个管理密钥库和信任库证书的工具，信任库用于存储…
-
-www.java67.com](https://www.java67.com/2012/09/keytool-command-examples-java-add-view-certificate-ssl.html)
+<https://javarevisited.blogspot.com/2012/09/difference-between-truststore-vs-keyStore-Java-SSL.html>  <https://www.java67.com/2012/09/keytool-command-examples-java-add-view-certificate-ssl.html> 

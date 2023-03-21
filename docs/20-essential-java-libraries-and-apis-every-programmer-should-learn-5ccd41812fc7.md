@@ -66,11 +66,7 @@ Java 开发人员应该熟悉日志库的优缺点，并且知道为什么使用
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.通用库[Apache Commons 和 Guava]
 
@@ -94,11 +90,7 @@ Java 开发人员可以使用一些好的、通用的第三方库，比如 Apach
 
 并且，如果你想深入了解 HttpClient，那么我也推荐你加入 Sander Mak 的 [**Java 基础:http client**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-httpclient)t 课程。学习这个强大的 API 是很棒的课程。
 
- [## Java 基础:HttpClient
-
-### 使用 Java 的 HttpClient API，您可以轻松地执行 HTTP 调用。这是一个支持 HTTP/1.1、HTTP/2 和…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-httpclient) 
+  
 
 ## 6.XML 解析库[Xerces 和 JAXB]
 
@@ -306,8 +298,4 @@ Java 提供 JMS 或 Java 消息服务，这不是 JDK 的一部分。对于这�
 
 **P.S** 。—而且，如果你想让你的 Java 编程技能更上一层楼，想深入学习 Java，那么我建议你看看这个 [**高级 Java 编程课程**](https://javarevisited.blogspot.com/2020/04/top-10-advanced-core-java-courses-for-experienced-developers.html#axzz6KyOHbmCo) 的列表，它包含了最高级课程的列表。它已经更新，涵盖了最新的 Java 特性。**
 
-**[](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a) [## 2023 年将加入 11 门高级核心 Java 在线课程
-
-### 这些是核心 java 开发人员学习多线程、集合、JVM 等技能的最佳在线课程
-
-medium.com](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a)**
+**</javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a> **

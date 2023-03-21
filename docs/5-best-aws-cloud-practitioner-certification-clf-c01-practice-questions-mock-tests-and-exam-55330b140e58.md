@@ -156,8 +156,4 @@
 
 **附言——**如果你是 AWS 世界的新手，并希望通过一些免费的 AWS 培训课程开始你的旅程，那么你也可以查看这个 [**免费 AWS 培训课程**](https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-cloud.html) 列表，从头开始学习亚马逊网络服务。
 
-[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)
+</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> 

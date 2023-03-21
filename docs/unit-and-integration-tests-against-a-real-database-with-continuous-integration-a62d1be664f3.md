@@ -10,11 +10,7 @@
 
 在 Gemini 中，我做了许多自以为是的操作，将我定义的抽象类型转换成真正的 SQL 语句和查询，有时使用一些特定于数据库的特性(如 PostgreSQL 中的域)。
 
-[](https://github.com/h4t0n/gemini) [## h4t0n/双子星
-
-### Gemini 使得 REST API 开发速度更快。您可以创建微服务、完整的后端 web/移动应用程序和 MVPs
-
-github.com](https://github.com/h4t0n/gemini) 
+<https://github.com/h4t0n/gemini>  
 
 我开发了许多使用真实 PostgreSQL 数据库的集成测试，每次需要测试一个宏特性时，我都会从一个新的数据库开始完全删除集成测试数据库。我知道这个过程可能需要一些时间来完成，但这并不重要。我很少在编程时运行所有的代码库测试。我只运行可能受影响的部分，如果有任何问题，特拉维斯和 [Github](https://www.java67.com/2019/04/top-5-courses-to-learn-git-and-github.html) 会注意到我。
 

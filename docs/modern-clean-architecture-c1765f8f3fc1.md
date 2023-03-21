@@ -65,7 +65,7 @@
 
 任务的构造函数是包私有的。所以我们不能从[域包](https://github.com/bertilmuth/modern-clean-architecture/tree/main/samples/todolist/src/main/java/com/example/todolist/domain)之外创建*任务*的实例。而*任务*类是[不可变](/javarevisited/how-to-create-an-immutable-list-list-and-map-in-java-5ac1254c128?source=---------31------------------)。在聚合的边界之外，不可能对其状态进行任何更改。
 
-我们需要一个存储库来存储 *TodoList。*在领域代码中坚持领域术语，称为[](https://github.com/bertilmuth/modern-clean-architecture/blob/main/samples/todolist/src/main/java/com/example/todolist/domain/TodoLists.java)*:*
+我们需要一个存储库来存储 *TodoList。*在领域代码中坚持领域术语，称为<https://github.com/bertilmuth/modern-clean-architecture/blob/main/samples/todolist/src/main/java/com/example/todolist/domain/TodoLists.java>*:*
 
 *代码再次使用了 jMolecues 注释: *Repository* 。在构建期间，ByteBuddy 插件将其翻译成一个 [Spring 数据仓库](https://javarevisited.blogspot.com/2021/08/top-5-spring-data-jpa-courses-for-java.html)。*
 

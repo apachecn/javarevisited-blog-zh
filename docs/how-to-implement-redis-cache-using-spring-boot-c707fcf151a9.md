@@ -28,11 +28,7 @@ Redis 缓存的用途很多，可以用作数据库或缓存，但在这些部�
 
 ## 第一步:如何生成 Spring Boot 项目？
 
-[](https://start.spring.io/) [## 弹簧初始化 r
-
-### Initializr 生成的 spring boot 项目正好是你快速启动所需要的！
-
-start.spring.io](https://start.spring.io/) 
+<https://start.spring.io/>  
 
 ## 步骤 2:我应该包括哪些依赖项？
 

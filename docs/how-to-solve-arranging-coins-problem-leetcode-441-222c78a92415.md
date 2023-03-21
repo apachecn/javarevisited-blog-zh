@@ -4,7 +4,7 @@
 
 ## 排列硬币的 Java 解决方案 Leetcode #441
 
-> 最初发表于[](https://asyncq.com/remove-element-from-an-array)
+> 最初发表于<https://asyncq.com/remove-element-from-an-array>
 
 ## **介绍**
 

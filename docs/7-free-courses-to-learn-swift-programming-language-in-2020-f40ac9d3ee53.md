@@ -24,11 +24,7 @@ Swift 不仅仅局限于 iOS，还可以在 Swift 中为 macOS、watchOS、tvOS 
 
 顺便说一下，如果你不介意花 10 美元购买一个优秀的资源，那么我建议你看看这个由 Angela Yu 编写的 [**iOS 和 Swift boot camp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F)**，，这是一个真正伟大的资源，完全值得你的时间和金钱。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS 13 和 Swift 5 -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F>  
 
 # 2023 年供 iOS 开发人员学习的 7 大免费 Swift 在线课程
 
@@ -154,8 +150,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P.S.** —如果你不介意花 10 美元买一个有用的资源，那么我建议你看看这个 [**iOS 和 Swift 5 Bootcamp**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) ，这是一个真正伟大的资源，完全值得你花时间和金钱。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F) [## iOS 和 Swift 5 -完整的 iOS 应用程序开发训练营
-
-### 欢迎来到完整的 iOS 应用程序开发训练营。我的 iOS 课程获得了超过 39，000 个五星评级和 4.8 分的平均分…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F)****
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fios-13-app-development-bootcamp%2F> ****

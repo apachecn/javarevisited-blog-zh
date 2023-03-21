@@ -87,16 +87,4 @@ DevOps 支持敏捷方法，并包括诸如代码基础设施、微服务设计�
 
 您可能喜欢的其他 **Java 文章和资源**
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2021 年 Java 程序员路线图
-
-### 2021 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [## 2021 年要学习的 10 个最佳 Java 编程课程和认证
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-medium.com](/javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758) [](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a) [## 2021 年将加入 11 门高级核心 Java 在线课程
-
-### 这些是核心 java 开发人员学习多线程、集合、JVM 等技能的最佳在线课程
-
-medium.com](/javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2>  </javarevisited/top-5-java-online-courses-for-beginners-best-of-lot-1e1e240a758>  </javarevisited/11-advanced-core-java-online-courses-to-join-in-2021-46011661257a> 

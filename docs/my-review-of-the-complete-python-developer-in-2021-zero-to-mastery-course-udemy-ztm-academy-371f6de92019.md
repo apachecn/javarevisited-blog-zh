@@ -20,11 +20,7 @@ image_credit — Udemy
 
 其中一些课程可能需要你几个月才能完成，但是我们今天将介绍的这门课程，名为[***2023 年完整的 Python 开发人员:零到精通课程***](https://academy.zerotomastery.io/a/aff_yp0m7fjx/external?affcode=441520_zytgk2dn) 只需要几周就可以完成并开始这一领域的职业生涯。
 
-[](https://academy.zerotomastery.io/a/aff_yp0m7fjx/external?affcode=441520_zytgk2dn) [## 学习 Python。获得聘用|完整的 Python 开发人员训练营|零到精通
-
-### 从头开始学习 Python，获得聘用，并在学习过程中享受最现代、最新的(完全更新为…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_yp0m7fjx/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_yp0m7fjx/external?affcode=441520_zytgk2dn>  
 
 这门课程需要一台电脑和一个互联网连接，不需要以前的经验，如果你真的对学习 python 有热情，那么继续阅读关于课程内容和教师声誉的整篇文章，看看它是否符合你的需要，或者你需要寻找另一门 [python 课程。](/javarevisited/8-advanced-python-programming-courses-for-intermediate-programmer-cc3bd47a4d19)
 
@@ -50,11 +46,7 @@ Andrei Neagoie 在 Udemy 有超过 550，000 名学生，他们中的许多人�
 
 年度计划的会员费用约为每月 39 美元。如果你喜欢他的课程并想加入他的学院，你也可以使用我们的代码**朋友 10** 获得 10%的折扣。
 
-[](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn) [## 学习 Python。获得聘用| 2023 年完成 Python 开发:零到精通
-
-### 成为一名专业的 Python 开发人员并被录用,“学习面向对象编程”“构建 12 个以上的真实世界……
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery?affcode=441520_zytgk2dn>  
 
 # 2.课程结构和内容
 
@@ -102,11 +94,7 @@ image_credit — Udemy
 
 顺便说一句，正如我所说的，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 才能观看这个课程，这个课程每月花费大约 39 美元，但也提供了许多像这样超级吸引人和有用的课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 750，000 多名学生的行列，学习受欢迎的技能，并在…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 其他 **Python 文章和资源**你可能会喜欢
 如果你真的想深入学习 Python，这里有更多免费和付费的资源供你进一步学习:
@@ -131,8 +119,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 **P. S. —** 如果你更喜欢互动阅读和边做边学，而不是看书或者看视频，也可以看看 Educative 的 [**Python 101 —学习互动课程**](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224) 。这是一门通过实践来学习 Python 的很棒的课程。
 
-[](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224) [## Python 101:交互式学习如何用 Python 3 编程-交互式学习
-
-### 欢迎学习 Python 101！我创建这个课程是为了帮助你学习 Python 3。我的目的是让你熟悉…
-
-www.educative.io](https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224)
+<https://www.educative.io/courses/python-101-interactively-learn-how-to-program-with-python-3?affiliate_id=5073518643380224> 

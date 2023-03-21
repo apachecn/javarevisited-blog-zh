@@ -178,14 +178,6 @@ docker run -d -p 3000:3000 grafana/grafana
 
 如果你需要更多关于我们使用的工具的信息，你可以在下面的链接中找到
 
-[](https://prometheus.io/) [## 普罗米修斯监测系统和时间序列数据库
-
-### 利用领先的开源监控解决方案增强您的指标和警报能力。普罗米修斯作者 2014-2021 |…
-
-普罗米修斯](https://prometheus.io/) [](https://grafana.com/) [## Grafana:开放观察平台
-
-### Grafana 是适用于所有数据库的开源分析和监控解决方案。
-
-grafana.com](https://grafana.com/) 
+<https://prometheus.io/>  <https://grafana.com/>  
 
 > 免责声明:这篇博客/文章中提到的观点是我自己的，并不反映我现在工作的组织或我以前工作的组织。

@@ -6,7 +6,7 @@
 
 [![](img/6f2270d3f042514194e9b12267e4733a.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fexcel-vba-and-macros-course%2F)
 
-大家好，过去，我曾分享过一些学习 Microsoft Excel 的最佳在线培训课程**[](/javarevisited/7-best-microsoft-excel-courses-for-beginners-33a069708680)****以及[**最佳免费 Excel 课程**](/javarevisited/10-free-courses-to-learn-microsoft-excel-for-beginners-69561f2f2678) 总的来说，虽然这些资源对初学者来说很棒，但各种 IT 专业人士不会深入了解一些最强大的 Excel 功能，如宏、VBA 和各种有助于数据可视化的图表。******
+大家好，过去，我曾分享过一些学习 Microsoft Excel 的最佳在线培训课程**</javarevisited/7-best-microsoft-excel-courses-for-beginners-33a069708680>****以及[**最佳免费 Excel 课程**](/javarevisited/10-free-courses-to-learn-microsoft-excel-for-beginners-69561f2f2678) 总的来说，虽然这些资源对初学者来说很棒，但各种 IT 专业人士不会深入了解一些最强大的 Excel 功能，如宏、VBA 和各种有助于数据可视化的图表。******
 
 ****这些特性使 Excel 成为自动化和数据可视化的强大工具，而数据可视化是当今数据密集型世界的一项基本技能。VBA 增加的编程能力还可以通过许多自动耗时和繁琐的任务来极大地帮助您的数据分析，这就是为什么学习这些功能以充分释放 Microsoft Excel 的潜力是必不可少的。我使用微软 Excel 已经将近 20 年了，但是如果你问我，我仍然是一个初学者。Excel 基本的 XLS 功能，比如过滤、排序、[分组](https://javarevisited.blogspot.com/2017/03/how-to-enclose-list-of-values-into-single-quotes-using-microsoft-excel-for-sql-query.html)、删除重复、做 VLOOKUP，我知道的不多。是的，当我真的需要时，我也可以制作一些图表，如饼状图、折线图和一些图表，但这对我来说不是很容易，我必须做很多努力，做很多谷歌搜索才能找到这些图表。
 
@@ -107,8 +107,4 @@
 
 ******p . s .**——如果你正在寻找学习微软 Excel VBA 的免费课程，那么我也建议你看看 Udemy 上的 [**Excel VBA 编程举例**](http://bit.ly/2CX5J1W) (MS Excel 2016)。这是完全免费的，你所要做的就是创建一个帐户来访问课程。****
 
-****[](http://bit.ly/2CX5J1W) [## 免费 Excel VBA 教程- Excel VBA 编程实例(MS Excel)
-
-### 通过观看演示了解你将通过 VBA 实现什么，然后看 VBA 的逐步解释…
-
-bit.ly](http://bit.ly/2CX5J1W)****
+****<http://bit.ly/2CX5J1W> ****

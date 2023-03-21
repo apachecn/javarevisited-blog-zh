@@ -35,11 +35,7 @@
 
 这里的 [***链接提供了启动程序代码***](https://github.com/andhikayusup/springboot-startercode)**以方便启动和运行* ***。*** 不过，这是可选的。您可以使用 [Spring Initialzr](https://start.spring.io/) 自行生成启动代码。此外，如果您喜欢使用其他 Java 版本或添加额外的依赖项，可以开发自己的起始代码。我有一篇报道这件事的文章；拜托，去看看。*
 
-*[](/@andhikayusup/spring-boot-guide-for-beginner-hello-world-64e248eec793) [## Spring Boot 初学者指南:你好，世界
-
-### 通过这种简单的设置，让您的 Spring Boot 项目正常运行
-
-medium.com](/@andhikayusup/spring-boot-guide-for-beginner-hello-world-64e248eec793) 
+*</@andhikayusup/spring-boot-guide-for-beginner-hello-world-64e248eec793>  
 
 ## 制作新文档
 

@@ -20,11 +20,7 @@ Azure 是微软的产品。这是目前最好的云服务之一。在 [AWS](http
 
 顺便说一句，如果你真的想通过 AZ-305 考试并成为 Azure 解决方案架构师，并且不介意为这样一个有价值的认证花几个钱，那么我强烈建议你去看看 Udemy 上由 Scott Duffy 开设的[**AZ-300/AZ-303 Azure Architecture Technologies Exam Prep 2023**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F)课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F) [## AZ-303 Azure 架构技术考试准备 2023
-
-### AZ-303 Azure Architect Technologies 考试的完整准备。免费升级:本课程还包含…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2F70534-azure%2F>  
 
 本课程不是免费的，但这 20 小时的课程是本次考试的最佳准备材料，它已更新，涵盖了 AZ-303 示例的所有新主题，如 [NoSQL 数据库](/javarevisited/10-free-online-courses-to-learn-mongodb-and-nosql-942609611664)、Azure SQL 数据库等等。超过 100，000 名学生信任这门课程。
 
@@ -111,8 +107,4 @@ Azure 平台上最详细的课程之一。这个课程不仅很长，而且是�
 
 **P. S.** —如果你真的想通过 AZ-305 考试并成为 Azure 解决方案架构师，那么我强烈建议你查看一下 [**AZ-303 Azure Architect 技术认证 2023**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-102-azure-administrator-certification-transition%2F) ，这不是免费的，但这个 24 小时的课程是这次考试的最佳准备材料，它还有 150 多个练习题供最后准备。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-102-azure-administrator-certification-transition%2F) [## AZ-303 Azure Architect 技术认证 2023
-
-### 添加了几个包含 Azure 存储帐户的新视频-使用文件和表格服务 Azure 存储…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-102-azure-administrator-certification-transition%2F)
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faz-102-azure-administrator-certification-transition%2F> 

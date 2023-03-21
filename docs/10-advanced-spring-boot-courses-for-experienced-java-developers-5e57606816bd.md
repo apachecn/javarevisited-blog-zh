@@ -28,11 +28,7 @@
 
 [Spring Boot 微服务用春云初学者到宗师](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-microservices-with-spring-cloud-beginner-to-guru%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-microservices-with-spring-cloud-beginner-to-guru%2F) [## Spring Boot 微服务与 Spring Cloud 初学者到大师
-
-### 了解如何开发 Spring Boot 微服务并使用 Spring Cloud 进行部署！传统上，大型企业级…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-microservices-with-spring-cloud-beginner-to-guru%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fspring-boot-microservices-with-spring-cloud-beginner-to-guru%2F>  
 
 ## 2.[全叠加:角度和 Spring Boot](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-angular-spring-boot-tutorial%2F)
 
@@ -44,11 +40,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [*全栈:角形和 Spring Boot*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-angular-spring-boot-tutorial%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-angular-spring-boot-tutorial%2F) [## 全堆栈:角度和 Spring Boot
-
-### Angular 和 Spring Boot 是开发全栈应用的两种最热门的技术。知道如何…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-angular-spring-boot-tutorial%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-angular-spring-boot-tutorial%2F>  
 
 ## 3.[弹簧框架:Spring Boot 致动器](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-boot-actuator)
 
@@ -58,11 +50,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [弹簧框架:Spring Boot 执行器](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-boot-actuator)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-boot-actuator) [## 弹簧框架:Spring Boot 执行器
-
-### 您刚刚完成了一款 Spring Boot 应用的开发。下一步:生产！但它值得生产吗？和 Spring Boot 一起…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-boot-actuator) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-framework-spring-boot-actuator>  
 
 顺便说一下，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。如果你没有这个计划，我强烈推荐你加入，因为它能促进你的学习，而且作为一名程序员，你总是需要学习新的东西。
 
@@ -76,11 +64,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 [***学习 AWS —将 Java Spring Boot 部署到 AWS 弹性豆茎***](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-boot-to-aws-amazon-web-service%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-boot-to-aws-amazon-web-service%2F) [## 学习 AWS——将 Java Spring Boot 部署到 AWS 弹性豆茎
-
-### 学习 AWS 基础知识？是的。将 Spring Boot 部署到 AWS？是的。将 Java 全栈部署到 AWS？是的。当然了。动手操作…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-boot-to-aws-amazon-web-service%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-java-spring-boot-to-aws-amazon-web-service%2F>  
 
 ## 4.[测试 Spring Boot:初学者到大师](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-spring-boot-beginner-to-guru%2F)
 
@@ -90,11 +74,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [*测试 Spring Boot:初学者到大师*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-spring-boot-beginner-to-guru%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-spring-boot-beginner-to-guru%2F) [## 测试 Spring Boot:初学者到大师
-
-### 在现代软件开发中，拥有适当的自动化测试覆盖被认为是最佳实践。在本课程中，您…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-spring-boot-beginner-to-guru%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ftesting-spring-boot-beginner-to-guru%2F>  
 
 ## 5.[面向 Java 开发人员的 Docker 与 Spring Boot 微服务合作](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-course-with-java-and-spring-boot-for-beginners%2F)
 
@@ -108,11 +88,7 @@ Docker 将继续存在，并成为市场上最受欢迎的技术之一。现在�
 
 [*面向 Java 开发者的 Docker 与 Spring Boot 微服务*](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-course-with-java-and-spring-boot-for-beginners%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-course-with-java-and-spring-boot-for-beginners%2F) [## 面向 Java 开发者的 docker——Spring Boot 微服务
-
-### 学习 Docker 基础知识？是的。为微服务创建容器？是的。为整个堆栈创建容器…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-course-with-java-and-spring-boot-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdocker-course-with-java-and-spring-boot-for-beginners%2F>  
 
 ## **6。** [**与 Spring Boot 一起掌握百里香**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-thymeleaf-with-spring%2F)
 
@@ -126,11 +102,7 @@ Thymeleaf 是一个非常流行的模板引擎，与 Spring MVC 一起使用可�
 
 [**与 Spring Boot 一起掌握百里香**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-thymeleaf-with-spring%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-thymeleaf-with-spring%2F) [## 用 Spring Boot 掌握百里香叶
-
-### Thymeleaf 是一个非常流行的模板引擎，与 Spring MVC 一起使用可以生成丰富的动态网页。不像…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-thymeleaf-with-spring%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmastering-thymeleaf-with-spring%2F>  
 
 ## 7.与 Spring Boot 一起掌握 Java 单元测试&莫克托
 
@@ -144,11 +116,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [**与 Spring Boot 一起掌握 Java 单元测试& Mockito**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-unit-testing-with-spring-boot%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-unit-testing-with-spring-boot%2F) [## 与 Spring Boot 和莫奇托一起掌握 Java 单元测试
-
-### 伟大的程序员写出伟大的单元测试。想为 Spring Boot REST API 编写出色的单元测试吗？Spring Boot 测试…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-unit-testing-with-spring-boot%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-unit-testing-with-spring-boot%2F>  
 
 ## 8.[与 Spring Boot 一起使用 Java 全栈并做出反应](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)
 
@@ -162,11 +130,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [**跟 Spring Boot 走 Java 全栈，反应过来**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) [## 与 Spring Boot 一起使用 Java 全栈并做出反应
-
-### 用 React & Spring Boot 构建你的第一个 Java 全栈应用。立即成为 Java 全栈 Java Web 开发者！
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-with-spring-boot-and-react%2F>  
 
 ## 9. [Spring Boot:高效的开发、配置和部署](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-boot-efficient-development-configuration-deployment)
 
@@ -180,11 +144,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 [**Spring Boot:高效的开发、配置和部署**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-boot-efficient-development-configuration-deployment)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-boot-efficient-development-configuration-deployment) [## Spring Boot:高效的开发、配置和部署
-
-### 课程概述大家好，我是达斯汀·舒尔茨，欢迎来到我的课程，Spring Boot:高效开发…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-boot-efficient-development-configuration-deployment) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-boot-efficient-development-configuration-deployment>  
 
 ## 10.[主测试 Spring Boot 应用](https://transactions.sendowl.com/stores/13745/197427)
 
@@ -218,11 +178,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 [**Master AWS Fargate&ECS with Java Spring Boot 微服务**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-spring-microservices-to-aws-with-ecs-and-aws-fargate%2F)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-spring-microservices-to-aws-with-ecs-and-aws-fargate%2F) [## Master AWS Fargate & ECS 与 Java Spring Boot 微服务
-
-### AWS ECS 和 AWS Fargate 使编排 Docker 容器化应用程序变得异常容易。怎么样……
-
-click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-spring-microservices-to-aws-with-ecs-and-aws-fargate%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeploy-spring-microservices-to-aws-with-ecs-and-aws-fargate%2F>  
 
 以上是为有经验的 Java 开发人员提供的一些**高级春季入门课程。**我精心挑选了这些课程，这样您不仅可以将您的 Spring Boot 技能提升到一个新的水平，还可以学习现代 Java 开发的基本技术，如 Docker、AWS、微服务等。如果你知道任何其他先进的 Spring Boot 课程，我们可以添加到这个列表中，随时建议。
 
@@ -239,16 +195,4 @@ click.linksynergy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid
 
 感谢您阅读本文。如果你喜欢这些高级的 Spring Boot、Docker、AWS、 [**Fullstack Java 开发者课程**](/javarevisited/10-best-java-full-stack-web-development-courses-to-join-in-2020-6cd6cd2e5868) 那么请分享到你喜欢的平台上(脸书、Twitter 或 LinkedIn)。如果您有任何问题或反馈，请留言。
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2023 年 Java 开发者路线图
-
-### 大家好，首先祝大家新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) [## 2023 年深入学习 Spring 框架的前 5 门课程——最佳课程
-
-### Spring Framework 是 Java 开发人员的一项基本技能，不仅是为了获得一份 Java 开发人员的工作，也是为了你的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) [](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e) [## 面向 Java 开发人员的 10 个免费 Spring Boot 课程和教程
-
-### 大家好，作为一个 Java 博客的作者和 Java 开发人员，很多人问我关于课程和书籍的问题…
-
-medium.com](/javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  <https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html>  </javarevisited/10-free-spring-boot-tutorials-and-courses-for-java-developers-53dfe084587e> 

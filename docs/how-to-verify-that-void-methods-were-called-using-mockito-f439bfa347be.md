@@ -28,18 +28,10 @@ SomeClassTest.java
 
 您可能喜欢的其他 **Java 测试文章和资源**
 
-[](/javarevisited/10-test-automation-libraries-for-java-developers-e40cb61dcd49) [## 面向 Java 开发人员的 10 多个测试自动化库
-
-### 最近写了一些关于 Java 开发者今年应该学什么的文章，比如编程语言…
-
-medium.com](/javarevisited/10-test-automation-libraries-for-java-developers-e40cb61dcd49) [](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688) [## 深入学习 JUnit 和 Mockito 的 5 门课程—最佳选择
-
-### 今天，我们将讨论 JUnit 和单元测试，这是任何软件开发人员的关键技能之一。你可以…
-
-medium.com](/javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688) 
+</javarevisited/10-test-automation-libraries-for-java-developers-e40cb61dcd49>  </javarevisited/5-courses-to-learn-junit-and-mockito-in-2019-best-of-lot-f217d8b93688>  
 
 如果你喜欢这个并且发现它很有用，请不要忘记关注 [Javing](/@javing.uk) 并给我们一些掌声:)
 
-> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**[](/@somasharma_81597/membership)
+> 如果你不是媒体成员，我强烈推荐你加入媒体，阅读不同领域伟大作家的精彩故事。你可以在这里**加入中等**</@somasharma_81597/membership>
 
 ***最初发布于*[http://javing . blogspot . com/2013/05/how-to-verify-that-void-methods-were . html](http://javing.blogspot.com/2013/05/how-to-verify-that-void-methods-were.html)**

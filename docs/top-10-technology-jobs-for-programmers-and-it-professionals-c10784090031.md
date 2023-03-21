@@ -48,15 +48,7 @@
 
 如果你从事数据分析行业，那么提高你的统计和数学技能也会对你的职业生涯有很大帮助。如果你想提高你的统计和数学以获得这份工作，我建议你加入 Coursera 和 Pluralsight 上的 [**数据科学和商业分析统计**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fstatistics-for-data-science-and-business-analysis%2F) **和** [**统计基础:理解概率和分布。**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fstatistics-foundations-probability-distributions)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fstatistics-for-data-science-and-business-analysis%2F) [## 面向数据科学家和业务分析的数据科学统计
-
-### 统计学在你想进入的行业中是一种驱动力吗？你想做一名市场分析师，一个企业…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fstatistics-for-data-science-and-business-analysis%2F) [](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fstatistics-foundations-probability-distributions) [## 统计学基础:理解概率和分布
-
-### 我们生活在一个大数据的世界，需要有人来理解所有这些数据。在本课程中，您将学习…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fstatistics-foundations-probability-distributions) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fstatistics-for-data-science-and-business-analysis%2F>  <https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fstatistics-foundations-probability-distributions>  
 
 ## 3.数据科学家
 
@@ -201,8 +193,4 @@ QA 工程师的平均工资约为 85，000 美元，在许多地理位置高于�
 
 **感谢您阅读本文。如果你喜欢这篇文章，请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。**
 
-**[](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83) [## 2023 年 Java 程序员该学什么？
-
-### 2023 年 Java 程序员可以学习的有用工具、技术、框架和库
-
-medium.com](/javarevisited/what-java-programmers-should-learn-in-2020-648050533c83)**
+**</javarevisited/what-java-programmers-should-learn-in-2020-648050533c83> **

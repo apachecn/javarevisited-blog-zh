@@ -24,11 +24,7 @@ image_credit — Udemy
 
 当我在互联网上浏览一些在线课程，在像 [**Coursera**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2F) 、 [**Educative**](https://www.educative.io/subscription?affiliate_id=5073518643380224) 和 [**Pluralsight**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 这样的平台上学习机器学习时，我登陆了一个 Udemy 课程，该课程承诺教你在这个行业开始职业生涯所需的所有东西，你现在正在阅读该课程的评论。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning) [## 机器学习
-
-### 构建智能应用程序。在四门实践课程中掌握机器学习基础知识。这种专业化来自…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning>  
 
 # 数据科学中的机器学习 A-Z——动手 Python 和 R 值不值？回顾
 
@@ -116,10 +112,6 @@ image_credit — Udemy
 
 **P. S. —** 如果你是 Coursera 课程的粉丝，想知道加入哪门 Coursera 课程来从零开始学习机器学习，那么我强烈推荐你加入华盛顿大学提供的 [**机器学习专业化**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning) [## 机器学习
-
-### 构建智能应用程序。在四门实践课程中掌握机器学习基础知识。这种专业化来自…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fmachine-learning>  
 
 这是一个很好的掌握机器学习基础知识的课程集。超过 410 万人加入了这个计划，详细学习机器学习概念。

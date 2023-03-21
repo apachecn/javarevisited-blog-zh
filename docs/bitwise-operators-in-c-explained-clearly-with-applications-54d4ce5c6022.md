@@ -186,8 +186,4 @@ Y — 0 1 1(十进制— 3)(结果)
 
 > **参考文献:**
 
-[](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/) [## C/C++中的按位运算符
-
-### 在 C 语言中，以下 6 个运算符是按位运算符(按位工作)&(按位 AND)以两个数字作为操作数…
-
-www.geeksforgeeks.org](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
+<https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/> 

@@ -112,8 +112,4 @@
 
 而且，如果你想做更多，你也可以看看这些模板来 [**建立雇主喜欢的令人敬畏的网络开发者作品集**](/javarevisited/top-6-web-developer-portfolio-templates-to-step-out-of-the-comfort-zone-b2d26de9cad4) :
 
-[](/javarevisited/top-6-web-developer-portfolio-templates-to-step-out-of-the-comfort-zone-b2d26de9cad4) [## 走出舒适区的 6 大 Web 开发人员组合模板
-
-### 每个 web 开发人员组合都允许告诉人们你是谁，你做什么，以及如何与你联系…
-
-medium.com](/javarevisited/top-6-web-developer-portfolio-templates-to-step-out-of-the-comfort-zone-b2d26de9cad4)
+</javarevisited/top-6-web-developer-portfolio-templates-to-step-out-of-the-comfort-zone-b2d26de9cad4> 

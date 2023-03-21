@@ -47,16 +47,4 @@ redisTemplate.opsForZSet().add(K key, V value, double score)
 
 如果缓存已经失效，从[数据库](/javarevisited/top-5-sql-and-database-courses-to-learn-online-48424533ac61)查询，并从新设置 redis，并设置失效时间！
 
-[](https://javarevisited.blogspot.com/2022/06/best-system-design-and-analysis-books.html) [## 2022 年 7 大系统设计和软件分析与设计书籍——最佳之选
-
-### 你需要从本质上理解的是，系统设计包括定义、开发和…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/06/best-system-design-and-analysis-books.html) [](https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html) [## 2022 年学习系统设计和软件架构的 10 大课程——最佳课程
-
-### 软件设计或系统设计是需要掌握的棘手概念之一。可以快速学习一门编程语言…
-
-www.java67.com](https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html) [](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html) [## 如何准备系统设计面试？概念、实践和资源
-
-### 这是我如何进入 FAANG 的，软件工程就业市场火了！尤其是如果你有几年的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html)
+<https://javarevisited.blogspot.com/2022/06/best-system-design-and-analysis-books.html>  <https://www.java67.com/2019/09/top-5-courses-to-learn-system-design.html>  <https://javarevisited.blogspot.com/2022/03/how-to-prepare-for-system-design.html> 

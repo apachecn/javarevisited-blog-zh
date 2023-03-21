@@ -16,11 +16,7 @@
 
 因此，有了这个宣言，让我们深入探讨一下 2023 年 web 开发的 5 种最佳编程语言。如果你赶时间，只需要一个，我会推荐 JavaScript，如果你需要资源 [**完整的 JavaScript 课程:构建真实世界的项目**](http://bit.ly/2ytow1z)**Udemy 上的课程是学习 web 开发 JavaScript 的最佳课程。**
 
-**[](http://bit.ly/2ytow1z) [## 学习现代 Javascript(构建和测试应用)-完整课程
-
-### 完全从零开始重建(65 小时视频)***“真的真的制作精良的球场。超级深入…
-
-udemy.com](http://bit.ly/2ytow1z) 
+**<http://bit.ly/2ytow1z>  
 
 # 2023 年 Web 开发的 5 种最佳编程语言
 
@@ -136,8 +132,4 @@ JavaScript 的优势不仅在于它可以在使用 Nodejs 的浏览器和服务�
 
 **p . s .**——如果你不仅是网页开发的初学者，也是编程界的初学者，但你的目标是在 2023 年成为一名网页开发员，那么我也建议你加入 Udemy 网站上的[**2023 年网页开发训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) 课程。这是 2023 年学习 Web 开发的最全面和最新的资源之一。***
 
-***[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F) [## 完整的 2023 年网络开发训练营
-
-### 欢迎来到完整的 Web 开发训练营，这是您学习编码并成为全栈 web…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F)***
+***<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-development-bootcamp%2F> ***

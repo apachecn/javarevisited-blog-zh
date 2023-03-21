@@ -64,11 +64,7 @@ OOP 设计原则和 GOF 设计模式的知识对于 Java 开发者来说非常�
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制地访问 90%以上的课程、指导项目…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[软件设计模式:软件开发人员的最佳实践](https://www.educative.io/courses/software-design-patterns-best-practices?affiliate_id=5073518643380224)
 
@@ -84,11 +80,7 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 此外，如果你觉得教育平台和他们的互动课程很有用，那么你还可以获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问这门课程，还可以访问他们的 210 多门课程。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 4.[体验 Java 中的设计模式](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fexperience-design-patterns%2F)
 
@@ -178,16 +170,8 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **p . s .**——如果你对提升你的设计模式技能感兴趣，但正在寻找免费的在线培训课程，那么你也可以在 Udemy 上查看 [**Java 设计模式和架构**](http://bit.ly/java-design-patterns-tutorial) 课程。这是完全免费的，你只需要一个 Udemy 帐户就可以注册这门课程。
 
-[](http://bit.ly/java-design-patterns-tutorial) [## 免费 Java 教程——Java 设计模式和架构
-
-### 在作为软件开发人员和承包商为包括 CSC 在内的许多公司工作了 14 年后…
-
-bit.ly](http://bit.ly/java-design-patterns-tutorial) 
+<http://bit.ly/java-design-patterns-tutorial>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末 2023**](https://pluralsight.pxf.io/c/1193463/871467/7490) 就在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

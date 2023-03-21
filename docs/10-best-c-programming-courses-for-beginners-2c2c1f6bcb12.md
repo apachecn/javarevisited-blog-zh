@@ -76,11 +76,7 @@ c 编程语言是最古老、最强大的编程语言之一，已经存在了 50
 
 它每年花费大约 399 美元，但是它完全值得你的钱，因为你得到了**无限证书**。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.c 在 4 小时内(由 FreeCodeCamp 提供的免费 Youtube 课程)
 
@@ -102,11 +98,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 会员费大约每月 29 美元，但你可以通过注册 299 美元的年度会员节省 14%。他们还提供 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，这是探索他们平台的绝佳机会，你甚至可以免费完成这门课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[从零开始学 C 语言](https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224)(免费课程教学)
 
@@ -124,11 +116,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 而且，如果你发现教育平台和他们的互动课程很有用，那么你还可以获得[教育订阅](https://www.educative.io/subscription?affiliate_id=5073518643380224)，每月只需 18 美元，不仅可以获得这门课程，还可以获得他们的 100 多门课程。它非常划算，非常适合获得一些实践学习经验。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 介绍:教育性订阅。获得无限制的访问权限！
-
-### 技术领域永远不会停滞不前，我们也一样。我们定期更新课程，并不断增加新的课程…
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 7. [C for Everyone:编程基础](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-for-everyone)【Coursera 最佳课程】
 
@@ -199,8 +187,4 @@ C 语言特别适合作为介绍编码的入门课程:它是一种久经考验�
 
 **P. S.** —如果你真的想学习 C 编程并寻找一些免费资源，如书籍和课程，那么你也可以在 Udemy 上查看这个 [**完全 C 编程(免费)**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-c-programming%2F) 课程。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-c-programming%2F) [## 免费 C 教程-完整的 C 编程
-
-### 我的名字是 Tweneboah 德里克奥武苏，我是 Spart 咨询有限责任公司的创始人。Spartee 公司毕业于…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-c-programming%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-c-programming%2F> 

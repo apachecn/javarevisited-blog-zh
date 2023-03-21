@@ -209,7 +209,7 @@ Java 中有很多访问修饰符可供选择— `public`、`protected`、`privat
 
 # 10.当重写 equals 时重写 hashCode
 
-因其值而相等的对象称为[值对象](https://martinfowler.com/bliki/ValueObject.html)。例如金钱、时间。如果值相同，这些类必须覆盖`equals`方法以返回 true。其他库通常使用`[equals](https://javarevisited.blogspot.com/2013/05/java-mistake-3-using-instead-of-equals.html)` [](https://javarevisited.blogspot.com/2013/05/java-mistake-3-using-instead-of-equals.html)方法进行比较和相等检查；因此，超驰`equals`是必要的。每个 Java 对象都有一个散列码值，以区别于其他对象。
+因其值而相等的对象称为[值对象](https://martinfowler.com/bliki/ValueObject.html)。例如金钱、时间。如果值相同，这些类必须覆盖`equals`方法以返回 true。其他库通常使用`[equals](https://javarevisited.blogspot.com/2013/05/java-mistake-3-using-instead-of-equals.html)` <https://javarevisited.blogspot.com/2013/05/java-mistake-3-using-instead-of-equals.html>方法进行比较和相等检查；因此，超驰`equals`是必要的。每个 Java 对象都有一个散列码值，以区别于其他对象。
 
 ```
 **class** **Coin** **{**

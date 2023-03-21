@@ -18,11 +18,7 @@
 
 **React 库可用于构建单页面应用程序，该应用程序将提供更好的用户体验以及创建移动应用程序。如果上面的介绍已经说服你开始学习这个库，并且你正在试图寻找一些学习 react 的最佳课程，那么我强烈建议你看看这个名为 [**React 的课程——Udemy**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)的完整指南，这篇文章就是关于这个课程的回顾。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 这是完全更新和重新记录从地面上-它教最新版本的反应…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F>  
 
 # Udemy 课程回顾——马克西米连和 AcadMind 的 React 完全指南
 
@@ -112,8 +108,4 @@ Max 最大的优点是他对 web 开发有深入的了解，他可以将复杂�
 
 **P.S.** —如果你热衷于学习 React.js，但正在寻找 Coursera 的课程，那么我也推荐你在 Coursera 上查看*[*React 专业化的全栈 Web 开发*](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) 。这是学习 React 和成为全栈开发人员的一个很好的课程集合。***
 
-***[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react) [## 使用 React 进行全栈 Web 开发
-
-### 由香港科技大学提供。构建完整的 Web 和混合移动解决方案。主人…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react)***
+***<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Ffull-stack-react> ***

@@ -157,16 +157,4 @@ public class Teacher {
 
 资源:
 
-[](https://examples.javacodegeeks.com/how-to-configure-multiple-data-sources-in-a-spring-boot-application/) [## 如何在 Spring Boot 应用程序中配置多个数据源
-
-### 欢迎，在本教程中，我们将看到如何在单个引导应用程序中配置多个数据源。在这里我们…
-
-examples.javacodegeeks.com](https://examples.javacodegeeks.com/how-to-configure-multiple-data-sources-in-a-spring-boot-application/) [](https://stackoverflow.com/questions/39001044/hibernate-improvednamingstrategy-doesnt-work) [## 休眠改进命名策略不起作用
-
-### 我有一个用 snakecase 命名的列和用 camelcase 命名的列的实体的数据库。
-
-stackoverflow.com](https://stackoverflow.com/questions/39001044/hibernate-improvednamingstrategy-doesnt-work) [](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e) [## 我最喜欢的 2021 年学习 Spring Boot 的课程——最好的
-
-### 大家好，如果你有兴趣学习 Spring Boot 并寻找一些很棒的资源，如书籍，教程…
-
-medium.com](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e)
+<https://examples.javacodegeeks.com/how-to-configure-multiple-data-sources-in-a-spring-boot-application/>  <https://stackoverflow.com/questions/39001044/hibernate-improvednamingstrategy-doesnt-work>  </javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e> 

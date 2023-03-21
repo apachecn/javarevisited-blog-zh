@@ -20,11 +20,7 @@ Scala 是相对较新的编程语言之一，它包含了许多编程语言的�
 
 尽管网上有很多免费资料，甚至 Scala 文档也是学习 Scala 的绝佳来源，但我发现从书中学习是学习新编程语言的最佳方式，但如果你喜欢在线课程，那么你可以查看一下 [**摇滚 JVM！Udemy 上的 Scala 和函数式编程初学者**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F>  
 
 # 2023 年面向初学者的前 5 本 Scala 和函数式编程书籍
 
@@ -52,11 +48,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 简而言之，Martin Odersky、Lex Spoon 和 Bill Venners 的《Scala 第三版编程》是 Scala 程序员的必读书籍，如果你想学得更好，可以将这本书与[**Rock JVM 结合起来！Udemy 上的 Scala 和函数式编程初学者**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 课程。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F>  
 
 ## 2.Scala 中的函数式编程
 
@@ -137,8 +129,4 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ***附言——**如果你正在寻找一份 Scala 的工作，你可能想练习一些常见的 Scala 面试问题，这些问题已经被很多公司要求了。你可以在这里查看它们[，如果你需要一些学习 Scala 的在线课程，可以查看](http://javarevisited.blogspot.sg/2017/03/top-30-scala-and-functional-programming.html) [**摇滚 JVM！Udemy 上的 Scala 和函数式编程初学者**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Frock-the-jvm-scala-for-beginners%2F) 课程。*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F) [## Scala &面向初学者的函数式编程|震撼 JVM
-
-### 在本课程中，我们将学习 Scala 和函数式编程的基础知识，这是软件领域两个非常热门的话题
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F)*
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Frock-the-jvm-scala-for-beginners%2F> *

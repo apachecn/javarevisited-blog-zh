@@ -22,11 +22,7 @@ image_credit —教育性
 
 如果你完全是编程界的新手，那么投资一些钱买一本书或者参加一个关于数据结构和算法的课程，比如 [**数据结构和算法:在 Udemy 上使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 进行深入研究是一个好主意。它可能不会教你编码，它会给出数据结构和算法的知识，这对于任何程序员来说都是非常重要的。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### Tim 从事专业软件开发已经超过 35 年了。在他的职业生涯中，他曾为几家大公司工作过…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 # 2023 年免费学习 Java 编码的 10 个最佳网站
 
@@ -58,11 +54,7 @@ Coursera 是另一个流行的在线学习平台，在这里你可以找到很�
 
 如果你发现 Coursera 的课程很有用，因为它们是由谷歌、IBM、亚马逊等知名公司和世界上最好的大学创建的，我建议你加入 Coursera PlusT3 的[课程，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[教育性](https://www.educative.io/subscription?affiliate_id=5073518643380224)
 
@@ -78,11 +70,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **他们有最好的编程面试课程，如[探索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)和[探索编程面试模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)，这不是免费的，但你可以使用[教育订阅](https://www.educative.io/subscription?affiliate_id=5073518643380224)来访问它们，它的价格约为 14.9 美元，并提供对他们所有 250+互动课程的访问。他们确实有一些免费的编程课程，包括学习 Java 的课程。**
 
-**[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)** 
+**<https://www.educative.io/subscription?affiliate_id=5073518643380224> ** 
 
 ## **4.[复数视线](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-fundamentals-language)**
 
@@ -136,11 +124,7 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 如果你喜欢书，你也可以购买一本书来学习如何编程，像[头先编程](http://www.amazon.com/Head-First-Programming-learners-programming/dp/0596802374?tag=javamysqlanta-20)，教你如何用 Python 语言编码和编写程序。**
 
-**[](http://www.amazon.com/Head-First-Programming-learners-programming/dp/0596802374?tag=javamysqlanta-20) [## Head First 编程:使用 Python 语言编程的学习指南
-
-### Head First 编程:使用 Python 语言编程的学习者指南[Griffiths，David，Barry，Paul]
-
-www.amazon.com](http://www.amazon.com/Head-First-Programming-learners-programming/dp/0596802374?tag=javamysqlanta-20)** 
+**<http://www.amazon.com/Head-First-Programming-learners-programming/dp/0596802374?tag=javamysqlanta-20> ** 
 
 ## **7.Java 初学者教程[YouTube]**
 
@@ -238,21 +222,13 @@ JetBrains 学院与 Hyperskill 合作，提供基于项目的互动学习，结�
 
 **他们**有免费和付费两种选择**虽然他们的免费选项足以在线学习 Java，但如果你负担得起，你绝对应该试试 [**Codegym premium**](https://codegym.cc/sale/?ref=javinpaul3) ，他们的付费版本，他们现在也提供 50%的折扣。**
 
- **[## CodeGym 销售
-
-### 本网站使用 cookies 为您提供个性化服务。通过使用本网站，您同意我们使用…
-
-codegym.cc](https://codegym.cc/sale/?ref=javinpaul3)** 
+ **** 
 
 **顺便说一下，这些网站不适合有经验的程序员，因为你可以快速解决所有这些问题，但是如果你喜欢快速回顾和练习，那么你也会发现它们很有趣。
 
 如果你想买一本学习编码的书，那么我建议你看一看 [**Head First Java 第二版**](http://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20) ，稍微有点旧但仍然是学习 Java 的最佳书籍之一。**
 
-**[](http://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20) [## 第一版 Java，第二版
-
-### 第一版 Java，第二版[Sierra，Kathy，Bates，Bert]关于 Amazon.com。*符合条件的优惠可享受免费*运输。头部…
-
-www.amazon.com](http://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20) 
+**<http://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20>  
 
 您可能喜欢的其他**编程文章和教程**
 
@@ -274,8 +250,4 @@ www.amazon.com](http://www.amazon.com/dp/0596009208/?tag=javamysqlanta-20)
 
 **P. S. —** 如果你不介意花点钱学习像 Java 这样有价值且受欢迎的技能，那么我强烈推荐你去看看 Udemy 上由 Tim Buchalaka 和他的团队开设的 [**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程。这是在线学习 Java 的最全面和最新的课程之一。**
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F> **

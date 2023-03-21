@@ -27,11 +27,7 @@
 3.  **基于注释的配置**，其中您指定要扫描的包—*AnnotationConfigApplicationContext(" package . name ")；*
 4.  **JavaConfig** —基于注释的配置，指示用**@ Configuration**—*AnnotationConfigApplicationContext(Java config . class)注释的(Java)类(或类的数组)。*
 
-[](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7) [## 如何破解 Spring Core Professional v5.0 认证 Java 最新 Spring 认证…
-
-### 自从 Pivotal 之后，Spring framework 背后的公司将强制的 Spring 培训变成了可选的(参见这里)，我已经…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7) 
+<https://javarevisited.blogspot.com/2018/08/how-to-crack-spring-core-professional-certification-exam-java-latest.html#axzz5j90KOik7>  
 
 # XML 配置
 
@@ -220,11 +216,7 @@ System.out.println(context.getBean( name: "badVillain"));
 
 这是因为我们声明了 *lazy-init:true* 并禁止 Spring 创建一个 bean 实例，之前收到的异常就是在这个实例中生成的。如果我们从配置中删除这个属性，或者将它的值改为 *lazy-init:false* ，那么上面描述的错误也会出现，但是不会被忽略，应用程序会停止。在我们的例子中，上下文被初始化，但是我们不能创建一个 bean 实例，因为没有找到指定的类。
 
-[](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e) [## 我最喜欢的 2020 年学习 Spring Boot 的课程——最好的
-
-### 大家好，如果你有兴趣学习 Spring Boot 并寻找一些很棒的资源，如书籍，教程…
-
-medium.com](/javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e) 
+</javarevisited/top-10-courses-to-learn-spring-boot-in-2020-best-of-lot-6ffce88a1b6e>  
 
 # Groovy 配置
 
@@ -251,11 +243,7 @@ beans {
 
 错误立即出现:Groovy 和 XML 一样，创建 bean 定义，但是在这种情况下，后处理器立即给出错误。
 
-[](/javarevisited/top-5-books-to-learn-spring-boot-and-microservices-for-experienced-java-developers-499a9d921d18) [## 有经验的 Java 开发人员学习 Spring Boot 和微服务的前 5 本书
-
-### 如果您是一名 Java 开发人员，并且想了解更多关于 Spring Boot 和 Spring Cloud 框架的知识，那么您已经来到了…
-
-medium.com](/javarevisited/top-5-books-to-learn-spring-boot-and-microservices-for-experienced-java-developers-499a9d921d18) 
+</javarevisited/top-5-books-to-learn-spring-boot-and-microservices-for-experienced-java-developers-499a9d921d18>  
 
 # 基于注释的配置，指示要扫描的包或 JavaConfig
 
@@ -304,11 +292,7 @@ medium.com](/javarevisited/top-5-books-to-learn-spring-boot-and-microservices-fo
 
 此外，还有一件事。在 XML 和 [Groovy](https://javarevisited.blogspot.com/2017/08/top-5-books-to-learn-groovy-for-java.html#axzz5dPh77Fzl) 配置的情况下，上传了 343 个文件；这里出现了 631 个额外文件的更“沉重”的负载。
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) 
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  
 
 **classpathbeanditionscanner**操作阶段:
 
@@ -374,11 +358,7 @@ ApplicationContext annotationConfigContext =
 
 使用标准的 Java 类加载机制:类加载器被绕过，试图在先前加载的类中找到所需的类，如果找不到该类，就尝试加载它。
 
-[](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) [## 2020 年深入学习 Spring 框架的前 5 门课程——最佳课程
-
-### Spring Framework 是 Java 开发人员的一项基本技能，不仅是为了获得一份 Java 开发人员的工作，也是为了你的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html) 
+<https://javarevisited.blogspot.com/2018/06/top-6-spring-framework-online-courses-Java-programmers.html>  
 
 您可能喜欢的其他 **Java 和 Spring 文章**
 
@@ -398,4 +378,4 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/06/top-6-spr
 
 感谢您阅读本文。如果你觉得这篇文章有用，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。
 
-【https://intexsoft.com】原载于 2020 年 3 月 5 日[](https://intexsoft.com/)**。**
+【https://intexsoft.com】原载于 2020 年 3 月 5 日<https://intexsoft.com/>**。**

@@ -62,11 +62,7 @@ image_credit — udemy
 
 而且，如果你发现 Coursera 专业化和认证有用，特别是像这样的，那么我建议你加入 Coursera Plu**s**，这是 Coursera 的一个伟大的订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。它每年花费大约 399 美元，但是它完全物有所值，因为你可以获得无限制的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.Janani Ravi 在 Pluralsight 上用 Google Dialogflow 构建聊天机器人
 
@@ -86,11 +82,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 它还包括交互式测验、练习和最新的认证材料。他们还提供 10 天免费通行证，可以免费参加任何课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.建造不可思议的聊天机器人
 
@@ -148,8 +140,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **p . s .**——如果你不了解 Python，那么我也建议你查看这些 [**顶级 Python 课程和认证**](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) 深入学习 Python，进一步提升你在机器学习和人工智能方面的训练。这是你的武器库中必备的工具之一。
 
-[](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec) [## 2023 年学习 Python 的 10 大课程
-
-### Udemy、Coursera 和 Pluaralsight 上面向初学者和中级程序员的 10 个最佳 Python 课程
-
-medium.com](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)
+</better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec> 

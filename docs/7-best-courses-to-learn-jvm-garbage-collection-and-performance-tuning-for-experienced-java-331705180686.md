@@ -124,11 +124,7 @@ Pluralsight 有一个关于 JVM 的精彩系列，被凯文·琼斯称为“理�
 
 他们还提供了 [**10 天的免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 而没有任何承诺，这不仅是免费访问这门课程的好方法，也是在加入 Pluralsight 之前检查课程质量的好方法。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 这就是学习 JVM 内部机制、垃圾收集和内存管理的一些最好的课程。您还将学习如何用 Java 在 Java 应用程序中寻找内存泄漏并修复它们。
 
@@ -153,16 +149,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P.S.** —如果你喜欢看书，也可以看看这个 [**书籍列表，更好地学习 JVM 和垃圾收集**](https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html) 。该文件包含一些关于 JVM 内部和性能调优主题的最佳书籍。
 
-[](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html) [## 深入学习 Java 虚拟机、垃圾收集和性能的前 5 本书
-
-### 在过去的几年里，我看到了许多 Java 开发人员想要学习更多关于 JVM 的知识的趋势…
-
-www.java67.com](https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html) 
+<https://www.java67.com/2019/08/best-books-to-learn-java-virtual-machine-in-depth.html>  
 
 **P. S. S.** —如果你需要更多关于 Java 性能的课程，我还建议你去看看 Udemy 网站上 Michael Pogrebinsky 的 [**Java 多线程、并发和性能优化**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) ，我非常喜欢这门课程，我强烈推荐任何想学习高性能 Java 应用程序的人。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F) [## Java 多线程、并发和性能优化
-
-### 如果你有自己的喷气式飞机，你会开着它去杂货店，还是开着它环游世界？今天…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-multithreading-concurrency-performance-optimization%2F> 

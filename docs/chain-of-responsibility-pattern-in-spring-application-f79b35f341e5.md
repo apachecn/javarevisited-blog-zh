@@ -30,7 +30,7 @@ public interface EnrichmentStep {
 
 接口接受当前的`Message`并返回一个丰富的。
 
-> *在本例中，* `*Message*` *类是*[](https://www.geeksforgeeks.org/create-immutable-class-java/)**不可变的。这意味着* `*EnrichmentStep*` *返回新的对象，而不是被修改的同一对象。不可变类的使用是很好的实践，因为它消除了许多可能的* [*并发问题。*](https://enlear.academy/how-to-avoid-a-deadlock-while-writing-concurrent-programs-java-example-988bb07db25f)*
+> *在本例中，* `*Message*` *类是*<https://www.geeksforgeeks.org/create-immutable-class-java/>**不可变的。这意味着* `*EnrichmentStep*` *返回新的对象，而不是被修改的同一对象。不可变类的使用是很好的实践，因为它消除了许多可能的* [*并发问题。*](https://enlear.academy/how-to-avoid-a-deadlock-while-writing-concurrent-programs-java-example-988bb07db25f)*
 
 *有 3 种类型的浓缩。因此，我们需要 3 个`EnrichmentStep`实现。我在给你看电话号码的例子。不过如果你好奇的话，你可以在仓库里看到其他的。*
 

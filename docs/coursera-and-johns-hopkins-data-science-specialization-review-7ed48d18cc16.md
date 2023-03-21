@@ -16,11 +16,7 @@
 
 许多教师已经创建了在线课程，教你如何使用数据来深入了解所谓的数据科学。我一直在许多在线平台上搜索，直到我在约翰·霍普斯金大学开设的 Coursera 上看到这个 [**数据科学专业**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science) 。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science) [## 数据科学
-
-### 约翰·霍普金斯大学的使命是教育学生，培养他们终身学习的能力
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fjhu-data-science>  
 
 在本文中，您将了解到您将从这一数据科学专业中学习到什么、讲师的声誉以及人们的评价，以便您能够做出正确的决定，选择这门课程或寻找另一门满足您需求的课程。
 
@@ -36,19 +32,11 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 三位导师创建了这门课程，让我们从杰夫·莱克开始，他是约翰·霍普斯金大学生物统计学专业的助理教授，拥有该领域的博士学位。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~694443) [## Jeff Leek 博士，讲师| Coursera
-
-### 杰夫·利克是约翰·霍普金斯大学彭博公共卫生学院的生物统计学助理教授
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~694443) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~694443>  
 
 另一位导师叫 [**Roger D. Peng**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2Frdpeng) 拥有加州大学统计学博士学位，在约翰·霍普斯金大学担任教授。最后一位讲师 [Brian Caffo](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~688901) ，是[约翰·霍普斯金大学](https://www.jhu.edu/)的教授，也是弗罗里达大学生物统计学博士。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~688901) [## Brian Caffo 博士，讲师| Coursera
-
-### 布莱恩·卡弗博士是约翰·霍普金斯大学彭博学院生物统计系的教授
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~688901) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Finstructor%2F~688901>  
 
 ## 2.专业化的内容和结构
 
@@ -60,11 +48,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 由于你是数据科学领域的新手，你将介绍这个行业以及一些有助于你掌握数据科学的工具和平台。超过 65 万人已经在 Coursera 上加入了这个令人惊叹的数据科学课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-scientists-tools) [## 数据科学家的工具箱
-
-### 在本课程中，您将了解数据科学家工具箱中的主要工具和思想。课程…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-scientists-tools) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-scientists-tools>  
 
 ## 2.2. [R 编程](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fr-programming)
 
@@ -72,71 +56,43 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你想掌握 R 语言，你也可以看看我列出的[最佳 R 编程课程](https://javarevisited.blogspot.com/2020/07/top-5-courses-to-learn-r-programming-in.html) s，包括 Udemy、Pluralsight、Coursera 学习 R 编程的最佳课程。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fr-programming) [## r 编程
-
-### 在本课程中，你将学习如何用 R 编程，以及如何使用 R 进行有效的数据分析。您将学习如何…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fr-programming) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fr-programming>  
 
 ## 2.3.[获取和清理数据](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-cleaning)
 
 在从事数据科学家的工作之前，您需要首先获取和收集数据，因此本课程将向您介绍从数据库和 web 等获取数据的各种方法。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-cleaning) [## 获取和清理数据
-
-### 在处理数据之前，你必须先获得一些数据。本课程将涵盖获取数据的基本方法…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-cleaning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-cleaning>  
 
 ## 2.4.[探索性数据分析](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fexploratory-data-analysis)
 
 收集完数据后，您需要对其进行处理和可视化，这是本课程的全部内容。您将学习用 R 语言编写的统计和可视化软件包。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fexploratory-data-analysis) [## 探索性数据分析
-
-### 本课程涵盖了汇总数据的基本探索技巧。这些技术通常应用于…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fexploratory-data-analysis) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fexploratory-data-analysis>  
 
 ## 2.5.[可再生研究](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Freproducible-research)
 
 本课程的重点是在可视化和分析过程之后报告和深入了解您的数据，以及其他一些东西，以使分析过程更加有效和高效。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Freproducible-research) [## 可重复的研究
-
-### 本课程侧重于以可再现的方式报告现代数据分析背后的概念和工具…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Freproducible-research) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Freproducible-research>  
 
 ## 2.6.[统计推断](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fstatistical-inference)
 
 本课程将向您介绍统计和推断统计，它得出总体的结论和一些理论，如贝叶斯和可能性。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fstatistical-inference) [## 统计推断
-
-### 统计推断是从数据中得出关于总体或科学真理的结论的过程。有…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fstatistical-inference) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fstatistical-inference>  
 
 ## 2.7.[回归模型](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fregression-models)
 
 本课程面向统计分析和回归模型，如线性和回归模型，因此介绍了[机器学习](https://www.java67.com/2019/01/5-free-courses-to-learn-machine-and-deep-learning-in-2019.html)和[回归分析](https://www.java67.com/2020/07/top-5-machine-learning-algorithms-for-beginners.html) s。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fregression-models) [## 回归模型
-
-### 线性模型，顾名思义，使用线性假设将结果与一组感兴趣的预测因素联系起来…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fregression-models) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fregression-models>  
 
 ## 2.8.[实用机器学习](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpractical-machine-learning)
 
 这里，到了有趣的部分，您将把*机器学习算法*应用到您的数据和预测函数以及 ML 概念，如训练过度拟合等等。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpractical-machine-learning) [## 实用机器学习
-
-### 数据科学家和数据分析师执行的最常见的任务之一是预测和机器学习。这个…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpractical-machine-learning) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpractical-machine-learning>  
 
 ## 2.9.[开发数据产品](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-products)
 
@@ -144,11 +100,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 你从数据分析中收集的所有信息都是无用的，除非你能找到一些见解，这就是这些图表和其他视觉元素的帮助之处。我强烈建议所有渴望成为数据科学家的人学习数据可视化。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-products) [## 开发数据产品
-
-### 数据产品是统计分析的产出。数据产品自动化复杂的分析任务或…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-products) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-products>  
 
 ## 2.10.[数据科学顶点](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-science-project)
 
@@ -158,11 +110,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 除非你完成了这个项目和所有的评估，否则你不会获得认证，但是不要担心，在网上、论坛上和 YouTube 上有很多帮助来完成这个项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-science-project) [## 数据科学顶点
-
-### 顶点工程课程将允许学生创建一个可用的/公共的数据产品，可以用来展示你的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-science-project) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-science-project>  
 
 ## 3.《人民评论》
 
@@ -197,8 +145,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你正在寻找使用 Python 学习数据科学的最佳 Udemy 在线课程，你也可以查看 [**由 365 Careers 及其团队**编写的《数据科学教程 2023:完整的数据科学训练营****](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) 。他们在 Udemy 上有最好的数据科学在线课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F) [## 数据科学培训课程:数据科学家训练营
-
-### 数据科学家是本世纪最适合蓬勃发展的职业之一。它是数字化的，面向编程的，并且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-data-science-course-complete-data-science-bootcamp%2F> 

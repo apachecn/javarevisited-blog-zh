@@ -22,11 +22,7 @@ image_credit — Edureka
 
 顺便说一句，如果你不介意花点钱学习像 Salesforce 这样有价值的技能并寻找更全面的课程，那么我也建议你看看 Udemy 上的 [**Salesforce 初学者发展培训**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F) 课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F) [## 面向初学者的 Salesforce 发展培训
-
-### 注册新的 Salesforce Lightning Web 组件开发课程####为什么要专攻 Salesforce 开发…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F>  
 
 # 2023 年学习 Salesforce 的 7 个最佳免费在线课程和网站
 
@@ -145,8 +141,4 @@ Trailhead 是 Salesforce 的免费在线学习平台，教人们如何使用 Sal
 
 **P. S.** —如果你不介意花几个钱学习像 Salesforce 这样有价值的技能，并寻找更全面的课程，那么我也建议你看看 Udemy 上的 [**Salesforce 初学者发展培训**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F) 课程。它包含 14 个小时的高质量课程，你只需花 10 美元就可以在每月举行的 Udemy 销售上购买。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F) [## 面向初学者的 Salesforce 发展培训
-
-### 注册新的 Salesforce Lightning Web 组件开发课程####为什么要专攻 Salesforce 开发…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-salesforce-apex-basic-to-advance%2F> 

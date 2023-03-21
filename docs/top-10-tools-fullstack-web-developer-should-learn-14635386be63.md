@@ -188,8 +188,4 @@ Jasmine 允许通过海关延迟和等待时间来模拟实际的用户行为，
 
 **p . s .**——如果你想在 2023 年成为前端和后端开发人员，那么你也可以查看[**Web 开发人员路线图**](https://javarevisited.blogspot.com/2019/02/the-2019-web-developer-roadmap.html#axzz63HbZbxLC) ，其中也包含了成为专业 Web 开发人员所需的所有技术和资源。
 
-[](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [## 2023 年 Fullstack Web 开发者路线图[更新]
-
-### 2023 年成为网页开发者的图解指南，并附有相关课程的链接
-
-medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e)
+</javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e> 

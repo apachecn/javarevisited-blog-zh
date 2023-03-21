@@ -69,11 +69,7 @@ Docker compose 是一个容器编排工具，用于在一台主机上运行多�
 
 Docker Swarm 类似于 Docker compose，是一个容器编排工具，它使管理运行在多台主机上的多个容器变得更加简单。这组机器被称为一个集群，每个机器都需要运行 Docker。组成集群的单个机器被称为节点，集群的所有活动由称为群管理器的节点控制
 
-[](/codex/what-is-docker-and-why-do-we-need-it-7dedc616366e) [## Docker 是什么，我们为什么需要它？
-
-### 在本文中，我们将简要介绍 Docker 是什么以及我们为什么需要它。但是首先，让我们…
-
-medium.com](/codex/what-is-docker-and-why-do-we-need-it-7dedc616366e) 
+</codex/what-is-docker-and-why-do-we-need-it-7dedc616366e>  
 
 # 参考
 

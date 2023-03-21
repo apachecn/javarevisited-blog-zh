@@ -18,11 +18,7 @@
 
 通过在许多平台和在线课程中的许多研究，我发现了学习这种神话般语言的最佳和全面的在线课程之一，名为[**Python for everybody specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython)由密歇根大学通过一个名为 Coursera 的在线平台提供。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [## 面向所有人的 Python
-
-### 学习用 Python 编程和分析数据。开发收集、清理、分析和可视化数据的程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython>  
 
 这篇文章是对这个*大规模 Python 课程*的回顾，简单易学，所以你会看到你将在这个专业中看到什么东西，以及讲师的声誉和人们对这个课程的反馈。
 
@@ -82,13 +78,9 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你现在确定或者想了解更多，那么这里有加入这个令人敬畏的课程的链接—[**Python for ever body specialization**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) [## 面向所有人的 Python
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython>  
 
-### 学习用 Python 编程和分析数据。开发收集、清理、分析和可视化数据的程序…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fpython) 
-
-如果你想要更多的评论，你可以在这里阅读所有的[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython%3Fspecialization%3Dpython)**。**
+如果你想要更多的评论，你可以在这里阅读所有的<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython%3Fspecialization%3Dpython>**。**
 
 **[![](img/7437fcf87eadab0daf3af48d40ddc209.png)](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython%3Fspecialization%3Dpython)**
 
@@ -98,11 +90,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **或者，你也可以加入他们的 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 订阅，只需一笔费用就可以获得无限的证书。如果你打算参加多个 Coursera 课程、项目、认证和专业，这样会更好。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 你可能喜欢的其他 **Python 编程和** **Coursera 文章**
 
@@ -130,8 +118,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你正在寻找学习 Python 的最佳 Udemy 课程，那么我强烈推荐你加入 Udemy 上何塞·波尔蒂利亚的 [**完整的 Python 训练营:从零到英雄**](http://bit.ly/2BY5LJC) 课程。这是最受欢迎的 Python 课程，已经有超过 100 万的学生学习了这门课程。它也很实惠，在 Udemy 上只需 10 美元就能买到
 
-[](http://bit.ly/2BY5LJC) [## Python 训练营:学习 Python 编程和代码培训
-
-### 这是 Udemy 上最全面、最直接的 Python 编程语言课程！你是否…
-
-udemy.com](http://bit.ly/2BY5LJC)**
+<http://bit.ly/2BY5LJC> **

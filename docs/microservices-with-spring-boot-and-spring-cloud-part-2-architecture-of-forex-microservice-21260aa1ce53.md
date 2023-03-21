@@ -20,11 +20,7 @@
 *   如何创建 JPA 实体和资源？
 *   如何让 Spring MVC、Spring Boot、JPA、Hibernate 和 H2 协同工作？
 
-[](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) [## Java 程序员学习 Spring Boot 和微服务的 10 大课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) 
+<https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg>  
 
 # 免费课程—10 步学会
 
@@ -77,11 +73,7 @@
 
 如果您想了解关于工具的更多信息，请查看这篇文章:
 
-[](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html) [## 2020 年 Java 开发人员应该学习的 10 种工具-(更新)
-
-### 我们离 2020 年只有一两个星期了，许多程序员已经开始为他们的目标制定一个好的过程…
-
-www.java67.com](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html) 
+<https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html>  
 
 # 用代码示例完成 Maven 项目
 
@@ -266,11 +258,7 @@ Spring Boot 的微服务
 
 如果你需要更多的资源，可以看看这些为 Java 开发者准备的 [**高级 Spring Boot 课程**](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) :
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) 
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  
 
 # 完整的代码示例
 
@@ -517,12 +505,4 @@ public class SpringBootMicroserviceForexServiceApplicationTests { @Test
 *   Java 开发者应该学习的 10 个 Spring MVC 注解([注解](https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html))
 *   15 Spring Boot Java 程序员面试问题([问题](https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html))
 
-[](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123)
+</javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd>  <https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123> 

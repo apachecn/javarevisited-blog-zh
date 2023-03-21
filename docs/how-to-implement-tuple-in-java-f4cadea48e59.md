@@ -4,7 +4,7 @@
 
 ## 在 java 中创建自定义元组数据类型
 
-> 最初发表于[](https://asyncq.com/how-to-access-twitter-v2-api-with-java)
+> 最初发表于<https://asyncq.com/how-to-access-twitter-v2-api-with-java>
 
 # **介绍**
 

@@ -99,11 +99,7 @@ image_source —教育性
 
 ****您还将接触到标准化等技术，这些技术有助于提高数据库的效率，并避免重复。我还建议你参加一个以 SQL 为中心的课程，比如何塞·波尔蒂利亚在 Udemy 上的 [**完整的 SQL 训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-sql-bootcamp%2F) ，因为 SQL 查询和数据库设计一样，也是编码面试的重要部分。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-sql-bootcamp%2F) [## 用于数据操作和分析的完整 SQL 训练营
-
-### 您将学习如何使用最受欢迎的技能之一- PostgreSQL 来读写复杂的数据库查询
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-sql-bootcamp%2F) 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-sql-bootcamp%2F>  
 
 我还建议阅读 Markus Winand 所著的《SQL 性能解释》 一书，以更好地理解 SQL 查询的一般工作原理。**** 
 
@@ -147,7 +143,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 *   ****网络安全性****
 *   ****网络规划和设计流程****
 
-****对于 IT 专业人员来说，不需要学习实现级的细节，只需要知道概念和它们做什么就很重要了。如果你需要进修课程，我建议你参加面向非技术人员的[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-computer-networks%2F)**计算机网络入门，这对技术人员和非技术人员都很好。******
+****对于 IT 专业人员来说，不需要学习实现级的细节，只需要知道概念和它们做什么就很重要了。如果你需要进修课程，我建议你参加面向非技术人员的<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-computer-networks%2F>**计算机网络入门，这对技术人员和非技术人员都很好。******
 
 ******[![](img/3ba4e55f4ea2ef40bfc0c75a65798658.png)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-computer-networks%2F)******
 
@@ -172,11 +168,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****我在这篇文章中推荐了几个教育性的课程，因为它们非常适合编写面试代码。你既可以单独购买，也可以考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，只需 **$14.9** 就可以获得他们 100 多门互动课程，这是你为准备编码面试所能做的最好投资。****
 
-****[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)**** 
+****<https://www.educative.io/subscription?affiliate_id=5073518643380224> **** 
 
 ## ****10.动态规划****
 
@@ -237,10 +229,6 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **附言——**如果你的目标是 FAANG(脸书、亚马逊、苹果、网飞和谷歌)公司，那么我也建议你参加 ZTM 学院 Andrei Neagoie 教授的 [**掌握编码面试:大型技术(FAANG)面试**](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn) 课程。FAANG 面试是最难破解的，本课程是破解 FAANG 面试的宝贵资源。****
 
-****[](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn) [## 掌握编码面试:大技术(FAANG)面试
-
-### 在顶级科技公司(谷歌、亚马逊、脸书、苹果、微软、网飞及其他公司)的编码面试中胜出…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn) 
+****<https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep?affcode=441520_zytgk2dn>  
 
 您还可以使用我们的代码朋友 10 获得任何会员 10%的折扣。****

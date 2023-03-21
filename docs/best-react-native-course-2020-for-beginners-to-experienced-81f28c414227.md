@@ -101,8 +101,4 @@
 
 **感谢阅读这篇文章。如果你觉得这些免费的本土课程有用，那么请与你的朋友和同事分享。如果您有任何问题或反馈，请留言。**
 
-**[](https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html) [## 2020 年移动开发者应该学会的 10 件事
-
-### 大家好，移动应用程序开发对程序员来说是一个利润丰厚的领域，因为它有各种各样的机会…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html)**
+**<https://javarevisited.blogspot.com/2020/01/10-things-mobile-app-developers-can-learn.html> **

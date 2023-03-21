@@ -54,8 +54,4 @@ Java 中的基本集合层次结构
 
 所以我认为现在你必须对 Java 中的集合结构以及集合层次结构的构建有一个清晰的基本理解。我将在这里结束我的文章，在下一篇文章中，我将详细解释 [**Set 接口**](https://javarevisited.blogspot.com/2012/06/hashset-in-java-10-examples-programs.html) 及其子类。如果您有任何问题，请随时联系我。干杯！:)
 
-[](https://www.linkedin.com/in/ravindu-rashmin-2aa634a8/) [## Ravindu Rashmin -斯里兰卡莫拉图瓦大学| LinkedIn
-
-### 在世界上最大的职业社区 LinkedIn 上查看 Ravindu Rashmin 的个人资料。Ravindu 有 8 份工作列在…
-
-www.linkedin.com](https://www.linkedin.com/in/ravindu-rashmin-2aa634a8/)
+<https://www.linkedin.com/in/ravindu-rashmin-2aa634a8/> 

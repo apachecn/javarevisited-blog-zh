@@ -126,11 +126,7 @@ Neal Davis 是 AWS 认证解决方案架构师&认证开发人员，来自 Digit
 
 顺便说一下，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但是也提供了许多像这样的超级吸引人和有用的课程。您还可以使用我的代码 **FRIENDS10** 获得您选择的任何套餐的 10%折扣。
 
-[](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) [## 学习需求技能。被录用。推进你的事业。|零到精通
-
-### 不要在无聊、过时的教程上浪费时间。加入 750，000 多名学生的行列，学习受欢迎的技能，并在…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_c0gnlvf7/external?affcode=441520_zytgk2dn>  
 
 ## 6. [AWS 认证云从业者:您需要知道的一切](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Faws-certified-cloud-practitioner)
 
@@ -148,11 +144,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_c0gnlvf7/extern
 
 不过，你需要一个 [Pluralsight 会员](https://javarevisited.blogspot.com/2019/10/udemy-vs-pluralsight-review-which-is-better-to-learn-code.html)才能进入这门课程，费用大约是每月 29 美元或每年 299 美元(节省 14%)。如果你没有，我建议你买一个来促进你的学习，因为你需要让自己跟上科技的发展，而 Pluralsight 在这方面有所帮助。我是 Pluralsight 的会员，如果你能在一年内为学习投入那么多钱，我也建议你加入它。无论如何，即使你没有 Pluralsight 会员资格，你仍然可以通过注册 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费学习这门课程，这将提供 200 分钟的时间来学习他们所有的课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.[免费 AWS 认证云从业者学习课程(85+视频！)作者:ExamPro](https://www.youtube.com/watch?v=dh00WNoQDNk&list=PLBfufR7vyJJ4fOplWPOtYqRyQ6YPMsBsF) 的安德鲁·布朗
 
@@ -259,11 +251,7 @@ ExamPro 的首席执行官兼 AWS 培训师安德鲁·布朗(Andrew Brown)在 Yo
 
 如果你现在只想做一件事，我建议加入 Udemy 上夏羽·马瑞克的 [**终极 AWS 认证云从业者**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-cloud-practitioner-new%2F) 课程，开始你的云计算之旅。
 
-[](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zytgk2dn) [## 成为 AWS 云从业者。Ace 认证。被录用。|零到精通
-
-### 该 AWS 云从业者课程涵盖 2023 年的所有新信息和最佳实践，重点关注效率…
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zytgk2dn>  
 
 面向 **IT 专业人员**和 Java 程序员的其他**认证资源**
 
@@ -288,8 +276,4 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/a/aff_1f8vmvjz/extern
 
 **附言——**如果你是 AWS 世界的新手，并希望通过一些免费的 AWS 培训课程开始你的旅程，那么你也可以查看这份清单 [**10 个免费的 AWS 培训课程**](https://www.java67.com/2020/08/top-5-free-courses-to-pass-aws-cloud.html) ，从头开始学习亚马逊网络服务。
 
-[](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)
+</javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d> 

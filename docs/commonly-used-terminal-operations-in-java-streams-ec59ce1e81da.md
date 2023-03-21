@@ -4,7 +4,7 @@
 
 ## Java 流终端操作的例子
 
-> 最初发表于[](https://asyncq.com/commonly-used-terminal-operations-in-java-streams)
+> 最初发表于<https://asyncq.com/commonly-used-terminal-operations-in-java-streams>
 
 **[![](img/c0d5e979999c716af04f432a60bf1278.png)](https://www.java67.com/2014/04/java-8-stream-examples-and-tutorial.html)**
 

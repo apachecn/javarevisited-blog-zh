@@ -16,11 +16,7 @@
 
 顺便说一句，在深入研究多线程和并发性之前，需要对 Java 的基本概念有一个很好的了解。如果你是 Java 世界的新手，我建议你首先通过 Udemy 上的 [**完整的 Java MasterClass**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 课程来学习基础知识，然后阅读这些书籍会更有意义。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 260，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 值得一读的 6 本关于 Java 多线程和并发性的最佳书籍
 
@@ -140,24 +136,12 @@ Maurice Herlihy 和 Nir Shavit 修订的《多处理器编程的艺术》也是�
 
 **P.S.** —如果你正在寻找一套完整的 Java 书籍，想成为一名专业的 Java 开发人员，你必须看看 [10 本面向有经验程序员的 Java 书籍](http://javarevisited.blogspot.com/2013/01/top-5-java-programming-books-best-good.html)。
 
-[](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) [## 我最喜欢的深入学习 Java 的书籍——必读
-
-### 大家好，今天是在线课程的世界。每个人都在谈论从在线培训、Youtube 学习…
-
-medium.com](/javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99) 
+</javarevisited/my-favorite-books-to-learn-java-in-depth-must-read-9c4468aeec99>  
 
 **p . s . s .**——如果你想提高你的编程技能，不管是什么编程技能，那么你应该看看这 [5 本永恒的经典编程书籍](http://java67.blogspot.com/2016/02/5-books-to-improve-coding-skills-of.html)。
 
-[](/javarevisited/6-coding-books-every-programmers-and-software-developers-should-read-620124886c8f) [## 每个程序员和软件开发人员都应该阅读的 6 本编码书
-
-### 编码是编程不可或缺的一部分，我们都以某种方式通过到处学习例子来学习编码…
-
-medium.com](/javarevisited/6-coding-books-every-programmers-and-software-developers-should-read-620124886c8f) 
+</javarevisited/6-coding-books-every-programmers-and-software-developers-should-read-620124886c8f>  
 
 **P. P. S —** 快速更新，[**Pluralsight 免费周末**](https://pluralsight.pxf.io/c/1193463/871467/7490) 在这里，你可以在这个周末免费访问所有 7000+ Pluralsight 课程和项目。好好利用这一点，学习一项新技能或提升现有技能。不要错过这个，这只是这个周末。这又是一个链接:
 
-[](https://pluralsight.pxf.io/c/1193463/871467/7490) [## Pluralsight |免费周末
-
-### 注册以获得免费周末开始时的通知，这样你就不会错过了。免费周末从 8 月 14 日星期五上午 9 点开始…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/871467/7490)
+<https://pluralsight.pxf.io/c/1193463/871467/7490> 

@@ -18,11 +18,7 @@
 
 顺便告诉你，这些书是从一个应用开发者的角度来看的，不是给 DBA 看的。所以，如果你是一名 DBA 或者想成为一名 Oracle DBA，你最好去看看针对初级 DBA 的课程，比如[**Oracle DBA 11g/12c——数据库管理**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracledbatraining%2F) ，这些课程更侧重于 DBA。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracledbatraining%2F) [## Oracle 数据库管理员(DBA) 11g/12c 培训课程
-
-### Amarnath 拥有计算机科学硕士学位，在 IT 行业拥有大约 15 年的经验。他有…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracledbatraining%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Foracledbatraining%2F>  
 
 # 学习 PL/SQL 编程的 5 本最佳 Oracle 书籍
 
@@ -64,11 +60,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 ****您也可以将本书与[学习 PL/SQL-初学者结合起来，以更好地学习示例方法](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearning-plsql-the-example-way%2F)。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearning-plsql-the-example-way%2F) [## 学习 PL/SQL -真正基础的高级示例方法
-
-### 快速 PL/SQL 面试准备- PL/SQL 游标、过程、函数、包和触发器-面向对象…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearning-plsql-the-example-way%2F) 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearning-plsql-the-example-way%2F>  
 
 以上是关于从零开始学习 Oracle PL/SQL 编程的一些**最佳书籍**。作为一名 Java 开发人员，您需要学习许多不同的技术来成为一名全栈开发人员或执行您的日常任务。我曾经做过一个 Java 项目，在后台使用了 [Oracle](http://www.java67.com/2018/02/5-free-oracle-and-microsoft-sql-server-online-courses.html) 、 [SQL Server](http://www.java67.com/2018/01/top-4-free-microsoft-sql-server-books.html) 、 [MySQL](https://javarevisited.blogspot.com/2018/05/top-5-mysql-courses-to-learn-online.html) 、Sybase、 [PostgreSQL](https://javarevisited.blogspot.com/2020/02/top-5-courses-to-learn-postgresql-in.html) 和 IBM 数据库。
 
@@ -93,8 +85,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **P.S.** —如果你对学习数据库和 SQL 感兴趣，并且正在寻找一些免费资源来开始你的旅程，那么你也可以看看这个 [**免费 SQL 初学者课程**](http://www.java67.com/2018/02/5-free-database-and-sql-query-courses-programmers.html) 的列表，开始你的学习。
 
-[](/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2) [## 程序员和数据科学家学习数据库和 SQL 的 10 门免费课程
-
-### 免费课程学习 SQL 和数据库概念的初学者使用微软 SQL 服务器，甲骨文，和 MySQL 从 edX…
-
-medium.com](/javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2)****
+</javarevisited/7-free-courses-to-learn-database-and-sql-for-programmers-and-data-scientist-e7ae19514ed2> ****

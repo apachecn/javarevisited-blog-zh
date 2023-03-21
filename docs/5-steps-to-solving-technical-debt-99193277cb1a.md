@@ -144,12 +144,4 @@
 
 ## 您可能喜欢的其他 Java 访问文章
 
-[](/javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb) [## 每个 Java 开发人员都应该学习的 5 个基本框架
-
-### Spring、Hibernate、Spring Boot、Spring Securit 和 Spring Cloud 是最基本的 Java 框架。
-
-medium.com](/javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb) [](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Fullstack Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e)
+</javarevisited/5-essential-frameworks-every-java-developer-should-learn-6ed83315f1fb>  </javarevisited/the-2019-web-developer-roadmap-ab89ac3c380e> 

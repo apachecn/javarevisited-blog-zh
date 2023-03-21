@@ -35,41 +35,25 @@ Java 在让简单的任务变得简单方面失败了很久。Java 擅长于让�
 
 迎接用 Java 构建内存 ToDoList 的挑战。
 
-[](/javarevisited/my-first-javafx-application-ee70a1d48cb3) [## 我的第一个 JavaFX 应用程序
-
-### 通过在 IntelliJ 中构建简单的 TodoList 应用程序来学习 JavaFX
-
-medium.com](/javarevisited/my-first-javafx-application-ee70a1d48cb3) 
+</javarevisited/my-first-javafx-application-ee70a1d48cb3>  
 
 ## 第二章
 
 探索 Java 记录、本地日期、日期选择器和表格视图。
 
-[](/javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2) [## 在 JavaFX 中试验 Java 记录、日期选择器和表视图
-
-### 将我的 JavaFX ToDoList 从 ListView 升级到 TableView
-
-medium.com](/javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2) 
+</javarevisited/experimenting-with-java-records-datepicker-and-tableview-in-javafx-446ff272dfd2>  
 
 ## 第三章
 
 探索 Java 枚举、表情符号和组合框。
 
-[](/javarevisited/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65) [## 在 JavaFX 中试验 Java 枚举、表情符号和组合框
-
-### 了解如何在 JavaFX 组合框中使用枚举和表情符号。
-
-medium.com](/javarevisited/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65) 
+</javarevisited/experimenting-with-java-enums-emojis-and-combobox-in-javafx-2c12492cf65>  
 
 ## 第四章
 
 使用 Jackson 将我的 ToDoList 持久化到 JSON。
 
-[](/javarevisited/using-the-jackson-library-to-persist-my-javafx-todo-list-to-json-8a4b31917c09) [## 使用 Jackson 库将我的 JavaFX ToDo 列表持久化到 JSON
-
-### 了解如何将 Jackson 用于 Eclipse 集合和 Java 日期/时间
-
-medium.com](/javarevisited/using-the-jackson-library-to-persist-my-javafx-todo-list-to-json-8a4b31917c09) 
+</javarevisited/using-the-jackson-library-to-persist-my-javafx-todo-list-to-json-8a4b31917c09>  
 
 # 仅仅是开始
 
@@ -87,16 +71,4 @@ medium.com](/javarevisited/using-the-jackson-library-to-persist-my-javafx-todo-l
 
 ## 其他 Java FX 资源
 
-[](/javarevisited/7-best-java-fx-online-courses-for-beginners-9e774ba6f996) [## 2022 年 7 门最佳 Java FX 初学者在线课程
-
-### 我最喜欢的 2022 年从零开始学习 Java FX 的在线课程来自 Udemy，Pluralsight，Coursera，和其他网站。
-
-medium.com](/javarevisited/7-best-java-fx-online-courses-for-beginners-9e774ba6f996) [](/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63) [## 2022 年学习 Servlet、JSP 和 Java FX 的 6 大免费课程——最好的
-
-### 如果你是一名从事 Java web 应用程序等 Java JEE 项目的 Java 开发人员，或者你想通过…
-
-medium.com](/javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63) [](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-java-fx-in-2020.html) [## 2023 年在线学习 JavaFX 的前 5 门课程-最佳选择
-
-### 虽然 C#非常适合开发基于 Windows 的 GUI，但它仍然不是开发跨平台 GUI 的解决方案。我…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-java-fx-in-2020.html)
+</javarevisited/7-best-java-fx-online-courses-for-beginners-9e774ba6f996>  </javarevisited/6-free-courses-to-learn-servlet-jsp-and-java-fx-in-2020-best-of-lot-720201c84f63>  <https://javarevisited.blogspot.com/2020/06/top-5-courses-to-learn-java-fx-in-2020.html> 

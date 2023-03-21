@@ -8,7 +8,7 @@
 
 正在讨论的堆栈跟踪是一个`ClassNotFoundException`，它通常非常简单，已经告诉了您需要知道的一切。班级不在那里。为什么不是，这其实是我们做错了什么的问题。在这种情况下，由于项目被混淆，错误是这个类没有被排除在混淆之外。
 
-尽管这些年来人们对它充满了憎恨，但`[NullPointerException](https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html)` [](https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html)是我最喜欢的例外之一。您可以立即知道发生了什么，在大多数情况下，堆栈几乎直接指向问题。有一些边缘情况，例如:
+尽管这些年来人们对它充满了憎恨，但`[NullPointerException](https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html)` <https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html>是我最喜欢的例外之一。您可以立即知道发生了什么，在大多数情况下，堆栈几乎直接指向问题。有一些边缘情况，例如:
 
 ```
 myList.get(offset).invokeMethod();

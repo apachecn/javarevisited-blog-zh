@@ -96,17 +96,13 @@ image_credit — Udemy
 
 [![](img/f2528bf707f8371680e8f4672f9424cd.png)](http://www.baeldung.com/learn-spring-security-course?utm_source=javarevisited&utm_medium=web&utm_campaign=lss&affcode=22136_bkwjs9xa)
 
-加入欧根的春季课程有很多选择。比如说。春季大师班[](http://courses.baeldung.com/?affcode=22136_bkwjs9xa)**将花费你大约 318 美元，但是它完全值得你所花的钱。或者，你也可以参加认证课程，费用约为 398 美元。**
+加入欧根的春季课程有很多选择。比如说。春季大师班<http://courses.baeldung.com/?affcode=22136_bkwjs9xa>**将花费你大约 318 美元，但是它完全值得你所花的钱。或者，你也可以参加认证课程，费用约为 398 美元。**
 
 **如果你喜欢现场会议而不是录制的视频会议来进行主动学习，那么你可以加入 Eugen 的现场课程，其中包括完整的大师课程材料，3 个高级研讨会和 12 次小组辅导电话。**
 
 **由于 COVID，欧根还为他所有的课程提供 20%的折扣**
 
-**[](https://courses.baeldung.com/?affcode=22136_bkwjs9xa) [## Baeldung -通过视频了解春天
-
-### 通过有指导的实用课程，在 Spring 生态系统中学习和工作。
-
-courses.baeldung.com](https://courses.baeldung.com/?affcode=22136_bkwjs9xa)** 
+**<https://courses.baeldung.com/?affcode=22136_bkwjs9xa> ** 
 
 ## **[6。Vlad Mihalcea 的高性能 Java 持久性](https://vladmihalcea.teachable.com/p/high-performance-java-persistence-mach-1?utm_source=javarevisited&utm_medium=web&utm_campaign=hpjpmach1&affcode=172599_kuoszt8s)**
 
@@ -122,11 +118,7 @@ courses.baeldung.com](https://courses.baeldung.com/?affcode=22136_bkwjs9xa)**
 
 **我的一些读者也提出，Pluralsight 上的[**Java Persistence API 2.2**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fjava-persistence-api-21)也是在线学习 JPA 和 Hibernate 的一个很好的资源。你也可以通过注册一个 [10 天的免费试用](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来获得它。如果您喜欢按照自己的进度学习，这是深入理解 Hibernate 和 Hibernate 性能调优的理想软件包。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **7。Java Spring 教程:学习 Java 流行的 Web 框架**
 
@@ -179,8 +171,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **PS**。—我的一些读者建议，Dan Vega 的 [**介绍 Spring Boot**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-getting-started%2F) 和 Bryan Hansen 在 Pluralsight 上的 [**介绍 Spring MVC**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fspring-mvc4-introduction) 也是学习 Spring 和 Spring MVC 4 的非常好的课程。它们是免费的@ Udemy 和 Pluralsight(免费试用)，你也可以看看。**
 
-**[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-getting-started%2F) [## 免费 Spring Boot 教程-介绍 Spring Boot
-
-### 你好，我是丹·维加。我是一名软件工程师，住在世界上我最喜欢的地方之一克利夫兰的郊外…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-getting-started%2F)**
+**<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fspring-boot-getting-started%2F> **

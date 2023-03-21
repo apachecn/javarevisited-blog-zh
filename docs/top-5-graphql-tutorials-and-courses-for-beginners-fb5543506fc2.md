@@ -102,11 +102,7 @@ image_credit- [**构建 GraphQL API 完整指南**](https://click.linksynergy.co
 
 这是另一个免费学习 GraphQL 的好教程。在本文中，您将了解 GraphQL 是如何工作的。我将向您展示如何使用 GraphQL 创建一个设计良好、高效、强大的 API。非常感谢莱昂纳多马尔多纳多写了这篇有用的教程兼文章。
 
-[](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj) [## GraphQL 初学者指南
-
-### 今天最常讨论的术语之一是 API。很多人不知道 API 到底是什么…
-
-开发到](https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj) 
+<https://dev.to/leonardomso/a-beginners-guide-to-graphql-3kjj>  
 
 ## 6.[使用 GraphQL 构建可扩展的 API](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgraphql-scalable-apis)
 
@@ -161,8 +157,4 @@ image_credit- [**构建 GraphQL API 完整指南**](https://click.linksynergy.co
 
 **p . s .**——如果你对学习 GraphQL 感兴趣，但正在寻找一个免费教程来开始学习 graph QL——一本关于 Udemy 的入门书是最好的开始。它是完全免费的，从初学者的角度提供了 GraphQL 的一个很好的概述。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-a-primer%2F) [## 免费的 GraphQL 教程
-
-### 我从事软件设计和开发已经超过 30 年了。我有使用多种语言的经验，而且…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-a-primer%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-a-primer%2F> 

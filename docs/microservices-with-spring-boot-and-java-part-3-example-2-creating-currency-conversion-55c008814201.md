@@ -31,11 +31,7 @@
 
 如果你需要更多的选择，你可以查看这些[免费的春季和 Spring Boot 课程](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html):
 
-[](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html) [## 供初学者在线学习的 5 大免费核心 Spring、Spring MVC 和 Spring Boot 课程
-
-### 我最近分享了很多资源，例如书籍和课程，当我将我的 5 大课程列表发布给…
-
-www.java67.com](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html) 
+<https://www.java67.com/2017/11/top-5-free-core-spring-mvc-courses-learn-online.html>  
 
 # 资源概述
 
@@ -85,11 +81,7 @@ www.java67.com](https://www.java67.com/2017/11/top-5-free-core-spring-mvc-course
 
 如果你需要了解更多关于 Java 开发人员必备工具的信息，你可以点击这里:
 
-[](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html) [## 2020 年 Java 开发人员应该学习的 10 种工具-(更新)
-
-### 我们离 2020 年只有一两个星期了，许多程序员已经开始为他们的目标制定一个好的过程…
-
-www.java67.com](https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html) 
+<https://www.java67.com/2018/04/10-tools-java-developers-should-learn.html>  
 
 # 用代码示例完成 Maven 项目
 
@@ -192,11 +184,7 @@ server.port=8100
 
 如果您运行在 Linux 上，您还可以使用 [cURL 命令](http://javarevisited.blogspot.sg/2017/03/10-examples-of-curl-command-in-unix-and-Linux.html)来测试 REST web 服务和微服务，如本文所示:
 
-[](https://www.java67.com/2017/10/how-to-test-restful-web-services-using.html) [## 从命令行测试 RESTful Web 服务的 7 个 Linux cURL 命令示例
-
-### Linux 的 curl 或 command 是一个非常强大和通用的命令，它允许您发送复杂的 HTTP…
-
-www.java67.com](https://www.java67.com/2017/10/how-to-test-restful-web-services-using.html) 
+<https://www.java67.com/2017/10/how-to-test-restful-web-services-using.html>  
 
 # 创建虚拟代理
 
@@ -286,11 +274,7 @@ Spring Boot 的微服务
 
 如果你等不及了，想了解更多关于微服务的知识，可以看看这个 [**用 Spring**](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) 学习微服务的最佳课程列表:
 
-[](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) [## Java 程序员学习 Spring Boot 和微服务的 10 大课程
-
-### 披露:这个帖子包括附属链接；如果您从…购买产品或服务，我可能会收到报酬
-
-开发到](https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg) 
+<https://dev.to/javinpaul/top-10-courses-to-learn-spring-boot-and-microservices-for-java-programmers-3hjg>  
 
 # 完整的代码示例
 
@@ -526,12 +510,4 @@ public class SpringBootMicroserviceCurrencyConversionApplicationTests { @Test
 *   Java 开发者应该学习的 10 个 Spring MVC 注解([注解](https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html))
 *   15 Spring Boot Java 程序员面试问题([问题](https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html))
 
-[](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [## 2020 年 Java 开发者路线图
-
-### 大家好，首先祝大家 2020 新年快乐。我已经分享了很多成为网络的路线图…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123) [](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd) [## 面向有经验的 Java 开发人员的 10 门高级 Spring Boot 课程
-
-### 高级 Spring Boot 课程为有经验的 Java 开发人员学习 Spring Boot 测试，云和容器…
-
-medium.com](/javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd)
+<https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#123>  </javarevisited/10-advanced-spring-boot-courses-for-experienced-java-developers-5e57606816bd> 

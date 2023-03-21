@@ -110,16 +110,4 @@ public class HiController { [@Autowired](http://twitter.com/Autowired)
 hi forezp,i am from port:8762hi forezp,i am from port:8763
 ```
 
-[](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244) [## 2022 年 Java 程序员学习 Spring 和 Hibernate 的 8 门最佳课程
-
-### 这些是 Java 程序员学习 Spring、Spring Boot 和 Hibernate 的最佳在线培训课程。
-
-medium.com](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244) [](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [## Java 和 Spring 开发人员的 10 大 REST 面试问题
-
-### 这些是 Java 和 Spring 开发者快速准备的最好的 REST 面试问题
-
-medium.com](/javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029) [](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82) [## 10 大春季 MVC + REST 面试问题解答适合初学者和有经验的开发者
-
-### 大家好。如果你正在准备 Java 和 Spring 面试或 Spring 认证，并经常寻找一些…
-
-medium.com](/javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82)
+</javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244>  </javarevisited/top-10-rest-interview-questions-for-java-and-spring-developers-1611e3b78029>  </javarevisited/21-spring-mvc-rest-interview-questions-answers-for-beginners-and-experienced-developers-21ad3d4c9b82> 

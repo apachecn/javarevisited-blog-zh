@@ -6,7 +6,7 @@
 
 [![](img/54c262800d3ea803749a30bbdcfafae1.png)](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgoogle-cloud-digital-leader-certification%2F)
 
-朋友们，如果你想在 2023 年成为一名认证的谷歌云数字领导者，或者只是想学习谷歌云并寻找最好的在线课程，那么你来对地方了。早些时候，我已经分享了适合初学者的最佳谷歌云课程[](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html)**，今天我们将在线看看最佳的谷歌云课程。**
+朋友们，如果你想在 2023 年成为一名认证的谷歌云数字领导者，或者只是想学习谷歌云并寻找最好的在线课程，那么你来对地方了。早些时候，我已经分享了适合初学者的最佳谷歌云课程<https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html>**，今天我们将在线看看最佳的谷歌云课程。**
 
 **谷歌云平台数字认证非常实用，有可能给你带来高薪工作。**
 
@@ -72,11 +72,7 @@
 
 **顺便说一下，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它将为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。它每年花费大约 399 美元，但它是值得的，因为你可以获得无限的证书。**
 
-**[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus)** 
+**<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus> ** 
 
 ## **3.[谷歌云数字领袖认证考试 2023](https://shareasale.com/r.cfm?b=413930&u=880419&m=43514&urllink=https%3A%2F%2Fwww%2Ewhizlabs%2Ecom%2Fgoogle%2Dcloud%2Dcertified%2Dcloud%2Ddigital%2Dleader%2F&afftrack=)【whiz labs】**
 
@@ -158,11 +154,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **顺便说一下，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 免费观看这个课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial> ** 
 
 # **谷歌云数字领袖认证常见问题**
 
@@ -203,8 +195,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **【p . s .】**—如果你是谷歌云平台的新手，正在寻找免费的在线课程来学习基本的谷歌云概念，我建议你去看看 Udemy 上的谷歌云平台大师们的免费课程[**GCP——谷歌云平台概念**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgcp-google-cloud-platform-concepts%2F) 。课程完全免费，你只需要一个 Udemy 账号就可以在线加入这个课程。**
 
-**[](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html) [## 2023 年面向初学者的 5 大免费谷歌云平台课程——最佳选择
-
-### 大家好，如果你也想学习 2023 年的谷歌云平台，并且正在寻找一些免费的在线谷歌云…
-
-www.java67.com](https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html)**
+**<https://www.java67.com/2020/07/5-free-courses-to-learn-google-cloud-platform-and-concepts.html> **

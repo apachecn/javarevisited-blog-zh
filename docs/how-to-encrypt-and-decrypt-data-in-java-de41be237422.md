@@ -8,7 +8,7 @@
 
 马库斯·斯皮斯克在 [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral) 上的照片
 
-> 原载于【asyncq.com】[](https://asyncq.com/how-to-encrypt-and-decrypt-data-in-java)
+> 原载于【asyncq.com】<https://asyncq.com/how-to-encrypt-and-decrypt-data-in-java>
 
 ## **介绍**
 

@@ -20,11 +20,7 @@
 
 在这篇文章中，我准备分享几本这样的书来学习和掌握 Java 8，顺便说一句，如果你喜欢网络课程的话， [**完整的 Java MasterClass**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 是我推荐学习 Java 的课程。这是最新的课程，不仅涵盖了 Java 8，还涵盖了最新 Java 版本的其他变化。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 17)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 2023 年我最喜欢的 Java 函数式编程初学者和体验者书籍
 
@@ -78,11 +74,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 顺便说一句，你需要一个 Pluralsight 会员才能参加这个课程，费用大约是每月 29 美元或每年 299 美元。尽管它提供了 5000 多门关于最新技术的高质量在线课程，包括测验、评估和项目。由于作为一名程序员，我们需要不断地学习，我强烈建议你加入像 Pluralsight 这样的学习门户网站。他们还有 10 天的免费试用期，你可以观看 200 分钟的任何课程，这样你就可以免费获得这门课程。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.掌握 Lambdas:多核世界中的 Java 编程
 
@@ -121,8 +113,4 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 **P. S.** —如果你正在寻找一门只学习 lambda 表达式和流 API 等 Java 8 特性的在线课程，那么你也可以看看 Udemy 上的 [**Java 8 函数式编程:Lambda 表达式快速**](http://bit.ly/2H2kNNt) 课程。这是完全免费的，你需要做的就是创建一个 Udemy 帐户并加入这个课程。
 
-[](http://bit.ly/2H2kNNt) [## 免费 Java 教程- Java 8 函数式编程:Lambda 表达式快速
-
-### Sanjay 拥有 20 多年的编程和领导经验。自 2009 年以来，他一直致力于 Spring 框架…
-
-bit.ly](http://bit.ly/2H2kNNt)
+<http://bit.ly/2H2kNNt> 

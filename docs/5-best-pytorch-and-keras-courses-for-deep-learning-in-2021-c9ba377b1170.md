@@ -20,11 +20,7 @@ Pytorch 是一个深度学习库，由科技巨头脸书开发，用于构建机
 
 本文将找到教你如何在计算机视觉中执行深度学习技术的最佳在线课程、[聊天机器人](https://javarevisited.blogspot.com/2019/12/want-to-build-chat-bots-using-ai.html)、[递归神经网络](https://javarevisited.blogspot.com/2019/08/top-5-courses-to-learn-deep-learning.html)、卷积神经网络等等。
 
-[](/javarevisited/5-best-dialogflow-and-chatbots-courses-to-learn-in-2021-14ce2e85090d) [## 2023 年要学习的 7 门最佳对话流和聊天机器人课程
-
-### 大家好，你想学习如何建立聊天机器人吗？人工智能的宠儿？如果是，那么你…
-
-medium.com](/javarevisited/5-best-dialogflow-and-chatbots-courses-to-learn-in-2021-14ce2e85090d) 
+</javarevisited/5-best-dialogflow-and-chatbots-courses-to-learn-in-2021-14ce2e85090d>  
 
 # 深度学习的 8 门最佳 Keras 和 Python 课程
 
@@ -103,11 +99,7 @@ medium.com](/javarevisited/5-best-dialogflow-and-chatbots-courses-to-learn-in-20
 
 顺便说一下，当谈到参加这个课程时，你有两个选择，你可以单独参加这个课程，每个月花费大约 39 美元进行专业化，你也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 每年花费 399 美元，这是 Coursera 的一个订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业化、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.[用 Python 和 PyTorch 进行深度学习](https://www.awin1.com/cread.php?awinmid=6798&awinaffid=631878&clickref=&p=%5B%5Bhttps%3A%2F%2Fwww.edx.org%2Fcourse%2Fdeep-learning-with-python-and-pytorch)【EDX 最佳课程】
 
@@ -143,11 +135,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能参加这个课程，费用大约是每月 29 美元或每年 299 美元。会员资格完全值得你的时间和金钱，我强烈推荐每一个程序员，如果他们有能力让自己跟上时代的话。你也可以使用他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 来免费获取这门课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 7.使用 PyTorch 制作您的第一个 GAN【教育性最佳课程】
 
@@ -177,11 +165,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 而且，如果你觉得教育平台和他们的互动课程很有用，你还可以获得一个 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元，不仅可以访问这门课程，还可以访问他们的 210 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## 8.[Python 中的现代深度学习](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdata-science-deep-learning-in-theano-tensorflow%2F)【Udemy 课程】
 
@@ -227,8 +211,4 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 **P. S. —** 如果你有兴趣学习 PyTorch 和 Keras，并寻找免费的在线培训课程，你也可以在 Udemy 上查看这个针对初学者的 [**深度学习 py torch**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-with-pytorch-for-beginners-part-1%2F)免费课程。这是完全免费的，你只需要一个免费的 Udemy 账户就可以加入这个课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-with-pytorch-for-beginners-part-1%2F) [## 免费 PyTorch 教程-初学者使用 PyTorch 进行深度学习-第 1 部分
-
-### 我是一名软件顾问和企业家。我和团队一起广泛研究了几十种产品和技术…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-with-pytorch-for-beginners-part-1%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fdeep-learning-with-pytorch-for-beginners-part-1%2F> 

@@ -83,11 +83,7 @@ Udemy 上的另一个丰富的信息质量课程获得了 4.6 分。
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 **Coursera Plus 订阅**，它为你提供无限制的访问他们最受欢迎的课程、专业、专业证书和指导项目的机会。
 
-[](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 在 Coursera 上可以无限制地访问 90%以上的课程、项目、专业和专业证书
-
-coursera.pxf.io](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[在 Google Cloud 上设置单节点 Cloudera 集群——部署 Cloudera Hadoop，Spark & Kafka 环境](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fsetup-single-node-cloudera-cluster-on-google-cloud%2F)【免费 Udemy 课程】
 
@@ -181,8 +177,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/1193463/1164545/14726?u=https%3A%2F%2
 
 **P. S.** —如果你想学习 Apache Kafka 平台，并需要一个基于项目的实践资源，那么[**Kafka fundamentals for Java developers**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fkafka-fundamentals-for-java-developers%2F)课程是一个很好的开始。它不是免费的，但价格相当实惠，你可以在 Udemy 上花 10 美元买到。
 
-[](https://javarevisited.blogspot.com/2018/04/top-5-apache-kafka-course-to-learn.html) [## 2023 年将在线学习的 5 大阿帕奇卡夫卡课程-精选
-
-### 大家好，你们可能听说过 Apache Kafka，下一代大数据消息传递系统，它可以处理…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/04/top-5-apache-kafka-course-to-learn.html)
+<https://javarevisited.blogspot.com/2018/04/top-5-apache-kafka-course-to-learn.html> 

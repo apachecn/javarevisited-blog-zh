@@ -23,11 +23,7 @@
 *   登录 Nacos 控制台，添加三个不同的环境，dev / test / prod，对应:开发环境/测试环境/生产环境
 *   不熟悉控制台，看教程:
 
-[](/javarevisited/spring-cloud-alibabas-tutorial-from-getting-started-to-a-master-1-introduction-to-nacos-954598300a01) [## 春云阿里巴巴从入门到精通教程(一)Nacos 入门
-
-### Configuration Center 服务器启动安装中的 Nacos 快速入门介绍
-
-medium.com](/javarevisited/spring-cloud-alibabas-tutorial-from-getting-started-to-a-master-1-introduction-to-nacos-954598300a01) [![](img/82c1d1dfe3961141f55d01f7c0d3bd0d.png)](https://www.java67.com/2021/01/spring-cloud-interview-questions-with-answers-java.html)
+</javarevisited/spring-cloud-alibabas-tutorial-from-getting-started-to-a-master-1-introduction-to-nacos-954598300a01>  [![](img/82c1d1dfe3961141f55d01f7c0d3bd0d.png)](https://www.java67.com/2021/01/spring-cloud-interview-questions-with-answers-java.html)
 
 ## 代码演示
 
@@ -86,8 +82,4 @@ java -jar target/microservice-alibaba-nacos-discovery.jar --spring.profiles.acti
 
 注意:这些值也可以通过[环境变量](https://javarevisited.blogspot.com/2012/08/how-to-get-environment-variables-in.html)导入，比如 server-addr 值、名称空间值等。
 
-[](https://javarevisited.blogspot.com/2022/04/how-to-use-environment-variables-in.html) [## 如何在 Spring Boot 的 application.properties 文件中使用环境变量？示例教程
-
-### 如何在 Spring boot 的 application.properties 中使用环境变量是一个主要问题
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2022/04/how-to-use-environment-variables-in.html)
+<https://javarevisited.blogspot.com/2022/04/how-to-use-environment-variables-in.html> 

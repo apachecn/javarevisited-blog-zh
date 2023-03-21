@@ -18,11 +18,7 @@ Glassdoor 估计，在美国，全栈 web 开发人员的平均年薪为 68，52
 
 找到合适的课程来学习所有这些技能可能是一项艰巨的任务，但在这篇文章中，我发现了在这个领域开始职业生涯所需的最好的课程，这个课程名为 [**由 udemy 平台主办的 Web 开发人员训练营**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) ，本文是对该课程的回顾。请继续关注，看看你在参加这个训练营的过程中会学到什么。
 
-[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到全新版本的 web 开发者训练营，Udemy 最受欢迎的 Web 开发课程。这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) 
+<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F>  
 
 # Udemy 的《2023 Web Developer boot camp Corse by 柯尔特·斯蒂尔》值得吗？
 
@@ -30,7 +26,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=
 
 ## 1.讲师声誉
 
-毫无疑问，[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fcoltsteele%2F)**是最受欢迎的 Udemy 导师之一。他来自训练营，这体现了他的教学风格。他擅长简化复杂的概念，并用重要的例子来解释它们。**
+毫无疑问，<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fuser%2Fcoltsteele%2F>**是最受欢迎的 Udemy 导师之一。他来自训练营，这体现了他的教学风格。他擅长简化复杂的概念，并用重要的例子来解释它们。**
 
 **难怪，他在 Udemy 上注册了近 100 万名学生和大约 11 门不同专业的课程，如 web 开发、MySQL 数据库、Python、JavaScrip 和许多其他主题。他的学生毕业生在谷歌和 Square 等大型科技公司找到了工作。**
 
@@ -100,8 +96,4 @@ JavaScript 是一种非常强大的编程语言，可以制作交互式网站，
 
 **P. S. —** 如果您是 web 开发领域的新手，并且正在寻找一个免费的在线 web 开发培训课程来从头开始学习，那么您也可以查看 Udemy 的这个 [**Web 开发实践:HTML / CSS 从头开始**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F) 课程。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F) [## 免费 HTML 教程- Web 开发实践:HTML / CSS 从头开始
-
-### 在作为餐厅经理每天工作 15 个小时后，我决定是时候改变一下了。学完基础…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fweb-development-learn-by-doing-html5-css3-from-scratch-introductory%2F> **

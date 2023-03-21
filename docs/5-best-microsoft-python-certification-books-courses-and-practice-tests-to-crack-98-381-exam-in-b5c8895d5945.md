@@ -18,11 +18,7 @@
 
 这篇文章将向您展示深入学习 python 的 [*最佳在线课程*](https://www.java67.com/2020/05/top-5-courses-to-learn-python-in-depth.html) 这样您就可以自信地通过考试，如果您喜欢阅读而不是看视频，还可以阅读一些在线书籍。
 
-[](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) [## 2023 年学习 Python 3 的前 5 门课程——最好的
-
-### 2018 年学习 Python 3 的一些最好的在线课程的集合。Python 是最强大而简单的…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html) 
+<https://javarevisited.blogspot.com/2018/03/top-5-courses-to-learn-python-in-2018.html>  
 
 # 为 Python 编程考试 PCAP 认证助理准备的 5 本最佳 Python 课程和书籍
 
@@ -52,11 +48,7 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/03/top-5-cou
 
 顺便说一句，如果你计划参加多个 Coursera 课程或专业，那么考虑参加 [**Coursera Plus 订阅**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，它可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每月花费大约 59 美元，但很值得，因为你可以访问 7000 多门课程和项目，还可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[Python MTA 98–381 考试](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-mta-98-381-exam-complete-preparation-course-practice-tests-tips%2F)
 
@@ -113,8 +105,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你是 Python 新手，想从头开始学习 Python 编程，但正在寻找免费课程，那么不要担心。Udemy 上有很多免费的 Python 课程，其中很多你可以在上面的文章中找到。如果你赶时间，我建议从[**Python 编程入门**](http://bit.ly/2D5vvnV) 课程开始，它完全免费，你需要做的就是创建一个 Udemy 账户来注册这门课程。
 
-[](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf) [## 15 门免费 Python 课程，供初学者在线学习
-
-### 学习 Python 的一些免费在线课程的精选列表。
-
-medium.com](/swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf)
+</swlh/5-free-python-courses-for-beginners-to-learn-online-e1ca90687caf> 

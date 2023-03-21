@@ -73,11 +73,7 @@ deep think Java 类
 
 使用可视化可以帮助我们人类简化事情。如果您想更深入地理解 Eclipse 集合，那么我建议从下面的博客开始。这将有助于解释为什么 API 中有如此多的单词，以至于`DeepThought`不得不从头到尾扫描一遍，以得出一个单词的答案。
 
-[](/oracledevs/visualizing-eclipse-collections-646dad9533a9) [## 可视化 Eclipse 集合
-
-### 使用 mind 对 Eclipse 集合中的 API、接口、工厂、静态实用程序和适配器进行可视化概述…
-
-medium.com](/oracledevs/visualizing-eclipse-collections-646dad9533a9) 
+</oracledevs/visualizing-eclipse-collections-646dad9533a9>  
 
 # 最后的想法
 

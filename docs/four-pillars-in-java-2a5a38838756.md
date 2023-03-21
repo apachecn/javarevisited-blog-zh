@@ -139,12 +139,4 @@ public static void main (String args[])
 
 *优点:*代码复用性；增强很容易；可维护性；安全性
 
-[](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) [## 面向程序员的 5 门免费面向对象编程在线课程
-
-### 成为 DevOps 工程师的图解指南，包含相关课程的链接
-
-medium.com](/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73) [](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915) [## 2021 年我最喜欢学习的免费 Java 编程课程
-
-### 我的免费课程列表深入学习 Java 从核心 Java 到多线程到 JDBC 到合集，什么都有…
-
-medium.com](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)
+</swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73>  </javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915> 

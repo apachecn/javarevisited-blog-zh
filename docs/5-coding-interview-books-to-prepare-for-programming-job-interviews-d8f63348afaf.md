@@ -32,11 +32,7 @@
 
 如果你愿意，你也可以将这本书与[斯蒂芬·格里德](https://medium.com/u/d058882d8cd2?source=post_page-----d8f63348afaf--------------------------------)的 [**的《编码面试训练营:算法+数据结构**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcoding-interview-bootcamp-algorithms-and-data-structure%2F) 课程相结合，其中包含了更适合面对面一轮面试的基本问题。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcoding-interview-bootcamp-algorithms-and-data-structure%2F) [## 编码面试训练营算法，数据结构课程
-
-### 数据结构？他们来了。算法？已覆盖。许多问题都有很好的解释？没错。如果你是…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcoding-interview-bootcamp-algorithms-and-data-structure%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fcoding-interview-bootcamp-algorithms-and-data-structure%2F>  
 
 ## 2.[算法设计手册](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202?tag=javamysqlanta-20)
 
@@ -48,11 +44,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 不过，如果你已经忘记了在计算机科学课上教给我们的基本数据结构和算法，那么我强烈建议你首先去参加一个复习课程，比如 Pluralsight 上的 [**算法和数据结构——第一部分和第二部分**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 课程，以快速达到速度。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) [## 算法和数据结构-第 1 部分
-
-### 在本课程中，您将学习以下概念:数据结构的类型和算法链表堆栈…
-
-pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1>  
 
 否则，在解决本书中的问题时，你将不得不做许多来回的工作。
 
@@ -80,11 +72,7 @@ pluralsight.com](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%
 
 而且，如果你问我要一个在线课程来补充这本书，我会强烈推荐 ZTM 学院(他自己的在线课程门户)上的安德烈·尼戈伊的《掌握编码面试:数据结构+算法》一书。
 
-[](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) [## 掌握编码面试:数据结构+算法
-
-### 一些顶级技术公司的 Ace 编码访谈“学习、实现和使用不同的数据结构”
-
-academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn) 
+<https://academy.zerotomastery.io/p/master-the-coding-interview-data-structures-algorithms?affcode=441520_zytgk2dn>  
 
 顺便说一句，你需要一个 [**ZTM 会员**](https://academy.zerotomastery.io/p/academy?affcode=441520_zytgk2dn) 来观看这个课程，这个课程每月花费大约 39 美元，但是也提供了许多超级吸引人和有用的课程，比如他的 [Python 课程](/better-programming/top-5-courses-to-learn-python-in-2018-best-of-lot-26644a99e7ec)和这个 [JavaScript 课程](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_zytgk2dn)。
 
@@ -108,11 +96,7 @@ academy.zerotomastery.io](https://academy.zerotomastery.io/p/master-the-coding-i
 
 顺便说一下，回答这个问题需要良好的计算机基础知识，如数据结构和算法，如果你需要复习，我也建议你加入 Udemy 上的[**数据结构和算法:使用 Java**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 课程，这是关于算法的最好课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) [## 数据结构和算法:使用 Java 进行深入研究
-
-### Tim 从事专业软件开发已经超过 35 年了。在他的职业生涯中，他曾为几家大公司工作过…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-and-algorithms-deep-dive-using-java%2F>  
 
 再来看看这本书里一个比较有意思的问题:
 
@@ -145,16 +129,8 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 **P. S.** —如果你正在寻找一些免费的算法课程来提高你对数据结构和算法的理解，那么你也应该检查一下这个列表中的 [**免费的数据结构和算法课程**](https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5) ，它们是完全免费的
 
-[](https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5) [## 初级开发者应该探索的 10 门(免费)数据结构和算法课程|黑客正午
-
-### 算法和数据结构是计算机科学中最基本和最重要的两个课题
-
-hackernoon.com](https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5) 
+<https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5>  
 
 你准备好面试了吗？ [**参加 TripleByte 的测验**](https://triplebyte.com/a/aWqVhD4/d) ，直接进入顶级科技公司的最后一轮面试，如 Coursera、Adobe、Dropbox、Grammarly、优步、Quora、Evernote、Twitch 等等。
 
-[](https://triplebyte.com/a/aWqVhD4/d) [## 三字节:软件工程师求职
-
-### 做个小测验。同时获得多家顶级科技公司的报价。
-
-triplebyte.com](https://triplebyte.com/a/aWqVhD4/d)
+<https://triplebyte.com/a/aWqVhD4/d> 

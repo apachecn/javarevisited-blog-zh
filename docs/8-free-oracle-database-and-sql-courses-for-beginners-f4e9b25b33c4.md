@@ -96,11 +96,7 @@ Oracle SQL Developer 是目前数据库开发人员和 Oracle SQL 学习者中�
 
 顺便说一句，这门课程并不完全免费，但你可以通过使用 Pluralsight 的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看这门课程，它提供了对他们所有 7000+在线课程的访问。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 5.[循序渐进实用 Oracle SQL](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Foracle-and-sql-step-by-step-learning%2F) 【免费 Udemy 课程】
 
@@ -186,8 +182,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言** —如果你对学习 Oracle SQL 和 PL/SQL 语言很认真，并且不介意花点钱，那么我强烈推荐你在 Udemy 上查看这个 [**完整的 Oracle SQL 认证课程**](http://bit.ly/2zNcfKH) ，深入学习 Oracle PL/SQL。这是评分最高、最受欢迎的学习 PL/SQL 的 Udemy 课程，已经有成千上万的人加入了这个课程。
 
-[](http://bit.ly/2zNcfKH) [## 完整的 Oracle SQL 在线认证课程
-
-### (包括讲座的源代码)准备好获取一些真正有市场的编程技能吧！你不能…
-
-bit.ly](http://bit.ly/2zNcfKH)
+<http://bit.ly/2zNcfKH> 

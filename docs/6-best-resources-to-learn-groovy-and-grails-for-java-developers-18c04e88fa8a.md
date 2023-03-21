@@ -78,11 +78,7 @@ Groovy 是一种强大的、可选类型的动态语言，具有 Java 平台的�
 
 或者，你也可以通过使用他们的 [**10 天免费试用期**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费获得这门课程，该试用期提供 200 分钟免费访问他们所有 7000 多门在线课程的机会。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 3.杰里米·贾雷尔的《绝妙的基础》
 
@@ -144,8 +140,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 ****p . s .**——如果你真的想学习 Groovy 编程语言，但正在寻找免费的在线培训课程来开始你的旅程，那么你也可以看看 Udemy 上 Raghav Pal 的这个[**Groovy——初学者一步一步**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F) 课程。这是免费的，你只需要一个 Udemy 帐户就可以参加这个课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F) [## 免费的 Apache Groovy 教程- Groovy |初学者循序渐进
-
-### 在我们学会走路和跑步之前，我们经常需要有人牵着我们的手，帮助我们迈出最初的几步。这是…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F)**
+**<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgroovy-step-by-step-for-beginners%2F> **

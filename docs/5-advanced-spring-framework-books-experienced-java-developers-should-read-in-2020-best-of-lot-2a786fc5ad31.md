@@ -78,11 +78,7 @@ H ello 伙计们，Spring 框架在过去几年里发生了很大的变化。在
 
 或者，你也可以使用他们的 1 [0 天免费试用](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 4.[春季 5 食谱:解决问题的方法](https://www.amazon.com/Spring-5-Recipes-Problem-Solution-Approach/dp/1484227891?tag=javamysqlanta-20)
 
@@ -143,24 +139,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你更喜欢在线课程而不是书本，并且正在为 Java 开发人员寻找高级春季课程，那么我强烈推荐你在 Udemy 上查看 [**Go Java 全栈和 Angular**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) 课程。成为 Spring Boot 的全栈 Java 开发人员是一门很棒的课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) [## 用 Spring Boot 和 Angular 实现 Java 全栈
-
-### 成为全栈 Java 开发者。用 Angular 和 Spring Boot 构建你的第一个 Java 全栈应用。
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffull-stack-application-development-with-spring-boot-and-angular%2F>  
 
 **其他你可能喜欢的关于编程书籍的中型文章:**
 
-[](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [## Java、C/C++和 Python 初学者的 10 本最佳数据结构和算法书籍
-
-### 算法是语言不可知的，任何称职的程序员都应该能够将它们转换成他们自己的代码…
-
-medium.com](/javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1) [](/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a) [## 面向程序员的十大 Java 书籍——空前伟大
-
-### 从核心 Java 到最佳实践，从单元测试到 Spring……
-
-medium.com](/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a) [](/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc) [## 2023 年学习 Spring Boot 和春云我最喜欢的书
-
-### 用这些令人敬畏的书开始你的 Spring Boot 和春云之旅
-
-medium.com](/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
+</javarevisited/10-best-books-for-data-structure-and-algorithms-for-beginners-in-java-c-c-and-python-5e3d9b478eb1>  </swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a>  </hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc> 

@@ -58,10 +58,6 @@ GCP 发布插曲
 
 虽然这可以在发布/订阅端工作，但对于 ActiveMQ 来说，处理这样的负载可能是个问题。在这种情况下，优化测量应用在了错误的部分。一本关于这类主题的好书以及更多的书将会成为 Java 性能的权威指南。
 
-[](https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html) [## 面向有经验程序员的 5 大 Java 性能调优书籍——最好的，必读
-
-### 您可能会想，为什么 Java 开发人员要读一本关于性能调优的书呢？当我第一次面对这个问题的时候…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html) 
+<https://javarevisited.blogspot.com/2018/07/top-5-java-performance-tuning-books-for.html>  
 
 ***随意分享你对文章和内容的想法，如果觉得有趣或者有用，就鼓掌分享。***

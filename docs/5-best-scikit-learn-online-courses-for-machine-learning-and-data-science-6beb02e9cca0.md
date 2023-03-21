@@ -40,11 +40,7 @@
 
 本课程是科学研究专业化 的 [**的一部分，在本课程中，您将首先了解 python 编程语言和假设检验，并对 sci-kit-learn 库进行概述，并了解如何使用该库解决分类问题。**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fartificial-intelligence-scientific-research)
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fartificial-intelligence-scientific-research) [## 科学研究人工智能
-
-### 开始你的数据科学职业生涯。使用人工智能来发现和检验假设。在人工智能中…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fartificial-intelligence-scientific-research) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fartificial-intelligence-scientific-research>  
 
 之后，您将了解更多关于假设的知识，并了解如何为数据科学家使用其他库，如 NumPy 和 pandas。
 
@@ -56,11 +52,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一下，如果你觉得 Coursera 的课程很有用，因为它们是由世界各地知名的公司和大学创建的，我建议你加入 Coursera Plus 的订阅计划，它可以让你无限制地访问他们最受欢迎的课程、专业知识、专业证书和指导项目。它每年花费大约 399 美元，但它完全值得你的钱，因为你可以获得无限的证书。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 4.[sci kit-learn 的监督学习](https://datacamp.pxf.io/c/1193463/1012793/13294?u=https%3A%2F%2Fwww.datacamp.com%2Fcourses%2Fsupervised-learning-with-scikit-learn)【最佳数据营课程】
 
@@ -132,12 +124,4 @@ Udemy 上的这个大型课程是为那些甚至不知道 python 语言编程的
 
 **p . s .**——如果你热衷于学习 NumPy 并寻找免费的 NumPy 在线课程，那么你也可以在 Udemy 上通过 360 careers 查看这个 [**实用的机器学习 Scikit-Learn**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmachine-learning-one-hour%2F)课程。这个 2 小时长的课程是完全免费的，由 Udemy 上一位著名的讲师创建。我强烈推荐你加入这个课程，你所需要的只是一个免费的 Udemy 账户。
 
-[](https://www.java67.com/2021/11/top-5-free-scikit-learn-courses-to.html) [## 五大免费 sci kit-2022 年在线学习课程-最佳选择
-
-### 让我们假设你有一些 python 语言的知识，并且想从事深度学习或机器方面的职业…
-
-www.java67.com](https://www.java67.com/2021/11/top-5-free-scikit-learn-courses-to.html) [](https://www.java67.com/2019/01/5-free-courses-to-learn-machine-and-deep-learning-in-2019.html) [## 2022 年学习机器学习和深度学习的 5 门最佳免费课程-最佳选择
-
-### 你好伙计们，如果你想在 2022 年学习机器学习和深度学习，并寻找最好的在线课程和…
-
-www.java67.com](https://www.java67.com/2019/01/5-free-courses-to-learn-machine-and-deep-learning-in-2019.html)
+<https://www.java67.com/2021/11/top-5-free-scikit-learn-courses-to.html>  <https://www.java67.com/2019/01/5-free-courses-to-learn-machine-and-deep-learning-in-2019.html> 

@@ -130,11 +130,7 @@ Herb Sutter 的另一本好书涵盖了异常 C++中没有涵盖的其他异常�
 
 对了，如果你是 C 程序员，想学习 C++，那么我也建议你去看看 Coursera 上的 [**C++ For C 程序员，A 部分**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a) 课程，这是 C 程序员学习 C++的绝佳资源。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a) [## 面向 C 程序员的 C++，第一部分
-
-### 这个专业面向所有编程爱好者，以及初学者、计算机和其他科学家…
-
-coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a>  
 
 您可能想探索的其他**书籍和编程文章**
 
@@ -158,8 +154,4 @@ coursera.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=40328&mu
 
 **P. S.** —如果你是 C++编程新手，并且想以一种结构化的、更好的方式学习 C++，我强烈推荐 Udemy 上的 Tim Buchalaka 和他的学院开设的[**c++入门和超越**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fbeginning-c-plus-plus-programming%2F) 课程。这是你能在网上找到的更好、更有条理的课程之一。
 
-[](https://www.java67.com/2020/04/top-5-books-to-learn-c-and-c-plus-plus-for-beginners.html) [## 深入学习 C 和 C++编程的前 5 本书和课程——最好的
-
-### Java 编程教程和面试问题，来自 Udemy，Pluralsight，Coursera…
-
-www.java67.com](https://www.java67.com/2020/04/top-5-books-to-learn-c-and-c-plus-plus-for-beginners.html)
+<https://www.java67.com/2020/04/top-5-books-to-learn-c-and-c-plus-plus-for-beginners.html> 

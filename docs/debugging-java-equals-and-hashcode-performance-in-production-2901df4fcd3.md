@@ -92,12 +92,4 @@ Java SE 中 equals 和 hashcode 方法的性能指标至关重要。它们对 [J
 
 我们可以缩小哈希的开销，使用日志来确定线程问题，并使用计数器来确定 API 的使用。
 
-[](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45) [## 面向初学者和有经验的开发人员的 21 个字符串编程面试问题
-
-### 除了数组、二叉树和链表数据结构，字符串是编程工作中的另一个热门话题…
-
-medium.com](/javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45)  [## 50 大数据结构和算法程序员面试问题
-
-### 准备编程工作面试？这里有 50 多个数据结构和算法问题，你可以练习…
-
-medium.com](/javarevisited/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+</javarevisited/top-21-string-programming-interview-questions-for-beginners-and-experienced-developers-56037048de45>   

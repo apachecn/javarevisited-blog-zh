@@ -20,7 +20,7 @@
 
 另一方面，滥用它会导致性能下降和代码混乱。
 
-在本文中，我们将探索一些需要防范空值的常见用例。对于它们中的每一个，我们将决定是否可以使用[](https://www.java67.com/2018/06/java-8-optional-example-ispresent-orElse-get.html)*来简化我们的代码，或者我们是否应该坚持使用[经典的空检查](https://javarevisited.blogspot.com/2017/01/how-to-check-for-null-values-in-sql.html)。*
+在本文中，我们将探索一些需要防范空值的常见用例。对于它们中的每一个，我们将决定是否可以使用<https://www.java67.com/2018/06/java-8-optional-example-ispresent-orElse-get.html>*来简化我们的代码，或者我们是否应该坚持使用[经典的空检查](https://javarevisited.blogspot.com/2017/01/how-to-check-for-null-values-in-sql.html)。*
 
 **PS:对于代码片段，我们将通过以下方法使用 AccountRepository 类:**
 

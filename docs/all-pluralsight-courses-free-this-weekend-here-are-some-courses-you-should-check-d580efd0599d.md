@@ -28,11 +28,7 @@
 
 **链接加入:** [算法与数据结构—第一部分](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) [## 算法和数据结构-第 1 部分
-
-### 看看日常应用中使用的核心数据结构和算法。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fads-part1>  
 
 ## **2。Java 基础:Java 语言**
 
@@ -52,11 +48,7 @@ Python 基础让你从 Python 开始，Python 是一种流行于 web 开发、�
 
 链接加入: [Python 基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals) [## Python 基础
-
-### 本 Python 基础课程让您开始学习 Python，这是一种流行于 web 开发、大数据…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fpython-fundamentals>  
 
 ## 4.Linux 命令行界面(CLI)基础知识
 
@@ -64,11 +56,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 链接加入: [Linux 命令行界面(CLI)基础](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals) [## Linux 命令行界面(CLI)基础知识
-
-### 在本课程中，您将学习掌握 Linux 和 Unix 中的命令行 shell。这是 4 门课程中的第 2 门…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Flinux-cli-fundamentals>  
 
 ## 5. **Git 基础**
 
@@ -90,11 +78,7 @@ Git 是一个流行的分布式版本控制系统(DVCS)。这是 Pluralsight 的
 
 在本课程中，ZDNet 的大数据记者 Andrew Brust 将向您介绍构成大数据世界的概念、公司和技术，并设计在您的组织中采用大数据的策略。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture) [## 大数据:大图景
-
-### 本大数据课程将帮助您掌握您需要了解的定义和技术以及供应商…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fbigdata-bigpicture>  
 
 ## **7。理解机器学习**
 
@@ -114,11 +98,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 链接加入— [**React.js:入门**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started)
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) [## 反应:开始
-
-### 课程概述大家好。我叫萨梅尔·布纳。我在 jsComplete 工作，我们在那里创造互动教育…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Freact-js-getting-started>  
 
 本课程涵盖了 React.js 的基础知识，为学生开始使用该库开发 web 应用程序做准备。它还解释了 React.js 的基本概念，使用一个示例 web 应用程序来演示儿童游戏中的数学技巧。
 
@@ -173,7 +153,7 @@ Apache Spark 是流行的大数据框架之一，也是我打算在 2023 年探�
 
 伙计们，就这样吧，在免费周末派对持续期间，好好享受这些课程吧。如果你在这个周末有其他精彩的课程，或者以前学过，请和我们分享。
 
-## 页（page 的缩写）美国— Pluralsight 的年度订阅**[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)****和续费有 100 美元的折扣，这是一个抓住这个机会的好时机。******
+## 页（page 的缩写）美国— Pluralsight 的年度订阅**<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>****和续费有 100 美元的折扣，这是一个抓住这个机会的好时机。******
 
 ******[![](img/f1b58512ec9251e88020d9c45c91910c.png)](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)
 

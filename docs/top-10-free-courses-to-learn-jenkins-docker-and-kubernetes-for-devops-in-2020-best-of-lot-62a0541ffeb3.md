@@ -22,11 +22,7 @@
 
 顺便说一句，如果你只是在寻找一门涵盖基本 DevOps 和大部分这些工具的课程，那么我建议你加入 Udemy 的[**devo PS:Docker Jenkins GIT CI Pipeline 和 Maven**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdevops-training%2F) 课程的 Master。这不是免费的，但你可以在 Udemy 的许多 flash 销售中只花 10 美元买到它，它非常值得你花时间。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdevops-training%2F) [## DevOps 大师班:GIT Docker Jenkins Kubernetes
-
-### Udemy 上最好的多技术 DevOps 认证课程之一。庆祝#15000 名真正的学生，#15000 名…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdevops-training%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdevops-training%2F>  
 
 # DevOps 工程师学习 Maven、Jenkins、Docker 和 Kubernetes 的 10 门免费课程
 
@@ -82,11 +78,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 本课程是 [**备考谷歌云认证:云 DevOps 工程师职业证书**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 的一部分，大概是备考 GCP DevOps 认证考试最好的材料。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) [## 准备谷歌云认证:云 DevOps 工程师
-
-### 我们帮助数以百万计的组织提高员工的能力，服务他们的客户，并为他们的…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fsre-devops-engineer-google-cloud>  
 
 说到课程，这是 Coursera 上的免费课程，由[谷歌云](https://javarevisited.blogspot.com/2019/07/top-5-google-cloud-platform-gcp-courses-certifications-online.html)提供，提供 6 小时的内容。它已经在大约 3 万名学生中积累了 4.5 的评分，这非常令人印象深刻。顺便说一句，和很多其他[免费 Coursera 课程](http://www.java67.com/2019/02/top-10-free-algorithms-and-data.html)一样，你也可以免费旁听。
 
@@ -100,11 +92,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，如果你觉得 Coursera 的课程有用，那么我也建议你加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。它每年花费大约 399 美元，但是它完全值你的钱，因为你得到了无限的证书
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 5.[面向 JAVA 开发人员的实用 DOCKER](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-docker-for-java-developers%2F)
 
@@ -219,8 +207,4 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 **p . s .**——在 Coursera 上还有另一门优秀的免费课程，由弗吉尼亚大学提供，学习 [**DevOps 和**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops) 。如果您需要德文普斯认证和 Coursera 课程，您也可以查看该课程，它值得您花费时间，并获得了一些好评。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops) [## 持续交付和开发运营
-
-### 众所周知，亚马逊每 11.6 秒发布一次新代码。就在几年前，这是不可思议的:许多“尖端”…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops)
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fuva-darden-continous-delivery-devops> 

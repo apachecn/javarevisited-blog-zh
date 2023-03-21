@@ -165,12 +165,4 @@ gRPC 是一个全新的现代框架，用于构建可扩展、时尚、快速的
 
 **【p . s .】**—如果您是 Java 和微服务领域的新手，并且正在寻找一些在线课程来开始学习 Java 和微服务，并且已经建立了像 Spring Boot 这样的框架，那么您也可以查看此列表中的 [**Java 微服务和 Spring Boot 课程**](https://javarevisited.blogspot.com/2018/02/top-5-spring-microservices-courses-with-spring-boot-and-spring-cloud.html) 来开始您的旅程。
 
-[](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [## Spring Boot 和 Spring Cloud 的 10 个最佳 Java 微服务课程
-
-### 大家好，如果你想学习 Java 微服务开发，并寻找最好的微服务课程…
-
-medium.com](/javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed) [](/javarevisited/7-free-microservices-courses-for-java-programmers-c9b2f3a2ea7d) [## 用 Spring Boot 和 ReactiveJ 为 Java 程序员学习微服务的 7 门最佳免费课程…
-
-### 我最喜欢的学习 Java 微服务的免费在线课程来自 Udemy，Coursera，，和其他流行的在线…
-
-medium.com](/javarevisited/7-free-microservices-courses-for-java-programmers-c9b2f3a2ea7d)
+</javarevisited/10-best-java-microservices-courses-with-spring-boot-and-spring-cloud-6d04556bdfed>  </javarevisited/7-free-microservices-courses-for-java-programmers-c9b2f3a2ea7d> 

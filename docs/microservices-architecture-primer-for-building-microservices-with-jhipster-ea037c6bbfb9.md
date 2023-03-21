@@ -115,11 +115,7 @@ LinkedIn Learning/Lynda.com
 
 [Linkedin Learning:开始 30 天免费试用](//linkedin-learning.pxf.io/c/1252615/469502/8005)
 
-[](https://www.linkedin.com/learning/jhipster-build-and-deploy-spring-boot-microservices?trk=insiders_43129714_learning) [## JHipster:构建和部署 Spring Boot 微服务
-
-### 了解如何使用 JHipster Yeoman 构建全功能 Spring Boot 和角度微服务应用程序…
-
-www.linkedin.com](https://www.linkedin.com/learning/jhipster-build-and-deploy-spring-boot-microservices?trk=insiders_43129714_learning) 
+<https://www.linkedin.com/learning/jhipster-build-and-deploy-spring-boot-microservices?trk=insiders_43129714_learning>  
 
 *原载于 LinkedIn Pulse(*[*)https://www . LinkedIn . com/Pulse/micro services-architecture-primer-doing-jhipster-Chris-anata lio/*](https://www.linkedin.com/pulse/microservices-architecture-primer-doing-jhipster-chris-anatalio/)*)*
 
@@ -127,12 +123,4 @@ JHipster 由 Ippon Technologies([https://www.ippon.tech/](https://www.ippon.tech
 
 # 了解更多关于 JHipster 的信息
 
-[](http://www.jhipster.tech/) [## JHipster -生成您的 Spring Boot +角度应用程序！
-
-### JHipster 是一个完全开源的、广泛使用的应用程序生成器。它利用了像 Spring Boot 这样的酷技术…
-
-www.jhipster.tech](http://www.jhipster.tech/) [](https://github.com/jhipster) [## 吉普斯特
-
-### GitHub 是人们构建软件的地方。超过 2800 万人使用 GitHub 来发现、分享和贡献超过…
-
-github.com](https://github.com/jhipster)
+<http://www.jhipster.tech/>  <https://github.com/jhipster> 

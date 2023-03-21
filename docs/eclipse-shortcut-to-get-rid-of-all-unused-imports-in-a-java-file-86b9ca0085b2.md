@@ -14,11 +14,7 @@
 
 如果你对 Eclipse IDE 完全陌生，那么我建议你先学习一门综合课程，比如[**Eclipse Guided Tour:Part 1 and 2**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-guided-tour-part1)from[plural sight](https://javarevisited.blogspot.com/2017/12/top-10-pluralsight-courses-java-and-web-developers.html)，它将从 Java 开发的角度教你所有你需要知道的关于 Eclipse 的知识。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-java-developers) [## 面向 Java 开发人员的 Eclipse
-
-### Eclipse 的逐步演示，这是 Java 开发中最流行的 IDE 之一。所有级别的开发人员都将受益…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-java-developers) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Feclipse-java-developers>  
 
 无论如何，让我们看看如何在 Eclipse IDE 中从 Java 文件中移除所有未使用的导入。
 
@@ -50,11 +46,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 您还可以配置格式和其他一些操作，每当您保存文件时，Eclipse 都会自动执行这些操作。如果你想了解更多这样的特性，我也建议你看看 Udemy 上的[**Eclipse Java IDE 初学者培训班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) 。学习 Eclipse IDE 的较好课程之一。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) [## 初学者 Eclipse Java IDE 培训课程| Udemy
-
-### 了解如何使用 Eclipse 集成开发环境创建 Java 应用程序
-
-click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fbeginners-eclipse-java-ide-training-course%2F>  
 
 使用**组织导入**或快捷键 **Ctrl + Shift +O** 的另一个好处是，它会导入代码需要的所有包。
 
@@ -87,12 +79,4 @@ click.linksynergy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80
 
 再次感谢您阅读这篇文章！。如果你喜欢这篇文章，请分享给你的朋友和同事。如果您有任何问题或反馈，请在下面留言。
 
-[](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) [## Java 开发人员学习 Spring 框架的 10 大免费课程 I
-
-### 大家好，我最近分享了很多资源，如书籍和课程，当我公布了我的最佳…
-
-medium.com](/javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25) [](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244) [## Java 程序员深入学习 Spring 和 Hibernate 的 8 门最佳课程
-
-### 这些是 Java 程序员学习 Spring、Spring Boot 和 Hibernate 的最佳在线培训课程。
-
-medium.com](/javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244)
+</javarevisited/top-10-free-courses-to-learn-spring-framework-for-java-developers-639db9348d25>  </javarevisited/8-best-spring-and-hibernate-training-courses-for-java-developers-acf09aa0e244> 

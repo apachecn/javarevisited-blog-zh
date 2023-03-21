@@ -22,11 +22,7 @@ App 开发是这个小时的需要， [**Flutter**](https://flutter.dev/) 是你
 
 顺便说一句，如果你对 2023 年学习颤振很认真，并且正在寻找一个全面的在线培训课程，那么我也推荐你看看 Udemy 上我最喜欢的导师之一 Angela Yu 的 [**这个最好的颤振课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-bootcamp-with-dart%2F) 。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-bootcamp-with-dart%2F) [## 包含 Dart 的完整 2020 颤振开发训练营
-
-### 欢迎参加 Dart 的完整 Flutter 应用程序开发训练营，Dart 是与 Google Flutter 合作创建的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-bootcamp-with-dart%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fflutter-bootcamp-with-dart%2F>  
 
 这是一门很好的课程，可以通过实践的方式学习旋进旋出。你还将建立一个漂亮的 Flutter 应用程序组合，可以添加到你的简历中，给招聘人员和潜在雇主留下深刻印象。这不是免费的，但它完全值得你的时间和金钱。你也可以在 Udemy 上花 10 美元购买。
 
@@ -101,11 +97,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 现在，让我们看看 Pluralsight 上提供的课程。在你继续之前，让我告诉你 [PluralSight](/javarevisited/top-10-pluralsight-courses-to-learn-programming-and-software-development-during-covid-19-stay-at-30b7d8a4f88f) 是一个付费平台，但有一个选项可以创建一个 [**免费试用帐户**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) t，因此你可以选择那个选项，并可以学习 Flutter，但试用帐户将只有 10 天。所以最好快点。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 了解有关 Pluralsight 免费试用版的更多信息。
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 5.AcadMind 免费颤振速成班[Youtube]
 
@@ -139,11 +131,7 @@ Flutter 应用程序是用 [Dart 编程语言](/javarevisited/6-best-dart-progra
 
 顺便说一下，你需要一个 Pluralsight 会员资格才能参加这个课程，费用大约是每月 29 美元。或者，你可以带着他们的 [**10 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费进入这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 个人技术技能|多视角
-
-### 借助 Pluralsight，在开发运维、机器学习、云、安全基础设施等领域构建所需技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是 2023 年学习 Flutter 的**最佳免费在线课程。如果你在做决定时感到困惑，建议逐一查看这些课程。**
 
@@ -174,8 +162,4 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **附言——**如果你真的想在 2023 年学习 Flutter，并寻找一个全面的在线培训课程，那么我也推荐你去看看 Udemy 上最好的讲师之一，AcadMind 的 Maximilian Scwarzmuller 的[**Flutter&Dart-The Complete Guide【2023 Edition】**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-dart-to-build-ios-android-apps%2F)课程。这不是免费的，但它完全值得你的时间和金钱。你也可以在 Udemy 上花 10 美元购买。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-dart-to-build-ios-android-apps%2F) [## 颤振与飞镖-完全指南[2023 年版]
-
-### 用于构建原生 iOS 和 Android 应用的 Flutter SDK 和 Flutter 框架的完整指南
-
-udemyy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-dart-to-build-ios-android-apps%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-flutter-dart-to-build-ios-android-apps%2F> 

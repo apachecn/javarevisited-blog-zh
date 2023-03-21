@@ -109,8 +109,8 @@ Java 中的[加载类在大多数时候都能顺利运行，但是如果我们�
 
 所有面向对象编程语言都提供了不同的隐藏信息的方式。在 Java 中，*封装*依赖于我们使用的*访问修饰符*。
 
-*   `[public](https://javarevisited.blogspot.com/2012/10/difference-between-private-protected-public-package-access-java.html#axzz6j8KhisSX)` [](https://javarevisited.blogspot.com/2012/10/difference-between-private-protected-public-package-access-java.html#axzz6j8KhisSX)—每个人都可以看到成员。
-*   `[protected](http://www.java67.com/2012/12/what-is-public-private-protected-package-default-private-access-modifier-java.html)` [](http://www.java67.com/2012/12/what-is-public-private-protected-package-default-private-access-modifier-java.html)—成员对同一包中的子类和其他类可见。
+*   `[public](https://javarevisited.blogspot.com/2012/10/difference-between-private-protected-public-package-access-java.html#axzz6j8KhisSX)` <https://javarevisited.blogspot.com/2012/10/difference-between-private-protected-public-package-access-java.html#axzz6j8KhisSX>—每个人都可以看到成员。
+*   `[protected](http://www.java67.com/2012/12/what-is-public-private-protected-package-default-private-access-modifier-java.html)` <http://www.java67.com/2012/12/what-is-public-private-protected-package-default-private-access-modifier-java.html>—成员对同一包中的子类和其他类可见。
 *   `private` —成员仅在同一类中可见
 *   `default` —未声明上述三个访问级别的成员。它们只对同一个包内的其他类可见，对包外的类不可见。
 
@@ -223,11 +223,7 @@ OSGi 平台由两部分组成: **OSGi 框架**和 **OSGi 标准服务。**
 
 正如我们之前提到的，有四个开源 OSGi 实现——Equinox、Knopflerfish、Felix 和 Concierge。在本教程中，我们将主要与*春分点*一起工作。下面给出了下载链接:
 
-[](http://download.eclipse.org/equinox) [## Equinox 下载 Eclipse 基金会
-
-### Eclipse 基金会——全球社区、Eclipse IDE、Jakarta EE 和超过 375 个开源项目的所在地…
-
-download.eclipse.org](http://download.eclipse.org/equinox) 
+<http://download.eclipse.org/equinox>  
 
 从下载页面下载最新的 SDK，解压到类似`equinox-SDK`的文件夹。我们将这个顶级目录称为`EQUINOX_HOME`。解压缩后，我们将有一个名为`plugins`的目录，在那里我们可以找到所有实现 Equinox 及其支持包的 jar。在 Eclipse 中，底层运行时环境中有 Equinox 框架。
 
@@ -490,10 +486,6 @@ OSGi 通过管理依赖关系去掉了偶然因素，因此它们是*显式的�
 
 **这就是关于如何在 IntelliJ 或 Eclipse 上与 OSGi 一起工作的全部内容。下面给出了 IntelliJ 项目的链接。**
 
-**[](https://github.com/nipunaupeksha/osgi-book-inventory) [## GitHub-nipunapeksha/OSGi-book-inventory
-
-### 在 GitHub 上创建一个帐户，为 nipunaupeksha/OSGi-book-inventory 的开发做出贡献。
-
-github.com](https://github.com/nipunaupeksha/osgi-book-inventory) 
+**<https://github.com/nipunaupeksha/osgi-book-inventory>  
 
 编码快乐！🧑🏻‍💻😇**

@@ -220,20 +220,4 @@ artifacts:
 
 另外，阅读
 
-[](https://javascript.plainenglish.io/personal-portfolio-using-angular-8-and-bootstrap-5dde6fc7cf9b) [## 使用 Angular 8 和 Bootstrap 的个人投资组合
-
-### 技术:Angular 8，Bootstrap，HTML5，CSS3
-
-javascript.plainenglish.io](https://javascript.plainenglish.io/personal-portfolio-using-angular-8-and-bootstrap-5dde6fc7cf9b) [](https://mehulkothari05.medium.com/how-i-earned-400-in-one-week-from-freelancing-86d50a80a760) [## 我是如何从自由职业中一周赚到 400 美元的
-
-### 因此，在辞去第一份工作后，我休息了一个月，利用一个月的空闲时间做了一些自由职业。我是一个…
-
-mehulkothari05.medium.com](https://mehulkothari05.medium.com/how-i-earned-400-in-one-week-from-freelancing-86d50a80a760) [](https://mehulkothari05.medium.com/how-to-show-events-on-calender-to-your-application-c01605a6f3bc) [## 如何将日历上的事件显示到角度应用程序
-
-### git:https://github.com/mehulk05/Mastery
-
-mehulkothari05.medium.com](https://mehulkothari05.medium.com/how-to-show-events-on-calender-to-your-application-c01605a6f3bc) [](/javarevisited/how-was-my-frontend-engineer-interview-experience-amazon-d10055fbdd89) [## 我在亚马逊的前端工程师面试体验如何
-
-### 我是如何申请亚马逊的
-
-medium.com](/javarevisited/how-was-my-frontend-engineer-interview-experience-amazon-d10055fbdd89)
+<https://javascript.plainenglish.io/personal-portfolio-using-angular-8-and-bootstrap-5dde6fc7cf9b>  <https://mehulkothari05.medium.com/how-i-earned-400-in-one-week-from-freelancing-86d50a80a760>  <https://mehulkothari05.medium.com/how-to-show-events-on-calender-to-your-application-c01605a6f3bc>  </javarevisited/how-was-my-frontend-engineer-interview-experience-amazon-d10055fbdd89> 

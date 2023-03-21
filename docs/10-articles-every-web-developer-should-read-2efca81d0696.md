@@ -54,11 +54,7 @@
 
 *而且，如果你发现教育平台和他们的探索课程，比如[探索系统设计面试](https://www.educative.io/collection/5668639101419520/5649050225344512?affiliate_id=5073518643380224)和[探索编码面试模式](https://www.educative.io/collection/5668639101419520/5671464854355968?affiliate_id=5073518643380224)，那么考虑购买 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 *$14.99* 就可以访问他们的 100 多门课程。非常划算，非常适合准备编码面试。*
 
-*[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224)* 
+*<https://www.educative.io/subscription?affiliate_id=5073518643380224> * 
 
 ## *[4。现代 CSS 为恐龙解释](/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)*
 
@@ -102,21 +98,13 @@ www.educative.io](https://www.educative.io/subscription?affiliate_id=50735186433
 
 *除了从其他人的经验中学习，没有更好的方法，这篇文章提供了一个机会，让我们了解作者如何在没有相关工作经验、没有技术学位、甚至没有一年活跃的[编码](/javarevisited/7-best-coding-course-to-learn-programming-with-zero-experience-in-2020-52f7d0d9cb80)经验的情况下，设法找到一份完整的 web 开发人员工作。*
 
-*[](https://www.freecodecamp.org/news/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051/) [## 我是如何在没有技术学位或工作经验的情况下获得一份完整的开发工作的
-
-### 我如何在没有技术学位或工作经验的情况下获得一份全栈开发人员的工作
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051/)* 
+*<https://www.freecodecamp.org/news/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051/> * 
 
 ## *9.[谷歌 JavaScript 风格指南中值得注意的 13 点](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/)*
 
 *对于还不熟悉 JavaScript 的人，谷歌推出了一个编写 JavaScript 的风格指南，列出了(谷歌认为是)编写干净易懂代码的最佳风格实践。JavaScript 开发人员的另一个重要资源。*
 
-*[](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/) [## 谷歌 JavaScript 风格指南中值得注意的 13 点
-
-### 丹尼尔·西蒙斯(Daniel Simmons)《谷歌 JavaScript 风格指南》中值得注意的 13 点
-
-www.freecodecamp.org](https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/)* 
+*<https://www.freecodecamp.org/news/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b/> * 
 
 ## *10. [RESTful API 设计指南——最佳实践](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)*
 
@@ -155,8 +143,4 @@ www.freecodecamp.org](https://www.freecodecamp.org/news/google-publishes-a-javas
 
 ***附言——**如果你想学习 web 开发或者想成为一名全栈开发者，那么我也推荐你去看看 Udemy 网站上 Colt_Steele 的[**Web 开发者训练营**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) 课程。这是成为一名合格的 web 开发人员的最好也是最实惠的资源之一。*
 
-*[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F) [## Web 开发人员训练营:学习 HTML、CSS、Node 等等！
-
-### 嗨！欢迎来到全新版本的 web 开发者训练营，Udemy 最受欢迎的 Web 开发课程。这个…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F)*
+*<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-web-developer-bootcamp%2F> *

@@ -38,11 +38,7 @@ Jenkins 如此受欢迎和有用的原因之一是它的灵活性。通过数百
 
 本课程从初学者的角度介绍了詹金斯。所以你不需要有任何关于詹金斯的知识。你将学习[硒](https://dzone.com/articles/5-courses-to-learn-selenium-webdriver-for-automati)、[玛文](https://dzone.com/articles/top-5-course-to-learn-apache-maven-for-java-develo)、[吉特](https://javarevisited.blogspot.com/2019/05/10-free-websites-to-learn-git-online.html)和[詹金斯](https://dzone.com/articles/5-courses-to-learn-jenkins-and-ci-in-2019)的端到端集成。对于所有不仅想了解 Jenkins，还想了解持续集成和持续交付以及 DevOps 的人来说，这是一门很好的课程。
 
-[](https://www.udemy.com/course/jenkins-intro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LL6.ysB7EvlPEhYUPgMIHA) [## 开发人员 Jenkins 简介
-
-### 100%亲自动手，用实际生活中的用例一步一步地讲解，让每一件事情都清晰地覆盖连续…
-
-www.udemy.com](https://www.udemy.com/course/jenkins-intro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LL6.ysB7EvlPEhYUPgMIHA) 
+<https://www.udemy.com/course/jenkins-intro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LL6.ysB7EvlPEhYUPgMIHA>  
 
 ## [3。Maven 基础知识](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fmaven-fundamentals)
 
@@ -66,11 +62,7 @@ www.udemy.com](https://www.udemy.com/course/jenkins-intro/?LSNPUBID=JVFxdTr9V80&
 
 这门课程不仅仅对开发人员或测试人员有益，对[开发人员](https://dzone.com/articles/top-10-docker-course-for-java-developers)和业务分析师也非常有用。
 
-[](https://www.udemy.com/course/working-with-jenkins/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LdeICSttMeSBIxuMZ0nRLw) [## 免费的 Jenkins 教程-用 Jenkins 2.0 构建+部署+测试
-
-### 构建+部署+测试与詹金斯 2.0 课程的设计方式，任何人都很好地理解基本…
-
-www.udemy.com](https://www.udemy.com/course/working-with-jenkins/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LdeICSttMeSBIxuMZ0nRLw) 
+<https://www.udemy.com/course/working-with-jenkins/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-LdeICSttMeSBIxuMZ0nRLw>  
 
 ## [**6。Jenkins 入门:初学者的关键概念**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=562016.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjenkins-quick-start%2F)
 
@@ -84,11 +76,7 @@ www.udemy.com](https://www.udemy.com/course/working-with-jenkins/?LSNPUBID=JVFxd
 
 Jenkins 是一个自动化和 CI 工具。这是一个 java 应用程序，非常容易学习。本课程旨在让完全的初学者了解[从零开始学习詹金斯](https://javarevisited.blogspot.com/2018/09/top-5-jenkins-courses-for-java-and-DevOps-Programmers.html)。在本课程中，您将从非常基础的一步一步开始学习，到最后，您将能够在各个级别使用 Jenkins。
 
-[](http://bit.ly/2jn02SQ) [## 詹金斯初学者教程-循序渐进
-
-### 课程评级是根据单个学生的评级和各种其他信号计算的，如评级年龄和…
-
-bit.ly](http://bit.ly/2jn02SQ) 
+<http://bit.ly/2jn02SQ>  
 
 ## [8。机器人框架:代码管理(GIT) + Jenkins 集成](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frobot-framework-jenkins-integration%2F)
 
@@ -104,11 +92,7 @@ bit.ly](http://bit.ly/2jn02SQ)
 
 5.集成 Allure 报告选项
 
- [## 机器人框架:代码管理(GIT) + Jenkins 集成
-
-### Git 是当今世界上使用最广泛的现代版本控制系统，它允许多人安全地…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Frobot-framework-jenkins-integration%2F) 
+  
 
 ## [9。DevOps 基础知识](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F)
 
@@ -118,11 +102,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 它还解释了 DevOps 的[文化，以及与 DevOps 相关的主要实践和工具。此外，还将向您介绍 DevOps 和云之间的密切关系。](https://dev.to/javinpaul/the-2019-devops-engineering-roadmap-2klc)
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F) [## 免费 DevOps 教程- DevOps 精要
-
-### 你有没有想过 DevOps 是什么？您是否经常听到诸如“持续集成”、“构建自动化”等术语…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Flinux-academy-devops-essentials%2F>  
 
 ## 10.[初学者 Docker](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-for-beginners%2F)
 
@@ -130,11 +110,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 以此为基础，你可以继续开发容器化的应用程序，构建超级酷的软件和服务。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-for-beginners%2F) [## 初学者码头工人
-
-### 让我们让 Docker 变得简单！-免费课程
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-for-beginners%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fdocker-for-beginners%2F>  
 
 以上是一些可以在线学习的免费 Maven 和 Jenkin 课程。我还加入了一些关于机器人框架、 [Docker](https://hackernoon.com/10-free-courses-to-learn-docker-for-programmers-and-devops-engineers-7ff2781fd6e0) 和 [DevOps](https://javarevisited.blogspot.com/2019/01/top-5-free-kubernetes-courses-for-DevOps-Engineer.html) 的课程，Java 开发人员可以通过这些课程对 Maven 和 Jenkins 有一个基本的了解，并了解如何在他们的 Java 项目中使用它们来简化和自动化构建、部署、开发和测试过程。
 
@@ -152,16 +128,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ## 您可能喜欢的其他媒体文章:
 
-[](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [## 为 Fullstack 开发人员和 DevOps 学习 Docker、Kubernetes 和 AWS 的 15 大在线课程…
-
-### 大家好，你可能听说过 Docker 和 Kubernetes 周围的嗡嗡声。他们从根本上改变了发展…
-
-medium.com](/javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773) [](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [## 我最喜欢的学习亚马逊网络服务(AWS)和云计算的初学者课程
-
-### 大家好，如果你想学习亚马逊网络服务，俗称 AWS，并寻找一些优秀的资源…
-
-medium.com](/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d) [](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0) [## 2023 年学习 Linux 命令行的 10 大课程——最好的免费课程
-
-### 有没有想过为什么命令行仍然在使用，即使有数百种人性化的图形用户界面和工具…
-
-medium.com](/javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0)
+</javarevisited/top-15-online-courses-to-learn-docker-kubernetes-and-aws-for-fullstack-developers-and-devops-d8cc4f16e773>  </javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d>  </javarevisited/top-10-courses-to-learn-linux-command-line-in-2020-best-and-free-f3ee4a78d0c0> 

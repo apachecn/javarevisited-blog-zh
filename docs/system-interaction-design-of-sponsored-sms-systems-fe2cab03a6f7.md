@@ -4,7 +4,7 @@
 
 ## 关于如何构建这些消息传递系统的案例研究
 
-在过去的几年里，创业世界到处都是关于消息服务提供商的消息，如[](https://venturebeat.com/2016/07/14/line-starts-trading-on-nyse-at-42-up-33-from-ipo-price/)**[**Twilio**](https://www.cnbc.com/2016/06/23/twilio-ipo.html)**等。以十亿美元的估值在美国上市，这一趋势中最新的一个是 [**MessageBird**](https://messagebird.com/en/) 。****
+在过去的几年里，创业世界到处都是关于消息服务提供商的消息，如<https://venturebeat.com/2016/07/14/line-starts-trading-on-nyse-at-42-up-33-from-ipo-price/>**[**Twilio**](https://www.cnbc.com/2016/06/23/twilio-ipo.html)**等。以十亿美元的估值在美国上市，这一趋势中最新的一个是 [**MessageBird**](https://messagebird.com/en/) 。****
 
 ****这种趋势现在已经在印度出现，印度本土的信息服务提供商如 [**Route Mobile**](https://www.routemobile.com/) 已经上市，很少有其他公司如 [**SMS Gupshup**](http://www.gupshup.io) 也在排队搭上 IPO 的顺风车。****
 
@@ -51,7 +51,7 @@
 
 > ****(更多关于定制的**基于异步文件的队列**在我接下来的博客中)****
 
-****[](https://www.java67.com/2015/12/producer-consumer-solution-using-blocking-queue-java.html)****、LMAX 干扰器等。，及其多线程变体**应被实现以实现高性能并提取基础设施的完整汁液。******
+****<https://www.java67.com/2015/12/producer-consumer-solution-using-blocking-queue-java.html>****、LMAX 干扰器等。，及其多线程变体**应被实现以实现高性能并提取基础设施的完整汁液。******
 
 ******DB 调用必须绝对为零**才能达到规模，因为对 [DB](/javarevisited/top-10-free-courses-to-learn-microsoft-sql-server-and-oracle-database-in-2020-6708afcf4ad7) 的写入应该与 MQ(消息队列)异步发生。表中的数据应该遵循直写式缓存实现，使用 **Redis** 或 **Memcached** 层。****
 
@@ -84,11 +84,7 @@
 
 ******MessageDispatcher** 是发送逻辑处理器，它有各种贪婪算法来选择发送哪个运营商，由于有些在印度特定地区更便宜，有些发送成本高但有保证，所以这个组件有实现的算法，如[漏桶](https://medium.datadriveninvestor.com/leaky-bucket-algorithm-for-flow-control-6ba600bfee10)，基于成本的优化，发送&时间参数。****
 
-****[](https://medium.datadriveninvestor.com/leaky-bucket-algorithm-for-flow-control-6ba600bfee10) [## 流量控制的漏桶算法
-
-### 接受大量请求并以恒定速率提供服务的经济高效的解决方案。
-
-medium.datadriveninvestor.com](https://medium.datadriveninvestor.com/leaky-bucket-algorithm-for-flow-control-6ba600bfee10) 
+****<https://medium.datadriveninvestor.com/leaky-bucket-algorithm-for-flow-control-6ba600bfee10>  
 
 **日志记录**组件异步接收&并将所有传出的消息存储在表/文件中(二进制或拼花格式)以便协调。这充当了**对账**组件的一个输入源，该组件的工作是为每个客户创建使用和计费报告。
 

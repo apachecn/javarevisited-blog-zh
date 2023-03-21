@@ -85,11 +85,7 @@
 
 顺便说一句，你可以单独参加这个课程，也可以参加 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是一个订阅计划，允许无限制地访问来自 AWS 和谷歌等顶级大学和公司的 7000 多门课程，每月仅需 59 美元。Coursera 有许多 AWS 和云计算课程，所以加入 Coursera plus 可以更好地准备。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3. [AWS 认证解决方案架构师助理实践考试](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate-amazon-practice-exams%2F)
 
@@ -125,11 +121,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 顺便说一句，你需要一个 [**Pluralsight 会员**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### 无论你想进入一个新的领域，改善你的角色，还是把你的伟大想法变成现实，Pluralsight…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## **5。** [**Whizlab 的 AWS 解决方案架构师实践测试+课程**](http://shrsl.com/1l7zg)
 
@@ -143,7 +135,7 @@ Whizlab 是我最信任的认证练习题和培训材料的地方之一。过去
 
 [![](img/7d8ef7afac6550ce460285bed4284309.png)](http://shrsl.com/1l7zg)
 
-顺便说一句，如果你正在准备认证，可以考虑参加 [**Whizlabs 订阅**](https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=) ，它提供所有在线培训课程和不同认证的实践测试，如 AWS、Java、Cloud、Docker 和 Kubernetes，每年仅需[](https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=)**99 美元(现在有 50%的折扣)。我强烈推荐这个订阅计划，因为 Whizlabs 有最好的材料来准备 IT 认证。**
+顺便说一句，如果你正在准备认证，可以考虑参加 [**Whizlabs 订阅**](https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=) ，它提供所有在线培训课程和不同认证的实践测试，如 AWS、Java、Cloud、Docker 和 Kubernetes，每年仅需<https://shareasale.com/r.cfm?b=1551042&u=880419&m=43514&urllink=&afftrack=>**99 美元(现在有 50%的折扣)。我强烈推荐这个订阅计划，因为 Whizlabs 有最好的材料来准备 IT 认证。**
 
 ## **6.[亚马逊 AWS-解决方案-架构师-助理:(SAA-C03)转储](https://www.certification-questions.com/buy-dumps-exams/aws-certified-solutions-architect-associate-dumps?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate)**
 
@@ -199,8 +191,4 @@ Whizlab 是我最信任的认证练习题和培训材料的地方之一。过去
 
 ****P. S.** —如果你是云计算和 AWS 领域的新手，正在寻找一些学习亚马逊 Web 服务的免费课程，那么你也可以在 Udemy 上查看这个 [**AWS 认证解决方案架构师助理介绍【免费】**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-in-30-days%2F) 课程。超过 100，000 名学生已经加入了这一免费课程。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-in-30-days%2F) [## 免费 AWS 认证教程- AWS 认证解决方案架构师助理介绍
-
-### 对获得 AWS 认证解决方案架构师助理感兴趣，但不确定如何以及从哪里开始，此视频…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-in-30-days%2F)**
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-solutions-architect-associate-in-30-days%2F> **

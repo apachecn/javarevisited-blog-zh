@@ -108,8 +108,4 @@ CompletableFuture 类中有不同的方法可供您使用，例如*thenacceptsyn
 
 在本教程中，我谈到了排序线程执行。我希望你喜欢它。
 
-[](https://github.com/kurular4/medium-java/tree/master/completable-future) [## 中级 java/completable-master kurula 4 的未来/中级 Java
-
-### 关于 Java 的文章中的代码。在 GitHub 上创建一个帐户，为 kurura 4/medium-Java 开发做贡献。
-
-github.com](https://github.com/kurular4/medium-java/tree/master/completable-future)
+<https://github.com/kurular4/medium-java/tree/master/completable-future> 

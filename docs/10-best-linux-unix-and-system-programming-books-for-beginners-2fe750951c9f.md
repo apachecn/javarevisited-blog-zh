@@ -20,11 +20,7 @@
 
 顺便说一句，近年来，在线课程也帮助我学习了很多新技术，巩固了我在 Java、SQL 和算法等技能方面的基础。如果你也喜欢从在线课程中学习，那么 Udemy 上的 [**在 5 天内学习 Linux 并提升你的职业**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 是一个很好的课程，可以和阅读以下书籍一起加入。事实上，你会学得更好更快。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) [## 在 5 天内学会 Linux，提升你的职业生涯
-
-### 如果你想学习如何使用 Linux 和……加入其他 20，000 名世卫组织的成功学生的行列
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Flearn-linux-in-5-days%2F>  
 
 # 10 本适合初学者的最佳 Linux 和 UNIX 书籍
 
@@ -152,8 +148,4 @@ Brian W. Kernighan 和 Rob Pike 所著的《Unix 编程环境》是[学习 UNIX]
 
 **P. S.** —如果你更喜欢在线课程而不是书本，那么你也可以在 Udemy 上查看 [**Linux 掌握:在 11.5 小时内掌握 Linux 命令行**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) 。这是最好的课程之一，结合阅读以下任何一本书。事实上，你会学得更好更快。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F) [## 精通 Linux:掌握 Linux 命令行
-
-### 感言= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =“迄今为止 Udemy 上关于 Linux 的最佳课程，我绝对推荐”…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flinux-mastery%2F> 

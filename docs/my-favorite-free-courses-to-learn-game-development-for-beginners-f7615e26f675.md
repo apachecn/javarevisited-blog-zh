@@ -18,11 +18,7 @@
 
 顺便说一句，如果你是游戏开发领域的新手，想要学习游戏开发人员应该了解的关于 C#和 Unity 的一切，没有比 [**本·特里斯特姆**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F)**[和里克·戴维森](https://medium.com/u/3f039b8ef61f?source=post_page-----f7615e26f675--------------------------------)[撰写的《C# Unity 开发人员指南》](https://medium.com/u/faedc4a0f5d7?source=post_page-----f7615e26f675--------------------------------)** 更好的课程了。它不是免费的，但是完全值得你花时间和金钱，已经有超过 35 万人加入了这个课程
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F) [## C# Unity 开发者 2D 编码:学习视频游戏编码
-
-### 游戏开发和设计变得有趣。学习 C#使用 Unity 4.6 和 Unity 5 来创建 2D 和 3D 网络和移动游戏…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F>  
 
 # 2023 年学习游戏开发的 10 门 Udemy 免费课程
 
@@ -217,8 +213,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 **p . s .**——如果你是游戏开发领域的新手，并且想学习游戏开发人员应该了解的关于 C#和 Unity 的所有知识，没有比 Ben Tristem 和 Rick Davidson 的《C# Unity 开发人员指南》 更好的课程了。你也应该检查一下。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F) [## C# Unity 开发者 2D 编码:学习视频游戏编码
-
-### 游戏开发和设计变得有趣。学习 C#使用 Unity 4.6 和 Unity 5 来创建 2D 和 3D 网络和移动游戏…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Funitycourse%2F> 

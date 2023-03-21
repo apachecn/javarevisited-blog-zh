@@ -95,30 +95,18 @@
 **3.1。Jon Bonson 的 AWS 开发者助理模拟测试(** [**260 题**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-exams-amazon%2F) **)**
 这是另一个值得推荐的 Udemy 上的 AWS 开发者助理模拟测试。本课程包含 6 个模拟测试，每个 65 个问题，这对您的最终准备很有帮助。如果你在这次模拟考试中一直获得 80+的分数，那么你就为真正的考试做好了准备。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-exams-amazon%2F) [## AWS 认证开发人员助理实践考试
-
-### AWS 认证开发人员助理(DVA-C02)一直是薪酬最高的 IT 认证之一，考虑到…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-exams-amazon%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-exams-amazon%2F>  
 
 **3.2。大卫·梅耶尔的 AWS 开发人员助理练习题(** [**987 题**](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) **)**
 
 这是 AWS 练习题的另一个大列表，实际上，它们是考试垃圾，意味着它们是过去考试的真题，如果你真的想获得 900+的分数。这个模拟测试有 987 个问题和 20 个考试测试，这使它成为所有 AWS 练习试卷的母亲。做了之后就不需要别的了。
 
-[](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) [## 亚马逊 AWS 认证开发人员助理实践测试|更新
-
-### 每个问题都有详细的解释。我们的网络模拟器和移动应用程序不仅仅是为了练习，而是…
-
-www.certification-questions.com](https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate) 
+<https://www.certification-questions.com/practice-exam/amazon/aws-certified-developer-associate?affiliateCode=fcff36fd-557a-4713-abf6-973e9924770f&utm_source=Javin&utm_medium=affiliate&utm_campaign=affiliate>  
 
 **3.3。夏羽·马瑞克的 AWS 开发人员模拟测试(** [**293 题**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-tests-dva-c01%2F) )
 高质量和基于场景的问题，在真实的 AWS 测试中表现出色。有时比实际的例子更难。在参加真正的考试之前，这是磨练你的速度和准确性的完美考试。我向所有认真想一次通过考试并获得高分的人强烈推荐这个考试。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-tests-dva-c01%2F) [## AWS 认证开发人员助理[4 个模拟考试测试]
-
-### 2020 年 8 月更新]:所有问题都已重新编写，添加了详细的解释，并基于…添加了新问题
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-tests-dva-c01%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-certified-developer-associate-practice-tests-dva-c01%2F>  
 
 ## 4.动手实验
 
@@ -142,11 +130,7 @@ Whilzlabs 也有许多针对 AWS、Azure 和 GCP 的实践实验室，以及专�
 
 这里是阅读 AWS 白皮书的链接
 
-[](https://aws.amazon.com/whitepapers/) [## AWS 白皮书和指南
-
-### 通过 AWS 和 AWS 社区创作的 AWS 技术内容扩展您的云知识，包括…
-
-aws.amazon.com](https://aws.amazon.com/whitepapers/) 
+<https://aws.amazon.com/whitepapers/>  
 
 ## AWS 开发人员助理认证的 5 个技巧
 
@@ -193,8 +177,4 @@ AWS 认证专业人员也是薪酬最高的专业人员，年薪从 12 万美元
 
 **P. S.** —如果你渴望通过 AWS 认证开发人员助理认证，但负担不起这些资源，而不是寻找免费资源来准备这一声望很高的认证，那么你也可以在 Udemy 上查看这个 [**免费的 AWS 开发人员助理培训**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-developer-associate-training%2F) 。这是完全免费的，你只需要一个 Udemy 帐户就可以参加这个 AWS 培训课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-developer-associate-training%2F) [## 免费亚马逊 AWS 教程- AWS 开发人员助理培训
-
-### 当今的组织正在拥抱云。根据赛门铁克发布的报告，2016 年，大约 26%的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-developer-associate-training%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Faws-developer-associate-training%2F> 

@@ -150,8 +150,4 @@ AWS SysOps 管理员助理(SO1-C02)是为在 DevOps 领域寻求职业生涯的�
 
 **P. S.** —如果你是 AWS 和云计算的新手，正在寻找一些学习 AWS 的免费课程，那么你也可以在 Udemy 上查看这个 [**亚马逊网络服务(AWS)——零到英雄**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-web-services-aws-v%2F) (免费)课程。这是一门很好的入门课程，你可以免费学习。你只需要一个 Udemy 帐户就可以进入本课程。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-web-services-aws-v%2F) [## 免费亚马逊 AWS 教程-亚马逊网络服务(AWS) -零到英雄
-
-### 自 2014 年以来，提供由 AWS 专业级认证讲师讲授的加速学习计划。独一无二的…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-web-services-aws-v%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Famazon-web-services-aws-v%2F> 

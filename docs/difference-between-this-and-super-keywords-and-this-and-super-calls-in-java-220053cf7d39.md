@@ -8,7 +8,7 @@
 
 ![](img/980702a26adb8a0146f1d5558e4c3baf.png)
 
-**照片由** [**特雷西·亚当斯**](https://unsplash.com/@tracycodes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)**[](https://unsplash.com/s/photos/java?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)**
+**照片由** [**特雷西·亚当斯**](https://unsplash.com/@tracycodes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)**<https://unsplash.com/s/photos/java?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>**
 
 ****在这篇文章中，我将解释**这个**和**超级**关键字的区别。此外，我将解释这一点和超级方法调用。对于大多数初级/中级 java 面试，面试官都会问这个问题。通过阅读这篇文章，你将能够理解这个和超级关键字的概念和不同用法。****
 

@@ -60,11 +60,7 @@
 
 顺便说一下，除了单独加入这些课程和专业，你还可以加入 [**Coursera Plus**](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) ，这是 Coursera 的一个订阅计划，让你可以无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## 3.[递归](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flearn-recursion%2F)【我的初学者最佳教程】
 
@@ -146,11 +142,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 如果你需要更多的[基于递归的编程问题](https://javarevisited.blogspot.com/2021/09/top-10-recursion-interview-questions.html)，你可以查看这个列表
 
-[](https://www.java67.com/2021/07/recursion-programming-exercises-in-java.html) [## Java 程序员 15 大递归编程练习及解答
-
-### 大家好，如果你正试图学习递归，但却苦于寻找一些常见的递归编码问题…
-
-www.java67.com](https://www.java67.com/2021/07/recursion-programming-exercises-in-java.html) 
+<https://www.java67.com/2021/07/recursion-programming-exercises-in-java.html>  
 
 以上就是 2023 年学习递归和动态编程的**最佳在线课程。递归是一种有用的编码技术，是计算机科学的概念和动态编程的基础，是每个程序员都应该学习和实践的东西。**
 
@@ -179,8 +171,4 @@ www.java67.com](https://www.java67.com/2021/07/recursion-programming-exercises-i
 
 **P. S. —** 如果你正在学习递归来解决动态编程，并且需要更多的练习，包括涵盖流行动态编程模式的几十个动态编程问题和解决方案，那么你也可以查看 [**寻找动态编程模式**](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) 来参加 Educative 上的编码面试，这是一个很好的开始资源。它将教你可以用来解决多种编码问题的通用 DP 模式。
 
-[](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224) [## 探索编码面试的动态编程模式——交互式学习
-
-### 事实是，动态编程(DP)问题可能是编码面试中最令人生畏的问题。即使当…
-
-www.educative.io](https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224)
+<https://www.educative.io/collection/5668639101419520/5633779737559040?affiliate_id=5073518643380224> 

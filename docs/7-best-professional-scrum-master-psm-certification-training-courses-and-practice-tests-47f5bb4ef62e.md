@@ -20,7 +20,7 @@ image_credit —灰色校园
 
 敏捷在软件开发公司非常流行，Scrum 是一种管理项目的方法。它在财富 500 强公司和创业公司中被广泛用于管理产品开发，因为它让我们能够简单轻松地处理复杂的项目。
 
-scrum master[](/javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1)**是每个敏捷 scrum 模型项目的重要组成部分。scrum 大师是一种领导者，他确保项目正常进行，scrum 团队按预期执行。**
+scrum master</javarevisited/what-next-for-senior-developers-in-tech-project-manager-technical-architect-or-a-devops-engineer-b532a80c9ba1>**是每个敏捷 scrum 模型项目的重要组成部分。scrum 大师是一种领导者，他确保项目正常进行，scrum 团队按预期执行。**
 
 **检查团队和项目的进展是 scrum 主管的职责。这是一份非常吸引人的工作。一个人只有理解了责任，才能成为 scrum 大师。**
 
@@ -89,11 +89,7 @@ scrum master[](/javarevisited/what-next-for-senior-developers-in-tech-project-ma
 
 **顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。**
 
-**[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn)** 
+**<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn> ** 
 
 ## **4. [Scrum Master 认证—练习试题](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-master-certification-practice-test-questions%2F)**
 
@@ -153,11 +149,7 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **顺便说一下，你需要 LinkedIn Learning 会员才能观看这门课程，每月费用约为 19.99 美元，但你也可以通过参加他们的 [**1 个月免费试用**](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts) 来免费观看这门课程，这是探索他们 16000 多门最新技术在线课程的好方法。**
 
- **[## LinkedIn Learning 免费试用和订阅价格
-
-### 从初级到高级的 20，000 多门由专家指导的个性化优质内容课程。基于社区的…
-
-linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?u=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsubscription%2Fproducts)** 
+ **** 
 
 **以上就是 2023 年通过 Scrum Master 认证考试的**最佳课程**。老实说，通过专业 Scrum Master 认证是一项艰巨的任务，但是如果你有适当的知识，你可以毫无问题地通过。**
 
@@ -181,8 +173,4 @@ linkedin-learning.pxf.io](http://linkedin-learning.pxf.io/c/1193463/449670/8005?
 
 **p . s .**——如果你热衷于学习敏捷和 Scrum 方法论，但正在寻找免费的在线课程，那么你也可以看看 Udemy 上的这个[**Scrum:1 小时学会 Scrum 基础知识【Scrum Guide】**](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-learn-the-scrum-basics-in-1-hour-agile-scrum%2F)课程。在这些免费的在线课程中，你将学到敏捷和 Scrum 的基础知识。**
 
-**[](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-learn-the-scrum-basics-in-1-hour-agile-scrum%2F) [## 免费的 Scrum 教程- Scrum:在 1 小时内学习 Scrum 基础知识[Scrum 指南]
-
-### 在我告诉你为什么之前，让我先自我介绍一下...嗨，我叫弗拉基米尔·雷科夫，我是一名认证的 Scrum…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-learn-the-scrum-basics-in-1-hour-agile-scrum%2F)**
+**<https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fscrum-learn-the-scrum-basics-in-1-hour-agile-scrum%2F> **

@@ -6,7 +6,7 @@
 
 ![](img/c8fddcc20f0d5ef542d524f04734c96b.png)
 
-> 最初发表于[](https://asyncq.com/how-to-access-twitter-v2-api-with-java)
+> 最初发表于<https://asyncq.com/how-to-access-twitter-v2-api-with-java>
 
 ## **介绍**
 

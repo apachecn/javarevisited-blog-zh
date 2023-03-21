@@ -10,7 +10,7 @@
 *   如果你想继续关注 JavaFX 社区内发生的事情，你可以通过 mail.openjdk.org/mailman/listinfo/openjfx-dev 的[订阅邮件列表。](https://mail.openjdk.org/mailman/listinfo/openjfx-dev)
 *   和以前的版本一样，JavaFX 社区又一次成功地保持了 6 个月的发布周期，提供了一长串的改进和修复！此次发布的亮点可以在[openjfx.io/highlights/19](https://openjfx.io/highlights/19/)上找到。
 *   JavaFX 19 的 JavaDoc 可在 openjfx.io/javadoc/19[获得。](https://openjfx.io/javadoc/19/)
-*   InfoWorld 上的一篇有趣的阅读列出了 [JavaFX](/javarevisited/7-best-java-fx-online-courses-for-beginners-9e774ba6f996) 19 的一些亮点:[Paul Krill](https://www.infoworld.com/article/3673888/javafx-19-rich-client-java-platform-arrives.html)[](https://twitter.com/pjkrill)**的《JavaFX 19 富客户端 Java 平台到来》。**
+*   InfoWorld 上的一篇有趣的阅读列出了 [JavaFX](/javarevisited/7-best-java-fx-online-courses-for-beginners-9e774ba6f996) 19 的一些亮点:[Paul Krill](https://www.infoworld.com/article/3673888/javafx-19-rich-client-java-platform-arrives.html)<https://twitter.com/pjkrill>**的《JavaFX 19 富客户端 Java 平台到来》。**
 *   **在[gluonhq.com/products/javafx](https://gluonhq.com/products/javafx/)上 [**Gluon** 在](https://twitter.com/GluonHQ/status/1569648445157146626)上发布了 JavaFX 路线图的更新。**
 *   **[**Johan Vos**](https://twitter.com/johanvos) 添加[消息](https://twitter.com/johanvos/status/1569682888915836928):*我们在 2018 年 9 月做了我们的第一个 JavaFX 发布(JavaFX 11)。我们计划了一个 6 个月的节奏，类似于 JDK 的版本。四年后，我们仍然让列车继续前行。它需要血、汗和泪，但是看到开发人员使用 JavaFX 所做的事情是值得的。***
 *   **用[很好听的回复](https://twitter.com/errcraft/status/1569727660032692230)[的](https://twitter.com/errcraft)的**詹姆斯·高斯林**的(Java 之父的[！](https://en.wikipedia.org/wiki/James_Gosling))::*精彩！我是一个快乐的 JavaFX 用户。感谢你所做的一切出色的工作。*”**

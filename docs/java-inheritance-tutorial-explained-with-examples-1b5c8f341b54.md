@@ -147,7 +147,7 @@ class Car extends Vehicle { // Private field
 
 ## Java 中的类型转换
 
-Java 也允许你引用一个子类作为它的超类的一个实例，本质上把子类当作超类类型。这个过程被称为[](https://javarevisited.blogspot.com/2012/12/what-is-type-casting-in-java-class-interface-example.html#axzz5mFvI6vQr)**。这是创建模块化代码的好方法，因为您可以编写适用于同一父类的任何子类的代码。例如，你可以引用一个`Car`类型的变量作为一个`Vehicle`类型的对象。**
+Java 也允许你引用一个子类作为它的超类的一个实例，本质上把子类当作超类类型。这个过程被称为<https://javarevisited.blogspot.com/2012/12/what-is-type-casting-in-java-class-interface-example.html#axzz5mFvI6vQr>**。这是创建模块化代码的好方法，因为您可以编写适用于同一父类的任何子类的代码。例如，你可以引用一个`Car`类型的变量作为一个`Vehicle`类型的对象。**
 
 ```
 Car car     = new Car();

@@ -20,11 +20,7 @@ image_credit — Whizlabs
 
 顺便说一下，如果您正在准备 Java SE 11 认证(Oracle Java 认证的最新版本)，并且正在寻找资源，那么我强烈建议您查看由 Tim Buchalaka 及其团队在 Udemy 上开设的 [**Oracle Java 认证—通过 Java 11 SE 1z 0–815 考试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F) 课程。它涵盖了所有考试主题，包括模块。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F) [## Oracle Java 认证—通过 Java 11 SE 1z 0–815 考试
-
-### 结果出来了！真正的学生，就像您一样，正在利用本课程通过 Oracle Java 认证考试。这里…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F>  
 
 # OCAJP 和 OCPJP 认证的区别
 
@@ -68,11 +64,7 @@ OCAJP 考试没有先决条件。任何人都可以这样做，即使你不是�
 
 我建议参加 [**Oracle Java SE 8 认证— OCAJP 预备课程**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwhizlabs_ocajp8%2F) ，以及 Udemy 针对 OCAJP 考试的在线课程，它会让你很好地了解 Java 编程语言的基本特性。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwhizlabs_ocajp8%2F) [## Oracle Java SE 8 认证- OCAJP 预备课程
-
-### Whizlabs 是全球在线培训提供商的先驱。我们提供以下方面的在线认证培训…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwhizlabs_ocajp8%2F) 
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fwhizlabs_ocajp8%2F>  
 
 # ocajp 7(1z 0–803)与 ocpjp 7(1z 0–804)
 
@@ -160,8 +152,4 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ***P. S. —*** 如果您正在准备 Java SE 11 认证(Oracle 最新的 Java 认证)并在寻找资源，那么我强烈推荐您在 Udemy 上查看由 Tim Buchalaka 及其团队开设的 [**Oracle Java 认证—通过 Java 11 SE 1z 0–815 考试**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F) 课程。它涵盖了所有考试主题，包括模块。
 
-[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F) [## Oracle Java 认证-通过 Java 11 SE 1Z0-815 考试
-
-### 结果出来了！真正的学生，就像您一样，正在利用本课程通过 Oracle Java 认证考试。这里…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F)
+<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Foracle-java-11-programmer-exam-1z0815%2F> 

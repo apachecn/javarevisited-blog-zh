@@ -6,7 +6,7 @@
 
 [![](img/5ad26f1d38b72c03a0cbffeeed85ee39.png)](https://javarevisited.blogspot.com/2018/04/top-5-hadoop-courses-to-learn-online.html)
 
-> 最初发表于[](https://asyncq.com/how-to-access-bigquery-data-warehouse-with-java)
+> 最初发表于<https://asyncq.com/how-to-access-bigquery-data-warehouse-with-java>
 
 ## **介绍**
 

@@ -136,11 +136,7 @@ DevOps 非常庞大，你需要学习很多工具和原理，而这也是让很�
 
 ****如果你想学习 React，那么我建议你加入 Udemy 上同一作者的[**React——完全指南**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) 课程。****
 
-****[](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F) [## React 16:完整课程(包括 React 路由器 4 和 Redux)
-
-### 本课程是 React 的最新版本，包括 React 挂钩！当然会保留…
-
-udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)**** 
+****<https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F> **** 
 
 ## ****12.机器人****
 
@@ -160,11 +156,7 @@ udemy.com](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=
 
 ****或者，你也可以使用他们的 **1** [**0 天免费试用**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 免费观看本课程。****
 
-****[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 帮助个人学习者获得掌握最新软件开发所需的技术技能…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+****<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 以上就是**2023 年 Java 程序员能学到什么？**正如我所说，技术变化速度很快，程序员面临的最大挑战是保持自己与时俱进。
 
@@ -185,24 +177,8 @@ pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%
 
 **P . S**。 —如果你正在寻找一些有用的技术来从 web 开发的角度学习，那么你也可以看看我的帖子[每个 web 开发人员应该在 2023 年学习的 10 件事](https://javarevisited.blogspot.com/2020/01/10-things-web-developers-should-learn.html)。
 
-[](https://javarevisited.blogspot.com/2020/01/10-things-web-developers-should-learn.html) [## 2023 年网络开发者应该学会的 10 件事
-
-### 大家好，首先祝大家新年快乐。愿上帝保佑你智慧、财富和健康。如果…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2020/01/10-things-web-developers-should-learn.html) 
+<https://javarevisited.blogspot.com/2020/01/10-things-web-developers-should-learn.html>  
 
 ## 您可能喜欢的其他媒体文章:
 
-[](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [## 完整的 Web 开发者路线图
-
-### 成为网页开发者的图解指南，并提供相关课程的链接
-
-medium.com](/hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e) [](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [## 完整的 DevOps 路线图
-
-### 成为前端或后端开发人员的图解指南，提供课程链接
-
-medium.com](/hackernoon/the-2018-devops-roadmap-31588d8670cb) [](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a) [## 我最喜欢的免费课程&深入学习数据结构和算法的认证
-
-### 为程序员学习数据结构和算法的一些最好的免费在线课程的精选列表。
-
-medium.com](/free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)****
+</hackernoon/the-2019-web-developer-roadmap-ab89ac3c380e>  </hackernoon/the-2018-devops-roadmap-31588d8670cb>  </free-code-camp/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a> ****

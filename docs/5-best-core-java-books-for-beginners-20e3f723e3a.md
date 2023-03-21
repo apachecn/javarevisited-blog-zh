@@ -24,11 +24,7 @@
 
 这些书对于刚接触 Java 的人来说很棒，但对于已经有 1 到 2 年 Java 经验并希望填补其学习空白的人来说也很好。我还建议你将这些书中的一本与像 [**完整的 Java 大师班**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 这样的在线课程结合起来，这不仅能快速理解重要的概念，还能深入学习它们，而且现在在线课程也比书本便宜。
 
-[](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) [## 完整的 Java 软件开发人员大师班(针对 Java 10)
-
-### 你刚刚在网上偶然发现了最完整、最深入的 Java 编程课程。拥有超过 480，000 名学生…
-
-udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F) 
+<https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F>  
 
 # 2023 年初学者学习编程的 5 本最佳核心 Java 书籍
 
@@ -52,11 +48,7 @@ udemy.com](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&off
 
 另一件有利于 Head First Java 的事情是，Java 基础在过去的十年或二十年中没有太大的变化，但如果你想学得更好，你也可以将其与在线课程结合，如 [**完整的 Java master class**](https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F)**，它也更新为涵盖 Java SE 17。**
 
-**[](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html) [## 2023 年供初学者在线学习的 5 大 Java 编程课程——最好的
-
-### 如果你是计算机科学专业的毕业生，或者想学习 Java 并且正在寻找一些很棒的资源，比如…
-
-javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html)** 
+**<https://javarevisited.blogspot.com/2018/05/top-5-java-courses-for-beginners-to-learn-online.html> ** 
 
 ## **2. [Java:如何用 Deitel 和 Deitel 编程](https://www.amazon.com/Java-How-Program-9th-Deitel/dp/0132575663?tag=javamysqlanta-20)**
 
@@ -134,10 +126,6 @@ javarevisited.blogspot.com](https://javarevisited.blogspot.com/2018/05/top-5-jav
 
 **感谢您阅读本文，如果您有任何建议，请不吝赐教。如果你喜欢这篇文章和推荐的书籍，请分享给你的朋友和同事。**
 
-****p . s .**——如果你正在寻找一些免费的在线课程来启动你的核心 Java 之旅，你也可以看看这个为中级初学者提供的免费核心 Java 课程[](/javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915)**列表。****
+****p . s .**——如果你正在寻找一些免费的在线课程来启动你的核心 Java 之旅，你也可以看看这个为中级初学者提供的免费核心 Java 课程</javarevisited/10-free-courses-to-learn-java-in-2019-22d1f33a3915>**列表。****
 
-****[](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html) [## 面向初学者和有经验的程序员的 10 大免费 Java 课程
-
-### 互联网上充满了有用的资源，无论你想学什么，都有一些有用的东西可以提供给…
-
-www.java67.com](https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html)****
+****<https://www.java67.com/2018/08/top-10-free-java-courses-for-beginners-experienced-developers.html> ****

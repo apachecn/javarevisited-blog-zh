@@ -62,11 +62,7 @@ Cassandra 对“可调一致性”和复制方案的支持您将了解 Cassandra
 
 顺便说一下，你需要一个 [Pluralsight 会员](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Fskills)才能加入这个课程，费用大约是每月 29 美元或每年 299 美元(14%的折扣)。我向所有程序员强烈推荐这个订阅，因为它提供了超过 7000 个在线课程的即时访问，以学习任何技术技能。或者，你也可以使用他们的 [**10 天免费通行证**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 来免费观看这个课程。
 
-[](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) [## Pluralsight |个人免费试用
-
-### 立即开始免费试用 Pluralsight！查看我们为个人和团队提供的服务，如果您不确定…
-
-pluralsight.pxf.io](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial) 
+<https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fpricing%2Ffree-trial>  
 
 ## 3.[从 0 到 1:卡珊德拉分布式数据库](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Ffrom-0-to-1-the-cassandra-distributed-database%2F)【UDEMY】
 
@@ -159,8 +155,4 @@ Cassandra 是一个速度非常快的开源分布式数据库系统。在新的�
 
 **P. S.** —如果您对学习 NoSQL 技术感兴趣，尤其是 MongoDB，但正在寻找免费的在线培训课程，那么我强烈建议您查看 Udemy 上的—[**MongoDB Essentials——了解 Mongo DB**](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmongodb-essentials%2F) 课程的基础知识。这是完全免费的，你只需要一个 Udemy 帐户就可以加入这个课程。
 
-[](/javarevisited/10-free-online-courses-to-learn-mongodb-and-nosql-942609611664) [## 2023 年学习 MongoDB 和 NoSQL 的 10 门免费在线课程
-
-### 我最喜欢的免费在线 Mongo DB 课程来自 Udemy，Coursera 和 Pluralsight，在 2023 年从零开始学习 MongoDB
-
-medium.com](/javarevisited/10-free-online-courses-to-learn-mongodb-and-nosql-942609611664)
+</javarevisited/10-free-online-courses-to-learn-mongodb-and-nosql-942609611664> 

@@ -157,8 +157,4 @@ Docker 是 2023 年 Java 开发者需要学习的另一项必备技能。Docker 
 
 **P.S.** —如果你在考虑学习 2023 年新的编程语言，寻找思路，可以看看我关于 2023 年 十大编程语言 [**的帖子。**](http://www.java67.com/2017/12/10-programming-languages-to-learn-in.html)
 
-[](/javarevisited/5-best-programming-languages-to-get-a-sofware-developer-job-in-google-3d8c83c444d6) [## 获得谷歌软件开发工作的 5 种最佳编程语言
-
-### 嗨，伙计们，如果你想知道你可以学习哪些编程语言，以便在脸书的谷歌找到工作…
-
-medium.com](/javarevisited/5-best-programming-languages-to-get-a-sofware-developer-job-in-google-3d8c83c444d6)
+</javarevisited/5-best-programming-languages-to-get-a-sofware-developer-job-in-google-3d8c83c444d6> 

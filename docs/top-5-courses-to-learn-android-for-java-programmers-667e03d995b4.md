@@ -104,11 +104,7 @@ Android 开发是软件工程中需求最大的领域之一。随着 Android 占
 
 顺便说一句，如果你觉得 Coursera 的课程有用，那么我建议你加入 Coursera Plus 的订阅计划，这是 Coursera 的一个订阅计划，可以让你无限制地访问他们最受欢迎的课程、专业、专业证书和指导项目。
 
-[](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) [## Coursera Plus |无限制访问 7，000 多门在线课程
-
-### 用 Coursera Plus 投资你的职业目标。无限制访问 90%以上的课程、项目…
-
-coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus) 
+<https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Fcourseraplus>  
 
 ## **5。** [**Android 初学者系列:刚好够用 Java**](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fandroid-beginner-java-introduction)**【plural sight 课程】**
 
@@ -130,11 +126,7 @@ coursera.pxf.io](https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2
 
 这个课程最棒的地方在于，如果你注册了一个 [**10 天免费试用**](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) ，就可以免费获得，这足以完成这个课程，从 Android 开始。
 
-[](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) [## 对个人来说
-
-### Pluralsight 的使命一直是公平的技术竞争环境。不管你想学什么，或者…
-
-pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn) 
+<http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Flearn>  
 
 ## 6.[用 Java 开发现代安卓应用](https://www.educative.io/courses/modern-android-app-development?affiliate_id=5073518643380224)【教育性】
 
@@ -154,11 +146,7 @@ pluralsight.pxf.io](http://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2
 
 而且，如果你发现教育平台和他们的搜索课程，如搜索系统设计面试，那么考虑获得 [**教育订阅**](https://www.educative.io/subscription?affiliate_id=5073518643380224) ，每月只需 14.9 美元即可访问他们的 100 多门课程。非常划算，非常适合准备编码面试。
 
-[](https://www.educative.io/subscription?affiliate_id=5073518643380224) [## 教育无限:保持领先
-
-### 我们听到了您的反馈。你现在只需支付一次费用，就可以获得 Educative 上的所有课程。
-
-www.educative.io](https://www.educative.io/subscription?affiliate_id=5073518643380224) 
+<https://www.educative.io/subscription?affiliate_id=5073518643380224>  
 
 ## **7。**[Android Java master class——成为应用开发者](https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-android-7-nougat-java-app-development-step-by-step%2F)【Udemy】
 
@@ -186,8 +174,4 @@ Android 7 牛轧糖和 Android 8 被像 Twitter 和优步这样的顶级公司�
 
 **P.S.** —如果你正在寻找最好的免费课程来启动你的移动开发之旅，那么你也可以看看这个为初学者提供的 [**免费 Android 在线课程列表**](https://www.java67.com/2019/01/top-5-free-android-app-development-courses-for-programmers.html) 。它包含了一些对想要学习 Android 操作系统和为 Android 平台开发的人来说最有用的免费资源。
 
-[](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675) [## 2023 年成为安卓开发者的 5 门免费课程
-
-### 这些是免费学习 Android 与 Java 和 Kotlin 的最佳免费课程
-
-medium.com](/javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675)
+</javarevisited/5-free-courses-to-become-an-android-developer-d4d207f53675> 

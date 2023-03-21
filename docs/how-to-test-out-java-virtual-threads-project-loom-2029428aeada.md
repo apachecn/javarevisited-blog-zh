@@ -51,8 +51,4 @@
 
 下一步做什么？看看 [JEP 428 结构化并发](https://openjdk.java.net/jeps/428)，它也即将推出，使处理并发任务变得更容易。
 
-[](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2) [## 2022 年 Java 程序员路线图
-
-### 2022 年成为 Java 开发人员的图解指南，包含相关课程的链接
-
-medium.com](/javarevisited/the-java-programmer-roadmap-f9db163ef2c2)
+</javarevisited/the-java-programmer-roadmap-f9db163ef2c2> 

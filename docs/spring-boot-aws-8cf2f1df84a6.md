@@ -180,7 +180,7 @@ CMD 2:ssh ec2-user @[**public IP]**-I[keyFile]。脉冲编码调制
 
 只需点击这个文件并复制对象 url
 
-[https://[ ***桶名***]. S3 . amazonaws . com/[](https://bucket123qwedfff.s3.amazonaws.com/SpringJava-aws-exe.jar)***文件名*** ]
+[https://[ ***桶名***]. S3 . amazonaws . com/<https://bucket123qwedfff.s3.amazonaws.com/SpringJava-aws-exe.jar>***文件名*** ]
 
 ![](img/c67afc001ad02db700a327b58de4f5c9.png)
 
