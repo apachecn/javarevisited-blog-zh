@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>How to cluster effectively Quartz jobs</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">如何有效地聚集石英工作</h1>
+<blockquote>原文：<a href="https://medium.com/javarevisited/how-to-cluster-effectively-quartz-jobs-9b097f5e1191?source=collection_archive---------1-----------------------#2020-11-11">https://medium.com/javarevisited/how-to-cluster-effectively-quartz-jobs-9b097f5e1191?source=collection_archive---------1-----------------------#2020-11-11</a></blockquote><div><div class="ds hc hd he hf hg"/><div class="hh hi hj hk hl"><div class=""/><h1 id="5985" class="il im ho bd in io ip iq ir is it iu iv iw ix iy iz ja jb jc jd je jf jg jh ji bi translated">语境</h1><p id="f31f" class="pw-post-body-paragraph jj jk ho jl b jm jn jo jp jq jr js jt ju jv jw jx jy jz ka kb kc kd ke kf kg hh bi translated">一段时间前，我写了一篇关于如何在集群模式下将<a class="ae kh" rel="noopener" href="/@rafaelfaita/spring-boot-using-quartz-in-mode-cluster-e1d71e4af4b9"> Quartz与Spring一起使用的文章，但是由于Quartz的<strong class="jl hp">主动-被动集群模式</strong>，其中只有一个节点(容器、VM，这里放入您的基础设施类型)负责处理Quartz的传入“唤醒”信号，我们在项目中遇到了性能问题，因为只有一个繁重的任务消耗了所有节点资源，导致了崩溃。</a></p><p id="1a56" class="pw-post-body-paragraph jj jk ho jl b jm ki jo jp jq kj js jt ju kk jw jx jy kl ka kb kc km ke kf kg hh bi translated">这样，我们选择使用<strong class="jl hp">石英</strong>和<strong class="jl hp">队列</strong>创建一个混合解决方案来解决这个问题。</p></div></div>    
+</body>
+</html>
